@@ -1,0 +1,378 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:40:39 UTC",
+    "processed_at": "2020-01-21 22:40:39 UTC",
+    "google_url": "https://www.google.com/search?q=local+office+supply+stores&oq=local+office+supply+stores&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.16
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "local office supply stores",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 4130000000,
+    "time_taken_displayed": 0.48,
+    "query_displayed": "local office supply stores"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Office Depot® Official Site | Restock Your Office Supplies‎",
+      "link": "https://www.officedepot.com/a/browse/office-supplies/N=5+1676/",
+      "displayed_link": "www.officedepot.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwif79zH4ZXnAhWEyGQKHbMbD10YABAAGgJwag&sig=AOD64_0x5Rf4NelFfEazWbICBfv8l-B7aw&q=&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q0Qx6BAgREAE&adurl=",
+      "description": "Buy Office Furniture, Supplies, and Accessories at Low Prices. Shop Now! Let's Get Possible Done. Shop Office Depot® Online Today! Live Chat Available. Store Locator. Download App.",
+      "deal": [
+        "20% off Regular Priced Items",
+        "Valid Jan 19",
+        "Jan 25"
+      ],
+      "extensions": [
+        "850 La Playa Ave Hwy 1 &, Fremont Blvd, Sand City, CA"
+      ],
+      "sitelinks": [
+        {
+          "title": "Shop Our Deal Center",
+          "link": "https://www.officedepot.com/catalog/search.do?N=5+1676&cbxRefine=549384/"
+        },
+        {
+          "title": "Plan The Best Year Yet",
+          "link": "https://www.officedepot.com/a/browse/calendars-and-planners/N=5+1131206+549384&viewAllSkus=true/"
+        }
+      ]
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=local+office+supply+stores&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36612756,-121884621,3485&tbm=lcl&sa=X&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58QtgN6BAgMEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 36.612756,
+      "longitude": -121.884621,
+      "altitude": 3485
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=local+office+supply+stores&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36612756,-121884621,3485&tbm=lcl&sa=X&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58QjGp6BAgMEFg",
+    "places": [
+      {
+        "position": 1,
+        "title": "Office DepotWhy this ad?",
+        "place_id": "16309552849911576063",
+        "lsig": "AB86z5WRX1vnBkx3sYaYXLzy1CF9",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WRX1vnBkx3sYaYXLzy1CF9&ludocid=16309552849911576063&q=local+office+supply+stores&tbm=lcl&token=02b682955f467278",
+        "rating": 3.8,
+        "reviews": 29,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (831) 394-2582",
+        "address": "850 La Playa Ave Hwy 1 &",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.617762,
+          "longitude": -121.84604399999998
+        }
+      },
+      {
+        "position": 2,
+        "title": "FedEx Office Print & Ship Center",
+        "place_id": "9006430340340854718",
+        "lsig": "AB86z5UmHZNLliPf6ugLBo_xHNnH",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UmHZNLliPf6ugLBo_xHNnH&ludocid=9006430340340854718&q=local+office+supply+stores&tbm=lcl&token=ce627333b6c20533",
+        "rating": 3.9,
+        "reviews": 26,
+        "price": "$$",
+        "type": "Shipping and mailing service",
+        "hours": "Open ⋅ Closes 10PM · (831) 373-2298",
+        "address": "799 Lighthouse Ave suite a",
+        "description": "\"Perfect corner store, less busy than 711...\"",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.6155618,
+          "longitude": -121.9037238
+        }
+      },
+      {
+        "position": 3,
+        "title": "Office Depot",
+        "place_id": "16309552849911576063",
+        "lsig": "AB86z5Xb6KM88HPwFBvrZVlZFxMl",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Xb6KM88HPwFBvrZVlZFxMl&ludocid=16309552849911576063&q=local+office+supply+stores&tbm=lcl&token=ed8988a43fa8c35e",
+        "rating": 3.9,
+        "reviews": 28,
+        "price": "$$",
+        "type": "$$",
+        "address": "850 La Playa Ave Hwy 1 &, Fremont Blvd",
+        "phone": "In Costco Sand Dollar Shopping Center",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.6177619,
+          "longitude": -121.8460444
+        }
+      },
+      {
+        "position": 4,
+        "title": "The UPS Store",
+        "place_id": "14248142870678710150",
+        "lsig": "AB86z5U4Y3gXeIdnF7SQN_Ui7a5T",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5U4Y3gXeIdnF7SQN_Ui7a5T&ludocid=14248142870678710150&q=local+office+supply+stores&tbm=lcl&token=aeaa538842aacf55",
+        "rating": 4.5,
+        "reviews": 4,
+        "type": "Shipping and mailing service",
+        "address": "1120 Forest Ave",
+        "phone": "In Fairway Shopping Center",
+        "description": "Shipping, packing & business services",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.6077511,
+          "longitude": -121.92319769999997
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "Is Office Depot the same as OfficeMax?",
+      "snippet": "OfficeMax. OfficeMax is an American office supplies retailer founded in 1988. It is now a subsidiary of Office Depot, Inc., which is headquartered in Boca Raton, Florida. ... On February 20, 2013, an all-stock merger between Office Depot and OfficeMax was announced.",
+      "title": "OfficeMax - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/OfficeMax",
+      "displayed_link": "en.wikipedia.org › wiki › OfficeMax"
+    },
+    {
+      "question": "Is Office Depot out of business?",
+      "snippet": "Office Depot is closing 50 stores this year, the company told Business Insider. The office supplies company is closing stores under both its namesake and OfficeMax banners. ... \"Office Depot, Inc. continues to optimize its retail footprint as part of the three-year strategic plan announced in August 2016,\" Bishop said.Apr 22, 2019",
+      "title": "Office Depot is closing more stores — see if your store is on the list",
+      "link": "https://www.msn.com/en-us/money/companies/office-depot-is-closing-more-stores-%E2%80%94-see-if-your-store-is-on-the-list/ar-BBWbGXC",
+      "displayed_link": "www.msn.com › en-us › money › companies › ar-BBWbGXC"
+    },
+    {
+      "question": "Is Office Depot the same as Staples?",
+      "snippet": "Staples announced its plan to acquire Office Depot in February of 2015, for what was valued at the time to be $6.3 billion in cash and stock. ... The Journal points out that Staples and Office Depot tried to merge back in 1997 and were also blocked back then.May 10, 2016",
+      "title": "Staples and Office Depot are calling off their merger - The Verge",
+      "link": "https://www.theverge.com/2016/5/10/11653664/staples-office-depot-acquisition-blocked-federal-judge",
+      "displayed_link": "www.theverge.com › staples-office-depot-acquisition-blocked-federal-ju..."
+    },
+    {
+      "question": "How many Office Depot stores are there?",
+      "snippet": "1,378December 2017",
+      "link": "/search?q=How+many+Office+Depot+stores+are+there%3F&sa=X&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Qzmd6BAgPEC8"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Find Stores Near You - Office Depot & Office Max",
+      "link": "https://www.officedepot.com/storelocator/findStore.do",
+      "displayed_link": "www.officedepot.com › storelocator › findStore",
+      "snippet": "Enter in your zip code, city or state to find the phone number, store hours, driving directions and location of an Office Depot or OfficeMax Store near you. ... From basic office supplies such as printer paper and labels to office equipment like file ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NWclddyCd0EJ:https://www.officedepot.com/storelocator/findStore.do+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Office Depot & OfficeMax - Free Next Business Day Shipping",
+      "link": "https://www.officedepot.com/",
+      "displayed_link": "www.officedepot.com",
+      "snippet": "20% off qualifying reg. price purchase + seating Excl. apply Get Coupon | $29.99 Just Basics™ Paper, 10-reams Shop Now · Products · Office Supplies ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Store",
+            "link": "https://www.officedepot.com/storelocator/findStore.do"
+          },
+          {
+            "title": "Office Supplies",
+            "link": "https://www.officedepot.com/a/browse/office-supplies/N=5+1676/"
+          },
+          {
+            "title": "Print & Copy",
+            "link": "https://www.officedepot.com/cm/print-and-copy/print-services"
+          },
+          {
+            "title": "Furniture",
+            "link": "https://www.officedepot.com/a/browse/furniture/N=5+917/"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-4drVp7VwDIJ:https://www.officedepot.com/+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Staples® Official Online Store",
+      "link": "https://www.staples.com/",
+      "displayed_link": "www.staples.com",
+      "snippet": "Shop Staples for business essentials, printers, ink, computers, office furniture, printing services, promotional products and more. Solutions for Worklife.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CNR1OwZWsigJ:https://www.staples.com/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Office Supplies - Walmart",
+      "link": "https://www.walmart.com/cp/office-supplies/1229749",
+      "displayed_link": "www.walmart.com › office-supplies",
+      "snippet": "Shop for Office supplies and products at Walmart.com. Shop for paper, ink, toner, printers, pens, staplers, and more. Save money. Live better.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Calendars and Planners",
+            "link": "https://www.walmart.com/browse/office-supplies/calendars-and-planners/1229749_8412191"
+          },
+          {
+            "title": "Paper",
+            "link": "https://www.walmart.com/browse/paper/1229749_6562796"
+          },
+          {
+            "title": "Whiteboards",
+            "link": "https://www.walmart.com/browse/office-supplies/whiteboards/1229749_1565348_4161504"
+          },
+          {
+            "title": "Paper Shredders",
+            "link": "https://www.walmart.com/browse/paper-shredders/1229749_2155104"
+          }
+        ]
+      }
+    },
+    {
+      "position": 5,
+      "title": "A New Market for Local Office Supplies - Independent We Stand",
+      "link": "https://www.independentwestand.org/a-new-market-for-local-office-supplies/",
+      "displayed_link": "www.independentwestand.org › a-new-market-for-local-office-supplies",
+      "date": "Sep 18, 2013",
+      "snippet": "A New Market for Local Office Supplies. Home » Blog » A New ... localization movement. Read more about independent office supply stores.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Te4xT7qIsfgJ:https://www.independentwestand.org/a-new-market-for-local-office-supplies/+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "5 Best Office Supply Stores (Online/Near Me) - SME Pals",
+      "link": "https://smepals.com/office-supply-stores",
+      "displayed_link": "smepals.com › office-supply-stores",
+      "date": "Nov 11, 2019",
+      "snippet": "The focus of this list is on office supply stores that have excellent online facilities for ordering and fulfillment via the Web that match local supply ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LNL_ukW0PsMJ:https://smepals.com/office-supply-stores+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Economy Office Supply: Home | Office, Breakroom & Cleaning ...",
+      "link": "https://www.economyofficesupply.com/",
+      "displayed_link": "www.economyofficesupply.com",
+      "snippet": "Economy Office Supply Footer Logo. 1725 Gardena Ave, Glendale, CA 91204. Toll Free: (888) 252-4EOS Local: (818) 548-1525. Fax: (818) 548-1533.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KxthDFT4gMEJ:https://www.economyofficesupply.com/+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "W.B. Mason",
+      "link": "https://www.wbmason.com/",
+      "displayed_link": "www.wbmason.com",
+      "snippet": "Shop W.B. Mason for all your office supply, ink and toner, furniture, technology, break room and janitorial needs. Free same-day, next-day delivery.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Customer Service",
+            "link": "https://www.wbmason.com/customerservice.aspx"
+          },
+          {
+            "title": "Careers",
+            "link": "https://www.wbmason.com/aboutus/careers.html"
+          },
+          {
+            "title": "Before you get started",
+            "link": "https://www.wbmason.com/QuickOrder.aspx"
+          },
+          {
+            "title": "Visit our Brand Stores to see ...",
+            "link": "https://www.wbmason.com/LandingPage.aspx?LandingPageID=WB-Brand-Stores"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NTc1f6O9pSAJ:https://www.wbmason.com/+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Office Depot Weekly Ad – low prices on office supplies, office ...",
+      "link": "https://officedepot.shoplocal.com/",
+      "displayed_link": "officedepot.shoplocal.com",
+      "snippet": "and get special financing options. 2% back in rewards on your favorite supplies, furniture, technology & more. 1-800-GO-DEPOT (1-800-463-3768). FREE store ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cTqjKCBM134J:https://officedepot.shoplocal.com/+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Roadrunner Office Supply, Inc.",
+      "link": "https://roadrunnerofficesupply.com/",
+      "displayed_link": "roadrunnerofficesupply.com",
+      "snippet": "Roadrunner Office Supply, LLC is a local Tucson business owned and operated by the Gerber Family since January of 2008. After operating a similar business ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wSBHmvTFIyoJ:https://roadrunnerofficesupply.com/+&cd=21&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "office supply store near me",
+      "link": "https://www.google.com/search?q=office+supply+store+near+me&sa=X&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q1QIoAHoECA4QAQ"
+    },
+    {
+      "query": "office max",
+      "link": "https://www.google.com/search?q=office+max&sa=X&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q1QIoAXoECA4QAg"
+    },
+    {
+      "query": "office depot near me",
+      "link": "https://www.google.com/search?q=office+depot+near+me&sa=X&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q1QIoAnoECA4QAw"
+    },
+    {
+      "query": "staples office supplies",
+      "link": "https://www.google.com/search?q=staples+office+supplies&sa=X&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q1QIoA3oECA4QBA"
+    },
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q1QIoBHoECA4QBQ"
+    },
+    {
+      "query": "officemax near me",
+      "link": "https://www.google.com/search?q=officemax+near+me&sa=X&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q1QIoBXoECA4QBg"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q1QIoBnoECA4QBw"
+    },
+    {
+      "query": "office depot printing",
+      "link": "https://www.google.com/search?q=office+depot+printing&sa=X&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q1QIoB3oECA4QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=local+office+supply+stores&ei=6H0nXuXmIevv9AP-3q_4CQ&start=10&sa=N&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q8NMDegQIEBBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=local+office+supply+stores&ei=6H0nXuXmIevv9AP-3q_4CQ&start=10&sa=N&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q8tMDegQIEBAv",
+      "3": "https://www.google.com/search?q=local+office+supply+stores&ei=6H0nXuXmIevv9AP-3q_4CQ&start=20&sa=N&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q8tMDegQIEBAx",
+      "4": "https://www.google.com/search?q=local+office+supply+stores&ei=6H0nXuXmIevv9AP-3q_4CQ&start=30&sa=N&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q8tMDegQIEBAz",
+      "5": "https://www.google.com/search?q=local+office+supply+stores&ei=6H0nXuXmIevv9AP-3q_4CQ&start=40&sa=N&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q8tMDegQIEBA1",
+      "6": "https://www.google.com/search?q=local+office+supply+stores&ei=6H0nXuXmIevv9AP-3q_4CQ&start=50&sa=N&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q8tMDegQIEBA3",
+      "7": "https://www.google.com/search?q=local+office+supply+stores&ei=6H0nXuXmIevv9AP-3q_4CQ&start=60&sa=N&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q8tMDegQIEBA5",
+      "8": "https://www.google.com/search?q=local+office+supply+stores&ei=6H0nXuXmIevv9AP-3q_4CQ&start=70&sa=N&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q8tMDegQIEBA7",
+      "9": "https://www.google.com/search?q=local+office+supply+stores&ei=6H0nXuXmIevv9AP-3q_4CQ&start=80&sa=N&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q8tMDegQIEBA9",
+      "10": "https://www.google.com/search?q=local+office+supply+stores&ei=6H0nXuXmIevv9AP-3q_4CQ&start=90&sa=N&ved=2ahUKEwjl-tbH4ZXnAhXrN30KHX7vC58Q8tMDegQIEBA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=local+office+supply+stores&start=10&token=dcefee35e82637af",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=local+office+supply+stores&start=10&token=dcefee35e82637af",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=local+office+supply+stores&start=10&token=dcefee35e82637af",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=local+office+supply+stores&start=20&token=c1d9bb006d73f7a6",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=local+office+supply+stores&start=30&token=2066f94e7d456e8a",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=local+office+supply+stores&start=40&token=f8de7c0a32843c9e",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=local+office+supply+stores&start=50&token=9defd680f6632301",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=local+office+supply+stores&start=60&token=14a489209474d37d",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=local+office+supply+stores&start=70&token=8474e6b3d9e1ae2b",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=local+office+supply+stores&start=80&token=69a81fa7111b9073",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=local+office+supply+stores&start=90&token=ff012e2e8c61ad54"
+    }
+  }
+}

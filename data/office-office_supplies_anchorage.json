@@ -1,0 +1,295 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:41:00 UTC",
+    "processed_at": "2020-01-21 22:41:00 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+anchorage&oq=office+supplies+anchorage&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 1.73
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies anchorage",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 15900000,
+    "time_taken_displayed": 0.66,
+    "query_displayed": "office supplies anchorage"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+anchorage&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=61179407,-149870524,4230&tbm=lcl&sa=X&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 61.179407,
+      "longitude": -149.870524,
+      "altitude": 4230
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+anchorage&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=61179407,-149870524,4230&tbm=lcl&sa=X&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQjGp6BAgLEEo",
+    "places": [
+      {
+        "position": 1,
+        "title": "OfficeMax",
+        "place_id": "5312113403991925829",
+        "lsig": "AB86z5WSaPi6tiZ94ctP0c4hzGq9",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WSaPi6tiZ94ctP0c4hzGq9&ludocid=5312113403991925829&q=office+supplies+anchorage&tbm=lcl&token=d55cb8702d63c1c6",
+        "rating": 3.8,
+        "reviews": 79,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (907) 522-3080",
+        "address": "Anchorage, AK",
+        "description": "Mainstay for office supplies & more",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 61.141684999999995,
+          "longitude": -149.85986979999998
+        }
+      },
+      {
+        "position": 2,
+        "title": "Office Depot",
+        "place_id": "14579400730672542576",
+        "lsig": "AB86z5VfLOoiu4o2qaM86m_sLGrr",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VfLOoiu4o2qaM86m_sLGrr&ludocid=14579400730672542576&q=office+supplies+anchorage&tbm=lcl&token=835196331d9f2f4c",
+        "rating": 3.7,
+        "reviews": 101,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 8PM · (907) 277-7470",
+        "address": "Anchorage, AK",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 61.21712900000001,
+          "longitude": -149.8799358
+        }
+      },
+      {
+        "position": 3,
+        "title": "Office Depot",
+        "place_id": "13263592983539218025",
+        "lsig": "AB86z5WXzGLNv0_QVEUBiyacyXCO",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WXzGLNv0_QVEUBiyacyXCO&ludocid=13263592983539218025&q=office+supplies+anchorage&tbm=lcl&token=776336c9259d7052",
+        "rating": 3.7,
+        "reviews": 101,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (907) 562-3993",
+        "address": "Anchorage, AK",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 61.181586599999996,
+          "longitude": -149.8811796
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Arctic Office Products - Office Supplies, Furniture, and Machines",
+      "link": "https://www.arcticoffice.com/",
+      "displayed_link": "www.arcticoffice.com",
+      "snippet": "Arctic Office Products - Your local partner for high-quality office supplies, furniture, and machines in Anchorage, Fairbanks, AK, and nearby areas.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Furniture",
+            "link": "https://www.arcticoffice.com/furniture"
+          },
+          {
+            "title": "Arctic Office Products Machines",
+            "link": "https://www.machines.arcticoffice.com/"
+          },
+          {
+            "title": "Career opportunities",
+            "link": "https://www.arcticoffice.com/career-opportunities"
+          },
+          {
+            "title": "About Us",
+            "link": "https://www.arcticoffice.com/about-us"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Z2i2lH3LXQoJ:https://www.arcticoffice.com/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Northern Office Supply: Home",
+      "link": "http://order.northernofficesupply.com/",
+      "displayed_link": "order.northernofficesupply.com",
+      "snippet": "Backup Systems & Disks. Batteries & Electrical Supplies ... 1 in Anchorage! Add to Cart. Product image. ... Northern Office Supply. 200 N. Post Road Suite 130.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Quick Order",
+            "link": "http://order.northernofficesupply.com/QuickOrder"
+          },
+          {
+            "title": "Ink And Toner",
+            "link": "http://order.northernofficesupply.com/InkAndToner"
+          },
+          {
+            "title": "My Accounts",
+            "link": "http://order.northernofficesupply.com/Orders"
+          }
+        ]
+      },
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:oldGL-gsbfQJ:order.northernofficesupply.com/+&cd=5&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:order.northernofficesupply.com/+office+supplies+anchorage&tbo=1&sa=X&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQHzAEegQIARAH"
+    },
+    {
+      "position": 3,
+      "title": "Top 10 Best Office Supplies in Anchorage, AK - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=Office+Supplies&find_loc=Anchorage%2C+AK",
+      "displayed_link": "www.yelp.com › search › find_loc=Anchorage,+AK",
+      "snippet": "Office Depot. 0.5 mi. 7 reviews. Office Depot. 2.8 mi. 10 reviews. Arctic Office Products. 1.5 mi. 1 review. Officemax. 2.5 mi. 6 reviews. Northern Office Supply. 2.2 mi. 1 review. Office Products Services. 2.4 mi. Office Equipment. Royal Business Systems. 0.8 mi. Office Equipment, IT Services & Computer Repair. Costco. ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:SRAqZWsyfR4J:https://www.yelp.com/search%3Ffind_desc%3DOffice%2BSupplies%26find_loc%3DAnchorage%252C%2BAK+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Office Max in ANCHORAGE,AK - 8701 OLD SEWARD ...",
+      "link": "https://www.officedepot.com/storelocator/ak/anchorage/officemax-6159/",
+      "displayed_link": "www.officedepot.com › storelocator › anchorage › officemax-6159",
+      "snippet": "Shop at the Office Max Store in ANCHORAGE,AK. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:30waRAXOkVQJ:https://www.officedepot.com/storelocator/ak/anchorage/officemax-6159/+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Office Depot in ANCHORAGE,AK - 201 E 6TH AVENUE",
+      "link": "https://www.officedepot.com/storelocator/ak/anchorage/office-depot-557/",
+      "displayed_link": "www.officedepot.com › storelocator › anchorage › office-depot-557",
+      "snippet": "Office Depot anchorage, AK Store #557 When you shop at my Office Depot® in Anchorage you'll enjoy low prices on office supplies and products, including everything from paper, ink and toner, to the latest technology, cleaning and breakroom supplies and more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2zqtRhkZeMUJ:https://www.officedepot.com/storelocator/ak/anchorage/office-depot-557/+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Staples 4831 Old Seward Hwy Anchorage, AK Office Furniture ...",
+      "link": "https://www.mapquest.com/us/alaska/staples-272690856",
+      "displayed_link": "www.mapquest.com › alaska › staples-272690856",
+      "snippet": "Get directions, reviews and information for Staples in Anchorage, AK.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:36sTRHoRqH4J:https://www.mapquest.com/us/alaska/staples-272690856+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Best 30 Office Supply Stores in Anchorage, AK with Reviews ...",
+      "link": "https://www.yellowpages.com/anchorage-ak/office-supply-stores",
+      "displayed_link": "www.yellowpages.com › Anchorage, AK",
+      "date": "61 results",
+      "snippet": "Office Supply Stores in Anchorage on YP.com. See reviews, photos, directions, phone numbers and more for the best Office Equipment & Supplies in ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:n5wXquz6m3YJ:https://www.yellowpages.com/anchorage-ak/office-supply-stores+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Staples® Official Online Store",
+      "link": "https://www.staples.com/",
+      "displayed_link": "www.staples.com",
+      "snippet": "Shop Staples for business essentials, printers, ink, computers, office furniture, printing services, promotional products and more. Solutions for Worklife.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CNR1OwZWsigJ:https://www.staples.com/+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Capital Office - Anchorage | Office Supplies, Equipment ...",
+      "link": "https://business.alaskachamber.com/list/member/capital-office-anchorage-1950",
+      "displayed_link": "business.alaskachamber.com › list › member › capital-office-anchorag...",
+      "snippet": "Capital Office - Anchorage, Office Supplies, Equipment & Furniture. 1120 East 35th Avenue Anchorage, AK 99508. (907) 777-1500.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LMxFVrbpNZQJ:https://business.alaskachamber.com/list/member/capital-office-anchorage-1950+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Northern Office Supply - Home | Facebook",
+      "link": "https://www.facebook.com/northernofficesupply/",
+      "displayed_link": "www.facebook.com › Places › Anchorage, Alaska › Furniture Store",
+      "snippet": "Northern Office Supply - 200 Post Road, Anchorage, Alaska 99501 - Rated 5 based on 10 Reviews \"We ordered all new office chairs this is the model we have...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5,
+            "votes": 10
+          },
+          "extensions": [
+            "Rating: 5",
+            "10 votes"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:izet8Rlj1zwJ:https://www.facebook.com/northernofficesupply/+&cd=13&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.facebook.com/northernofficesupply/+office+supplies+anchorage&tbo=1&sa=X&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQHzAMegQIAxAL"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "arctic office supply",
+      "link": "https://www.google.com/search?q=arctic+office+supply&sa=X&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "office max anchorage",
+      "link": "https://www.google.com/search?q=office+max+anchorage&sa=X&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "northern office supply",
+      "link": "https://www.google.com/search?q=northern+office+supply&sa=X&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "office depot anchorage",
+      "link": "https://www.google.com/search?q=office+depot+anchorage&sa=X&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "staples anchorage",
+      "link": "https://www.google.com/search?q=staples+anchorage&sa=X&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "used office furniture anchorage",
+      "link": "https://www.google.com/search?q=used+office+furniture+anchorage&sa=X&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "office furniture fairbanks",
+      "link": "https://www.google.com/search?q=office+furniture+fairbanks&sa=X&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "costco anchorage",
+      "link": "https://www.google.com/search?q=costco+anchorage&sa=X&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+anchorage&ei=_X0nXoPBDJG4sgW0jaXABA&start=10&sa=N&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ8NMDegQIDhA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+anchorage&ei=_X0nXoPBDJG4sgW0jaXABA&start=10&sa=N&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ8tMDegQIDhAt",
+      "3": "https://www.google.com/search?q=office+supplies+anchorage&ei=_X0nXoPBDJG4sgW0jaXABA&start=20&sa=N&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ8tMDegQIDhAv",
+      "4": "https://www.google.com/search?q=office+supplies+anchorage&ei=_X0nXoPBDJG4sgW0jaXABA&start=30&sa=N&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ8tMDegQIDhAx",
+      "5": "https://www.google.com/search?q=office+supplies+anchorage&ei=_X0nXoPBDJG4sgW0jaXABA&start=40&sa=N&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ8tMDegQIDhAz",
+      "6": "https://www.google.com/search?q=office+supplies+anchorage&ei=_X0nXoPBDJG4sgW0jaXABA&start=50&sa=N&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ8tMDegQIDhA1",
+      "7": "https://www.google.com/search?q=office+supplies+anchorage&ei=_X0nXoPBDJG4sgW0jaXABA&start=60&sa=N&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ8tMDegQIDhA3",
+      "8": "https://www.google.com/search?q=office+supplies+anchorage&ei=_X0nXoPBDJG4sgW0jaXABA&start=70&sa=N&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ8tMDegQIDhA5",
+      "9": "https://www.google.com/search?q=office+supplies+anchorage&ei=_X0nXoPBDJG4sgW0jaXABA&start=80&sa=N&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ8tMDegQIDhA7",
+      "10": "https://www.google.com/search?q=office+supplies+anchorage&ei=_X0nXoPBDJG4sgW0jaXABA&start=90&sa=N&ved=2ahUKEwjDs8PR4ZXnAhURnKwKHbRGCUgQ8tMDegQIDhA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+anchorage&start=10&token=4313817cc5daa6fc",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+anchorage&start=10&token=4313817cc5daa6fc",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+anchorage&start=10&token=4313817cc5daa6fc",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+anchorage&start=20&token=c2af78e364149186",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+anchorage&start=30&token=208798652ec4a362",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+anchorage&start=40&token=632f1437d226c9db",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+anchorage&start=50&token=a6893852f32a5cd4",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+anchorage&start=60&token=b20b148f93e3d190",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+anchorage&start=70&token=6b2d17b6b5c8efeb",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+anchorage&start=80&token=3c9393d97944a119",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+anchorage&start=90&token=f3e999fa6f43765a"
+    }
+  }
+}

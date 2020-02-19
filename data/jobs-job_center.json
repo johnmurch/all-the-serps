@@ -1,0 +1,284 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 19:10:48 UTC",
+    "processed_at": "2020-01-21 19:10:48 UTC",
+    "google_url": "https://www.google.com/search?q=job+center&oq=job+center&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 4.28
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "job center",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 9520000000,
+    "time_taken_displayed": 0.59,
+    "query_displayed": "job center"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=job+center&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=29165557,-98325845,26831&tbm=lcl&sa=X&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQtgN6BAgOEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 29.165557,
+      "longitude": -98.325845,
+      "altitude": 26831
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=job+center&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=29165557,-98325845,26831&tbm=lcl&sa=X&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQjGp6BAgOEEI",
+    "places": [
+      {
+        "position": 1,
+        "title": "Workforce Solutions Alamo Pleasanton Career Center",
+        "place_id": "9816072080332034972",
+        "lsig": "AB86z5W4t-wgvxC6qEGn3qYySsnI",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5W4t-wgvxC6qEGn3qYySsnI&ludocid=9816072080332034972&q=job+center&tbm=lcl&token=c26bb6dabab27a0d",
+        "rating": 3,
+        "reviews": 4,
+        "type": "Employment agency",
+        "hours": "Open ⋅ Closes 5PM · (830) 569-4702",
+        "address": "Pleasanton, TX",
+        "website": "#",
+        "gps_coordinates": {
+          "latitude": 28.97701,
+          "longitude": -98.49856799999999
+        }
+      },
+      {
+        "position": 2,
+        "title": "Goodwill Good Careers Center",
+        "place_id": "14552749505295031745",
+        "lsig": "AB86z5UPiAkX8ffA2z5S-NJa87rN",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UPiAkX8ffA2z5S-NJa87rN&ludocid=14552749505295031745&q=job+center&tbm=lcl&token=3efa17895a762648",
+        "rating": 3.8,
+        "reviews": 4,
+        "price": "$",
+        "type": "Employment center",
+        "hours": "Open ⋅ Closes 5PM · (210) 271-8969",
+        "address": "San Antonio, TX",
+        "website": "http://www.goodwillsa.org/",
+        "description": "Nonprofit standby for secondhand goods",
+        "gps_coordinates": {
+          "latitude": 29.354106,
+          "longitude": -98.431056
+        }
+      },
+      {
+        "position": 3,
+        "title": "Alamo Work Force Center",
+        "place_id": "18114662270434495645",
+        "lsig": "AB86z5VzoxXHCfD9925ov9qMPr9H",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VzoxXHCfD9925ov9qMPr9H&ludocid=18114662270434495645&q=job+center&tbm=lcl&token=cb706f9e5ec0bf3c",
+        "rating": 4,
+        "reviews": 4,
+        "type": "Employment agency",
+        "hours": "Open ⋅ Closes 5PM · (830) 393-0405",
+        "address": "Floresville, TX",
+        "website": "#",
+        "gps_coordinates": {
+          "latitude": 29.1426018,
+          "longitude": -98.15312209999999
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "What does a job center do?",
+      "snippet": "Centers offer services free of charge to anyone looking for a job, whether currently unemployed or otherwise. They offer workshops, often daily, on countless topics from “Using the Internet to Find Work” to “In-demand Jobs” to “Creating your personal brand” and more.Jan 15, 2019",
+      "title": "America's Job Centers Explained, Eligibility.com",
+      "link": "https://eligibility.com/unemployment/americas-job-centers",
+      "displayed_link": "eligibility.com › unemployment › americas-job-centers"
+    },
+    {
+      "question": "How many American Job Centers are there?",
+      "snippet": "American Job Center Finder. Find an American Job Center in your local area. You can connect with a Business Services Representative at any of nearly 3,000 AJCs nationwide.",
+      "title": "American Job Center Finder | CareerOneStop",
+      "link": "https://www.careeronestop.org/localhelp/americanjobcenters/find-american-job-centers-detail.aspx",
+      "displayed_link": "www.careeronestop.org › localhelp › find-american-job-centers-detail"
+    },
+    {
+      "question": "What is the highest paying job in San Antonio?",
+      "snippet": "Here's a quick look at the top ten highest paying jobs in San Antonio:Anesthesiologists.Internists, General.Family and General Practitioners.Chief Executives.Pediatricians, General.Physicians and Surgeons, All Other.Dentists, General.Financial Managers.More items...",
+      "title": "These Are The 100 Highest Paying Jobs In San Antonio, TX For ...",
+      "link": "https://www.zippia.com/advice/highest-paying-jobs-in-san-antonio-tx/",
+      "displayed_link": "www.zippia.com › advice › highest-paying-jobs-in-san-antonio-tx"
+    },
+    {
+      "question": "What does the WIOA program pay for?",
+      "snippet": "WIOA is a federally funded program that prepares eligible individuals for entry or re-entry into the workforce through retraining and education.",
+      "title": "Frequently Asked Questions | Career Depot",
+      "link": "http://www.careerdepot.org/faqs/",
+      "displayed_link": "www.careerdepot.org › faqs"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "HOME | Workforce",
+      "link": "https://www.workforcesolutionsalamo.org/",
+      "displayed_link": "www.workforcesolutionsalamo.org",
+      "snippet": "Finding the right job can be hard work, but the Workforce Solutions Alamo Career Centers can make your search easier. The Career Centers in the Alamo Area ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Services",
+            "link": "https://www.workforcesolutionsalamo.org/childcare"
+          },
+          {
+            "title": "About",
+            "link": "https://www.workforcesolutionsalamo.org/procurement"
+          },
+          {
+            "title": "Calendar/ Events",
+            "link": "https://www.workforcesolutionsalamo.org/calendar-events"
+          },
+          {
+            "title": "In the News",
+            "link": "http://www.workforcesolutionsalamo.org/about-us/inthenews"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kkdTW6yBd7AJ:https://www.workforcesolutionsalamo.org/+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Find American Job Centers - CareerOneStop",
+      "link": "https://www.careeronestop.org/LocalHelp/AmericanJobCenters/find-american-job-centers.aspx",
+      "displayed_link": "www.careeronestop.org › LocalHelp › find-american-job-centers",
+      "snippet": "Get help finding your local American Job Center and apply for services.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5DxZwWjRvG4J:https://www.careeronestop.org/LocalHelp/AmericanJobCenters/find-american-job-centers.aspx+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "American Job Center Finder | CareerOneStop",
+      "link": "https://www.careeronestop.org/LocalHelp/AmericanJobCenters/american-job-centers.aspx",
+      "displayed_link": "www.careeronestop.org › LocalHelp › american-job-centers",
+      "snippet": "Use this CareerOneStop tool to find your local American Job Center.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_EySi-Xd6ioJ:https://www.careeronestop.org/LocalHelp/AmericanJobCenters/american-job-centers.aspx+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Career Center - San Antonio - The City of San Antonio",
+      "link": "https://www.sanantonio.gov/hr/CareerCenter",
+      "displayed_link": "www.sanantonio.gov › CareerCenter",
+      "snippet": "The Job Description Center offers information on all official job types within the City of San Antonio, including pay ranges. These jobs do not comprise the current ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CBtuHuUpPGQJ:https://www.sanantonio.gov/hr/CareerCenter+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "American Job Centers | U.S. Department of Labor",
+      "link": "https://www.dol.gov/general/topic/training/onestop",
+      "displayed_link": "www.dol.gov › general › topic › training › onestop",
+      "snippet": "American Job Centers are designed to provide a full range of assistance to job seekers under one roof. Established under the Workforce Investment Act, and ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5_UOUcc1RdkJ:https://www.dol.gov/general/topic/training/onestop+&cd=19&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.dol.gov/general/topic/training/onestop+job+center&tbo=1&sa=X&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQHzASegQIARAJ"
+    },
+    {
+      "position": 6,
+      "title": "UTSA Career Center - San Antonio",
+      "link": "https://careercenter.utsa.edu/",
+      "displayed_link": "careercenter.utsa.edu",
+      "snippet": "How has your time at UTSA been helpful in your career development? ... The Career Center hopes your semester is wrapping up smoothly! Today's internship ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QiwqEsbCcY4J:https://careercenter.utsa.edu/+&cd=20&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://careercenter.utsa.edu/+job+center&tbo=1&sa=X&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQHzATegQICRAH"
+    },
+    {
+      "position": 7,
+      "title": "Job Center of Wisconsin - Where Talent & Opportunity Meet",
+      "link": "https://jobcenterofwisconsin.com/",
+      "displayed_link": "jobcenterofwisconsin.com",
+      "snippet": "The Department's primary responsibilities include providing job services, training and employment assistance to people looking for work, at the same time as it ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IBVQCxdz_QgJ:https://jobcenterofwisconsin.com/+&cd=21&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://jobcenterofwisconsin.com/+job+center&tbo=1&sa=X&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQHzAUegQIBxAH"
+    },
+    {
+      "position": 8,
+      "title": "Home : The Job Center - National Staffing Provider",
+      "link": "https://www.thejobcenterstaffing.com/",
+      "displayed_link": "www.thejobcenterstaffing.com",
+      "snippet": "The Job Center is more than a staffing provider. We commit to quickly fill your staffing needs with quality employees and stay in communication with you through ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hKRETCvVzroJ:https://www.thejobcenterstaffing.com/+&cd=22&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Job Center - American College of Healthcare Executives",
+      "link": "https://www.ache.org/career-resource-center/job-center",
+      "displayed_link": "www.ache.org › career-resource-center › job-center",
+      "snippet": "Grand Island Regional Medical Center. Grand Island. Chief Financial Officer. Eagleville Hospital. Eagleville. Director, Patient Access. North Mississippi Health ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LjwrOEHuKW8J:https://www.ache.org/career-resource-center/job-center+&cd=23&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "american job center near me",
+      "link": "https://www.google.com/search?q=american+job+center+near+me&sa=X&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ1QIoAHoECBAQAQ"
+    },
+    {
+      "query": "american job center maryland",
+      "link": "https://www.google.com/search?q=american+job+center+maryland&sa=X&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ1QIoAXoECBAQAg"
+    },
+    {
+      "query": "american job center tennessee",
+      "link": "https://www.google.com/search?q=american+job+center+tennessee&sa=X&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ1QIoAnoECBAQAw"
+    },
+    {
+      "query": "american job center largo",
+      "link": "https://www.google.com/search?q=american+job+center+largo&sa=X&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ1QIoA3oECBAQBA"
+    },
+    {
+      "query": "american job center murfreesboro tn",
+      "link": "https://www.google.com/search?q=american+job+center+murfreesboro+tn&sa=X&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ1QIoBHoECBAQBQ"
+    },
+    {
+      "query": "american job center knoxville tn",
+      "link": "https://www.google.com/search?q=american+job+center+knoxville+tn&sa=X&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ1QIoBXoECBAQBg"
+    },
+    {
+      "query": "job centers near me",
+      "link": "https://www.google.com/search?q=job+centers+near+me&sa=X&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ1QIoBnoECBAQBw"
+    },
+    {
+      "query": "american job center new britain ct",
+      "link": "https://www.google.com/search?q=american+job+center+new+britain+ct&sa=X&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ1QIoB3oECBAQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=job+center&ei=ukwnXoWtIePemAW1poDQDg&start=10&sa=N&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ8NMDegQIEhBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=job+center&ei=ukwnXoWtIePemAW1poDQDg&start=10&sa=N&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ8tMDegQIEhAu",
+      "3": "https://www.google.com/search?q=job+center&ei=ukwnXoWtIePemAW1poDQDg&start=20&sa=N&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ8tMDegQIEhAw",
+      "4": "https://www.google.com/search?q=job+center&ei=ukwnXoWtIePemAW1poDQDg&start=30&sa=N&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ8tMDegQIEhAy",
+      "5": "https://www.google.com/search?q=job+center&ei=ukwnXoWtIePemAW1poDQDg&start=40&sa=N&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ8tMDegQIEhA0",
+      "6": "https://www.google.com/search?q=job+center&ei=ukwnXoWtIePemAW1poDQDg&start=50&sa=N&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ8tMDegQIEhA2",
+      "7": "https://www.google.com/search?q=job+center&ei=ukwnXoWtIePemAW1poDQDg&start=60&sa=N&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ8tMDegQIEhA4",
+      "8": "https://www.google.com/search?q=job+center&ei=ukwnXoWtIePemAW1poDQDg&start=70&sa=N&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ8tMDegQIEhA6",
+      "9": "https://www.google.com/search?q=job+center&ei=ukwnXoWtIePemAW1poDQDg&start=80&sa=N&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ8tMDegQIEhA8",
+      "10": "https://www.google.com/search?q=job+center&ei=ukwnXoWtIePemAW1poDQDg&start=90&sa=N&ved=2ahUKEwiF8qXUspXnAhVjL6YKHTUTAOoQ8tMDegQIEhA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+center&start=10&token=20e17ad40b198546",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+center&start=10&token=20e17ad40b198546",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+center&start=10&token=20e17ad40b198546",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+center&start=20&token=f89b3055904c8e66",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+center&start=30&token=c57643abe7de5541",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+center&start=40&token=91f0b49cbd8af5c7",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+center&start=50&token=1d290c88071e6665",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+center&start=60&token=0e263d6f8f4022bf",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+center&start=70&token=635324bebd2118aa",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+center&start=80&token=d11f7102a1b56248",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+center&start=90&token=34e145140c60230c"
+    }
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 15:47:38 UTC",
+    "processed_at": "2020-01-21 15:47:38 UTC",
+    "google_url": "https://www.google.com/search?q=best+travel+destinations&oq=best+travel+destinations&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 6.58
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best travel destinations",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 487000000,
+    "time_taken_displayed": 0.71,
+    "query_displayed": "best travel destinations"
+  },
+  "knowledge_graph": {
+    "title": "Ecuador",
+    "type": "País en América del Sur",
+    "description": "Ecuador es un país que se extiende por el ecuador en la costa oeste de Sudamérica. Sus diversos paisajes abarcan la selva del Amazonas, las zonas altas andinas y las islas Galápagos de abundante fauna. En las laderas de los Andes, a una elevación de 2,850 m, Quito, su capital, es famosa por su centro colonial español que se ha conservado intacto por mucho tiempo, con palacios decorados del siglo XVI y XVII y sitios religiosos, como la ornamentada Iglesia de la Compañía de Jesús.",
+    "local_map": {
+      "image": "https://www.google.com/maps/vt/data=kPMLIZJvD1wI4jQ9q_9pvQK738aOBy9RyUKpdcsBviYKDomgbvbPAWcx5R9tqF9rga_G7ErzeIbfHDcLGzmDfG0t7Z9myMqFPArB-fPIjcbLhIvTL9hyuiIky4V0r9ctXoVXs4CkZAGTyHqZ4ClWuP4N0YiA_90j_TnZodstv36xt3A_uUCW5VjIbEofo_KTlXwDq9qKYR9Hx6a-R8w-1N5Vk52ebE5TTzKaOAaJHU4JxqV2ppVyt3c8RA",
+      "link": "https://www.google.com/maps/place/Ecuador/data=!4m2!3m1!1s0x902387dda89a4bd5:0x9d76af04119c3702?sa=X",
+      "gps_coordinates": null
+    },
+    "capital": "Quito",
+    "prefijo_telefonico": "+593",
+    "tasa_de_desempleo": "4.6% (marzo de 2019)",
+    "presidente": "Lenín Moreno",
+    "moneda": "Dólar estadounidense",
+    "destinos": [
+      {
+        "name": "Quito",
+        "link": "https://www.google.com/destination?q=best+travel+destinations&output=search&dest_mid=/m/01dtq1&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQxA0wHHoECA0QJQ",
+        "source": "locationcountry",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Isla Santa Cruz",
+        "link": "https://www.google.com/destination?q=best+travel+destinations&output=search&dest_mid=/m/08k2mq&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQxA0wHHoECA0QJw",
+        "source": "locationcountry",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Cuenca",
+        "link": "https://www.google.com/destination?q=best+travel+destinations&output=search&dest_mid=/m/02rvjw&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQxA0wHHoECA0QKQ",
+        "source": "locationcountry",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Islas Galápagos",
+        "link": "https://www.google.com/destination?q=best+travel+destinations&output=search&dest_mid=/m/03660b&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQxA0wHHoECA0QKw",
+        "source": "locationcountry",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAEgASAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAAAgMEBQYBB//EADIQAAIBAwIDBQcEAwEAAAAAAAECAwAEERIhBTFBE2FxgZEGIjJCUVKhFLHR8MHS4SP/xAAZAQADAQEBAAAAAAAAAAAAAAABAgMEAAX/xAAiEQACAgICAgIDAAAAAAAAAAAAAQIRAxIhUTFBBDITIkL/2gAMAwEAAhEDEQA/APSoXEBP7U615kbCq0TayTg4robJ905FV1JqRPjmbVkU8bthsc5qAJGUZUCno7klTqUGhQbFy3DSKy7nIqv7KRWwCamlkJyK4QhHvDNNGWoso2RY0cscsQRUjsycBmyadjiWRtwR30NGyjmD4GucrOSoRvH30VzDDfI86KXgbkr4wTgB8+VPLA/RiM91Yt/aO+ZkK6FHzaV3PrnFOz+017yQSKv1XB/xRc16OWKS8m0W2dT8W1M3k1vZaf1N1BDq5CSQLn1rBXXtBxh4tAuMBvmjADeuKrRayylnlnQO25Lvkk99da7O1fR6bBxC0mcLFdQOSce7IDvU3s2HNR5tXm3DSsEOiV4iCfv2q3t+O/p4+zW7iK9A7gkfml25DrwbUe6Og865nJySpH0zWLPGL994bqJs8gIgfzQeK8Vxu0ZI6qDvXbR7BrLo2jNHty8jmisOvGeIBikk6Y652Iorrj2HWfRjYuILIezSSAt9pLf60iS/kw/ZKszJsxjOFTxY7eXOpUPB45AFvJJXjBzoikKH13qxl9lOHXdqIuDNJBK+0nbyjURjodJ/cVOba8obHOM/qzOw3l3cqDbSKiMN3kDH0G3+auLK5ZkCXy4b5ZVBCsPPlT9p7JcWs5Y4LmSzMPR9Z1L3Y3J8at1tOFWTLDecRWN32x8Pr/2s85r0aYJryUs1vEWzKEAPzlc+tLjsbcnGqMgc/wDyBx+asr6CyRHIuYzEDjtEJdQcZAbHwk/01SFTDJpaUnIGnbBHmDyquPNSqSJZMWz/AFZdxgRqQl0RtgAwD+aTH25jOqaMyZ+wkEePr0qma+vYyFiZGHUuuT+MV2bjzW8YacRjpnJ3PhVbwsjrmiWMsNzcZXRbg8gzasf3yoqFwj2ghv5GheIwzA4Cls57vxRVVhi1aIyzTTp0WaqgGVBbvPKn7SCSVtYB0rvkbAedQU41bogI4bPJJj52GkHypDe0t/CHS1tbe3LpjWfeYH6gscDwxWXJ8lPiI+D4qhzJmoeXXawRRsIwgy0jBlK+b74365zvWS4pIGuWVLySYqdJDdMd4JBqKnGOORqxhvJDvuQAxH18u6kmWW5eKSeORnYN2rHCFj0P0+ned6xOMn4Ns5bI6RqQrglchiB1I5E1xrwy6RgHRscLz8TTfZSyto0qQOeXAp6LQy6Uhwgz8Mg2799/5oRUkTpljb8Bmu+Gi5kngt0kXK62bJ3xvgbVm7zgUFrdGR7+K4O3JXYj1FaGDiL8OtxE75RhkQSx4Un6qwOfxUeW44bfDJV0mLYKxkEDvycVeE2nywy+vC5K+2it1uop4YpXuE5PrcDl9vKirW2t7K3kJW5RyN9ODn9qK1RlCvsZ3+R/wR1ibclNI55IxiklWYYHv525UUVj2Z6GqHOxffGPA86SLUb5kY55ZFFFK2wpJHf00RXDLv8AcTzpYtIvtByOTEGiiktjUh2OzLA+6mBttQbWNfiIPlRRSOTugqKIsrRLIIwPi2z0zXKKKb0cf//Z"
+      },
+      {
+        "name": "Baños de Agua Santa",
+        "link": "https://www.google.com/destination?q=best+travel+destinations&output=search&dest_mid=/m/06933x&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQxA0wHHoECA0QLQ",
+        "source": "locationcountry",
+        "image": "data:image/jpeg;base64,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"
+      }
+    ],
+    "destinos_link": "https://www.google.com/destination/compare?q=best+travel+destinations&output=search&dest_mid=/m/02k1b&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQns4BKAAwHHoECA0QIQ",
+    "tambien_se_busco": [
+      {
+        "name": "Chile",
+        "link": "https://www.google.com/search?q=Chile&stick=H4sIAAAAAAAAAONgFuLQz9U3MMo2TFICswwLDMu0-Jzzc3Pz84IzU1LLEyuLF7GyOmdk5qQCAOyc8tYuAAAA&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQxA0wHXoECA0QMw",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAwCAMAAACFQszZAAAAWlBMVEXVKx7///8AOabVKBsAM6QANaUAG58ALKIAHp/p7PUAF55XardOZLWpsNYAIqAkQqksR6phc7vy8/lIX7PZ3OyutdmdptKOmMu/xODJzuWEkMdzgsFDWrEAKaISJX1GAAAAoElEQVRIie3TTQ+CMAyAYTrafSk453Qq8P//phBOJi5k6Q4e+h5ImpEnbBmd+h1CZZ1AVRBSGwhPZ2oCmWEwTSDvnGVDOFp9AQjajsSB8BqjiwDrw92I9UXB7XNSyDsj0vdtfHj2YZu8jdmwIZvg+YKkuRAFeHufIRATwmlelFrmCblb2380wgY3+yuB/hrqCxUXSu+XqnTKkCRJkiQd9gHo3A2oO7VuTQAAAABJRU5ErkJggg=="
+      },
+      {
+        "name": "Colombia",
+        "link": "https://www.google.com/search?q=Colombia&stick=H4sIAAAAAAAAAONgFuLQz9U3MMo2TFICswxzio20-Jzzc3Pz84IzU1LLEyuLF7FyOOfn5OcmZSYCAJWzGZAxAAAA&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQxA0wHXoECA0QNQ",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAwCAMAAACFQszZAAAAG1BMVEX80RbOESYAOJP90RX80hQAN5MAOZbRDyAJNpTRTazqAAAANUlEQVRIie3MwRGAIADAsCoq7D8xO3B9ec0AgSRJjg0Jj4Ql4ZVwS4qKlOiTMCVckqKif0YbwNARcZsT4goAAAAASUVORK5CYII="
+      },
+      {
+        "name": "El Salvador",
+        "link": "https://www.google.com/search?q=El+Salvador&stick=H4sIAAAAAAAAAONgFuLQz9U3MMo2TFKCsiyytfic83Nz8_OCM1NSyxMrixexcrvmKAQn5pQlpuQXAQAnceMXNAAAAA&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQxA0wHXoECA0QNw",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAAAoCAMAAACbzBeiAAAAxlBMVEUPR6////8AN6vLz+fLz+n//Oj///f//PT/+d7/77X/8rz//PL/8s3/89Ho5Nz///v/+eq9ucD4+fWVnZ7Ews7Ru42sqrymraX/67CfqJDRz96kqdLgwp31xb/cxKCOksnc296ttqXS0rdgc2iKibCako7+8OjiyLqWjI59fq1adV3o5tXc3tdkenHkx1b/xgDrwyLu0XXMxY9vc7pzhHJnb1FPjX08gXktgIN/kHpNc1ePiqPUzdJui3UALwCXpZYASgAAOQC0ftpaAAAAzklEQVRIie2UuRaCMBBFiRqMJAhuKG6Iu+K+oCgY+f+fUo59poh0uUXSzLnFy7xomkKhyI3Cf9CKEKUMcEpDEKRiYAJOQR7KTFS1iGnLeWiFIlT73jaV8pB6o2m3dKdtdWQ8Zex2e/3B0Bv5BEt42Hgync0X8+VqHYizFnv0zdbb7Q/H0/kSmBIeQqJrGIa3+zWyxEED+bCH78TP2HETZkl4kGG/fD7i/K0z8SC0hwZO0lXKMfDsoAcZ2aGLQ848YE1/XQV7+q9/Q6FQ5MYHJpQTI8gGMzgAAAAASUVORK5CYII="
+      },
+      {
+        "name": "Cuba",
+        "link": "https://www.google.com/search?q=Cuba&stick=H4sIAAAAAAAAAONgFuLQz9U3MMo2TFLiBLFSDEyqzLT4nPNzc_PzgjNTUssTK4sXsbI4lyYlAgAybdRYLgAAAA&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQxA0wHXoECA0QOQ",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAkCAMAAAAdBYxUAAAAnFBMVEUAKo/////PFCsAAIbk5e+Nkr4AG4sAK5LPECnLAADMABDSEyfWEiHNABbNABnOACEnKYmRH11vI3C+FztKJn7YEh6nG04cKYyIH2LKFS9nJHQAKJUAEYrGNUzbx9Pn8PjihInpqa3SMD7yzdDZYWn67e7ijJLrtLfWQkuxlbGCk8KkAEYXGYV2Im3vxMfXVmDeeH723+DVSVTlmJ38u/XfAAABH0lEQVRIia2WyXaDMAxFY3WIZAPumDadi6Gkk5um//9vJUBiZ2lLbwG7e6SnwZotzuYzEZnifC6CAjBwIYECACwur/gk2AqvFzdcFIwyxS0zP9ipWN7dPxxlK4D6/B6fno9zFYH6/OhF5eoABFCVrzIgQF07LginHzUtC4TLiQSW3jig0utgle2yQeZHWQzh6dX7x0mKRpDRmjq1Jq0xoD6/ThM0gEzjnFeq9c6tQlSJC2b0pBkTbWsb94LF79RZs9Vvz/GEcACCZBDQtneiumWmBmaj3KZVZVy3DLN7k7o/suTXdo/JKz9gXQ1zNkVUmeyGxOjLHJG9Odyh3ZnDXyODOTKLTWjVSi1/oedI6IEUerKljgihs0bs0JI6/f4B1VEdv/C7dNoAAAAASUVORK5CYII="
+      },
+      {
+        "name": "Perú",
+        "link": "https://www.google.com/search?q=Per%C3%BA&stick=H4sIAAAAAAAAAONgFuLQz9U3MMo2TFLiBLEMzcqryrX4nPNzc_PzgjNTUssTK4sXsbIGpBYd3gUAya8Wwy8AAAA&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQxA0wHXoECA0QOw",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAwCAMAAACFQszZAAABOFBMVEXZECP////ZDSHYABr6+/bx9u3//PLmzAgApjvJ2rLL16z///2iu2ixwXK8y5H2+/XW4cOqvWnd5syy2rfX69vQ6NO527qkvm+03L0Ao0MAoiy/4cZpvX10v3+azpzg8ODL2Kfz9uWax5ym1KwzrFKOq6GWsaKPqHFtlIHw6MDN0ZLy7tD68dfn8+hJslqMtYvd0cs1q0i4xLMAcqkle5ybmX2VsYRfu22vxLh9fG2lgE6ukGhMgIrExoa+uHY3qj1/xY+ilGbPp3LMyLCTo4I8hptVladrs2N8tn0yhJHs5dOrwKR2sG/qqo7hAADiMw7pkwDqqADcewDeTz7aRxveqxPfnBU0lyriuxLdeB3fihvcbR/Yu7b/7ODaSQD20sLljH7klnraf1nuvq3LpIC3rYG9i2C7fE3j1SUIAAABhklEQVRIie3V2VLCMBQGYAIlFMJaWqAsLdi6AaIRNG5QBBFRW5RFcKmAuLz/G8iMt3CTeqEz/e/zzcnknBOHY2mcLrAiLufyEytiQzZkQ/8XYrw+n5exDiF/IBgM+JFFCIXCEQ4ALhJmmCg9xAsxwMXdALjjXEJMpqihdEaSGX82l8v6UUYU12ghRRUFsL6xubWdLxR3SqXdPTqIxzjt3i+XKwcFX5YrgkPC00EZVkuAo+OT07NCtcYtStKSISooVseKDM8bzUq+WgtCJYmTMhUkSRpJwYvWZQVyTQgFpX1FdzWi4lIi1+m0WhBeoyLGN7c8FSSrGga60b277xmGoROsaiW6V+M1IvcHnkWGg2FfEbFYp4IQIazg8vzkwYAjjSC6hoyKbKI/9HjGj0/Prn5Kir5Qdra7rhLztTccL+rp+thFm9POmpBmFTDRp7PZBLQ1NkO/RhiJJak3fT41JULqyMI+MufvH+rnlzhq6BYXmxnkJtCcCBKyBv3JX8SGbMiGfgP6BmlfOKKVoL0UAAAAAElFTkSuQmCC"
+      }
+    ],
+    "tambien_se_busco_link": "https://www.google.com/search?q=Ecuador&stick=H4sIAAAAAAAAAONgFuLQz9U3MMo2TFKCs7SEs5Ot9JPzc3Pz86yKM1NSyxMrixexsrsmlyam5BcBAEEaifw1AAAA&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQMSgAMB16BAgNEC8",
+    "tambien_se_busco_stick": "H4sIAAAAAAAAAONgFuLQz9U3MMo2TFKCs7SEs5Ot9JPzc3Pz86yKM1NSyxMrixexsrsmlyam5BcBAEEaifw1AAAA"
+  },
+  "related_questions": [
+    {
+      "question": "Where is the best place to travel?",
+      "snippet": "Fukuoka, Japan. Kokura Castle in Kitakyushu is just one of many places to explore off the beaten path in Fukuoka. ... Grand Canyon, United States. The Grand Canyon is marking 100 years as a national park. ... Hawaii Island, United States. ... The Hebrides, Scotland, UK. ... Liechtenstein. ... Lima, Peru. ... New York City. ... Normandy, France.Más elementos…•22 may. 2019",
+      "title": "19 best places to visit in 2019 | CNN Travel - CNN.com",
+      "link": "https://www.cnn.com/travel/article/places-to-visit-2019/index.html",
+      "displayed_link": "www.cnn.com › travel › article › places-to-visit-2019"
+    },
+    {
+      "question": "What are the top 5 tourist destinations?",
+      "snippet": "The ultimate backpacking destinationsCosta Rica. If you are craving connection with nature, this country is bursting with natural sceneries from lush rainforests to sprawling beaches to magnificent volcanoes. ... Phuket, Thailand. ... Tahiti, French Polynesia. ... Maldives. ... Rio de Janeiro. ... Santorini, Greece. ... Paris.5 feb. 2019",
+      "title": "Top 10 Tourist Destinations In The World For 2019",
+      "link": "https://usa.inquirer.net/20344/top-10-tourist-destinations-in-the-world-for-2019",
+      "displayed_link": "usa.inquirer.net › top-10-tourist-destinations-in-the-world-for-2019"
+    },
+    {
+      "question": "What are the top 10 countries to visit?",
+      "snippet": "Here are our picks of the top ten countries in the world you should visit.10) Jordan. If you're looking for a slightly off-the-beaten path vacation this year, consider Jordan. ... 9) Philippines. ... 6) Turkey. ... 5) Austria. ... 4) South Africa. ... 3) Greece. ... 2) Spain. ... 1) Australia.11 jun. 2019",
+      "title": "Top 10 countries in the world you have to visit | MakeMyTrip Blog",
+      "link": "https://www.makemytrip.com/blog/top-10-countries-in-the-world",
+      "displayed_link": "www.makemytrip.com › blog › top-10-countries-in-the-world"
+    },
+    {
+      "question": "Which is the best country in the world to visit?",
+      "snippet": "Now, Spain has been declared the best country in the world to visit.5 sep. 2019",
+      "title": "World's best country for travel, according to the World Economic ...",
+      "link": "https://www.cnn.com/travel/article/worlds-best-country-travel-2019/index.html",
+      "displayed_link": "www.cnn.com › travel › article › worlds-best-country-travel-2019"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Best in Travel - The best places to visit in 2020 - Lonely Planet",
+      "link": "https://www.lonelyplanet.com/best-in-travel",
+      "displayed_link": "www.lonelyplanet.com › best-in-travel",
+      "snippet": "What are the best destinations to visit in 2020? Lonely Planet's travel experts reveal all...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Countries",
+            "link": "https://www.lonelyplanet.com/best-in-travel/countries"
+          },
+          {
+            "title": "Best Value",
+            "link": "https://www.lonelyplanet.com/best-in-travel/value"
+          },
+          {
+            "title": "Top travel trends for 2019",
+            "link": "https://www.lonelyplanet.com/articles/top-travel-trends-for-2019"
+          },
+          {
+            "title": "Cities",
+            "link": "https://www.lonelyplanet.com/best-in-travel/cities"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ZGFqYcFFM-QJ:https://www.lonelyplanet.com/best-in-travel+&cd=1&hl=es-419&ct=clnk&gl=ec",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.lonelyplanet.com/best-in-travel+best+travel+destinations&tbo=1&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQHzAAegQIAxAJ"
+    },
+    {
+      "position": 2,
+      "title": "30 World's Best Places to Visit | U.S. News Travel",
+      "link": "https://travel.usnews.com/rankings/worlds-best-vacations/",
+      "displayed_link": "travel.usnews.com › worlds-best-vacations",
+      "snippet": "See which places our readers like the best, and vote for your favorites. ... destinations, choosing the perfect place to vacation can present a challenge. That's why ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rItxy5U6o9AJ:https://travel.usnews.com/rankings/worlds-best-vacations/+&cd=3&hl=es-419&ct=clnk&gl=ec"
+    },
+    {
+      "position": 3,
+      "title": "20 best places to visit in 2020 | CNN Travel - CNN.com",
+      "link": "https://www.cnn.com/travel/article/places-to-visit-2020/index.html",
+      "displayed_link": "www.cnn.com › travel › article › places-to-visit-2...",
+      "date": "6 ene. 2020",
+      "snippet": "20 best places to visit in 2020. CNN Travel.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uGI4DCoLAaUJ:https://www.cnn.com/travel/article/places-to-visit-2020/index.html+&cd=4&hl=es-419&ct=clnk&gl=ec"
+    },
+    {
+      "position": 4,
+      "title": "The best holiday destinations for 2020 | CN Traveller",
+      "link": "https://www.cntraveller.com/gallery/best-holiday-destinations-2020",
+      "displayed_link": "www.cntraveller.com › gallery › best-holiday-destinations-2020",
+      "snippet": "Looking for the best holiday destinations in 2020? ... Rijeka – Croatia's third-largest city – on their way to Dalmatia's tourist-bloated islands should tarry awhile."
+    },
+    {
+      "position": 5,
+      "title": "10 Best Places to Travel in 2020 - Where to Go in 2020",
+      "link": "https://www.goodhousekeeping.com/life/travel/g30335840/best-places-to-travel-2020/",
+      "displayed_link": "www.goodhousekeeping.com › life › best-places-...",
+      "date": "6 ene. 2020",
+      "snippet": "New year, new travels! From vibrant world-class cities to relaxing beach getaways, we've rounded up some of the best places to visit in 2020 for ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0KtZDlaAv2QJ:https://www.goodhousekeeping.com/life/travel/g30335840/best-places-to-travel-2020/+&cd=14&hl=es-419&ct=clnk&gl=ec"
+    },
+    {
+      "position": 6,
+      "title": "The 20 Best Places to Travel in 2020 - Harper's Bazaar",
+      "link": "https://www.harpersbazaar.com/culture/travel-dining/a30342895/best-places-to-visit-2020/",
+      "displayed_link": "www.harpersbazaar.com › culture › best-places-to...",
+      "date": "30 dic. 2019",
+      "snippet": "It's our favorite time of year, conferring with our network of travel experts all over the world as we dream up a shortlist of destinations that have ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zEeCe_02wxgJ:https://www.harpersbazaar.com/culture/travel-dining/a30342895/best-places-to-visit-2020/+&cd=15&hl=es-419&ct=clnk&gl=ec"
+    },
+    {
+      "position": 7,
+      "title": "The 25 Best Destinations in the World | Far & Wide",
+      "link": "https://www.farandwide.com/s/travelers-favorite-destinations-c10b859a0fc34d09",
+      "displayed_link": "www.farandwide.com › travelers-favorite-destinat...",
+      "date": "16 abr. 2019",
+      "snippet": "There are, incredibly, more than 156,000 destinations listed on TripAdvisor. Of this list, which places rise to the top? According to the recently ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yBDDgJLnwiMJ:https://www.farandwide.com/s/travelers-favorite-destinations-c10b859a0fc34d09+&cd=16&hl=es-419&ct=clnk&gl=ec"
+    },
+    {
+      "position": 8,
+      "title": "Top 10 Vacation Spots | Travel Channel",
+      "link": "https://www.travelchannel.com/interests/travel-tips/articles/top-10-vacation-spots",
+      "displayed_link": "www.travelchannel.com › ... › Articles",
+      "snippet": "Plan the ultimate vacation at these top 10 vacation spots around the world. ... one of Mexico's most popular tourist attractions, particularly during spring break.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:R5w49YcQR6IJ:https://www.travelchannel.com/interests/travel-tips/articles/top-10-vacation-spots+&cd=17&hl=es-419&ct=clnk&gl=ec"
+    },
+    {
+      "position": 9,
+      "title": "The Best Vacation Ideas & Destinations for 2020 - TripAdvisor",
+      "link": "https://www.tripadvisor.com/Inspiration",
+      "displayed_link": "www.tripadvisor.com › Inspiration",
+      "snippet": "Looking for some inspiration for your next trip? Find great vacation ideas and inspiration from TripAdvisor, your source for the web's best reviews and travel ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FCgZL6UuVL0J:https://www.tripadvisor.com/Inspiration+&cd=18&hl=es-419&ct=clnk&gl=ec",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.tripadvisor.com/Inspiration+best+travel+destinations&tbo=1&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQHzARegQICRAJ"
+    },
+    {
+      "position": 10,
+      "title": "Best places to travel in 2019 - Europe's Best Destinations",
+      "link": "https://www.europeanbestdestinations.com/european-best-destinations-2019/",
+      "displayed_link": "www.europeanbestdestinations.com › european-b...",
+      "snippet": "From Wroclaw to Athens, travellers have selected the best places to visit in Europe. Discover now the best destinations to travel this year!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6jLFFL43_30J:https://www.europeanbestdestinations.com/european-best-destinations-2019/+&cd=19&hl=es-419&ct=clnk&gl=ec"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "best travel destinations 2018",
+      "link": "https://www.google.com/search?q=best+travel+destinations+2018&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ1QIoAHoECAwQAQ"
+    },
+    {
+      "query": "best places to travel 2019",
+      "link": "https://www.google.com/search?q=best+places+to+travel+2019&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ1QIoAXoECAwQAg"
+    },
+    {
+      "query": "top 10 places to visit in the world",
+      "link": "https://www.google.com/search?q=top+10+places+to+visit+in+the+world&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ1QIoAnoECAwQAw"
+    },
+    {
+      "query": "best destinations in the world",
+      "link": "https://www.google.com/search?q=best+destinations+in+the+world&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ1QIoA3oECAwQBA"
+    },
+    {
+      "query": "best destinations to travel agencia",
+      "link": "https://www.google.com/search?q=best+destinations+to+travel+agencia&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ1QIoBHoECAwQBQ"
+    },
+    {
+      "query": "best destinations to travel cancun",
+      "link": "https://www.google.com/search?q=best+destinations+to+travel+cancun&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ1QIoBXoECAwQBg"
+    },
+    {
+      "query": "best destinations to travel agencia de viajes",
+      "link": "https://www.google.com/search?q=best+destinations+to+travel+agencia+de+viajes&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ1QIoBnoECAwQBw"
+    },
+    {
+      "query": "best countries to visit",
+      "link": "https://www.google.com/search?q=best+countries+to+visit&sa=X&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ1QIoB3oECAwQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+travel+destinations&ei=Hx0nXqfiC_2E4-EPuoqUIA&start=10&sa=N&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ8NMDegQIDxBD",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+travel+destinations&ei=Hx0nXqfiC_2E4-EPuoqUIA&start=10&sa=N&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ8tMDegQIDxAx",
+      "3": "https://www.google.com/search?q=best+travel+destinations&ei=Hx0nXqfiC_2E4-EPuoqUIA&start=20&sa=N&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ8tMDegQIDxAz",
+      "4": "https://www.google.com/search?q=best+travel+destinations&ei=Hx0nXqfiC_2E4-EPuoqUIA&start=30&sa=N&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ8tMDegQIDxA1",
+      "5": "https://www.google.com/search?q=best+travel+destinations&ei=Hx0nXqfiC_2E4-EPuoqUIA&start=40&sa=N&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ8tMDegQIDxA3",
+      "6": "https://www.google.com/search?q=best+travel+destinations&ei=Hx0nXqfiC_2E4-EPuoqUIA&start=50&sa=N&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ8tMDegQIDxA5",
+      "7": "https://www.google.com/search?q=best+travel+destinations&ei=Hx0nXqfiC_2E4-EPuoqUIA&start=60&sa=N&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ8tMDegQIDxA7",
+      "8": "https://www.google.com/search?q=best+travel+destinations&ei=Hx0nXqfiC_2E4-EPuoqUIA&start=70&sa=N&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ8tMDegQIDxA9",
+      "9": "https://www.google.com/search?q=best+travel+destinations&ei=Hx0nXqfiC_2E4-EPuoqUIA&start=80&sa=N&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ8tMDegQIDxA_",
+      "10": "https://www.google.com/search?q=best+travel+destinations&ei=Hx0nXqfiC_2E4-EPuoqUIA&start=90&sa=N&ved=2ahUKEwjn7fSghZXnAhV9wjgGHToFBQQQ8tMDegQIDxBB"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+destinations&start=10&token=a55eb1b99bea151e",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+destinations&start=10&token=a55eb1b99bea151e",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+destinations&start=10&token=a55eb1b99bea151e",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+destinations&start=20&token=326426becda64350",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+destinations&start=30&token=b4881c60822755be",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+destinations&start=40&token=d7337f4db90f95dc",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+destinations&start=50&token=e3ef6bfd2aad8836",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+destinations&start=60&token=023199268c7e71e4",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+destinations&start=70&token=ab9f486870e79369",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+destinations&start=80&token=4f488b151ad0eba0",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+destinations&start=90&token=6a2e5404444bf351"
+    }
+  }
+}

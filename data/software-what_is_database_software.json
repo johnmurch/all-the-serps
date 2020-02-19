@@ -1,0 +1,302 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 19:44:44 UTC",
+    "processed_at": "2020-01-20 19:44:44 UTC",
+    "google_url": "https://www.google.com/search?q=what+is+database+software&oq=what+is+database+software&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 1.64
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what is database software",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 1230000000,
+    "time_taken_displayed": 0.66,
+    "query_displayed": "what is database software"
+  },
+  "knowledge_graph": {
+    "title": "Database",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "description": "A database is an organized collection of data, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Database"
+    },
+    "database_software": [
+      {
+        "name": "MySQL",
+        "link": "https://www.google.com/search?q=MySQL&stick=H4sIAAAAAAAAAONgFuLQz9U3MEpKNlMCs0wqjbO1RLKTrfST83Nz8_OsUvLL88oTi1KKVzHqA8VyclKTSzLz8_RTEksSkxKLU-NzE_MS01NzU_NK4osri0tSc-OL89NKgFpSF7Gy-lYGB_rsYGUEAOxdX9lpAAAA&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQxA0wGnoECAwQIQ",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAkFBMVEX////ihgAAXIfrrnXihADx9vjon0oAYYtqk60AWob9+PGLqr367eLhfgD45tPlkSXtt4Q/fp5umbLG1t/12b6bs8OkvMx9orgASXzi6+8AVYPS3+YAZY0AUIBTiaWcuMmuxNHrq2fvwJFPgaC6ztgwdZgUbJLrrm/mljXwxJropFv23sn007XyzafooVLnmz5eWF3FAAACHElEQVRYhe2W23aiMBRAT1ICAUWFIBhQQbmoZbD//3eTS0GccWlX06cZ9gM5QLI9IYcgwMTExMT/DCsT/iOigMdOQoi5KKkAwrqpK2NTo2aWBaVpVnwvUhKSws0MTSUHJh18Z2gq8j63jeH6NX3AHDPRuk8JaGJmwn1AUrOlC4YozJ90ewmLh5AbPaV4VNX7wkwU9iWUbQ1EbA072p8EawNTw4Owr0Wyd+KnnZ+RNyEpR6f1tyucEWDF7ZSU7NtJiZUf0sjidWry1vVFXWxyNi5wNlQHr/7aH7y5ZgjlRX0UCxeOuzbY/XyrWYrT+8r3rpavWMLc1iE6Afi+p+/PdrdnRJymxoX+gW3t0DvRAZ0WGjijayva1rYugJDXjw7ZTeQUuJZR5oqIAuF63jzj8G61fb8l0mFkrUYigIoMIgxbtQtTnEvRbKP3Gtm+o+Mr0WhqLuSumBHHLomlyJ2pG2vRzpe+hSz00X1RBC7mkOAQ7kRYtosoin6dxeCviAgkYvDW5VqExyJFhw5K1EaLFyKeNjkWny0tSv4UHZWoA29pdR1agYXmD0RYbr8UO6lYyDil8lntqSBwZvBmS87Ij2BlIftwRYJWxZKP6NIdh0qgVB0DWYoVFZsMKRKJFF3eFEeZQCSjlS2SA2iP6vqpXbSXB7O8J7lNbczBt1+N/KSoA0ktV/IR3vxlDpqKhpIk/oG/QhMTExMT/zC/AWBRJJi+N35bAAAAAElFTkSuQmCC"
+      },
+      {
+        "name": "Oracle Database",
+        "link": "https://www.google.com/search?q=Oracle+Database&stick=H4sIAAAAAAAAAONgFuLQz9U3MEpKNlPiBLEMy8otq7REspOt9JPzc3Pz86xS8svzyhOLUopXMeoDxXJyUpNLMvPz9FMSSxKTEotT43MT8xLTU3NT80riiyuLS1Jz44vz00qAWlIXsfL7FyUm56QquEAV72BlBAB9jTRIdAAAAA&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQxA0wGnoECAwQIw",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAxlBMVEX////jBxO2trbjAADeAADoXF7yyMnppqj7+/vUAADiKC/39/fZ2dmVlZWRkZHbAADoc3TOzs50dHTn5+fAwMA3NzdUVFQ+Pj5iYmKFhYVZWVnIyMivr69LS0vf39/jAA3nuLj14uLgiYrul5jqbXKjo6NqamkwMDDu1dbts7bfZGTZCBH78PDcICXYEhjaLzHfdXXgSk7TMjjcZ2vjlZnYUVPaenzTlJTRXGTRbG3lPULogYXjFyPqNjzvoaMAAAAkJCQWFhaNRhPVAAAD50lEQVRYhe2Xj3eiOBDHR0OTYAAF/AHiD4JFwQYrVbk7a732//+nLgFd293utmz37u271+97SiYkH2cyM6gAn/rUp34XJSnZRlFEUszZx0BtVElrZ8v0IyysNU6aInQT1twtQgFQxUKzaeOLNL0eJ13drnmiZ6kycnQBTWuCyBryOz0Msw+BKHA9rBzLvwahVQ3QJtPxabjeJBx2Z5DMXJ68n8MzzuUlJEkJzaRHmkp/W99teQ1/ALelP/Quj/StMm84TzDGScXgUQ0S2cjXUg50uXm3+1KDIjnu2nUOO13LkEI5WGKgtwyK3XJ5tdu3GjLCOllLMlJ5pTxiKwHLskOm02nN9EfSIXlGy9lKnVGxkkW13tyi+nXE27nKfrhVWUuSlSgUMJIdN5XNlr8fBDjUz9UStdvHSGwxD6GjaTetZViDo5zSRXld30ZhKod4GxKRcFGPUoJosc+PcCOK00xY1Tond/VIG70lm3+XcXk8YbGV3ZfCcr/SNVSz+0GFIQu6EJAQUH4VaYZU/uuCKm0l7g91la/op55HZ7/+5Moj1WDFtlW3IF9IInAkK12ekQKhdp2mfSZ6zhoOWRtp+qbG4+iFRJGSso7SlN+HP0tR4pj/BUUi8NtL31QSpb+A8ql/SbgUlN2qvoDKyVPiaTnFk+TFYi5eeURxDbWkGhqG/VSNUEdNPyBFwqghZzJxfX3CaMq+EST8hkMP97QczDS2J2qQIPm1NnuYHRgIdKxWdTrVhyJS2eLbH15YO48OYX4CCbkDQ+MeyAO8ABF0nElFr/1+u4BaaU5CrXFAstH31+pOQvZfg9bXUttXOBfvUyRkaBhdycCIxluHFnrg2qlLOutTaD/oPaztr6T2KIWHozr7JeUaURlMGrNUy+W9POwc1JqrlKDSfr0JWUqUZEJTlWRxxPh0pOohWd6jCTmtEZX9fb9+Z9nNV/VfReNOXPXuVoasM7fObuNSmOZ43GNs0Z8rY2CC8XedPx3e5AJqQuzTHh2r/Y8emAsD4qFlgeMPXbCGlqlMH4L5fEIdyws8hzHfi6FpeeZk4FxAI3DHdNxTHrn9uTv2m8aYjYbwZMRmd05NZzJmzT7r2faA9YzRgHm2ZU68IHbcR+rZzz0KPLoAfwQQ+F3Psa2uD6wPPeia8QgMJ1CmMTDN2F2A7YBve74Z23LjgM6fheb5C4P1rIGhvGNPwaTPBqP5kD5K5ye90dChY2vuQX8UN+kTBA44QVPBrSYs6LMzMppdF2i3q2ZsF7qUdcGNjQDkxYZJbNjMDoIhsNGI0aaak6vs2ABjIpcEdTLD5oOB/fayd6F+DeZT/z/9A+LRXZlhoPIOAAAAAElFTkSuQmCC"
+      },
+      {
+        "name": "Microsoft Access",
+        "link": "https://www.google.com/search?q=Microsoft+Access&stick=H4sIAAAAAAAAAONgFuLQz9U3MEpKNlMCs0wtzKu0RLKTrfST83Nz8_OsUvLL88oTi1KKVzHqA8VyclKTSzLz8_RTEksSkxKLU-NzE_MS01NzU_NK4osri0tSc-OL89NKgFpSF7EK-GYmF-WD-AqOycmpxcU7WBkBp-iy63QAAAA&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQxA0wGnoECAwQJQ",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAclBMVEWjNjn///+iMzaoREefJiqfKCydHSGeIiadHyOhLzLt3t6aDxXw4+Py5+ecGR6gLC/Rp6j38PDkzM3Vr7CxXmCvWFrfw8PMnZ6ZAAytU1Xp1tfFjY7Hk5TAgoP7+Pi1aGm7eHmlPUDauLmqS064cHKYAADYznr5AAADy0lEQVRYhc2YDZOqLBSAFRFUEhFNC7XUvP//L94DtK1f69W2mfc9s9tMQU9yvjmO+y+JirJ9IMdB3uY2Z2MtBoR34TgJgfMeKJWiuXJGfYOwchCUyqzJExaMEQdBqcqqvGMETuKsyQ5QGvX13eOgDDR/jAOgcvDolz43RYNuaXxSUkqlTnE6Ay2V8ZN0uYcw54QEASGcJ921EeqF2wkx4vuYBpwzEM4DiuE9wddSHQa1dVbIKE5B4kj2oskpAxrpxCHQqrLjvsEkwbj4LUiLvDPEyg+AXPfkhfgjINf19pr+XyBJ/2+gx2eOprz1OD8GuhV3fsRoq6CbEvckSKjXL0kIhWHirx0Z3SvRy+gUg0RKZvXgJcQPE+5kbkSWv5sPTS1WlZckPoXAD6h+hZjV75nTSHi0JYjZZxb+CuhKL4xDEqGBzgEX/9qWRWz3L0Bh/lxg6zpKT8oktug0zWsLkC+eK93ibJt+dJqD2Om5UiW/AqFXUZErZjgAShp93kh7yMIxNkFzHdECPix6vTTMvX4TpIKZim7wYa0fy1346iZothsZ4587/ZryA6BoVlmt8S/c+MgV7QWlFZnZmEXmuEZTbunvAp2ynGLeTjSKOgswtnOj2dlQp6KxO99iBS0DCjBm52hqfgs4o6c3OfOzBTpSu8c5z88PB4ouMDDmpFFz89sjQZQRE4rtzAGQLdM+tkIJ+9O1whbsKYhr40vwCGw8qZj6BvJSVWRlXVVNVdVlVqh4ZLYxyBq/ZgHlg1HCzDd2h4g1fqoToP2tHL0H4tFsVeC3QNb4k1W+GzTWkTX+RCYVfXfQBsb4Oou+lDTJbrtLNtXGd6Gp0/LHkCbZbRN0//Y5m/a/zkqNJ93CfSD1GMWlNX72NFTYmh3j7PYTKO3PhHZz43998xluPd0E3aK+ekAAXuoomG17PSIx5SQdRwni3r2pSpGBiLpqrxCwEHOEV+nY/N0Am75zEM4MeJLdfCP4Wyjhj1qOdWvUAr3D2NymBxhGoE5Uw7kLNSkJvbytRPGKhWXtn4AnXcmhcrQlx0r2fw762NHUp0Af67PrRRf0HqgKPnGpuWUOvogDoMcaRIqcU4rloatoU/ZSX6/tVbSAiEEXaHG5p+PyAAfZMGWvyzGGhpvehW07D4C6ASIWWnVi/nHS3ev+u4IdeCDTZ8PlQUm16LMBxOmOKcQL9LM4Zi6yZ6ixa1qTqr7KO062cAfmR2bw47BgffBzeKKlR1FnPJ1mvQWyEheivTI+wv1iWAeJrygH5wKqA/G7X4CsgGGrGv42N/0Ff5M+4/YZe1MAAAAASUVORK5CYII="
+      },
+      {
+        "name": "SQLite",
+        "link": "https://www.google.com/search?q=SQLite&stick=H4sIAAAAAAAAAONgFuLQz9U3MEpKNlPiBLEMs9MLLbVEspOt9JPzc3Pz86xS8svzyhOLUopXMeoDxXJyUpNLMvPz9FMSSxKTEotT43MT8xLTU3NT80riiyuLS1Jz44vz00qAWlIXsbIFB_pklqTuYGUEAHXtpfxrAAAA&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQxA0wGnoECAwQJw",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "FileMaker Pro",
+        "link": "https://www.google.com/search?q=FileMaker+Pro&stick=H4sIAAAAAAAAAONgFuLQz9U3MEpKNlPiBLEM8zIMTLVEspOt9JPzc3Pz86xS8svzyhOLUopXMeoDxXJyUpNLMvPz9FMSSxKTEotT43MT8xLTU3NT80riiyuLS1Jz44vz00qAWlIXsfK6Zeak-iZmpxYpBBTl72BlBACR094mcgAAAA&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQxA0wGnoECAwQKQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      }
+    ],
+    "database_software_link": "https://www.google.com/search?q=Database+software&stick=H4sIAAAAAAAAAONgFuLQz9U3MEpKNlOCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMeoDxXJyUpNLMvPz9FMSSxKTEotT43MT8xLTU3NT80riiyuLS1Jz44vz00qAWlIXsQq6QFUpwMR2sDICAFuaWM51AAAA&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQMSgAMBp6BAgMEB0",
+    "database_software_stick": "H4sIAAAAAAAAAONgFuLQz9U3MEpKNlOCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMeoDxXJyUpNLMvPz9FMSSxKTEotT43MT8xLTU3NT80riiyuLS1Jz44vz00qAWlIXsQq6QFUpwMR2sDICAFuaWM51AAAA",
+    "database_organization": [
+      {
+        "name": "Oracle Corporation",
+        "link": "https://www.google.com/search?q=Oracle&stick=H4sIAAAAAAAAAONgFuLQz9U3MEpKNlMCs0zzssq1RLKTrfST83Nz8_OsUvLL88oTi1KKVzFKAsVyclKTSzLz8_Tzi9IT8zKrEkGc4kWsbP5Fick5qTtYGQFKOj3oVAAAAA&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQxA0wG3oECAwQMQ",
+        "source": "common",
+        "image": "data:image/png;base64,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"
+      },
+      {
+        "name": "Teradata",
+        "link": "https://www.google.com/search?q=Teradata&stick=H4sIAAAAAAAAAONgFuLQz9U3MEpKNlPiBLEMzXLMLbREspOt9JPzc3Pz86xS8svzyhOLUopXMUoCxXJyUpNLMvPz9POL0hPzMqsSQZziRawcIalFiSmJJYk7WBkBH3YxYlcAAAA&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQxA0wG3oECAwQMw",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAABICAMAAAA3fmJuAAAAkFBMVEX///85SVE1Rk4sP0gxQ0tGVVxsdnz29/fq6+xaZmwvQUrKzs8gNkAqPUfa3N7zc0COlpmfpal9hotCUFhOXGPh4+WZn6PT1tdfa3Hw8fLAxMa6vsGGjpKlq64ULjlyfIGvtbf+9fLyZyrzbTb5wKz0imP0gFT6yLj3o4X3qY76z8HyXhP84tn4t6D2mHbze0uAKlqEAAAGSklEQVRoge2YiZKkKBCGS8ALwdHyrtLSmZ7emT1m9/3fbiEBRcvt2a4jejeCPzqiS0kgP45M8HBwcnJycnJycnJycnL6X6uLpLqPduOJypHv+8X40W48UTVHCNHgo914omrueR75MMKqDaSeuUt+SjhIH9r6Sd2nFyLEP5QwY9KF45O6T5kn+/9YQiwMqCO8VZowfFLzUv8JQhSFIPM2bKasz/LEmtqVAfwIZ103G1aigT4/RYc1YbhXyRCa1281fCuhV0r5g3rX5SVjnGLOvL7SdlEMFo38ORzbUvgxxlrt2E/VqtVzyxiWDdAxWRH2c53gOKQ2oVeAD4XooS4to+ZBhEiKK8IJceRpUaaDeOQTYYGbQ9cLeEIFYUyRFqHs0iZzm1HMiGmAXDIA0IQjXupwVp4tQu2DIOq5ZXTxp4cQgjAQZgx5lnigCeVbmqY+Bmck4cqO8Fw32XjULlAPhpDYRYj1FqHqThLilREP7lqtV4S1foEIshEVITp7xNsnFIZqCaQ+2bRgE9J1HVgibxMKo7uCkCakWIiJWTjpZ1q2sYfBRTbMhF4BnGKBCcKSa2FlhzCMdawAKREtIGwgNWHAsKmkSmhqCJF0AV8koTHSDXsseQvhXxGippLqDp0CufQyCoQThSdazYTS9lLWZ9llkxjlaimySbwdOBixWobRbjIrVhMudYYSDHlmYukYgQ9ilNLZaIrBvbsyySYfKv/wWT9GMGf4aBHScmdAw5YYR2BQUFHNJat9aAv2JIrfzoeZrI7KO04kmzNNCUTLIfgEHRTRTEjaaK+ZhGkKtcrpMgqhqrhD2MBY+OGbhJGnHXgQYQVTWFjJDZDpaZnDdeIzB4FKNoMERS+HhNjenvCWUNeBJpHf7ROapC8deCDhSRHGiwpPTaom1PFS182PsV9I+SrSCopW/mAn21UYJENYyeOCr+rA9OwRRpMxKvwHz+Fg5V4ltfdGQ3hZUlPTXjhd2QlCtSb5yqEjnQmjkW3rXBN2xyujxxHWm0zkzYFQEZJ2rnhGdGsmCDv1Y5Wil1Nbs1PnirDyr5x4IGGuM5PMRfAH/zBrNeESg1KVSERaB5k57CD4ri9jmSGMCnJdZ0vYxdQ2Io8i1IM+SWdQnG81GUKTRg4qCXCqj8gxWq3SVTgazSrNVCri4igAdXYJBxWMmTKK2wfPYQKE7Y6dIuQmC0QX8KM2yzEysTSQgw6pf65ZIHuh4+N8BduLpeosSJYPR3fHUgjzc2iIYJVyK6d3oU1IzV0G0h5ZvoGeDSHsZNRaGzE32SKFDF/OBQm151AH28pMrPEPWXP4+RZCGHyPmdUHZxMSL1fhuBRXtOiKEJYzzmczqCcJGzViS1JJsQlWiTqczSWjIcxh5RTQaboJaBmdCb++/vL67f2EoQeDVK4SIp7dCDAinPnhlvC8nkO1wyThQWUVahAbnXAEYaOITJ2Jmek6q04him3mUPkDhN+/fPr08uXX9yOq+wwh2VSXYk4CeMT+FIVhNRXczPCGMIV9yDMY9ybm3kyYqMuJuN2mUXUKLjrgy30IG5KO4H066qu3gKn0DSLOB3M+iGFZVr2qLgl/E4BCv//xbsKT9oFgTEUeS3WOxVReqdQ5RsaADaE6zYmLw9gfS2wuhLCVjhoXy88Yy10/0KlfXDADUYfqzAjTFegEgVkkLvhghIK+j2cjQfj9BQhffrx/Ev3l2k17eYzcXGwprOAt4VlzUKwuEwthF/B1A/PJu9GXa0Lp3AcQJuYajicxocgYzY7dSdh4C6JcjyeyOnjwGFbVlvBwtD4OeLRYCAWiXYSQP59LB7uALITLhwVfbnFriJFXaMJvN69SgeibNhFjIldXI6PzC3OKiQouvwJYX75qhs2x5nJsLqKUmxCYY/MtizAvqWUZA/qBc1OHxY0vmuQebOVcNyYvxCe61PbTUhqh6hC+QqT58wZAeZdvCROi7aBiWNP7XL7wzAsxMXUmZR9Wqr6URqw4yi9wsnTOEVEeY2hgnMLDKVvKojqGlovxdAihSX1oqLJSdSlWUTeY2uJB9Svd+PH61+vXmwAlY9QkSRMteTqsxIu0+8lHrrBKkqTavX9Di+lO0T8XyC51Y/tGn2/K+E5OTk5OTk5OTk5OTk5OTk5OTk5Oa/0NTXFl73saHo0AAAAASUVORK5CYII="
+      },
+      {
+        "name": "MarkLogic",
+        "link": "https://www.google.com/search?q=MarkLogic&stick=H4sIAAAAAAAAAONgFuLQz9U3MEpKNlPiBLEsDMzj87REspOt9JPzc3Pz86xS8svzyhOLUopXMUoCxXJyUpNLMvPz9POL0hPzMqsSQZziRaycvolF2T756ZnJO1gZAcO6mDpYAAAA&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQxA0wG3oECAwQNQ",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAABICAMAAAAJWw0gAAAAmVBMVEX///////3///4AAADILTX6+vn++vnEABbGHSjCAADFFCDe3t3X19fflpb13tz35eXLysrx1tXHJS7Tamzn5+YmJSb78vHz8/LuyciXl5bcjJDMSU/LP0QxMTBYV1fCwsGurq5AQEASDxCCgoLXd3hsbGuko6N3d3bKNzzioaHDAAnQVVbosrJOTk7qvb0cGhragYLQX2FhYWFovkouAAAD5UlEQVRoge2XeXOiTBCHmx5uuQQcUEEFE4NHPPL9P9z2DKBxF639401Sb+38yhKYw36mu6cHAZSUlJSUlJSUlJT+eWk/rN8A8NuZ7q2hOSZ9K8G9MUgcy3KO30nwG8A+1nX3oAC+HwD7Tbm1bNsO7jeofMDB2XgdhX+xqQf7ZRPwsFX/MyNS2o2GTDwZAwQAmdeNQh6I+cEwZzc82PI/CUQLhK4l5fhyAGbvjKRhu7SS7hfpwNQVDYvadjjOHWtn7fkTArCt5AHA2NWl4qSPSMRObNN6Z0m3y0HnjdZXAPLGOXbzB5HqhhTO+S8BNPBOZX0SbkeoqpqNBoML6Q1AA992g6c5QFXuQQ4MAVQbxlb0BFE1ZS0A3nIRgT74DOA2ViYVAt5StkvG7vsBQJmxukLUoFpuJABCFkWemETzsxSMyGgBuuy/AwAI85y3Rrm8ywW+GcrpQT6mGTCWwx8BTIACTKH3GEgPILyyj7XwCoxeazaNKDMzCUDdbAp3ABDMrXPiJCZNuzgvZye5OLMw0UUOQG7ps8LJIThsQ3wGkLK6BPjYtACwYa9ACVlnkG5O9aJaUasEMN5fR/cegMByOMDBmlNqWi8AvvXCeejH9gzg6FzIPzsbwu2BXwGsWMr+DAC0UC9l0AFEE7JFtym58q2mixeJEHjeaS2DeQMASOw5LZXvrCMUrg+QuzEBQUMApu7SWQezAwDnfQhQS+at8s8A5ILF27QDoJ9dVmwhLGvwxkrRIEa8M9n0CQCOoMcXShrTJYOJ8MDWLciIBMgtN4c2ARH7JLxV4msSEYAGH3XNsg4AjYpNMWIdQCVNkQemI0pWkW09AJo7bEQs0bTEis+6v3UKsQF7gGO/8Os2HNicBCCqEVuTuTYEwqhoSWkpa9balDmwkqM6AHGcxOaLXfQhQP/iH8M20gIgFG5BhDE+BTA2LDUQFrReNBaMbQyo2MSLqCovqwzI74aBiEu5KyguK0BzH9s+5+OZ1ZjcdkIi2e0B5oVpmpy2Ax0XlGPEKWIAhwKeAGA2oUJIuRVR4q9Ok7I8lWlUM/aRfhCMV1JLSd3TE/UsV/TEvGPcFIVOR2lTzE0IKfQXa2ZS4sXikGnoNo+LoiGkQ+MUzcV8BkAeECJfU54YrTQwskyUoIx80na313aAZn4STQQ+DsSyyayz2xECVYC+zwzH/HZoDAOgkLj297KmiSdZ3fqW26Vv7Cd2pRg1KjZ01udz3bz24d17wde+/EBOJU/I3z8y9MUAodPk3Ay3u4cH5Re//lHBvVDKbR/b+er3z67APX5R+fn/hvjD+m/+YispKSkpKSkpKf2f9QuCt0znS//m6QAAAABJRU5ErkJggg=="
+      },
+      {
+        "name": "SIGMOD",
+        "link": "https://www.google.com/search?q=SIGMOD&stick=H4sIAAAAAAAAAONgFuLQz9U3MEpKNlPiBLHSktNzkrVEspOt9JPzc3Pz86xS8svzyhOLUopXMUoCxXJyUpNLMvPz9POL0hPzMqsSQZziRaxswZ7uvv4uO1gZAcC6CPtVAAAA&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQxA0wG3oECAwQNw",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Morgan Kaufmann Publishers",
+        "link": "https://www.google.com/search?q=Morgan+Kaufmann+Publishers&stick=H4sIAAAAAAAAAONgFuLQz9U3MEpKNlPiArPMqkrKzbVEspOt9JPzc3Pz86xS8svzyhOLUopXMUoCxXJyUpNLMvPz9POL0hPzMqsSQZziRaxSvmABBe_E0rTcxLw8hYDSpJzM4ozUouIdrIwAlGleb2oAAAA&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQxA0wG3oECAwQOQ",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABICAMAAAA+uQBRAAAAllBMVEX///+Ij4jx8fH8/Pz///3z8/j29vqCiYL19fX5+fr5+/3L0OLf4ezq6ure3t6ioqLk5/FxfrvFyeHr6vLZ2+nk5OS2trbV1dXPz8+RkZGHh4d+fn7ExMTDyNxMXbBSY7Ffb7VccbJpd7d9hb+Cir+LkcKWnsehp86qr9GyttStra0kPqO5v9oANKIuTKiBkcE+U6uXm5fc3F2BAAAClElEQVRYhe2Y2ZKiMBRAL/sWQOywKZDIFrBpxf//uQnS23SpUz1lZsYazgO5lYQcIKS4AeBPoIoWWJpgwWotWpA/vMB5dMGTWIEKGv7uKZdWjnqxluMUpKATu5ITBEFVVXVdNxNt2zLGOk7f98N6wpnBGKOJ1RNH4+iaPmNxlIk3saWhXNfe0T8K/RPWG7atfAU+RruM4Dnggu/Owf8n+PZr+u8J0MMLVqIFT4IF+iL4FcLTFl20QPgdiBfojy5QrEXw1wW3s5oHEMAiWLgLYWTtha63MAr3rkiBFcqeyPHFo9jnjZaq2PZ5XSjAg3MJNqg8tqcA5gr73Dqfxg/n75WivHa4gkMLRoE5RVUDPDs9GWiAX3BH9IJ2uAha5rQ5sFypGnSoWEfpALSDoirM446iBsjAcnZ9fBVWNYyMOOPAd4SHriFdM+gjq8oaQbGucakSAsDKpqrROKC2G5hJKRS4yneA8MgOQMjN1xBxgXZcF5in2qQ50p5hix6bWbBrj9AOXNChoEYF0lhTrbvyWSv6ApeAnUAeYWhu/tpCFRygXR/oTgXSdqQf6UCbjmojZQ6zC2BrLsitskIvZd06uCGrnhGoUFASzK9OzdtbN3B+TOpreb1tKtSfG+a5VcX/mFtYWFj4feSv3FtgGKeT8Zl7CyQpywxJMqLIiI3MlwQIIl/igizZJ7FvXBaYmWfKoWkm/MPOI9lUZNnzYtN1zwc35jW8i2uashu7piub8bRrimdBEk2CyM8iIzldFniRn278beKHSRil/nbjbf00izZplu3TTZr6+0283W78k596aXryfV7hJmHyegcRf0TSyT/xhiuCKVdx52JKT7wpUuZ6xTKnwDXnju5b//csUfrCvefgB3sQN+hclgxMAAAAAElFTkSuQmCC"
+      }
+    ],
+    "database_organization_link": "https://www.google.com/search?q=Database+organization&stick=H4sIAAAAAAAAAONgFuLQz9U3MEpKNlOCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMUoCxXJyUpNLMvPz9POL0hPzMqsSQZziRayiLokliUmJxakKyBI7WBkBd8as52MAAAA&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQMSgAMBt6BAgMEC0",
+    "database_organization_stick": "H4sIAAAAAAAAAONgFuLQz9U3MEpKNlOCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMUoCxXJyUpNLMvPz9POL0hPzMqsSQZziRayiLokliUmJxakKyBI7WBkBd8as52MAAAA"
+  },
+  "related_questions": [
+    {
+      "question": "What is database software used for?",
+      "snippet": "Database software is a software program or utility used for creating, editing and maintaining database files and records. This type of software allows users to store data in the form of structured fields, tables and columns, which can then be retrieved directly and/or through programmatic access.",
+      "title": "What is Database Software? - Definition from Techopedia",
+      "link": "https://www.techopedia.com/definition/1190/database-software",
+      "displayed_link": "www.techopedia.com › definition › database-software"
+    },
+    {
+      "question": "What is an example of a database software?",
+      "snippet": "Popular DBMS Programs Examples in Use Today Some of the most popular DBMS in use today include Microsoft SQL Server, SAP Sybase ASE, Teradata, ADABAS, MySQL and more. ... These products differ from a standard DBMS in that the former stores data in a table-based system rather than the file-based method used by the latter.Aug 29, 2019",
+      "title": "Examples of Database Management Software | Techwalla.com",
+      "link": "https://www.techwalla.com/articles/examples-of-database-management-software",
+      "displayed_link": "www.techwalla.com › articles › examples-of-database-management-soft..."
+    },
+    {
+      "question": "Which is a database management software?",
+      "snippet": "A database management system (DBMS) is system software for creating and managing databases. The DBMS provides users and programmers with a systematic way to create, retrieve, update and manage data.A DBMS makes it possible for end users to create, read, update and delete data in a database.",
+      "title": "What is a Database Management System? - Definition from WhatIs ...",
+      "link": "https://searchsqlserver.techtarget.com/definition/database-management-system",
+      "displayed_link": "searchsqlserver.techtarget.com › definition › database-management-system"
+    },
+    {
+      "question": "What are database systems?",
+      "snippet": "A database management system (DBMS) is a software package designed to define, manipulate, retrieve and manage data in a database. A DBMS generally manipulates the data itself, the data format, field names, record structure and file structure.",
+      "title": "What is a Database Management System (DBMS)? - Definition from ...",
+      "link": "https://www.techopedia.com/definition/24361/database-management-systems-dbms",
+      "displayed_link": "www.techopedia.com › definition › database-management-systems-dbms"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "What is Database Software? Webopedia Definition",
+      "link": "https://www.webopedia.com/TERM/D/database_software.html",
+      "displayed_link": "www.webopedia.com › TERM › database_software",
+      "snippet": "Database software is the phrase used to describe any software that is designed for creating databases and managing the information stored in them.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ux3xoA4b4n4J:https://www.webopedia.com/TERM/D/database_software.html+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "What is Database Software? - Definition from Techopedia",
+      "link": "https://www.techopedia.com/definition/1190/database-software",
+      "displayed_link": "www.techopedia.com › definition › database-software",
+      "snippet": "Database software is a software program or utility used for creating, editing and maintaining database files and records. This type of software allows users to ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NHPH_ts53XoJ:https://www.techopedia.com/definition/1190/database-software+&cd=10&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.techopedia.com/definition/1190/database-software+what+is+database+software&tbo=1&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQHzAJegQIAhAJ"
+    },
+    {
+      "position": 3,
+      "title": "Database - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Database",
+      "displayed_link": "en.wikipedia.org › wiki › Database",
+      "snippet": "A database is an organized collection of data, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques. The database management system (DBMS) is the software that interacts with ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Terminology and overview",
+            "link": "https://en.wikipedia.org/wiki/Database#Terminology_and_overview"
+          },
+          {
+            "title": "History",
+            "link": "https://en.wikipedia.org/wiki/Database#History"
+          },
+          {
+            "title": "Classification",
+            "link": "https://en.wikipedia.org/wiki/Database#Classification"
+          },
+          {
+            "title": "Database interaction",
+            "link": "https://en.wikipedia.org/wiki/Database#Database_interaction"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_wTKQBWhL8QJ:https://en.wikipedia.org/wiki/Database+&cd=11&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Database+what+is+database+software&tbo=1&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQHzAKegQIBBAJ"
+    },
+    {
+      "position": 4,
+      "title": "Database Software 101 | QuickBase",
+      "link": "https://www.quickbase.com/articles/database-software-basics",
+      "displayed_link": "www.quickbase.com › Articles Landing",
+      "snippet": "Database software is designed to create databases and to store, manage, change, search, and extract the information contained within them. A comprehensive ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:La4Ri6bbe9EJ:https://www.quickbase.com/articles/database-software-basics+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Definition of database program | PCMag",
+      "link": "https://www.pcmag.com/encyclopedia/term/database-program",
+      "displayed_link": "www.pcmag.com › Encyclopedia › D",
+      "snippet": "Software that is used to manage data and information structured as fields, records and files. A database program is the heart of a business information system ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:grBkgB31GgwJ:https://www.pcmag.com/encyclopedia/term/database-program+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Best Database Management Software | 2020 Reviews of the ...",
+      "link": "https://www.capterra.com/database-management-software/",
+      "displayed_link": "www.capterra.com › database-management-software",
+      "snippet": "Find and compare Database Management software. Free, interactive tool to quickly narrow your choices and contact multiple vendors."
+    },
+    {
+      "position": 7,
+      "title": "6 Best Free and Open Source Database Software Options",
+      "link": "https://blog.capterra.com/free-database-software/",
+      "displayed_link": "blog.capterra.com › free-database-software",
+      "date": "Aug 28, 2019",
+      "snippet": "Discover the top 6 free and open source database software that can help your business create, store and retrieve different kinds of ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Th3hvM5QZacJ:https://blog.capterra.com/free-database-software/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "What Is a Database | Oracle",
+      "link": "https://www.oracle.com/database/what-is-database.html",
+      "displayed_link": "www.oracle.com › database › what-is-database",
+      "snippet": "A database typically requires a comprehensive database software program known as a database management system (DBMS). A DBMS serves as an interface ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Rpj4EDk0oxoJ:https://www.oracle.com/database/what-is-database.html+&cd=16&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Top 30 Most Popular Database Management Software: The ...",
+      "link": "https://www.softwaretestinghelp.com/database-management-software/",
+      "displayed_link": "www.softwaretestinghelp.com › database-management-software",
+      "date": "Nov 10, 2019",
+      "snippet": "In-depth Review and Comparison of The Best Free and Licensed Database Management Software Systems. Select a DBMS for your business ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wLQ3YfCtsQAJ:https://www.softwaretestinghelp.com/database-management-software/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Top 10 Free Database Software For Windows, Linux And Mac",
+      "link": "https://www.softwaretestinghelp.com/free-database-software/",
+      "displayed_link": "www.softwaretestinghelp.com › free-database-software",
+      "date": "Nov 10, 2019",
+      "snippet": "Here is the list and comparison of the Top Free Database Software for small businesses. Compare and select the Best free simple database ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:xhC3FxRxyCYJ:https://www.softwaretestinghelp.com/free-database-software/+&cd=18&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "what is database software used for",
+      "link": "https://www.google.com/search?q=what+is+database+software+used+for&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "database software definition and examples",
+      "link": "https://www.google.com/search?q=database+software+definition+and+examples&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "database software free",
+      "link": "https://www.google.com/search?q=database+software+free&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "5 example of database",
+      "link": "https://www.google.com/search?q=5+example+of+database&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "types of database",
+      "link": "https://www.google.com/search?q=types+of+database&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "desktop database software",
+      "link": "https://www.google.com/search?q=desktop+database+software&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "types of database software",
+      "link": "https://www.google.com/search?q=types+of+database+software&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "database management system",
+      "link": "https://www.google.com/search?q=database+management+system&sa=X&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what+is+database+software&ei=LQMmXuWNBrnP0PEPrfediAQ&start=10&sa=N&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ8NMDegQIDxBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what+is+database+software&ei=LQMmXuWNBrnP0PEPrfediAQ&start=10&sa=N&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ8tMDegQIDxAu",
+      "3": "https://www.google.com/search?q=what+is+database+software&ei=LQMmXuWNBrnP0PEPrfediAQ&start=20&sa=N&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ8tMDegQIDxAw",
+      "4": "https://www.google.com/search?q=what+is+database+software&ei=LQMmXuWNBrnP0PEPrfediAQ&start=30&sa=N&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ8tMDegQIDxAy",
+      "5": "https://www.google.com/search?q=what+is+database+software&ei=LQMmXuWNBrnP0PEPrfediAQ&start=40&sa=N&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ8tMDegQIDxA0",
+      "6": "https://www.google.com/search?q=what+is+database+software&ei=LQMmXuWNBrnP0PEPrfediAQ&start=50&sa=N&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ8tMDegQIDxA2",
+      "7": "https://www.google.com/search?q=what+is+database+software&ei=LQMmXuWNBrnP0PEPrfediAQ&start=60&sa=N&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ8tMDegQIDxA4",
+      "8": "https://www.google.com/search?q=what+is+database+software&ei=LQMmXuWNBrnP0PEPrfediAQ&start=70&sa=N&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ8tMDegQIDxA6",
+      "9": "https://www.google.com/search?q=what+is+database+software&ei=LQMmXuWNBrnP0PEPrfediAQ&start=80&sa=N&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ8tMDegQIDxA8",
+      "10": "https://www.google.com/search?q=what+is+database+software&ei=LQMmXuWNBrnP0PEPrfediAQ&start=90&sa=N&ved=2ahUKEwil2Nuv-JLnAhW5JzQIHa17B0EQ8tMDegQIDxA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+database+software&start=10&token=10c6d608db242d8e",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+database+software&start=10&token=10c6d608db242d8e",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+database+software&start=10&token=10c6d608db242d8e",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+database+software&start=20&token=691c080715c069de",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+database+software&start=30&token=d41dc97e15d6d3b2",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+database+software&start=40&token=1451620f7e1a7756",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+database+software&start=50&token=d24f5a9e746381fb",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+database+software&start=60&token=ebb0514ea605229a",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+database+software&start=70&token=4ab72df14a27d186",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+database+software&start=80&token=c4042c22df3cc52d",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+database+software&start=90&token=579b512b5fad6af8"
+    }
+  }
+}

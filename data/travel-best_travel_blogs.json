@@ -1,0 +1,250 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 15:47:06 UTC",
+    "processed_at": "2020-01-21 15:47:06 UTC",
+    "google_url": "https://www.google.com/search?q=best+travel+blogs&oq=best+travel+blogs&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 3.4
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best travel blogs",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "best travel blogs"
+  },
+  "knowledge_graph": {
+    "travel": [
+      {
+        "name": "@spiritedpursuit",
+        "link": "https://www.google.com/search?q=%40spiritedpursuit&stick=H4sIAAAAAAAAAONgVeLVT9c3NMwwSI8vTCtMMxJMSi0uUSgpSixLzVFIyslPLz7FiKrkFCOnfq6-QYpRSU4SslxeTqEJjJ9uVpaTbFKQ94jxIyO3wMsf94SlnjNOWnPyGuMDRi4WJ6AVQtcZubiDU0tC8n3zUzLTKoWOMwodYeQS8MnPL07NqQxKzUksSU0JyRdS42JzzSvJLKkUkuHilQJbbWiSUlyhwSDFzYXgCrWjmVchVMbF6Zuam5RaVOyfJmTFxeWcn5OTmlySmZ8npMMlKiWonwwX0Af7FGikMBemsJKukfalZ7c3sqpysYIFpDhA1lqYpJRrsXGwCjBJMJoy8lTaW0FkeRaxCjgUF2QWZQI9UFBaVFyaWQIAPDU51GgBAAA&sa=X&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQri4wFHoECA4QJw",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADgAOAMBEQACEQEDEQH/xAAbAAADAQADAQAAAAAAAAAAAAAEBQYDAAIHCP/EAC8QAAIBAgQEBQMEAwAAAAAAAAECAwQRAAUSIRMxQVEGImFxgRSh8SNiwfAHkdH/xAAbAQABBQEBAAAAAAAAAAAAAAAFAQIDBAYAB//EACwRAAICAQMCBAUFAQAAAAAAAAECAAMRBBIhMUEFE1FhInGBkaEzwdHh8fD/2gAMAwEAAhEDEQA/APVCPOPfFSWIszyJpfD0yJIY28hDqAStnU33BHTEV36TZGeJJT+oJMeHIuLklI5OolTdtIF/MegwX0hxQsB65c6howNMCOWLIftKpq4zM2ph2wu6N2TCSlBHLC7ow1wSWjHbDw8iNMvywJUg3BsQRjPzVwSviM+SVUKMFd6dwptexsbbY5lDjae8UMUO4dpL+BXhl8L5cA6CR43fRrubF23te9sXdO2KwIP1aZuJhOY5/k+XpeeuhJDaNMbB21drDEnnL6yDymPaJp/HeQrI6RSvLbkyp5Tt6789sNOoA7Rw0zGL5PH2XIyrJTS6redVtqB6ADr9vnCDU57cTjpveJM4/wAgySSFMpihjQLfVOpYk9tjYffljje56CKumXHxSxhz/wASUNZG9bl1PNSMbPHTMdS/uBPX0xVNdmcnEspco4ldFWUtRlTzrLaBkILMLFb32I6HfEbcdZaUhuk+fqqtenen+kvwxShElQaGsS1+XucORMjJPMiuwXyIJGfq6+GjkcRwmQX1Pp6dz/d8OPwIXHWLQgewKxhXiqGjpa2JMv0L5CX4dtN77bD0xFo3d0O+WtaiIwCxS82pjLIxZ2tuSdsWsYGBKBEzmkTT5FUA2uBfp1xwB7zgJ6/Dnj5lNK8QaKCMgRHkzjqxHT0GA3imqcWL5TEAek0Pg2gr8pvOUEn15xNp62V6G6knR+rpXnKRuF5WwyrxFnArt6+sdqfCFrY2UdPSRtEcpmjjgaKWSoDMdbRFSg3YLv1F7fzgtdaKady8n8QPpdG2q1OxztA7d/6+sKjyCCqYPGZafSbrqs1uxsR6nAV/EHQ8gHM0g8Lq2jaSMRR4gyMwUtRVyPxahHW8i7XXla3Tpi7o9atjhAMA/wDdYP1/hzJUbepHf2+UR09DVTovBi167lbOu9vnBYIx6TOvaq9TOslFJ9NLMwRFiZVIY7ktfl/rEZfa4Q9T+0mrQvWbFPAlPTVNTTSK72kapQJHoa8aqRf3uACcCLkrsBHTb98/wZpdObKyrdd3p0x1+4AzKmne0NMDyeML9sBXHxNDajKzCSkSWPjFQ0o5k9Su1/fEvnOPgz8Pp84iVVh9+Bn17/eZ1+b0tDRxTyyoski3ijJ3c9vb1/GFp0tlthRRwOsh1OproGXOD2ivMc1jnoZ3hgmkSXSdeiyqbjY3tfl2OCGn0FlV6ZYZHvKF/ilD6djtbGOeMfuINHUQw6bXjIFrKu2NkibQNw59p5lc292FZO3tnGZyHLRXxStAsUyMysVFgVIBHLvue2BF2ppr1ZNi8AY/uaCjS3v4etdbfETn8EY7+s0qoFhyvhxSjjouniCxJZudvfUR+MAkcvduYcHt7D/MzavR5Wl2A8jv7n+c4j2BuJl9FIAR5VN7E6dvTA51xYwl6thtHuJqlXCZpo1a4UDyqN9RuT/GENTbQTEDckTz2eqaKYTgK7BDw9dm2PLb7/GNOlYK7fvMvrNUWs3DsOPrBHzCoqCBVSvIByBNgPgYlWpU5USg19j8OciGw5jZAJP1B+7mPn/t8W69Sy8GULtFS/IEp6Gno58rDXgmdwpK3Gob9xY7bD4wC1Fzm9jgjkw9RSi0qoPQCTGWtK7JK1WRHBIrJDcsXbpZeXzi3qFUZULyR16fmJoDa5DF+FI45OT8pU0bVvDEUkJRQPJ577Xve2A1oqJ3A59ZqKS4GGGPrBs0qJaZJjTVghsLSMoJLm+3sd+YxNpq1cjcufT2lTxBmSssrbZJPqfSLkhdhfBsACZNyTOJCsqkjZxzUjCkkRoUETAjQdj8HDozpO0UzxOrxtYqbj3whUEYMcHI5E//2Q=="
+      },
+      {
+        "name": "TechCrunch",
+        "link": "https://www.google.com/search?q=TechCrunch&stick=H4sIAAAAAAAAAONgVeLUz9U3SDEqyUkyEkxKLS5RKClKLEvNUUjKyU8vPsXIq5-ub2iYYZAeX5hWmHaKEaEcWS4vp9AExk83K8tJNinIe8T4kZFb4OWPe8JSzxknrTl5jfEBIxeLE9AKoeuMXNzBqSUh-b75KZlplULHGYWOMHIJ-OTnF6fmVAal5iSWpKaE5AupcbG55pVkllQKyXDxSoGtNjRJKa7QYJDi5kJwhdrRzKsQKuPi9E3NTUotKvZPE7Li4nLOz8lJTS7JzM8T0uESlRLUT4YL6IN9CjRSmAtTWEnXSPvSs9sbWVW5WMECUhwgay1MUsq12DhYBZgkGE0ZeSrtrSCyPItYuUJSkzOci0rzkjMAbeY03F4BAAA&sa=X&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQri4wFXoECA4QKg",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAolBMVEX///8KngAJnQAAmQAAmgCQxY6fz54AlwAAlACh0qDJ5Mff8t4WnxOQyI/x+/EAAAA7qTdwvG3D48IRHhGbzpkAjwAAFAB4v3eOkY54fHinqaf4/ffv8O/4+PhobGgABQA6QTrLzMu+v72x1rAwpivR6dDl5uUnLiUADQBlumOLyYqGiYaWmZaeop60trQvNS1OVU4dJx2r16tdYl1PsE1ESkRWdORFAAAB8UlEQVRIie2VcZepUBTFd+WNS5RUKpQiMYpRvO//1d65bsJQy5s/vLfWzG+lyzlnd+6+NwW8nF+1vF2KFvdZtOpQ4ovwXblLQ65lcBEarbvs14VSHbfCuzQkmWokWeYnXl4e8iehiIui0+nrHV/vUehLW/Lp81zH3gm56tOrGEy0kolxFS4RV+woZ2G7W7VRbVZiD+tu2MdCVgW/ufC8PTfCKvj/T1W6D/6dx5bRv2AJnpqqdPMQEzwnfMB3Ejbu4yP+1VQtVm6rwq6fOUoDomZpvZVYaiXUquAj8Hqsm79M1xBj4nrjBtHcBaT+daQt3t/RaLRah7U6X/f4oBoOrcik/96hy8QbYwmE4RS7MTxvnGKcwQ+2CFw3nZIm83bwzcDlqx7HioYBi20DcitWmJbMxDw/VisTaXDqYOZ7k76FZqhnyFd7wGmpS7sY2gssVEg9dOxupEdC+AEfrgd/RMIDDjl2swi7KXWk7FE+Ho9Fh2m8lN5tBesm67Ijt3kWeghyZLnPPZrco9NWJxqGdsE7CiF5TLD1aKB8tkdinoXnjlyoMtZm3KNsO1B6KOilFpnman0gK3yF9TCnQj1AMIP/mzxuUa7qZkMLObGcAhgOoS5o0kmW7mi75qdNS+fzCHRE9NPfpuR/HjXdGj/80MAfI5oyI8wq2QsAAAAASUVORK5CYII="
+      },
+      {
+        "name": "@marisahampe",
+        "link": "https://www.google.com/search?q=%40marisahampe&stick=H4sIAAAAAAAAAONgVeLVT9c3NMwwSI_Pyyk0MRJMSi0uUSgpSixLzVFIyslPLz7FiFBSmFaYdoqRUz9X3yDFqCQnCVkOpB3GTzcry0k2Kch7xPiRkVvg5Y97wlLPGSetOXmN8QEjF4sT0Aqh64xc3MGpJSH5vvkpmWmVQscZhY4wcgn45OcXp-ZUBqXmJJakpoTkC6lxsbnmlWSWVArJcPFKga02NEkprtBgkOLmQnCF2tHMqxAq4-L0Tc1NSi0q9k8TsuLics7PyUlNLsnMzxPS4RKVEtRPhgvog30KNFKYC1NYSddI-9Kz2xtZVblYwQJSHCBrLUxSyrXYOFgFmCQYTRl5Ku2tILI8i1h5HHITizKLEzMScwtSAa8k1jFkAQAA&sa=X&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQri4wFnoECA4QLQ"
+      },
+      {
+        "name": "lonelyplanet",
+        "link": "https://www.google.com/search?q=lonelyplanet&stick=H4sIAAAAAAAAAONgVeLVT9c3NEw3K8tJNinIMxJMSi0uUSgpSixLzVFIyslPLz7FCFGSYZAeX5hWmHaKkVM_V98gxagkJwlZLi-n0ATGhxn3iPEjI7fAyx_3hKWeM05ac_Ia4wNGLhYnoBVC1xm5uINTS0LyffNTMtMqhY4zCh1h5BLwyc8vTs2pDErNSSxJTQnJF1LjYnPNK8ksqRSS4eKVAlttaJJSXKHBIMXNheAKtaOZVyFUxsXpm5qblFpU7J8mZMXF5Zyfk5OaXJKZnyekwyUqJaifDBfQB_sUaKQwF6awkq6R9qVntzeyqnKxggWkOEDWWpiklGuxcbAKMEkwmjLyVNpbQWR5FrHy5OTnAT1RkJOYl1oCAK4KA1tkAQAA&sa=X&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQri4wF3oECA4QLw"
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "What are the best travel blogs?",
+      "snippet": "The best travel blogs: 50 must-read, top travel blogs for experienced adventurers and aspiring travelersAdventurous Kate – The Solo Female Travel Blog. @adventurouskate. ... Amateur Traveler. @chris2x. ... Backpacking Matt. @backpackingmatt. ... Gaijin Crew. ... Be My Travel Muse. ... The Blonde Abroad. ... Borders of Adventure. ... Brendan's Adventures.More items...•May 1, 2019",
+      "title": "51 Best Travel Blogs to Follow (2019) - Place Pass",
+      "link": "https://www.placepass.com/blog/best-travel-blogs",
+      "displayed_link": "www.placepass.com › blog › best-travel-blogs"
+    },
+    {
+      "question": "Who are the best travel bloggers?",
+      "snippet": "Here are the top 10 travel bloggers you should already be following.Dan Flying Solo.A Broken Backpack.Lili's Travel Plans.The Blog Abroad.My Life's A Movie.Drew Binksy.The Blonde Abroad.Travel Break.More items...•Jun 25, 2019",
+      "title": "Top 10 Travel Bloggers You Should Already Be Following",
+      "link": "https://www.under30experiences.com/blog/top-10-travel-bloggers-you-should-already-be-following",
+      "displayed_link": "www.under30experiences.com › blog › top-10-travel-bloggers-you-sho..."
+    },
+    {
+      "question": "How much money can you make from a travel blog?",
+      "snippet": "Once established, your travel blog itself may earn $3,000 – $5,000 / month, but if you've broadened your horizons and started working on other income streams like freelance writing, content creation, social media management and consulting services, you can double or triple this figure.Oct 20, 2016",
+      "title": "How Much Money Can You Make From a Travel Blog? - Goats On ...",
+      "link": "https://www.goatsontheroad.com/much-can-make-travel-blog/",
+      "displayed_link": "www.goatsontheroad.com › much-can-make-travel-blog"
+    },
+    {
+      "question": "What is the most popular travel website?",
+      "snippet": "These Are the Most Popular Travel Booking SitesKayak.com.Makemytrip.com.Cheapoair.com.Trivago.com.Hotelurbano.com.Orbitz.com.Hotwire.com.Travelocity.com.More items...•Jun 27, 2014",
+      "title": "These Are the Most Popular Travel Booking Sites | SmarterTravel",
+      "link": "https://www.smartertravel.com/these-are-the-most-popular-travel-booking-sites/",
+      "displayed_link": "www.smartertravel.com › these-are-the-most-popular-travel-booking-sites"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Best Travel Blogs of 2020: My Current List of Favorites",
+      "link": "https://www.nomadicmatt.com/travel-blogs/my-current-list-of-favorite-blogs/",
+      "displayed_link": "www.nomadicmatt.com › Travel Blog",
+      "date": "Jan 4, 2020",
+      "snippet": "Highlighting some of my favorite travel blogs that can help you travel better. While there are many good blogs out there, I recommend starting ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Y56CiEsZgSQJ:https://www.nomadicmatt.com/travel-blogs/my-current-list-of-favorite-blogs/+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Top 10 Travel Bloggers You Should Already Be Following",
+      "link": "https://www.under30experiences.com/blog/top-10-travel-bloggers-you-should-already-be-following",
+      "displayed_link": "www.under30experiences.com › blog › top-10-travel-bloggers-you-s...",
+      "date": "Oct 1, 2019",
+      "snippet": "Here are the top 10 travel bloggers you should already be following. Lili's Travel Plans. The Blog Abroad. My Life's A Movie. Drew Binksy. The Blonde Abroad. Travel Break. Backpacker Banter. Nomadic Boys.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7OAILofTSkEJ:https://www.under30experiences.com/blog/top-10-travel-bloggers-you-should-already-be-following+&cd=2&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "51 Best Travel Blogs to Follow (2019) - Place Pass",
+      "link": "https://www.placepass.com/blog/best-travel-blogs",
+      "displayed_link": "www.placepass.com › Home › Worldwide",
+      "date": "Dec 2, 2019",
+      "snippet": "The best travel blogs: 50 must-read, top travel blogs for experienced adventurers and aspiring travelers. Adventurous Kate – The Solo Female Travel Blog. @adventurouskate. Amateur Traveler. @chris2x. Backpacking Matt. @backpackingmatt. Gaijin Crew. Be My Travel Muse. The Blonde Abroad. Borders of Adventure. Brendan's ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:I4HL9NXlQVIJ:https://www.placepass.com/blog/best-travel-blogs+&cd=3&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Best Travel Blogs Of 2020 (Start Following Them Today!)",
+      "link": "https://expertvagabond.com/travel-blogs/",
+      "displayed_link": "expertvagabond.com › travel-blogs",
+      "snippet": "His photography and writing are some of the best I've seen online from an independent travel blog. You'll get lost for hours reading his stories from around the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:eHBss13HZBYJ:https://expertvagabond.com/travel-blogs/+&cd=12&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://expertvagabond.com/travel-blogs/+best+travel+blogs&tbo=1&sa=X&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQHzALegQIAhAJ"
+    },
+    {
+      "position": 5,
+      "title": "14 Most Beautiful Travel Blogs in 2019 - That Takes ...",
+      "link": "https://www.bucketlistly.blog/posts/ten-best-travel-blogs-design",
+      "displayed_link": "www.bucketlistly.blog › posts › ten-best-travel-blogs-design",
+      "date": "Dec 19, 2019",
+      "snippet": "Travel blogs can be both beautiful, informative and interactive. Here are the top 14 best travel blogs that take travel storytelling to the next level.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best Travel Blogs in 2019.",
+            "link": "https://www.bucketlistly.blog/posts/ten-best-travel-blogs-design#the-best-design-travel-blogs-in-2019"
+          },
+          {
+            "title": "The Best Design Travel ...",
+            "link": "https://www.bucketlistly.blog/posts/ten-best-travel-blogs-design#the-best-design-travel-blogs-in-2018"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YRMxPBktcv8J:https://www.bucketlistly.blog/posts/ten-best-travel-blogs-design+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "The Best Travel Blogs and Websites 2019 - Fathom",
+      "link": "https://fathomaway.com/best-travel-blogs-and-websites/",
+      "displayed_link": "fathomaway.com › best-travel-blogs-and-websites",
+      "date": "Jan 10, 2019",
+      "snippet": "We're proud to present the Best Travel Blogs and Websites 2019: The sites we happily return to, collaborate with, and recommend again and ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wPEE1_Ha7-UJ:https://fathomaway.com/best-travel-blogs-and-websites/+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Most Famous Travel Bloggers on the Web in 2020",
+      "link": "https://blog.travelpayouts.com/en/famous-travel-bloggers/",
+      "displayed_link": "blog.travelpayouts.com › famous-travel-bloggers",
+      "date": "Jump to Top 15 travel bloggers",
+      "snippet": "We tried to collect the best travel bloggers on the web in 2020 in various travel-related niches. Following is our ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:aISmUfFxkQMJ:https://blog.travelpayouts.com/en/famous-travel-bloggers/+&cd=15&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://blog.travelpayouts.com/en/famous-travel-bloggers/+best+travel+blogs&tbo=1&sa=X&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQHzAOegQIChAJ"
+    },
+    {
+      "position": 8,
+      "title": "World's top 10 travel influencers, according to Forbes - CNN.com",
+      "link": "https://www.cnn.com/travel/article/forbes-travel-top-influencers/index.html",
+      "displayed_link": "www.cnn.com › travel › article › forbes-travel-top-influencers",
+      "date": "Jun 27, 2017",
+      "snippet": "(CNN) — Already seething with envy over travel bloggers who make a career out of being on permanent vacation? Best look away now.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XexQnlFNvkgJ:https://www.cnn.com/travel/article/forbes-travel-top-influencers/index.html+&cd=16&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Best Travel Blogs - Who to Follow in 2019 | The Planet D",
+      "link": "https://theplanetd.com/travel-blogs/",
+      "displayed_link": "theplanetd.com › travel-blogs",
+      "snippet": "The best travel blogs that have years of experience and great information. These top travel blogs keep performing and are a great travel resource for anyone ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HTr81fBt6t8J:https://theplanetd.com/travel-blogs/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "The top 15 travel blogs you must read | Wanderlust",
+      "link": "https://www.wanderlust.co.uk/content/the-top-travel-blogs-you-must-read/",
+      "displayed_link": "www.wanderlust.co.uk › content › the-top-travel-blogs-you-must-read",
+      "date": "Mar 9, 2019",
+      "snippet": "We've listed the best blogs in responsible, eco-travel, food, wildlife, adventure and language-learning travel.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:oowR0_a8pHQJ:https://www.wanderlust.co.uk/content/the-top-travel-blogs-you-must-read/+&cd=18&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [
+    {
+      "position": 1,
+      "query": "Food blogs",
+      "results": []
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "best travel blogs 2019",
+      "link": "https://www.google.com/search?q=best+travel+blogs+2019&sa=X&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ1QIoAHoECAsQAQ"
+    },
+    {
+      "query": "best travel blogs india",
+      "link": "https://www.google.com/search?q=best+travel+blogs+india&sa=X&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ1QIoAXoECAsQAg"
+    },
+    {
+      "query": "best travel blogs 2018",
+      "link": "https://www.google.com/search?q=best+travel+blogs+2018&sa=X&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ1QIoAnoECAsQAw"
+    },
+    {
+      "query": "female travel blogs",
+      "link": "https://www.google.com/search?q=female+travel+blogs&sa=X&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ1QIoA3oECAsQBA"
+    },
+    {
+      "query": "personal travel blogs",
+      "link": "https://www.google.com/search?q=personal+travel+blogs&sa=X&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ1QIoBHoECAsQBQ"
+    },
+    {
+      "query": "travel blog example",
+      "link": "https://www.google.com/search?q=travel+blog+example&sa=X&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ1QIoBXoECAsQBg"
+    },
+    {
+      "query": "travel blogs europe",
+      "link": "https://www.google.com/search?q=travel+blogs+europe&sa=X&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ1QIoBnoECAsQBw"
+    },
+    {
+      "query": "create a travel blog",
+      "link": "https://www.google.com/search?q=create+a+travel+blog&sa=X&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ1QIoB3oECAsQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+travel+blogs&ei=_BwnXpv7JIiW4-EPh_yPgAo&start=10&sa=N&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ8NMDegQIDhBP",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+travel+blogs&ei=_BwnXpv7JIiW4-EPh_yPgAo&start=10&sa=N&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ8tMDegQIDhA9",
+      "3": "https://www.google.com/search?q=best+travel+blogs&ei=_BwnXpv7JIiW4-EPh_yPgAo&start=20&sa=N&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ8tMDegQIDhA_",
+      "4": "https://www.google.com/search?q=best+travel+blogs&ei=_BwnXpv7JIiW4-EPh_yPgAo&start=30&sa=N&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ8tMDegQIDhBB",
+      "5": "https://www.google.com/search?q=best+travel+blogs&ei=_BwnXpv7JIiW4-EPh_yPgAo&start=40&sa=N&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ8tMDegQIDhBD",
+      "6": "https://www.google.com/search?q=best+travel+blogs&ei=_BwnXpv7JIiW4-EPh_yPgAo&start=50&sa=N&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ8tMDegQIDhBF",
+      "7": "https://www.google.com/search?q=best+travel+blogs&ei=_BwnXpv7JIiW4-EPh_yPgAo&start=60&sa=N&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ8tMDegQIDhBH",
+      "8": "https://www.google.com/search?q=best+travel+blogs&ei=_BwnXpv7JIiW4-EPh_yPgAo&start=70&sa=N&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ8tMDegQIDhBJ",
+      "9": "https://www.google.com/search?q=best+travel+blogs&ei=_BwnXpv7JIiW4-EPh_yPgAo&start=80&sa=N&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ8tMDegQIDhBL",
+      "10": "https://www.google.com/search?q=best+travel+blogs&ei=_BwnXpv7JIiW4-EPh_yPgAo&start=90&sa=N&ved=2ahUKEwib6bWQhZXnAhUIyzgGHQf-A6AQ8tMDegQIDhBN"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+blogs&start=10&token=9a02d58a978e5b30",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+blogs&start=10&token=9a02d58a978e5b30",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+blogs&start=10&token=9a02d58a978e5b30",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+blogs&start=20&token=6735496fb7234370",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+blogs&start=30&token=1504500056999774",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+blogs&start=40&token=9900c0702f33ce71",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+blogs&start=50&token=8ad86d81b09a6803",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+blogs&start=60&token=7437afd9a6751d24",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+blogs&start=70&token=b92b471e1552ad4b",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+blogs&start=80&token=217989a17584aebe",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+blogs&start=90&token=5ca5351653e60d8f"
+    }
+  }
+}

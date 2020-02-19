@@ -1,0 +1,336 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 19:44:21 UTC",
+    "processed_at": "2020-01-20 19:44:21 UTC",
+    "google_url": "https://www.google.com/search?q=what+is+enterprise+software&oq=what+is+enterprise+software&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.24
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what is enterprise software",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 1100000000,
+    "time_taken_displayed": 0.54,
+    "query_displayed": "what is enterprise software"
+  },
+  "knowledge_graph": {
+    "title": "Enterprise software",
+    "type": "Software grouping",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "description": "Enterprise software, also known as enterprise application software, is computer software used to satisfy the needs of an organization rather than individual users. Such organizations include businesses, schools, interest-based user groups, clubs, charities, and governments.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Enterprise_software"
+    }
+  },
+  "inline_videos": [
+    {
+      "title": "What is ENTERPRISE SOFTWARE? What does ENTERPRISE ...",
+      "link": "https://www.youtube.com/watch?v=84RsYvBJEUA",
+      "thumbnail": "data:image/png;base64,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",
+      "channel": "The Audiopedia",
+      "duration": "4:06",
+      "platform": "YouTube",
+      "date": "Oct 18, 2017"
+    },
+    {
+      "title": "The Evolution of Enterprise Software and IT",
+      "link": "https://www.youtube.com/watch?v=JYLgu7l0hbM",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "OutSystems",
+      "duration": "6:14",
+      "platform": "YouTube",
+      "date": "Oct 18, 2010"
+    },
+    {
+      "title": "The 17-minute Guide to Enterprise Software Sales — The ...",
+      "link": "https://www.youtube.com/watch?v=O8iOYngEUBU",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Scale Venture Partners",
+      "duration": "17:39",
+      "platform": "YouTube",
+      "date": "Jan 7, 2017"
+    },
+    {
+      "title": "What is ERP System? (Enterprise Resource Planning)",
+      "link": "https://www.youtube.com/watch?v=c9HfNg4a_Og",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOWa6Iy_LX0feaWYRHsUP5Pv88cNmimGX42Cq9odPEOL9AaysgDcXQ5aZyLA",
+      "channel": "Oracle",
+      "duration": "1:19",
+      "platform": "YouTube",
+      "date": "Sep 8, 2017"
+    },
+    {
+      "title": "Fly is an enterprise software company for corporate travel ...",
+      "link": "https://www.youtube.com/watch?v=cgEqJJT4WBM",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1Re3QYERdzdRd0_wsvijqGD-W5OiQSUY0h-jCx08iRHZYBL0NYredbxQw",
+      "channel": "TechCrunch",
+      "duration": "3:08",
+      "platform": "YouTube",
+      "date": "Nov 13, 2019"
+    },
+    {
+      "title": "Okta co-founder on future of enterprise software and going ...",
+      "link": "https://www.cnbc.com/video/2019/12/09/okta-co-founder-on-future-of-enterprise-software-and-going-public.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xgTc3iHBWx2QRghY6zknJUKbxsDAupgY5Bpz1Hwz4TdAkAWAt01BEgDOsI3YMwh4RZN7Dtw&usqp=CAI&s",
+      "channel": "",
+      "duration": "4:30",
+      "platform": "CNBC.com",
+      "date": "Dec 9, 2019"
+    },
+    {
+      "title": "Zoho CEO Sridhar Vembu on Building an Enterprise Software ...",
+      "link": "https://www.youtube.com/watch?v=LZNLC1t4hYk",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm9f6SvMQNuPxyYx_RI0ZqxGtP-OEXdDd3OX6okvdLXuDP6UBoKeaH943j",
+      "channel": "CXOTALK",
+      "duration": "44:38",
+      "platform": "YouTube",
+      "date": "May 3, 2019"
+    },
+    {
+      "title": "ServiceNow CEO says the company is not worried about ...",
+      "link": "https://www.cnbc.com/video/2019/12/05/servicenows-bill-mcdermott-says-he-is-not-worried-about-crowded-enterprise-software-landscape.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrkuD81ViA4o19TaLZR9Mdbh_7sjY9rub62kFQiHlUa8mqwRx7nGwoWk250mqla7BS9j5HHIo&usqp=CAI&s",
+      "channel": "",
+      "duration": "7:18",
+      "platform": "CNBC.com",
+      "date": "Dec 5, 2019"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the examples of enterprise software?",
+      "snippet": "Such organizations include businesses, schools, interest-based user groups, clubs, charities, and governments. Enterprise software is an integral part of a (computer-based) information system; a collection of such software is called an Enterprise system.",
+      "title": "Enterprise software - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Enterprise_software",
+      "displayed_link": "en.wikipedia.org › wiki › Enterprise_software"
+    },
+    {
+      "question": "What is an enterprise application system?",
+      "snippet": "An enterprise application (EA) is a large software system platform designed to operate in a corporate environment such as business or government. EAs are complex, scalable, component-based, distributed and mission critical.",
+      "title": "What is an Enterprise Application? - Definition from Techopedia",
+      "link": "https://www.techopedia.com/definition/24804/enterprise-application-ea",
+      "displayed_link": "www.techopedia.com › definition › enterprise-application-ea"
+    },
+    {
+      "question": "What's enterprise software based on?",
+      "snippet": "An enterprise is a large-scale organization, so it follows that enterprise application software is large-scale software. Beyond just the size of the software, enterprise application software typically refers to software that provides mission critical solutions to the entire or majority of the organization.Aug 16, 2017",
+      "title": "Enterprise Application Software Defined: How Is It Different from ...",
+      "link": "https://www.bmc.com/blogs/enterprise-application-software-defined-how-is-it-different-from-other-software/",
+      "displayed_link": "www.bmc.com › blogs › enterprise-application-software-defined-how-is..."
+    },
+    {
+      "question": "What is Enterprise SaaS?",
+      "snippet": "In the traditional definition, enterprise software is software your organization buys and installs on your organization's servers. By contrast, SaaS software is software that you “rent” and is hosted “in the cloud” and accessed via the internet.",
+      "title": "The Difference Between Enterprise Software and Software",
+      "link": "https://effectivedatabase.com/the-difference-between-enterprise-software-and-software-as-a-service/",
+      "displayed_link": "effectivedatabase.com › the-difference-between-enterprise-software-and-..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Enterprise software - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Enterprise_software",
+      "displayed_link": "en.wikipedia.org › wiki › Enterprise_software",
+      "snippet": "Enterprise software, also known as enterprise application software (EAS), is computer software used to satisfy the needs of an organization rather than individual users. Such organizations include businesses, schools, interest-based user groups, clubs, charities, and governments.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Definitions",
+            "link": "https://en.wikipedia.org/wiki/Enterprise_software#Definitions"
+          },
+          {
+            "title": "Enterprise system",
+            "link": "https://en.wikipedia.org/wiki/Enterprise_software#Enterprise_system"
+          },
+          {
+            "title": "Types",
+            "link": "https://en.wikipedia.org/wiki/Enterprise_software#Types"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jK69coNufu8J:https://en.wikipedia.org/wiki/Enterprise_software+&cd=1&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Enterprise_software+what+is+enterprise+software&tbo=1&sa=X&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQHzAAegQIAhAJ"
+    },
+    {
+      "position": 2,
+      "title": "Enterprise Application Software Defined: How Is It Different ...",
+      "link": "https://www.bmc.com/blogs/enterprise-application-software-defined-how-is-it-different-from-other-software/",
+      "displayed_link": "www.bmc.com › blogs › enterprise-application-software-defined-how...",
+      "date": "Aug 16, 2017",
+      "snippet": "When we talk about technology, it is sometimes overwhelming to keep on top of new terminology and trends. Enterprise application software ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:O3_-nQHj3lcJ:https://www.bmc.com/blogs/enterprise-application-software-defined-how-is-it-different-from-other-software/+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "What is Enterprise Software? - Definition from Techopedia",
+      "link": "https://www.techopedia.com/definition/7045/enterprise-software",
+      "displayed_link": "www.techopedia.com › definition › enterprise-software",
+      "snippet": "Enterprise software is an over-arching term for any software used in large organizations (whether business or government). It is considered to be an essential ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:iqp7nV_iLkcJ:https://www.techopedia.com/definition/7045/enterprise-software+&cd=11&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.techopedia.com/definition/7045/enterprise-software+what+is+enterprise+software&tbo=1&sa=X&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQHzAKegQIBxAJ"
+    },
+    {
+      "position": 4,
+      "title": "6 Enterprise Software Applications No Business Should be ...",
+      "link": "https://www.sisense.com/blog/10-enterprise-software-applications-no-business-without/",
+      "displayed_link": "www.sisense.com › blog › 10-enterprise-software-applications-no-bus...",
+      "date": "May 15, 2017",
+      "snippet": "Your guide to the best enterprise software tools for managing projects, interacting with clients, controlling cash flow, and analyzing business ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sb8c0WjUyVwJ:https://www.sisense.com/blog/10-enterprise-software-applications-no-business-without/+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "What is Enterprise Software? » EGA Futura",
+      "link": "https://www.egafutura.com/wiki-en/what-is-enterprise-software",
+      "displayed_link": "www.egafutura.com › wiki-en › what-is-enterprise-software",
+      "snippet": "In today's business world, where the quantum of business is too large, enterprise software is the one of the key factors that sets the business operational ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ROsGHZWCoVwJ:https://www.egafutura.com/wiki-en/what-is-enterprise-software+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "What is enterprise software? - Quora",
+      "link": "https://www.quora.com/What-is-enterprise-software-1",
+      "displayed_link": "www.quora.com › What-is-enterprise-software-1",
+      "date": "Dec 15, 2015",
+      "snippet": "Enterprise Software includes those types of applications and services that support business activities. While business are often partitioned into 'verticals' - like ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What is the definition of Enterprise software?",
+            "link": "https://www.quora.com/What-is-the-definition-of-Enterprise-software",
+            "answer_count": 2,
+            "date": "Oct 8, 2014"
+          },
+          {
+            "title": "Why is enterprise software often so complicated?",
+            "link": "https://www.quora.com/Why-is-enterprise-software-often-so-complicated",
+            "answer_count": 20,
+            "date": "Sep 14, 2014"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "answers": 15
+          },
+          "extensions": [
+            "15 answers"
+          ]
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Enterprise Software Solutions | Types Incl. CRM, ERP, SCM ...",
+      "link": "https://www.selecthub.com/enterprise-resource-planning/enterprise-software-solutions/",
+      "displayed_link": "www.selecthub.com › enterprise-resource-planning › enterprise-softw...",
+      "date": "Aug 26, 2019",
+      "snippet": "The bigger a business gets, the more diverse its software needs become. Enterprise software solutions are an efficient way to hasten workflows ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:l0aMbK2ABwYJ:https://www.selecthub.com/enterprise-resource-planning/enterprise-software-solutions/+&cd=23&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "What is an Enterprise Application? Webopedia Definition",
+      "link": "https://www.webopedia.com/TERM/E/enterprise_application.html",
+      "displayed_link": "www.webopedia.com › TERM › enterprise_application",
+      "snippet": "An enterprise application is the phrase used to describe applications (or software) that a business would use to assist the organization in solving enterprise ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VHQkLmsD76UJ:https://www.webopedia.com/TERM/E/enterprise_application.html+&cd=24&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Enterprise Application Software - Gartner",
+      "link": "https://www.gartner.com/en/information-technology/glossary/enterprise-application-software",
+      "displayed_link": "www.gartner.com › information-technology › glossary › enterprise-a...",
+      "snippet": "Enterprise application software includes content, communication, and collaboration software; CRM software; digital and content creation software, ERP software; ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FcZaJs92BUkJ:https://www.gartner.com/en/information-technology/glossary/enterprise-application-software+&cd=25&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [
+    {
+      "position": 1,
+      "query": "Types of application softwareView 3+ moreView 3+",
+      "results": []
+    },
+    {
+      "position": 2,
+      "query": "List of business software applications",
+      "results": []
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "enterprise software companies",
+      "link": "https://www.google.com/search?q=enterprise+software+companies&sa=X&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ1QIoAHoECBQQAQ"
+    },
+    {
+      "query": "enterprise software vs saas",
+      "link": "https://www.google.com/search?q=enterprise+software+vs+saas&sa=X&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ1QIoAXoECBQQAg"
+    },
+    {
+      "query": "characteristics of enterprise application",
+      "link": "https://www.google.com/search?q=characteristics+of+enterprise+application&sa=X&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ1QIoAnoECBQQAw"
+    },
+    {
+      "query": "enterprise system",
+      "link": "https://www.google.com/search?q=enterprise+system&sa=X&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ1QIoA3oECBQQBA"
+    },
+    {
+      "query": "what is enterprise application in java",
+      "link": "https://www.google.com/search?q=what+is+enterprise+application+in+java&sa=X&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ1QIoBHoECBQQBQ"
+    },
+    {
+      "query": "information worker software",
+      "link": "https://www.google.com/search?q=information+worker+software&sa=X&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ1QIoBXoECBQQBg"
+    },
+    {
+      "query": "enterprise computing",
+      "link": "https://www.google.com/search?q=enterprise+computing&sa=X&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ1QIoBnoECBQQBw"
+    },
+    {
+      "query": "enterprise resource planning",
+      "link": "https://www.google.com/search?q=enterprise+resource+planning&sa=X&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ1QIoB3oECBQQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what+is+enterprise+software&ei=FgMmXovHOcaJoATyqaygBw&start=10&sa=N&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ8NMDegQIERBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what+is+enterprise+software&ei=FgMmXovHOcaJoATyqaygBw&start=10&sa=N&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ8tMDegQIERAv",
+      "3": "https://www.google.com/search?q=what+is+enterprise+software&ei=FgMmXovHOcaJoATyqaygBw&start=20&sa=N&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ8tMDegQIERAx",
+      "4": "https://www.google.com/search?q=what+is+enterprise+software&ei=FgMmXovHOcaJoATyqaygBw&start=30&sa=N&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ8tMDegQIERAz",
+      "5": "https://www.google.com/search?q=what+is+enterprise+software&ei=FgMmXovHOcaJoATyqaygBw&start=40&sa=N&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ8tMDegQIERA1",
+      "6": "https://www.google.com/search?q=what+is+enterprise+software&ei=FgMmXovHOcaJoATyqaygBw&start=50&sa=N&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ8tMDegQIERA3",
+      "7": "https://www.google.com/search?q=what+is+enterprise+software&ei=FgMmXovHOcaJoATyqaygBw&start=60&sa=N&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ8tMDegQIERA5",
+      "8": "https://www.google.com/search?q=what+is+enterprise+software&ei=FgMmXovHOcaJoATyqaygBw&start=70&sa=N&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ8tMDegQIERA7",
+      "9": "https://www.google.com/search?q=what+is+enterprise+software&ei=FgMmXovHOcaJoATyqaygBw&start=80&sa=N&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ8tMDegQIERA9",
+      "10": "https://www.google.com/search?q=what+is+enterprise+software&ei=FgMmXovHOcaJoATyqaygBw&start=90&sa=N&ved=2ahUKEwiLqpOl-JLnAhXGBIgKHfIUC3QQ8tMDegQIERA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+enterprise+software&start=10&token=51cbcfe3bc5e5aaa",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+enterprise+software&start=10&token=51cbcfe3bc5e5aaa",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+enterprise+software&start=10&token=51cbcfe3bc5e5aaa",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+enterprise+software&start=20&token=e547b165c6604e1a",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+enterprise+software&start=30&token=4bd5c802c66a43c1",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+enterprise+software&start=40&token=546eb578c6877a3b",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+enterprise+software&start=50&token=66c4bb896104998e",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+enterprise+software&start=60&token=feeef3fc95a2a3f5",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+enterprise+software&start=70&token=f7be1cbbe121b900",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+enterprise+software&start=80&token=ce260b6faa9103b6",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+enterprise+software&start=90&token=f23aabd40bd8c974"
+    }
+  }
+}

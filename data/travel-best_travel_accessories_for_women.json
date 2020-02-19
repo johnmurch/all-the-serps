@@ -1,0 +1,379 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 16:33:01 UTC",
+    "processed_at": "2020-01-21 16:33:01 UTC",
+    "google_url": "https://www.google.com/search?q=best+travel+accessories+for+women&oq=best+travel+accessories+for+women&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 14.12
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best travel accessories for women",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 1550000000,
+    "time_taken_displayed": 0.64,
+    "query_displayed": "best travel accessories for women"
+  },
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Travel KitTravel KitTravel Kit",
+      "price": "$81.00",
+      "extracted_price": 81,
+      "link": "https://www.grownalchemist.com/us/travel-kit.html",
+      "source": "Grown Alchemist",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 2,
+      "title": "Matador Droplet XL Dry Bag - Dark BlueMatador Droplet XL Dry Bag - Dark BlueMatador Droplet XL Dry Bag - Dark Blue",
+      "price": "$39.99",
+      "extracted_price": 39.99,
+      "link": "https://gallantry.com/products/matador-droplet-xl-20l-dry-bag",
+      "source": "Gallantry",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 3,
+      "title": "Caraa Travel Kit: Women's Weekender Travel BagCaraa Travel Kit: Women's Weekender Travel BagCaraa Travel Kit: Women's Weekender Travel Bag",
+      "price": "$95.00",
+      "extracted_price": 95,
+      "link": "http://caraasport.com/products/travel-kit?dfw_tracker=27702-12886012657744",
+      "source": "Caraa ",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 4,
+      "title": "West Elm Toiletry Kit, BlackWest Elm Toiletry Kit, BlackWest Elm Toiletry Kit, Black",
+      "price": "$39.00",
+      "extracted_price": 39,
+      "link": "https://www.westelm.com/products/west-elm-toiletry-kit-d6132/?catalogId=71&sku=5906403&cm_ven=PLA&cm_cat=Google&cm_pla=Storage%20%3E%20Luggage",
+      "source": "west elm",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 5,
+      "title": "Women's Travel Case Set In Soft Rose Pink | Pebbled Leather by CuyanaWomen's Travel Case Set In Soft Rose Pink | Pebbled Leather by CuyanaWomen's Travel Case Set In Soft Rose Pink | Pebbled Leather by Cuyana",
+      "price": "$120.00",
+      "extracted_price": 120,
+      "link": "https://www.cuyana.com/leather-travel-case-set.html#soft-rose",
+      "source": "Cuyana",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 6,
+      "title": "Traveller Collective Dainty Silver Travel Charm NecklaceTraveller Collective Dainty Silver Travel Charm NecklaceTraveller Collective Dainty Silver Travel Charm Necklace",
+      "price": "$22.50",
+      "extracted_price": 22.5,
+      "link": "https://travellercollective.com/collections/necklaces/products/dainty-silver-necklace",
+      "source": "Traveller Collec...",
+      "rating": 4.9,
+      "reviews": 192,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=best+travel+accessories+for+women&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=33999299,-81078960,10777&tbm=lcl&sa=X&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQtgN6BAgMEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 33.999299,
+      "longitude": -81.07896,
+      "altitude": 10777
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=best+travel+accessories+for+women&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=33999299,-81078960,10777&tbm=lcl&sa=X&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQjGp6BAgMEEc",
+    "places": [
+      {
+        "position": 1,
+        "title": "Anthropologie",
+        "place_id": "10438903098876008586",
+        "lsig": "AB86z5XMuhxKQDK6Ud7-f6hce4ZP",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XMuhxKQDK6Ud7-f6hce4ZP&ludocid=10438903098876008586&q=best+travel+accessories+for+women&tbm=lcl&token=cfd48bb430c56452",
+        "rating": 4.4,
+        "reviews": 40,
+        "price": "$$$",
+        "type": "Women's clothing store",
+        "address": "Columbia, SC",
+        "phone": "In Trenholm Plaza",
+        "description": "Their website mentions women's travel accessories",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 34.0176832,
+          "longitude": -80.9640941
+        }
+      },
+      {
+        "position": 2,
+        "title": "Target",
+        "place_id": "12842786999445734100",
+        "lsig": "AB86z5X60v8dKYNQipHrv3waAVhc",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5X60v8dKYNQipHrv3waAVhc&ludocid=12842786999445734100&q=best+travel+accessories+for+women&tbm=lcl&token=25c8f841210e8d20",
+        "rating": 4.3,
+        "reviews": 250,
+        "price": "$$",
+        "type": "Department store",
+        "address": "Lexington, SC",
+        "phone": "In Lexington Pavilion",
+        "description": "Their website mentions travel accessories",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 34.006094499999996,
+          "longitude": -81.1938265
+        }
+      },
+      {
+        "position": 3,
+        "title": "Bed Bath & Beyond",
+        "place_id": "1595041052775602739",
+        "lsig": "AB86z5WrmYvw6QI2KqygeLw8Y7hZ",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WrmYvw6QI2KqygeLw8Y7hZ&ludocid=1595041052775602739&q=best+travel+accessories+for+women&tbm=lcl&token=f1f21a0beb603f18",
+        "rating": 4.3,
+        "reviews": 225,
+        "price": "$$",
+        "type": "Department store",
+        "address": "Columbia, SC",
+        "phone": "In Shoppes at Woodhill",
+        "description": "Their website mentions travel accessories",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 33.9809164,
+          "longitude": -80.96782739999999
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "see_more_about": [
+      {
+        "title": null
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "What are the best travel accessories?",
+      "snippet": "Here are Amazon's best-selling travel accessories.The GlocalMe U2 4G Mobile Hotspot. ... The Outlander Travel Backpack. ... TSA Toiletry Carry-On Bag. ... The BlueCosto Luggage Strap. ... Waypoint Travel Scarf. ... BESTEK Universal Power Adapter. ... Woolite Travel Laundry Soap. ... Jason Markk Travel Shoe Cleaning Kit. $26.37 Buy On Amazon.More items...•May 1, 2019",
+      "title": "Top 25 Best Travel Accessories on Amazon in 2019 (with Photos ...",
+      "link": "https://www.tripstodiscover.com/best-travel-accessories-on-amazon/",
+      "displayed_link": "www.tripstodiscover.com › best-travel-accessories-on-amazon"
+    },
+    {
+      "question": "What are travel accessories?",
+      "snippet": "Luggage & Travel GearBackpacks.Briefcases.Gym Bags.Laptop Bags.Luggage.Messenger Bags.Travel Accessories. Cosmetic Cases. Luggage Carts. Luggage Locks. Luggage Scales. Luggage Straps. Luggage Tags & Handle Wraps. Packing Organizers. Passport Covers. Passport Wallets. Shoe Bags. Toiletry Bags. ... Travel Duffels.More items...",
+      "title": "Travel Accessories | Amazon.com",
+      "link": "https://www.amazon.com/Travel-Accessories/b?ie=UTF8&node=15743971",
+      "displayed_link": "www.amazon.com › Travel-Accessories"
+    },
+    {
+      "question": "What should women pack for business trips?",
+      "snippet": "A Packing Checklist for Business TripsBasic Bottoms. Whether you plan to wear pants or skirts while traveling for business, pick one basic color for your bottoms (black, brown or blue) and stick with it. ... Jacket or Blazer. ... Tops, Blouses, and Sweaters. ... A Travel Outfit. ... Underwear and Socks. ... Pajamas. ... Workout Clothes. ... Travel Documents.More items...",
+      "title": "A Packing Checklist for Business Trips - The Balance Careers",
+      "link": "https://www.thebalancecareers.com/checklist-to-pack-for-a-business-trip-3544959",
+      "displayed_link": "www.thebalancecareers.com › checklist-to-pack-for-a-business-trip-354..."
+    },
+    {
+      "question": "What every traveler needs?",
+      "snippet": "10 Essential Travel Items that every traveler needs!Travel Back-pack or suitcase + daypack.Packing Cubes to organize everything.Packable Jacket – Must have Wrinkle Free Travel Clothes.Comfortable Walking – Waterproof Shoes.Light Weight (Compact) Camera.Multi-port Cables to charge electronics – compact and versatile.Universal Adaptor and converter combo.More items...•Apr 3, 2019",
+      "title": "10 Essential Travel Items that every traveler needs! - tosomeplacenew",
+      "link": "https://www.tosomeplacenew.com/essential-travel-items/",
+      "displayed_link": "www.tosomeplacenew.com › essential-travel-items"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "15+ Best Travel Accessories for Women in (with Prices ...",
+    "link": "https://www.tripstodiscover.com/best-travel-accessories-for-women/",
+    "snippet": "19 Best Travel Accessories for WomenEtekcity Digital Luggage Scale. $10.99 Buy On Amazon. ... Amika Perk Up Dry Shampoo. ... UGG Scuffette Slippers. ... The Hanging Toiletry Bag by Freegrace. ... Waypoint Travel Scarf. ... BaByliss Pro Tourmaline Titanium Travel Dryer. ... Oursunshine Travel Bottles. ... The Pacsafe Coversafe Secret Bra Pouch.More items...•May 9, 2019",
+    "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAEwA1QMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAABQQGAQMHAgj/xABAEAACAQMCBAIIAgcFCQAAAAABAgMABBEFEgYhMUETUQcUImFxgZGhscEyQlJykuHwFyMkM2IVFkOClMLR0/H/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX/xAAoEQACAgECBQQCAwAAAAAAAAAAAQIRAxIxBBMhQVEFFCIygfBhsdH/2gAMAwEAAhEDEQA/AO41jNIuMl1ltJjXh+8is7lrmJHmlTdtjZtpwMHnzB+VIP7P7+eUy33G2vyyNybwJRCp+QzigC+0Uk4Ntbix4et7S8v5b+eCSWJrmYks+2RhzyT0xjr2p3QAUUVRPSBxdd6NN/s3T0HrE0QfxW5bASw5eZ5eXL39gC4S6lYw3S2st3Alw4ysTSAMR8Kl183RahE0j+LJLHIWO7x+5/e5g5+OasukcWatpYVILkvCOkcntL8MHp8jVUB2yiqPpfpGsZgqanBJbP3kT20+OOo+9XO1uIbq3juLaQSQyKGR16MD0NTQG2iitU8qwxtI+dqjJwM0CbpWzbRSa51qymgdYr7wJARzIww92CKXjULpmYx6rG8QAwzKo+vSrUGzJ54XS/tf6Wmiq163qRj3x3kbqRkMIs5+9T9EuLyZ7hbyRHC7ShVdvXPL7UnGkXGbb2Y2rFZqBrc0tvp7yQEhwR0OO9JdSyZJIsaF3IVQMkk4ArAmjIzuGPjVRmu5p9IjuZSWlFwUDtjpjPcdMgV4XWL8hibiRQO52+/3Y/o1fLZOouPjxZx4ifxCgTxGXwhIpkxnaDzxVNk1W9IC+sTc8jnt8/hWzTZHuNQVJ5HYxoxQchhgOoxQ8bSDUXHNGaRcN3st1JOskskgCqy7+3UU+qGqdFIKKKKQBRRRQByHiP0v21zaPb6LplwXLDbNdhQowcg7Q2T08xVNu/SPxfcShxqxix+pFEiL+BP3qskFf1WPvA614Zv9J+db6Ioiy1WfpK4stIfCiv4mG5nLS26Ekk5OcAdzXUvRZxzPxba3VtqSRJqNpgsYlKrIjZwQCeRGMH5eeK4CAW5ZC/Gr36E5lh49kiQnZNYyJzHUgofyNKUVQ0zv56cqrN1bm31QXt5AskgBRJWUEAHsp7fzqz15dFdSrDKkYIPesSjkXHGk2d1eLdQ6csce0iXwvYLt2ZsVS5QLYLbpsjlKFokTo3y/Ku9X+hxSqfV8IMf5bc1+Xl+HuqtXPCdtM4jubBVGcYwPsRR1u+xrGWPluLj8uzOdcMWd1rd3BatGUdyCzL1CdyQenwya75ZW0dpaw28ShY4kCKo6ADpSXhrhay0RpJYcvLJ+s36o64H9dqsNNuzIwc0nu9Y8C4kgltJvZ5h12kEfXP2pxSu+srmeQsojK9huIP4U413JknXRldnubczqvhyK0rE52HAPM5J+VZMQlODgr0IwKkXejahLG0UMQQt0d3G0Hz5c/tW1dK1CFQDCJW81dR+JFaal2M1jdfPr+DTo0h9VEeOSAKPhinujD2Zm/wBYH0A/80s03RL23i/vZICxP6IJ5D4030y3mtklE5jy0m4bCTgYA93lUSZqidSfittuiyjOCzKoPlzHOnFI+LleXR3EcTSMjq21VJJHToPjUx3QPYrk9xt4fs3JDM07PgAjnjn9s1CtrpJrqJJQdjYBxyz7Pwx/8rNw8g0C1T1S73rM+VFvJuGckHGPvS8JO24NaXIPUMYWB+v0rpjRDGd3J4MMZRQA2SyM+cY7A8vfUnQLgvrMCtjmSM8/2SPl3pDIsiKF9TuSBn/gufy5daY6FIY9VjkeC5QIGJZ4Hx+jjuPh37UPYKHvBkgkv7psknwxzPfnVvqmcE59buZWikQMgxvQjqffVzrCf2LWwUVgnAzUVtRtlfZ4ql/2RzJqBkuioMGpxyKxkilgKuygSAEsAcBhtJ5HqO/PmAeVFAHyqEeJRG0gIUY/TNeTs7AN8iaOw+FYzjl2rpMz2pj77v8AlGKtHo3uLaD0haEbYTKrvLG/iMDuzE+Og88fSqmTypjwrdG04t0OcY9m/hXJ7BnCn7E1Mtho+q6KK03U8VrbyTzvsijG5m8hWBZmaeOBN8pwucdM5PkB3rxbXcN0pMRbI5FXQow+KkAiubazxhquoXyNpax20EDFozIm9ydpXJ546E8sfOoUnEXFQZJBfRuynPtW6fTkAcH41yS47BF1qPQj6ZxTjek66DWaqnCfF0esf4S+VLfUQP0AfZk965/CrUOldMJxmri7RxZMc8UtM1TA14EsbKGV1KkZBB5EUu4h1CawtFa1CtM74AYcsd6j2k8cenpAzxqY40RgWUbQVHI/em2R2HasGGVII8xWap7a5c2lw1rB4PhqSQQC3I5PXp3rfb67ezTJHmMbjjO3+dVFWrM5ZFF0y1UVSLrjIWuqXGnzXtktxCwHhOwDkEAg4z76e8P6udREiTFPFXmNvRlpLqW3TSfcdVis1TeOdV1iwe3WwdrW3YgG4XYxdiD7GGBxyGc1cIOctKJyTUI6mXGvJkQPs3Dd2GedcfuNSvpwwub++fb1Amfac/u8qjafIlrqUF0Uuo41JLtA4VzlSOWT7+/vrq9lKrbOb3ab6I7XWarPD/GFprN2bZYJoJD+gJOeeRJzjkOnnVlzXJKDi6Z1RlGStMzWueUQxM+M7e3nUS+uZFcwwuI2wCX6kc/5UpmtZHhYaheSXcZbmGCrtBwOW0D71lKTS2KNmoJqV57MN6LaMnmqqpyPLJGa0xabZC43vbqtyigh1PbmOR61tSOO0MMMGRHg+ye2PKvPij190J5+CCPqanTbV+QPSNkEMQ21mXJHkaKh2swkNwOuyd15H+vOitIP4iPna7ia2u57eXAkhlaNh71JB/CtOQatvpQ0m6HpKu7LT7V557/bPDCi82ynPHzRj9ar0/DPE8IHi8P6qoPlZSEfYVvrQqIJqTosYuNe0qHeAZL+BQfLMiimGk8B8W6vIFt9Fu4V7yXaGBR/Hgn5A0wuuCtY4P4l4YfVWhljutQg9qAs6owlX2eYGTjn058/Kk5IEj6WqsekAOdBAjkdXM6gKpxvPPAPzwflVnqo+lGOf/dR7i1nMMttcRSBh15ttOP4qwnBzi4rubYsixzU32Kdb2xUHED9OXI1u9Xl/VtnYeeQPzqkSa5qpOw6tLuH7IQfgK1tququNr6pdEHtvx+ArzF6FxD3kj15evY/D/fyXO40aSW5hlT/AArlxGZFm2thuXIg9QcY78q7AOQr524NV7rivTjcSyy7b6PaZHLdCD3r6JHSu/Bwj4aNN3Z5vE8Z7qV1VCfimPfpm4dUkU/LOPzqt3g3XkgCBdpCYC4xjkPwqw8XMV0yPBPOdAQO/Wk1zfzpJNDEfDHiOSR15mt4/Y4sv1FcmVkwBgjt8q8vOFdI9ybmGSrd16Hl360SEmTme/5VEmtw1/FclfajidA2egJBxj5Coll5WOU35JePmTiv4OWek054juJiqFZETA2Y24QD8q6pwizaHYaYqk/3EKK6nuMe1XLOIYpdR4wsVdXZZzbgkjkc43e6uz6Hpw1DUI0Zf7qP25PgO31rSLTViyppqJ0AVW+PYt+iI46xXCN9cr/3VZAKianAlzYzRSW4uFK58InAcjmBn44ohLTNM0yR1QaOVKGPT2vZUfToK13EThnY7AoGMBdxx9a23JlN1LHcD1Z0lZPBjVVCczyyoyfjmtDiNRkNukyQSzFvcep+Ne1bZ5FJHq1uL7R/Fl066MTOm1jsU989xXUOGbm7u9Gtri+2eI6KQV/WGBzPvrlNxKCJCAqh25IvQCulcB3IueF7TBBaLdEQD02scfbFcnGRWlOup18JJ6qskaiuy9Zs5LqD06dqgajP4Nk8n7JU8/3hTy9s/WSrK+1lGOmQaVyaDNNK3jXJ8IsjbVPTawP5V5z6po7xff3iw3NsQd6gSFwpB5AD8yPrUYy3U2reLaRMyeBGDleRyzd/dj70wvI9K0mXNwYkRSVDXEu0ZbGQPoKkWet6eqH1R7UkgDKTqfhRpV2IVxadq8CO0Nms3izyvu3qvIsdvX3YHyophLxbaWrmO4lhZ+uInzge8c8UUUMkahwrpuocS6dxBOJPXbBGSPafZYEHG4d8ZOPjT2iigArXNBFMU8aNH2MHTcoO1h3HkffWyigApVxTpbazoF5p8bqkkqjYzdAwIYZ92QKa0U06dgzin9mHEvabTsZztNy+M4xnGygejDiUHO/S/wDqX/8AXXa6K1Wea2M+XF7nLOFPR1quma1a3t/NZrFDKJWELs5YjoOaj3V1OiionOU31KjFR2IOracmpW3gPI0eHDhl8xS+ThtZJXka7bcxJOEHX60+oqU62BxT3K23CkbNuN4/8ArB4TjIx65Jjv7Aqy0VLSap7BpV2VSPgm1ijWOO7kVVxj2Byx0p3o+lxaXC6I5kZ2yzsOfuFMKKEq2KfV2wooopgJ5+GdIuLyW7ntBJNK25iztjPwzisScL6JIwLabANvZQVB+IHWnNFVrl5J0R8C2HQdIhOYtNtAR38IGp8UaRLtjRUUdAowK90Um29xpJbBRRRSGQ59Ntp5GeRSS3X2jUWbhzSpv8y1QnzKgn7im1FACqPQLCNdqKwXsoIAH0FFNaKAP/2Q=="
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "15+ Best Travel Accessories for Women in (with Prices ...",
+      "link": "https://www.tripstodiscover.com/best-travel-accessories-for-women/",
+      "displayed_link": "www.tripstodiscover.com › Travel Tips",
+      "date": "May 9, 2019",
+      "snippet": "19 Best Travel Accessories for Women. Etekcity Digital Luggage Scale. $10.99 Buy On Amazon. Amika Perk Up Dry Shampoo. UGG Scuffette Slippers. The Hanging Toiletry Bag by Freegrace. Waypoint Travel Scarf. BaByliss Pro Tourmaline Titanium Travel Dryer. Oursunshine Travel Bottles. The Pacsafe Coversafe Secret Bra Pouch.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YYkZ7B4zxK4J:https://www.tripstodiscover.com/best-travel-accessories-for-women/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Best Travel Accessories For Women Always On The Go 2019",
+      "link": "https://www.refinery29.com/en-us/best-travel-accessories",
+      "displayed_link": "www.refinery29.com › Travel › Bags › Beauty › Holiday › Home",
+      "date": "Nov 12, 2019",
+      "snippet": "Shop our curated list of travel accessories that are as smart as they are stylish, from cutting-edge luggage to TSA-approved beauty and cocktail ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zW5rtfMO7QsJ:https://www.refinery29.com/en-us/best-travel-accessories+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "57 Brilliant Travel Accessories Every Traveller Must Have in ...",
+      "link": "https://www.theintrepidguide.com/brilliant-travel-accessories/",
+      "displayed_link": "www.theintrepidguide.com › Travel Resources",
+      "date": "Jan 1, 2020",
+      "snippet": "Travel smarter and safer in 2020 with 57 of the best travel accessories. From the best ... Buy on Amazon Ladies $79.99 and Men's $79.99 ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:otocQdQaLsYJ:https://www.theintrepidguide.com/brilliant-travel-accessories/+&cd=6&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.theintrepidguide.com/brilliant-travel-accessories/+best+travel+accessories+for+women&tbo=1&sa=X&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQHzAFegQICxAL"
+    },
+    {
+      "position": 4,
+      "title": "The 10 Travel Accessories Every Woman Should Have ...",
+      "link": "https://www.travelandleisure.com/style/travel-accessories/travel-accessories-for-women",
+      "displayed_link": "www.travelandleisure.com › Style › Travel Accessories",
+      "date": "Mar 3, 2019",
+      "snippet": "womens-travel-accessories-lead-TRAVELHELPERS0319.jpg ... the Truffle zip pouches are the next best thing for breezing through security.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rnQDsLEquEkJ:https://www.travelandleisure.com/style/travel-accessories/travel-accessories-for-women+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "The Best Travel Accessories | Travel + Leisure | Travel + Leisure",
+      "link": "https://www.travelandleisure.com/slideshows/best-travel-accessories",
+      "displayed_link": "www.travelandleisure.com › Style › Travel Accessories",
+      "date": "May 15, 2019",
+      "snippet": "From leak-proof toiletry bottles to wireless noise-cancelling headphones, these are the best travel accessories to solve all your problems on the ..."
+    },
+    {
+      "position": 6,
+      "title": "The 27 Best Travel Accessories To Travel Smart in 2020",
+      "link": "https://www.geekyexplorer.com/best-travel-accessories-items/",
+      "displayed_link": "www.geekyexplorer.com › best-travel-accessories-items",
+      "date": "May 27, 2019",
+      "snippet": "A list of the BEST travel accessories every traveler should have to save money, time, and space. Just practical and real stuff here. How many ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Organization 🧳",
+            "link": "https://www.geekyexplorer.com/best-travel-accessories-items/#best-travel-accessories-organization"
+          },
+          {
+            "title": "Essential gadgets 📱",
+            "link": "https://www.geekyexplorer.com/best-travel-accessories-items/#best-travel-accessories-essential-gadgets"
+          },
+          {
+            "title": "Health/hygiene 🧽",
+            "link": "https://www.geekyexplorer.com/best-travel-accessories-items/#best-travel-accessories-health"
+          },
+          {
+            "title": "Safety 🔒",
+            "link": "https://www.geekyexplorer.com/best-travel-accessories-items/#best-travel-accessories-safety"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qeGsJ-CdRgoJ:https://www.geekyexplorer.com/best-travel-accessories-items/+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Indispensable Travel Accessories for the Discerning Woman",
+      "link": "https://www.women-on-the-road.com/travel-accessories-for-women.html",
+      "displayed_link": "www.women-on-the-road.com › travel-accessories-for-women",
+      "snippet": "Are you the kind of traveler who wants the best travel gear without paying top prices? A woman who wants someone else to sift through the millions of items ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Ly2QUbtq7lkJ:https://www.women-on-the-road.com/travel-accessories-for-women.html+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "10 Small Luxuries That Will Upgrade Women's Business Trips ...",
+      "link": "https://www.fastcompany.com/40516859/10-small-luxuries-that-will-upgrade-womens-business-trips-in-2018",
+      "displayed_link": "www.fastcompany.com › 10-small-luxuries-that-will-upgrade-women...",
+      "date": "Jan 19, 2018",
+      "snippet": "Work-related travel accessories–garment bags for suits, laptop bags that double as ... As someone who travels a lot, I'm a pretty good packer.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:E80unE3hWHUJ:https://www.fastcompany.com/40516859/10-small-luxuries-that-will-upgrade-womens-business-trips-in-2018+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "The 23 Best Travel Accessories for Type-A Personalities ...",
+      "link": "https://www.smartertravel.com/best-travel-accessories-to-stay-organized/",
+      "displayed_link": "www.smartertravel.com › best-travel-accessories-to-stay-organized",
+      "date": "Nov 6, 2019",
+      "snippet": "These travel organizers, pouches, and packing cubes are among the industry's best ... The Best Travel Accessories for Stress-Free Packing ... Passport Holder; Women: Multi-Purpose RFID-Blocking Travel Passport Wallet ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vUxnHfeepHgJ:https://www.smartertravel.com/best-travel-accessories-to-stay-organized/+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "The 55 Best Travel Accessories of 2020 • Escape Monthly",
+      "link": "https://www.escapemonthly.com/best-travel-accessories/",
+      "displayed_link": "www.escapemonthly.com › Travel Gear",
+      "date": "Jump to Best Travel Accessories for Women",
+      "snippet": "Best Portable Steamer: PurSteam Travel Steam Iron ... female travelers, the Sacstar Travel Lingerie Pouch is ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mRuoiL7bqR8J:https://www.escapemonthly.com/best-travel-accessories/+&cd=21&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "best air travel accessories",
+      "link": "https://www.google.com/search?q=best+air+travel+accessories&sa=X&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ1QIoAHoECBEQAQ"
+    },
+    {
+      "query": "women's travel accessories luxury",
+      "link": "https://www.google.com/search?q=women%27s+travel+accessories+luxury&sa=X&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ1QIoAXoECBEQAg"
+    },
+    {
+      "query": "best travel accessories 2018",
+      "link": "https://www.google.com/search?q=best+travel+accessories+2018&sa=X&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ1QIoAnoECBEQAw"
+    },
+    {
+      "query": "best travel accessories 2019",
+      "link": "https://www.google.com/search?q=best+travel+accessories+2019&sa=X&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ1QIoA3oECBEQBA"
+    },
+    {
+      "query": "unique travel accessories",
+      "link": "https://www.google.com/search?q=unique+travel+accessories&sa=X&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ1QIoBHoECBEQBQ"
+    },
+    {
+      "query": "best travel accessories for europe",
+      "link": "https://www.google.com/search?q=best+travel+accessories+for+europe&sa=X&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ1QIoBXoECBEQBg"
+    },
+    {
+      "query": "best luxury travel accessories",
+      "link": "https://www.google.com/search?q=best+luxury+travel+accessories&sa=X&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ1QIoBnoECBEQBw"
+    },
+    {
+      "query": "travel accessories list",
+      "link": "https://www.google.com/search?q=travel+accessories+list&sa=X&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ1QIoB3oECBEQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+travel+accessories+for+women&ei=yicnXt-ZMJjm-gTk2ZmIDw&start=10&sa=N&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ8NMDegQIEBBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+travel+accessories+for+women&ei=yicnXt-ZMJjm-gTk2ZmIDw&start=10&sa=N&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ8tMDegQIEBAu",
+      "3": "https://www.google.com/search?q=best+travel+accessories+for+women&ei=yicnXt-ZMJjm-gTk2ZmIDw&start=20&sa=N&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ8tMDegQIEBAw",
+      "4": "https://www.google.com/search?q=best+travel+accessories+for+women&ei=yicnXt-ZMJjm-gTk2ZmIDw&start=30&sa=N&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ8tMDegQIEBAy",
+      "5": "https://www.google.com/search?q=best+travel+accessories+for+women&ei=yicnXt-ZMJjm-gTk2ZmIDw&start=40&sa=N&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ8tMDegQIEBA0",
+      "6": "https://www.google.com/search?q=best+travel+accessories+for+women&ei=yicnXt-ZMJjm-gTk2ZmIDw&start=50&sa=N&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ8tMDegQIEBA2",
+      "7": "https://www.google.com/search?q=best+travel+accessories+for+women&ei=yicnXt-ZMJjm-gTk2ZmIDw&start=60&sa=N&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ8tMDegQIEBA4",
+      "8": "https://www.google.com/search?q=best+travel+accessories+for+women&ei=yicnXt-ZMJjm-gTk2ZmIDw&start=70&sa=N&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ8tMDegQIEBA6",
+      "9": "https://www.google.com/search?q=best+travel+accessories+for+women&ei=yicnXt-ZMJjm-gTk2ZmIDw&start=80&sa=N&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ8tMDegQIEBA8",
+      "10": "https://www.google.com/search?q=best+travel+accessories+for+women&ei=yicnXt-ZMJjm-gTk2ZmIDw&start=90&sa=N&ved=2ahUKEwjfpri3j5XnAhUYs54KHeRsBvEQ8tMDegQIEBA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+accessories+for+women&start=10&token=e0b4055760baa59e",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+accessories+for+women&start=10&token=e0b4055760baa59e",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+accessories+for+women&start=10&token=e0b4055760baa59e",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+accessories+for+women&start=20&token=4f4992b5f9274e4d",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+accessories+for+women&start=30&token=a957c423d883e036",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+accessories+for+women&start=40&token=3342dc4ccaaa3dd1",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+accessories+for+women&start=50&token=38ae7bb4b1c6bab9",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+accessories+for+women&start=60&token=741cb76716208d3a",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+accessories+for+women&start=70&token=3ab4ef48a37c35a7",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+accessories+for+women&start=80&token=fdfb4fcfa5f62c0c",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+accessories+for+women&start=90&token=9c98cff5696f988e"
+    }
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 23:01:25 UTC",
+    "processed_at": "2020-01-21 23:01:25 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+fort+collins&oq=office+supplies+fort+collins&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 5.81
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies fort collins",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 16900000,
+    "time_taken_displayed": 0.53,
+    "query_displayed": "office supplies fort collins"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+fort+collins&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=40541419,-105053847,2784&tbm=lcl&sa=X&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 40.541419,
+      "longitude": -105.053847,
+      "altitude": 2784
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+fort+collins&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=40541419,-105053847,2784&tbm=lcl&sa=X&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQjGp6BAgLEEc",
+    "places": [
+      {
+        "position": 1,
+        "title": "Office Depot",
+        "place_id": "2585320463463560507",
+        "lsig": "AB86z5XwGptXEWEkZOHWWEgtSrRt",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XwGptXEWEkZOHWWEgtSrRt&ludocid=2585320463463560507&q=office+supplies+fort+collins&tbm=lcl&token=2bf36bc59d09ee79",
+        "rating": 4.1,
+        "reviews": 90,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 8PM · (970) 223-1511",
+        "address": "2216 E Harmony Rd",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 40.52486210000001,
+          "longitude": -105.03629
+        }
+      },
+      {
+        "position": 2,
+        "title": "Staples",
+        "place_id": "16973173388757327504",
+        "lsig": "AB86z5VG_k5EJgqAMOJOpkjQjaYo",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VG_k5EJgqAMOJOpkjQjaYo&ludocid=16973173388757327504&q=office+supplies+fort+collins&tbm=lcl&token=a3192aa30aee0c3c",
+        "rating": 3.9,
+        "reviews": 54,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "4333 Corbett Dr",
+        "phone": "In Front Range Village",
+        "description": "Brand-name electronics & office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 40.526295999999995,
+          "longitude": -105.029094
+        }
+      },
+      {
+        "position": 3,
+        "title": "OfficeMax",
+        "place_id": "15924760891023693359",
+        "lsig": "AB86z5W-2rjxTZNeWP0RyHXkrXMU",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5W-2rjxTZNeWP0RyHXkrXMU&ludocid=15924760891023693359&q=office+supplies+fort+collins&tbm=lcl&token=b6d8a20acd18d457",
+        "rating": 3.9,
+        "reviews": 94,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "2211 S College Ave #500",
+        "phone": "In Whole Foods Center",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 40.557977799999996,
+          "longitude": -105.0786008
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Office Max in FORT COLLINS,CO - 2211 S. COLLEGE AVE ...",
+      "link": "https://www.officedepot.com/storelocator/co/fort-collins/officemax-6399/",
+      "displayed_link": "www.officedepot.com › storelocator › fort-collins › officemax-6399",
+      "snippet": "Shop at the Office Max Store in FORT COLLINS,CO. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CSod-sG-RcYJ:https://www.officedepot.com/storelocator/co/fort-collins/officemax-6399/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Office Depot in FORT COLLINS,CO - 2216 E HARMONY RD",
+      "link": "https://www.officedepot.com/storelocator/co/fort-collins/office-depot-2737/",
+      "displayed_link": "www.officedepot.com › storelocator › fort-collins › office-depot-2737",
+      "snippet": "Shop at the Office Depot Store in FORT COLLINS,CO. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EXc6TF_GwxEJ:https://www.officedepot.com/storelocator/co/fort-collins/office-depot-2737/+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Office Depot Stores in Fort Collins,CO - Visit Today",
+      "link": "https://www.officedepot.com/storelocator/co/fort-collins/",
+      "displayed_link": "www.officedepot.com › storelocator › fort-collins",
+      "snippet": "Shop at an Office Depot store in Fort Collins,CO. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Q4cWjJ2O0j4J:https://www.officedepot.com/storelocator/co/fort-collins/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Top 10 Best Office Supplies in Fort Collins, CO - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=office+supplies&find_loc=Fort+Collins%2C+CO",
+      "displayed_link": "www.yelp.com › search › find_loc=Fort+Collins,+CO",
+      "snippet": "Reviews on Office Supplies in Fort Collins, CO - Staples, Office Depot, Hobby ... helpdul and kindest people I have ever encountered at an office supply store.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:UuIYM9b_BAIJ:https://www.yelp.com/search%3Ffind_desc%3Doffice%2Bsupplies%26find_loc%3DFort%2BCollins%252C%2BCO+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Staples® Corbett Drive, Fort Collins, 80525 | Store Details",
+      "link": "https://stores.staples.com/co/fort-collins/4333-corbett-drive",
+      "displayed_link": "stores.staples.com › CO › Fort Collins",
+      "snippet": "Visit this Fort Collins Staples® for office supplies & furniture, school supplies, printers, ink & toner, copy paper, computers, technology, and more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Ly5Re4ll8Y8J:https://stores.staples.com/co/fort-collins/4333-corbett-drive+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Staples® Locations in Fort Collins, (CO)",
+      "link": "https://stores.staples.com/co/fort-collins",
+      "displayed_link": "stores.staples.com › CO",
+      "snippet": "Find nearby Staples® locations in Fort Collins, (CO). Select the closest Staples for your store's hours and contact information.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rzvkZocSqXwJ:https://stores.staples.com/co/fort-collins+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "OfficeMax - Fort Collins, CO - Foursquare",
+      "link": "https://foursquare.com/v/officemax/4b43e672f964a52096ed25e3",
+      "displayed_link": "foursquare.com › Shop & Service › Paper / Office Supplies Store",
+      "snippet": "Paper / Office Supplies Store, Furniture / Home Store, and IT Services. Fort Collins. Save. Share. Tips 1 · Photos 7. OfficeMax. 6.0/10. 9. ratings. Foursquare logo ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 6,
+            "votes": 9
+          },
+          "extensions": [
+            "Rating: 6/10",
+            "9 votes"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8oUMfenVYb4J:https://foursquare.com/v/officemax/4b43e672f964a52096ed25e3+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Best 30 Office Supply Stores in Fort Collins, CO with Reviews ...",
+      "link": "https://www.yellowpages.com/fort-collins-co/office-supply-stores",
+      "displayed_link": "www.yellowpages.com › Fort Collins, CO",
+      "date": "50 results",
+      "snippet": "Office Supply Stores in Fort Collins on YP.com. See reviews, photos, directions, phone numbers and more for the best Office Equipment & Supplies in ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4BWdzWIBD7sJ:https://www.yellowpages.com/fort-collins-co/office-supply-stores+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Staples Office Supplies Locations & Hours Near Fort Collins ...",
+      "link": "https://www.yellowpages.com/fort-collins-co/staples-office-supplies",
+      "displayed_link": "www.yellowpages.com › Fort Collins, CO",
+      "date": "47 results",
+      "snippet": "Find 47 listings related to Staples Office Supplies in Fort Collins on YP.com. See reviews, photos, directions, phone numbers and more for Staples ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rxgRm43FwGwJ:https://www.yellowpages.com/fort-collins-co/staples-office-supplies+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Staples 4333 Corbett Drive Fort Collins, CO Office Supplies ...",
+      "link": "https://www.mapquest.com/us/colorado/staples-43713137",
+      "displayed_link": "www.mapquest.com › colorado › staples-43713137",
+      "snippet": "Get directions, reviews and information for Staples in Fort Collins, CO.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:982kZKn1aXMJ:https://www.mapquest.com/us/colorado/staples-43713137+&cd=13&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office depot fort collins",
+      "link": "https://www.google.com/search?q=office+depot+fort+collins&sa=X&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "officemax fort collins",
+      "link": "https://www.google.com/search?q=officemax+fort+collins&sa=X&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "staples fort collins",
+      "link": "https://www.google.com/search?q=staples+fort+collins&sa=X&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "office supply near me",
+      "link": "https://www.google.com/search?q=office+supply+near+me&sa=X&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "office max",
+      "link": "https://www.google.com/search?q=office+max&sa=X&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "office depot near me",
+      "link": "https://www.google.com/search?q=office+depot+near+me&sa=X&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "target fort collins",
+      "link": "https://www.google.com/search?q=target+fort+collins&sa=X&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "officemax near me",
+      "link": "https://www.google.com/search?q=officemax+near+me&sa=X&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+fort+collins&ei=xoInXujSNc-c4-EP4qyUuAM&start=10&sa=N&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ8NMDegQIDhA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+fort+collins&ei=xoInXujSNc-c4-EP4qyUuAM&start=10&sa=N&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ8tMDegQIDhAt",
+      "3": "https://www.google.com/search?q=office+supplies+fort+collins&ei=xoInXujSNc-c4-EP4qyUuAM&start=20&sa=N&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ8tMDegQIDhAv",
+      "4": "https://www.google.com/search?q=office+supplies+fort+collins&ei=xoInXujSNc-c4-EP4qyUuAM&start=30&sa=N&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ8tMDegQIDhAx",
+      "5": "https://www.google.com/search?q=office+supplies+fort+collins&ei=xoInXujSNc-c4-EP4qyUuAM&start=40&sa=N&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ8tMDegQIDhAz",
+      "6": "https://www.google.com/search?q=office+supplies+fort+collins&ei=xoInXujSNc-c4-EP4qyUuAM&start=50&sa=N&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ8tMDegQIDhA1",
+      "7": "https://www.google.com/search?q=office+supplies+fort+collins&ei=xoInXujSNc-c4-EP4qyUuAM&start=60&sa=N&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ8tMDegQIDhA3",
+      "8": "https://www.google.com/search?q=office+supplies+fort+collins&ei=xoInXujSNc-c4-EP4qyUuAM&start=70&sa=N&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ8tMDegQIDhA5",
+      "9": "https://www.google.com/search?q=office+supplies+fort+collins&ei=xoInXujSNc-c4-EP4qyUuAM&start=80&sa=N&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ8tMDegQIDhA7",
+      "10": "https://www.google.com/search?q=office+supplies+fort+collins&ei=xoInXujSNc-c4-EP4qyUuAM&start=90&sa=N&ved=2ahUKEwjozfyZ5pXnAhVPzjgGHWIWBTcQ8tMDegQIDhA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+fort+collins&start=10&token=892bef64688946a7",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+fort+collins&start=10&token=892bef64688946a7",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+fort+collins&start=10&token=892bef64688946a7",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+fort+collins&start=20&token=70783fe4d6515a15",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+fort+collins&start=30&token=107a79bd8bd77bf9",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+fort+collins&start=40&token=887c51126e86a0ec",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+fort+collins&start=50&token=df98560dbf864513",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+fort+collins&start=60&token=476777cedc3f9bca",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+fort+collins&start=70&token=3e7024c896276060",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+fort+collins&start=80&token=b6be8b341ce6e142",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+fort+collins&start=90&token=3e68d2faab7c517b"
+    }
+  }
+}

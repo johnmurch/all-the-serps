@@ -1,0 +1,292 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:14:24 UTC",
+    "processed_at": "2020-01-21 22:14:24 UTC",
+    "google_url": "https://www.google.com/search?q=banners+office+supplies&oq=banners+office+supplies&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.74
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "banners office supplies",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 596000000,
+    "time_taken_displayed": 0.52,
+    "query_displayed": "banners office supplies"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=banners+office+supplies&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=37623153,-94469670,145296&tbm=lcl&sa=X&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 37.623153,
+      "longitude": -94.46967,
+      "altitude": 145296
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=banners+office+supplies&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=37623153,-94469670,145296&tbm=lcl&sa=X&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQjGp6BAgLEEk",
+    "places": [
+      {
+        "position": 1,
+        "title": "Staples",
+        "place_id": "12771814535434348983",
+        "lsig": "AB86z5VrPMutxB2j2tyFUnzYU1-2",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VrPMutxB2j2tyFUnzYU1-2&ludocid=12771814535434348983&q=banners+office+supplies&tbm=lcl&token=ae80eaa1dba4a64a",
+        "rating": 3.6,
+        "reviews": 70,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 8PM · (479) 636-0285",
+        "address": "Rogers, AR",
+        "description": "In stock: party signs, streamers & curtains",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.33636550000001,
+          "longitude": -94.17689670000001
+        }
+      },
+      {
+        "position": 2,
+        "title": "Office Depot",
+        "place_id": "643980858302157333",
+        "lsig": "AB86z5X694cV1f1A9QLKWcK3jejE",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5X694cV1f1A9QLKWcK3jejE&ludocid=643980858302157333&q=banners+office+supplies&tbm=lcl&token=a3ed0caf08bc4209",
+        "rating": 3.9,
+        "reviews": 170,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (417) 206-2600",
+        "address": "Joplin, MO",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 37.0556871,
+          "longitude": -94.4794127
+        }
+      },
+      {
+        "position": 3,
+        "title": "OfficeMax",
+        "place_id": "6022900913095651081",
+        "lsig": "AB86z5VBPSfizLabARcMDW3djiok",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VBPSfizLabARcMDW3djiok&ludocid=6022900913095651081&q=banners+office+supplies&tbm=lcl&token=c8c579e463b23da4",
+        "rating": 3.6,
+        "reviews": 84,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "Olathe, KS",
+        "phone": "In Olathe Station",
+        "description": "Mainstay for office supplies & more",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 38.9099407,
+          "longitude": -94.76244419999999
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "How do I create a banner in Word?",
+      "snippet": "StepsOpen Microsoft Word. It's a dark-blue app with a white \"W\" on it.Click the search bar. It's at the top of the Word window. ... Type in banner in the search bar, then press ↵ Enter . ... Select a banner template. ... Click Create. ... Edit the banner text. ... Change your banner's font. ... Upload a background image.More items...•Jun 21, 2019",
+      "title": "How to Make Banners in Word: 9 Steps (with Pictures) - wikiHow",
+      "link": "https://www.wikihow.com/Make-Banners-in-Word",
+      "displayed_link": "www.wikihow.com › Make-Banners-in-Word"
+    },
+    {
+      "question": "How do I print banners?",
+      "snippet": "3. Print the banner.Open the file menu on your computer.Select “print”Once the print dialog box opens make sure the correct printer or copier is selected. ... Click on “printer properties”Now select the “paper” tab at the top of the screen.Under “paper size,” “long paper” should be displayed in the dropdown box.More items...•Feb 2, 2016",
+      "title": "How To Print a Banner In-House - Advanced Systems, Inc",
+      "link": "https://www.asiowa.com/blog/how-to-print-a-banner-in-house",
+      "displayed_link": "www.asiowa.com › blog › how-to-print-a-banner-in-house"
+    },
+    {
+      "question": "How much do vinyl banners cost?",
+      "snippet": "For banners with spot color vinyl graphics, a better rule of thumb is found in the “Sign Contractor Pricing Guide“. (Click on the link, the book is about midway down.) According to this valuable industry standard, the base price for a 24” wide banner should be $12.50 per linear foot.",
+      "title": "One Way To Price Banners | SignWarehouse Sign College",
+      "link": "https://blog.signwarehouse.com/pricing-banners/",
+      "displayed_link": "blog.signwarehouse.com › pricing-banners"
+    },
+    {
+      "question": "What are banners used for?",
+      "snippet": "An essential pair of advertising tools are banners and banner stands. They are used to advertise any and all service or goods, indoors and outdoors. They are commonly used in trade shows, exhibitions, and other display zones like along streets or outside a business or event.Feb 28, 2012",
+      "title": "Types & Uses of Banners & Banner Stands - CityScoop",
+      "link": "https://cityscoop.us/eldoradohillsca-signage/2012/02/28/types-uses-of-banners-banner-stands/",
+      "displayed_link": "cityscoop.us › eldoradohillsca-signage › 2012/02/28 › types-uses-of-ban..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Custom Banners - Office Depot",
+      "link": "https://www.officedepot.com/cm/print-and-copy/custom-banners",
+      "displayed_link": "www.officedepot.com › print-and-copy › custom-banners",
+      "snippet": "For your next business event use our fully customizable banners services at Office Depot & OfficeMax to make your business brand stand out from the crowd. ... From basic office supplies such as printer paper and labels to office equipment like ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HokF5YBhESEJ:https://www.officedepot.com/cm/print-and-copy/custom-banners+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Custom Banners - Office Depot",
+      "link": "https://www.officedepot.com/a/products/790388/Custom-Banners/",
+      "displayed_link": "www.officedepot.com › ... › Large Format Printing › Custom Banners",
+      "snippet": "The customizable design of this banner lets you create the exact message you need. ... Sold in stores ... Scrim banners are available same day in select sizes.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 2.9,
+            "reviews": 33,
+            "": 14.99
+          },
+          "extensions": [
+            "Rating: 2.9",
+            "33 reviews",
+            "$14.99",
+            "In stock"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:tCGQ5zH26AsJ:https://www.officedepot.com/a/products/790388/Custom-Banners/+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Shop Staples for Custom Banners",
+      "link": "https://www.staples.com/Custom-Banners/product_335266",
+      "displayed_link": "www.staples.com › ... › Retail Signage › Custom Retail Signage",
+      "snippet": "Get free shipping on your qualifying orders of Custom Banners. ... Office Products & Solutions · Green Focus. Other Staples Sites. Print & Marketing Services.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HSl8VFF7HFwJ:https://www.staples.com/Custom-Banners/product_335266+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Custom Banners, Personalized Vinyl Banner Printing | Vistaprint",
+      "link": "https://www.vistaprint.com/signs-posters/banners",
+      "displayed_link": "www.vistaprint.com › Signs Posters › Banners",
+      "snippet": "Create custom banners in minutes. Available in 9 different sizes, our personalized vinyl banners are a great way of promoting your business or event. We offer 3 ...",
+      "rich_snippet": {
+        "bottom": {
+          "questions": [
+            "How will my design look on mesh vs. vinyl?",
+            "Will my banner come with grommets included?",
+            "Where are the grommets placed on my banner? How many are there?",
+            "I need a very specific size of banner. Can I get one custom sized?",
+            "I already have a retractable banner stand. Can I buy a replacement banner to fit it?",
+            "Can I get a double-sided banner?"
+          ]
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "L.A.B. Printing and Office Supply- Brochures, Catalogs ...",
+      "link": "https://labprintingandofficesupply.com/",
+      "displayed_link": "labprintingandofficesupply.com",
+      "snippet": "Ability Printing and GeauxOffice.com are now L.A.B. Printing and Office Supply, a division of Louisiana Association for the Blind (L.A.B.). L.A.B. offers a full range ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:c9VTV-wnDOEJ:https://labprintingandofficesupply.com/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Office Supplies - Banner",
+      "link": "https://info.banneruk.com/office-supplies",
+      "displayed_link": "info.banneruk.com › office-supplies",
+      "snippet": "We're proud to originate as part of Her Majesty's Stationery Office, so you can be ... with all that Banner has to offer via our new products brochure, available on a ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:DG0I5BNWA3cJ:https://info.banneruk.com/office-supplies+&cd=18&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Kansas City Chiefs Banners, Office Supplies, Chiefs Wall ...",
+      "link": "https://shop.chiefs.com/kansas-city-chiefs-home-office-and-school/t-25829281+d-92553285+z-956-3726898616",
+      "displayed_link": "shop.chiefs.com › t-25829281+d-92553285+z-956-3726898616",
+      "snippet": "Kansas City Chiefs Home Decor and Office Supplies at the Official Online Store of the Chiefs. Enjoy Quick Flat-Rate Shipping On Any Size Order. Browse ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uDuFaAz96bEJ:https://shop.chiefs.com/kansas-city-chiefs-home-office-and-school/t-25829281%2Bd-92553285%2Bz-956-3726898616+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Cleveland Browns Banners, Office Supplies, Browns Wall ...",
+      "link": "https://shop.clevelandbrowns.com/cleveland-browns-home-office-and-school/t-36267916+d-70998785+z-967-1419281870",
+      "displayed_link": "shop.clevelandbrowns.com › cleveland-browns-home-office-and-school",
+      "snippet": "Cleveland Browns Home Decor and Office Supplies at the Official Online Store of the Cleveland Browns. Enjoy Quick Flat-Rate Shipping On Any Size Order.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lKDgAzRXpb0J:https://shop.clevelandbrowns.com/cleveland-browns-home-office-and-school/t-36267916%2Bd-70998785%2Bz-967-1419281870+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "New York Jets Banners, Office Supplies, Wall Decor | Official ...",
+      "link": "https://www.jetsshop.com/new-york-jets-home-office-and-school/t-14371566+d-58113274+z-954-3704550566",
+      "displayed_link": "www.jetsshop.com › t-14371566+d-58113274+z-954-3704550566",
+      "snippet": "New York Jets Home Decor and Office Supplies at the Official Online Store of the . Enjoy Quick Flat-Rate Shipping On Any Size Order. Browse [Team. Name] ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mCWl3qixIncJ:https://www.jetsshop.com/new-york-jets-home-office-and-school/t-14371566%2Bd-58113274%2Bz-954-3704550566+&cd=21&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "staples banners",
+      "link": "https://www.google.com/search?q=staples+banners&sa=X&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ1QIoAHoECA4QAQ"
+    },
+    {
+      "query": "vistaprint banners",
+      "link": "https://www.google.com/search?q=vistaprint+banners&sa=X&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ1QIoAXoECA4QAg"
+    },
+    {
+      "query": "banner printing",
+      "link": "https://www.google.com/search?q=banner+printing&sa=X&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ1QIoAnoECA4QAw"
+    },
+    {
+      "query": "office depot",
+      "link": "https://www.google.com/search?q=office+depot&sa=X&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ1QIoA3oECA4QBA"
+    },
+    {
+      "query": "custom banners near me",
+      "link": "https://www.google.com/search?q=custom+banners+near+me&sa=X&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ1QIoBHoECA4QBQ"
+    },
+    {
+      "query": "staples banners 50 off",
+      "link": "https://www.google.com/search?q=staples+banners+50+off&sa=X&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ1QIoBXoECA4QBg"
+    },
+    {
+      "query": "banners on the cheap",
+      "link": "https://www.google.com/search?q=banners+on+the+cheap&sa=X&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ1QIoBnoECA4QBw"
+    },
+    {
+      "query": "office depot banner coupon",
+      "link": "https://www.google.com/search?q=office+depot+banner+coupon&sa=X&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ1QIoB3oECA4QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=banners+office+supplies&ei=wXcnXrWrG-bH4-EP_8qdsAg&start=10&sa=N&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ8NMDegQIExBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=banners+office+supplies&ei=wXcnXrWrG-bH4-EP_8qdsAg&start=10&sa=N&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ8tMDegQIExAv",
+      "3": "https://www.google.com/search?q=banners+office+supplies&ei=wXcnXrWrG-bH4-EP_8qdsAg&start=20&sa=N&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ8tMDegQIExAx",
+      "4": "https://www.google.com/search?q=banners+office+supplies&ei=wXcnXrWrG-bH4-EP_8qdsAg&start=30&sa=N&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ8tMDegQIExAz",
+      "5": "https://www.google.com/search?q=banners+office+supplies&ei=wXcnXrWrG-bH4-EP_8qdsAg&start=40&sa=N&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ8tMDegQIExA1",
+      "6": "https://www.google.com/search?q=banners+office+supplies&ei=wXcnXrWrG-bH4-EP_8qdsAg&start=50&sa=N&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ8tMDegQIExA3",
+      "7": "https://www.google.com/search?q=banners+office+supplies&ei=wXcnXrWrG-bH4-EP_8qdsAg&start=60&sa=N&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ8tMDegQIExA5",
+      "8": "https://www.google.com/search?q=banners+office+supplies&ei=wXcnXrWrG-bH4-EP_8qdsAg&start=70&sa=N&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ8tMDegQIExA7",
+      "9": "https://www.google.com/search?q=banners+office+supplies&ei=wXcnXrWrG-bH4-EP_8qdsAg&start=80&sa=N&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ8tMDegQIExA9",
+      "10": "https://www.google.com/search?q=banners+office+supplies&ei=wXcnXrWrG-bH4-EP_8qdsAg&start=90&sa=N&ved=2ahUKEwj1j87Y25XnAhXm4zgGHX9lB4YQ8tMDegQIExA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=banners+office+supplies&start=10&token=819d47337596f70d",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=banners+office+supplies&start=10&token=819d47337596f70d",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=banners+office+supplies&start=10&token=819d47337596f70d",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=banners+office+supplies&start=20&token=85f87a64bafdb666",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=banners+office+supplies&start=30&token=3c2d1d92995f9f17",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=banners+office+supplies&start=40&token=d868f7a2621aae7c",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=banners+office+supplies&start=50&token=733bab1d606eb3e9",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=banners+office+supplies&start=60&token=5400a461d1899c17",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=banners+office+supplies&start=70&token=11ae30b9d49f01eb",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=banners+office+supplies&start=80&token=5e9e3856a3855727",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=banners+office+supplies&start=90&token=21228626809d10ea"
+    }
+  }
+}

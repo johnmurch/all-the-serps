@@ -1,0 +1,357 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:10:23 UTC",
+    "processed_at": "2020-01-21 22:10:23 UTC",
+    "google_url": "https://www.google.com/search?q=quill+office+supplies&oq=quill+office+supplies&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.79
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "quill office supplies",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 19200000,
+    "time_taken_displayed": 0.57,
+    "query_displayed": "quill office supplies"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Quill.com™ Official Site | Fast, Free Shipping‎",
+      "link": "https://www.quill.com/",
+      "displayed_link": "www.quill.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwja-Mrl2pXnAhUKHisKHX7pAj8YABAAGgJzZg&sig=AOD64_17x861Xf6PyZlN38yfofzhrtHyCw&q=&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ0Qx6BAgQEAE&adurl=",
+      "description": "Find Free Gifts and Coupons Every Day! Fast Delivery On Everything Your Office Needs. Superior Customer Service, Great Prices and Fast, Free Shipping. Gifts With Purchase. Friendly Customer Service. Coupon Center. Free Online Returns. Hot Deals.",
+      "sitelinks": [
+        {
+          "title": "Free Tote Set",
+          "link": "https://www.quill.com/coupon-codes/cbx/327.html"
+        },
+        {
+          "title": "Ink & Toner For Less",
+          "link": "https://www.quill.com/ink-toner-finder"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Staples Office Supply | Worklife Fulfillment Company‎",
+      "link": "https://www.staples.com/Office-Supplies/cat_SC1",
+      "displayed_link": "www.staples.com/Office_Supply",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwja-Mrl2pXnAhUKHisKHX7pAj8YABADGgJzZg&sig=AOD64_2-Pc4kQLIQ4agB2_xe9_McMmW2sw&q=&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ0Qx6BAgREAE&adurl=",
+      "description": "Shop A Wide Variety Of Office Supplies At Staples. Order Online Today! Next-Day Delivery.",
+      "sitelinks": [
+        {
+          "title": "Next Day Delivery on $35+",
+          "link": "https://www.staples.com/deals/Next-Day-Delivery/BI1484954"
+        },
+        {
+          "title": "About Us",
+          "link": "https://www.staples.com/sbd/cre/marketing/about_us/index.html"
+        },
+        {
+          "title": "The Loop",
+          "link": "https://www.staples.com/theloop"
+        },
+        {
+          "title": "Weekly Ad",
+          "link": "http://weeklyad.staples.com/StaplesSD/WeeklyAd#!/"
+        }
+      ]
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=quill+office+supplies&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=39407063,-104929436,1480797&tbm=lcl&sa=X&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 39.407063,
+      "longitude": -104.929436,
+      "altitude": 1480797
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "title": "The Quill",
+        "place_id": "6361055990347407076",
+        "lsig": "AB86z5XTleVWQsbSVa8_BVcrDjCL",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XTleVWQsbSVa8_BVcrDjCL&ludocid=6361055990347407076&q=quill+office+supplies&tbm=lcl&token=1acc6e3ce6e0d32a",
+        "rating": 4.7,
+        "reviews": 34,
+        "type": "Stationery store",
+        "hours": "Open ⋅ Closes 5:30PM · (831) 373-8189",
+        "address": "Pacific Grove, CA",
+        "description": "\"... array of cards, a good range of paper supplies and intriguing gifts.\"",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.6206479,
+          "longitude": -121.91722650000001
+        }
+      },
+      {
+        "position": 2,
+        "title": "Quill Corporation",
+        "place_id": "8829559908382019231",
+        "lsig": "AB86z5XwxfhnbKZCCv0Htg1lEQkY",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XwxfhnbKZCCv0Htg1lEQkY&ludocid=8829559908382019231&q=quill+office+supplies&tbm=lcl&token=a8b83411bf6a2e2e",
+        "rating": 1,
+        "reviews": 1,
+        "type": "Office supply store",
+        "hours": "(913) 441-5116",
+        "address": "Kansas City, KS",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 39.049577899999996,
+          "longitude": -94.80820220000001
+        }
+      },
+      {
+        "position": 3,
+        "title": "Quill.com",
+        "place_id": "17400399438722130572",
+        "lsig": "AB86z5XGaTUCuTDXXut_UnlN2kip",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XGaTUCuTDXXut_UnlN2kip&ludocid=17400399438722130572&q=quill+office+supplies&tbm=lcl&token=cc1a1f2205445898",
+        "rating": 3.7,
+        "reviews": 35,
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (800) 982-3400",
+        "address": "Lincolnshire, IL",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 42.1934793,
+          "longitude": -87.9416457
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "Is Quill part of Staples?",
+      "snippet": "Quill Corporation is a United States office supply retailer, founded in 1956, and headquartered in Lincolnshire, Illinois. ... Quill is owned by Staples, Inc., and is recognized as their most profitable division, accounting for about 25% of the company's net income.",
+      "title": "Quill Corporation - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Quill_Corporation",
+      "displayed_link": "en.wikipedia.org › wiki › Quill_Corporation"
+    },
+    {
+      "question": "What is the meaning of office supplies?",
+      "snippet": "Office supplies are consumables and equipment regularly used in offices by businesses and other organizations, by individuals engaged in written communications, recordkeeping or bookkeeping, janitorial and cleaning, and for storage of supplies or data.",
+      "title": "Office supplies - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Office_supplies",
+      "displayed_link": "en.wikipedia.org › wiki › Office_supplies"
+    },
+    {
+      "question": "Does Quill price match?",
+      "snippet": "How many days do you have after your purchase to get a price adjustment at Quill? It looks like Quill may not offer price matching. You can check Quill's customer service site for updates to this policy.",
+      "title": "Quill price matching? — Knoji",
+      "link": "https://quill.knoji.com/questions/quill-price-matching/",
+      "displayed_link": "quill.knoji.com › questions › quill-price-matching"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Office Supplies | Quill.com",
+      "link": "https://www.quill.com/office-supplies/cbu/2.html",
+      "displayed_link": "www.quill.com › office-supplies › cbu",
+      "snippet": "Shop daily deals on office supplies, like file folders, labels, pens, paper clips, ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Desk Organizers",
+            "link": "https://www.quill.com/desk-organizers/cbl/1551.html"
+          },
+          {
+            "title": "File Folders",
+            "link": "https://www.quill.com/file-folders/cbl/116.html"
+          },
+          {
+            "title": "Calendars",
+            "link": "https://www.quill.com/calendars/cbl/26736.html"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pQuu5fI6VdQJ:https://www.quill.com/office-supplies/cbu/2.html+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Quill - Best Deals on Office Supplies, Paper, Ink & Toner | Quill ...",
+      "link": "https://www.quill.com/",
+      "displayed_link": "www.quill.com",
+      "snippet": "Get Free Shipping at Quill.com on Office Supplies, Paper, Ink & Toner & more. Use Coupons, Get Free Gifts & QuillCash every day. Shop Quill today!",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Supplies",
+            "link": "https://www.quill.com/office-supplies/cbu/2.html"
+          },
+          {
+            "title": "Login",
+            "link": "https://www.quill.com/Account/Login"
+          },
+          {
+            "title": "Contact Us",
+            "link": "https://www.quill.com/contact-us/cbi/25.cshtml"
+          },
+          {
+            "title": "Quill.com | Quill.com",
+            "link": "https://www.quill.com/content/index/why-quill/"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:V6AO-lVMpX0J:https://www.quill.com/+&cd=2&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "All Quill Office Products | Quill.com",
+      "link": "https://www.quill.com/seeallcategories",
+      "displayed_link": "www.quill.com › seeallcategories",
+      "snippet": "A sitemap of all the office products and essentials carried on Quill.com for small ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YAzM_KwUeswJ:https://www.quill.com/seeallcategories+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Quill Brand Office Supplies | Quill.com",
+      "link": "https://www.quill.com/quill-office-supplies/cbx/343.html",
+      "displayed_link": "www.quill.com › quill-office-supplies › cbx",
+      "snippet": "Quill Brand Copy Paper, 8 1/2\" x 11\", 92 Bright, 20 LB, 1 Ream of 500 Sheets ..."
+    },
+    {
+      "position": 5,
+      "title": "Office Supply Specials | Quill.com",
+      "link": "https://www.quill.com/content/iw/adv/2017/05/029/default.cshtml",
+      "displayed_link": "www.quill.com › content › adv › 2017/05 › default.cshtml",
+      "snippet": "To qualify for your coupon, you must order from these categories: ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VyH1P5CAsYIJ:https://www.quill.com/content/iw/adv/2017/05/029/default.cshtml+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Discount Office Supplies, Hot Deals & More | Quill.com",
+      "link": "https://www.quill.com/quill-daily-specials/cbx/35.html",
+      "displayed_link": "www.quill.com › quill-daily-specials › cbx",
+      "snippet": "Shop now for the lowest prices and the best deals on discount office supplies, including copy paper, ink & toner, pens, markers, tech, furniture, and more!"
+    },
+    {
+      "position": 7,
+      "title": "Office Supplies - Quill.com",
+      "link": "https://www.quill.com/Master/ShopByCategoryMenu",
+      "displayed_link": "www.quill.com › Master › ShopByCategoryMenu",
+      "snippet": "Coffee & Breakroom Supplies · Furniture · Teaching & School Supplies.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Dw-W7A-b5JIJ:https://www.quill.com/Master/ShopByCategoryMenu+&cd=16&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.quill.com/Master/ShopByCategoryMenu+quill+office+supplies&tbo=1&sa=X&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQHzAPegQIBxAJ"
+    },
+    {
+      "position": 8,
+      "title": "Office Supplies | Buying Guides | Quill.com",
+      "link": "https://www.quill.com/content/index/resource-center/office-supplies/buying-guides/",
+      "displayed_link": "www.quill.com › content › index › resource-center › buying-guides",
+      "snippet": "Learn how to overcome the top three challenges of buying in bulk, and ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:G1RRmCteNTEJ:https://www.quill.com/content/index/resource-center/office-supplies/buying-guides/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Bulk Office Supplies - Shop Office Products Now! | Quill.com",
+      "link": "https://www.quill.com/office-supplies-bulk/cbx/184.html",
+      "displayed_link": "www.quill.com › office-supplies-bulk › cbx",
+      "snippet": "Shop Quill.com for bulk office supplies! Buy bulk paper, bulk filing supplies and ..."
+    },
+    {
+      "position": 10,
+      "title": "Quill Corporation - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Quill_Corporation",
+      "displayed_link": "en.wikipedia.org › wiki › Quill_Corporation",
+      "snippet": "Quill Corporation is a United States office supply retailer, founded in 1956, and headquartered in Lincolnshire, Illinois. It services more than one million small ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Lincolnshire, Illinois",
+            "link": "https://en.wikipedia.org/wiki/Lincolnshire,_Illinois",
+            "date": "Industry‎: ‎Retail"
+          },
+          {
+            "title": "Staples Inc.",
+            "link": "https://en.wikipedia.org/wiki/Staples_Inc.",
+            "date": "Founded‎: ‎1956"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:DthZWP9EqpwJ:https://en.wikipedia.org/wiki/Quill_Corporation+&cd=19&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Quill_Corporation+quill+office+supplies&tbo=1&sa=X&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQHzASegQIBBAJ"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "quill office supplies reviews",
+      "link": "https://www.google.com/search?q=quill+office+supplies+reviews&sa=X&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ1QIoAHoECA4QAQ"
+    },
+    {
+      "query": "quill coupons",
+      "link": "https://www.google.com/search?q=quill+coupons&sa=X&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ1QIoAXoECA4QAg"
+    },
+    {
+      "query": "quill office supplies near me",
+      "link": "https://www.google.com/search?q=quill+office+supplies+near+me&sa=X&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ1QIoAnoECA4QAw"
+    },
+    {
+      "query": "quill login",
+      "link": "https://www.google.com/search?q=quill+login&sa=X&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ1QIoA3oECA4QBA"
+    },
+    {
+      "query": "discount office supplies",
+      "link": "https://www.google.com/search?q=discount+office+supplies&sa=X&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ1QIoBHoECA4QBQ"
+    },
+    {
+      "query": "quill email",
+      "link": "https://www.google.com/search?q=quill+email&sa=X&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ1QIoBXoECA4QBg"
+    },
+    {
+      "query": "office supplies for sale",
+      "link": "https://www.google.com/search?q=office+supplies+for+sale&sa=X&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ1QIoBnoECA4QBw"
+    },
+    {
+      "query": "office supplies deals",
+      "link": "https://www.google.com/search?q=office+supplies+deals&sa=X&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ1QIoB3oECA4QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=quill+office+supplies&ei=0HYnXvOFCNvH4-EPqp-aiAQ&start=10&sa=N&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ8NMDegQIDxBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=quill+office+supplies&ei=0HYnXvOFCNvH4-EPqp-aiAQ&start=10&sa=N&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ8tMDegQIDxAv",
+      "3": "https://www.google.com/search?q=quill+office+supplies&ei=0HYnXvOFCNvH4-EPqp-aiAQ&start=20&sa=N&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ8tMDegQIDxAx",
+      "4": "https://www.google.com/search?q=quill+office+supplies&ei=0HYnXvOFCNvH4-EPqp-aiAQ&start=30&sa=N&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ8tMDegQIDxAz",
+      "5": "https://www.google.com/search?q=quill+office+supplies&ei=0HYnXvOFCNvH4-EPqp-aiAQ&start=40&sa=N&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ8tMDegQIDxA1",
+      "6": "https://www.google.com/search?q=quill+office+supplies&ei=0HYnXvOFCNvH4-EPqp-aiAQ&start=50&sa=N&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ8tMDegQIDxA3",
+      "7": "https://www.google.com/search?q=quill+office+supplies&ei=0HYnXvOFCNvH4-EPqp-aiAQ&start=60&sa=N&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ8tMDegQIDxA5",
+      "8": "https://www.google.com/search?q=quill+office+supplies&ei=0HYnXvOFCNvH4-EPqp-aiAQ&start=70&sa=N&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ8tMDegQIDxA7",
+      "9": "https://www.google.com/search?q=quill+office+supplies&ei=0HYnXvOFCNvH4-EPqp-aiAQ&start=80&sa=N&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ8tMDegQIDxA9",
+      "10": "https://www.google.com/search?q=quill+office+supplies&ei=0HYnXvOFCNvH4-EPqp-aiAQ&start=90&sa=N&ved=2ahUKEwjzrcXl2pXnAhXb4zgGHaqPBkEQ8tMDegQIDxA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=quill+office+supplies&start=10&token=d46edcaf5f334d3c",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=quill+office+supplies&start=10&token=d46edcaf5f334d3c",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=quill+office+supplies&start=10&token=d46edcaf5f334d3c",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=quill+office+supplies&start=20&token=224e57160cdffc5a",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=quill+office+supplies&start=30&token=c3b18fd3935464af",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=quill+office+supplies&start=40&token=8928ac57f75c6659",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=quill+office+supplies&start=50&token=f36fc28e74da8761",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=quill+office+supplies&start=60&token=b5ae2a59009afa1e",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=quill+office+supplies&start=70&token=8726f549cd0762fd",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=quill+office+supplies&start=80&token=ff43445d99bfbc0b",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=quill+office+supplies&start=90&token=a0cf97ab4491ad01"
+    }
+  }
+}

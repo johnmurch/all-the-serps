@@ -1,0 +1,365 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 03:25:32 UTC",
+    "processed_at": "2020-01-21 03:25:32 UTC",
+    "google_url": "https://www.google.com/search?q=wealthy+affiliate&oq=wealthy+affiliate&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 3.06
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "wealthy affiliate",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 34800000,
+    "time_taken_displayed": 0.47,
+    "query_displayed": "wealthy affiliate"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Wealthy Affiliate | Official Site‎",
+      "link": "https://www.wealthyaffiliate.com/",
+      "displayed_link": "www.wealthyaffiliate.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiSkeav35PnAhWJthgKHelrB8cYABAAGgJsZQ&sig=AOD64_1PYOrSVxbUUgWwA0aECcowXSD60w&q=&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q0Qx6BAgPEAE&adurl=",
+      "description": "Everything you need to create and grow a successful business on the internet. Trainings catered to all levels of experience. Beginner's welcome and encouraged. Great community. Affordable pricing. Years of experience. Incredible training.",
+      "sitelinks": [
+        {
+          "title": "Create account",
+          "link": "https://my.wealthyaffiliate.com/createaccount?a_aid=d948676b"
+        },
+        {
+          "title": "Premium",
+          "link": "https://my.wealthyaffiliate.com/order/signup?a_aid=d948676b"
+        }
+      ]
+    }
+  ],
+  "knowledge_graph": {},
+  "inline_videos": [
+    {
+      "title": "Wealthy Affiliate Review 2020 (HONEST REVIEW)",
+      "link": "https://www.youtube.com/watch?v=UuMPmwasV2k",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Simon Gorges",
+      "duration": "14:14",
+      "platform": "YouTube",
+      "date": "May 8, 2019"
+    },
+    {
+      "title": "HOW TO MAKE MONEY ON WEALTHY AFFILIATE 2019 - MY ...",
+      "link": "https://www.youtube.com/watch?v=VpObKllS1_I",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Michael Day",
+      "duration": "9:23",
+      "platform": "YouTube",
+      "date": "Mar 20, 2019"
+    },
+    {
+      "title": "Wealthy Affiliate Review: Shocking WealthyAffiliate.com ...",
+      "link": "https://www.youtube.com/watch?v=ykOIf0Z8hLk",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Work At Home No Scams ...",
+      "duration": "10:00",
+      "platform": "YouTube",
+      "date": "Sep 24, 2019"
+    },
+    {
+      "title": "Is Wealthy Affiliate a Scam or Legit?",
+      "link": "https://www.youtube.com/watch?v=Ghep2LZa-Os",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpODf9-kO5y2TLp91-SZ2E3P6pCxTdQO_17axou30c2ZAbCRBvQImpQsr8",
+      "channel": "SeedTime Money",
+      "duration": "30:55",
+      "platform": "YouTube",
+      "date": "Oct 9, 2018"
+    },
+    {
+      "title": "FRUSTRATED WITH WEALTHY AFFILIATE? 🤔TOTAL ...",
+      "link": "https://www.youtube.com/watch?v=wK_k5RrySLo",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUmrhxj-48hpJiQxA0e1nvkjwZNY90eh9XTmvFoSiOe1x8k66RrnO_0YELMw",
+      "channel": "Hustle Life",
+      "duration": "9:34",
+      "platform": "YouTube",
+      "date": "Apr 24, 2019"
+    },
+    {
+      "title": "Wealthy Affiliate Review - Biggest Scam Of 2018 2019? Or ...",
+      "link": "https://www.youtube.com/watch?v=Qgl0D7SvUMI",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0B9NHhWa5--zeabfqH7biji1GWJSHd-HVThey98DgK73vS6anNpUEexGDdA",
+      "channel": "Jesse Singh",
+      "duration": "12:04",
+      "platform": "YouTube",
+      "date": "Dec 1, 2018"
+    },
+    {
+      "title": "Is Wealthy Affiliate A Scam? (What WA DOES NOT Want You ...",
+      "link": "https://www.youtube.com/watch?v=4Or6gWwZA_c",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSt-ltfJ_PyaIMr2PriCBKN9EeXkEMD0kP2XyJed7sZf3IV_i0vs27qfdC4",
+      "channel": "Benji's Dad - Online...",
+      "duration": "8:45",
+      "platform": "YouTube",
+      "date": "Feb 27, 2018"
+    },
+    {
+      "title": "Wealthy Affiliate SCAM by Kyle and Carson",
+      "link": "https://www.youtube.com/watch?v=tIfVO6DGzcg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIU9TzRby3M2Pze06rf0eF5CnFWIgZH7ILLgcYZF8D-F1_jLwmDcuhKs6A4aiI",
+      "channel": "Craig Smith",
+      "duration": "3:43",
+      "platform": "YouTube",
+      "date": "Nov 21, 2011"
+    },
+    {
+      "title": "Wealthy Affiliate Review - The Biggest Scam In History?",
+      "link": "https://www.youtube.com/watch?v=ejGZlygYDnU",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTruYTQcUAptEIixiy1CxU33abSkWrrm2J-BY6WMSUKl8KMFjcFv_TkM9NwuA",
+      "channel": "Wealthy Affiliate Review",
+      "duration": "5:46",
+      "platform": "YouTube",
+      "date": "Feb 1, 2016"
+    },
+    {
+      "title": "Wealthy Affiliate Review for 2018: Is it legit? Scam or Does it ...",
+      "link": "https://www.youtube.com/watch?v=gf8xuI5OlXs",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTie3UDWp85zFkfwdL-sxvFK066VkK1MLJQcORKHVipVZHAULSrSsA6CVT7",
+      "channel": "Justin Meister",
+      "duration": "12:14",
+      "platform": "YouTube",
+      "date": "May 1, 2018"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is Wealthy Affiliate legitimate?",
+      "snippet": "Wealthy Affiliate is legit with all the… Wealthy Affiliate is legit with all the resources you need at your fingertips. This website makes their affiliates successful. It takes a lot of hard work to get indexed and ranked, with Wealthy Affiliate you can see it in the affiliate websites.",
+      "title": "Wealthyaffiliate Reviews | Read Customer Service Reviews of ...",
+      "link": "https://www.trustpilot.com/review/wealthyaffiliate.com",
+      "displayed_link": "www.trustpilot.com › review › wealthyaffiliate"
+    },
+    {
+      "question": "Does Wealthy Affiliate make you money?",
+      "snippet": "Wealthy Affiliate is a training platform to learn how to become an affiliate marketer. ... However, Wealthy Affiliate will not make you money, but it will show you how to make money.May 25, 2018",
+      "title": "How hard is it to make a profit with Wealthy Affiliate? - Quora",
+      "link": "https://www.quora.com/How-hard-is-it-to-make-a-profit-with-Wealthy-Affiliate",
+      "displayed_link": "www.quora.com › How-hard-is-it-to-make-a-profit-with-Wealthy-Affiliate"
+    },
+    {
+      "question": "Is Wealthy Affiliate a pyramid scheme?",
+      "snippet": "No, Wealthy Affiliate is not a pyramid scheme or any kind of multi-level marketing scheme. ... Yes, some people make money by promoting Wealthy Affiliate but this is by earning an affiliate commission from direct referrals only. There are no pyramid structure or downlines of any kind.Apr 16, 2019",
+      "title": "Is Wealthy Affiliate A Pyramid Scheme? (The Truth EXPOSED!)",
+      "link": "https://themakemoneyonlineblog.com/is-wealthy-affiliate-a-pyramid-scheme",
+      "displayed_link": "themakemoneyonlineblog.com › is-wealthy-affiliate-a-pyramid-scheme"
+    },
+    {
+      "question": "What is wealthy affiliate?",
+      "snippet": "Wealthy Affiliate is essentially an online platform and community of Internet and affiliate marketers. The platform started in 2005 as a simple keyword list membership site and has since evolved to provide more comprehensive tools and services such as an integrated website builder and training tutorials and lessons.",
+      "title": "What is Wealthy Affiliate really about? - Quora",
+      "link": "https://www.quora.com/What-is-Wealthy-Affiliate-really-about",
+      "displayed_link": "www.quora.com › What-is-Wealthy-Affiliate-really-about"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Wealthy Affiliate - The Home of Affiliate Marketing",
+      "link": "https://www.wealthyaffiliate.com/",
+      "displayed_link": "www.wealthyaffiliate.com",
+      "snippet": "Absolutely everything you need to create and grow a successful business online is included at Wealthy Affiliate. We cater to all levels of experience. Someone ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Wealthy Affiliate",
+            "link": "https://my.wealthyaffiliate.com/"
+          },
+          {
+            "title": "Affiliate Program",
+            "link": "https://www.wealthyaffiliate.com/affiliates/"
+          },
+          {
+            "title": "Sign-up",
+            "link": "https://www.wealthyaffiliate.com/join/"
+          },
+          {
+            "title": "Contact us",
+            "link": "https://www.wealthyaffiliate.com/contact/"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gigTK6STfNIJ:https://www.wealthyaffiliate.com/+&cd=1&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.wealthyaffiliate.com/+wealthy+affiliate&tbo=1&sa=X&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8QHzAAegQIARAH"
+    },
+    {
+      "position": 2,
+      "title": "Wealthy Affiliate",
+      "link": "https://my.wealthyaffiliate.com/",
+      "displayed_link": "my.wealthyaffiliate.com",
+      "snippet": "Affiliate Programs. Live Help. Help Center. Search results. My Favorites. Help Center. Site Support. Technical support for your websites. Ask a Question.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NDGhtfsSmfAJ:https://my.wealthyaffiliate.com/+&cd=10&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://my.wealthyaffiliate.com/+wealthy+affiliate&tbo=1&sa=X&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8QHzAJegQIBBAH"
+    },
+    {
+      "position": 3,
+      "title": "Dashboard - Wealthy Affiliate",
+      "link": "https://my.wealthyaffiliate.com/home",
+      "displayed_link": "my.wealthyaffiliate.com › ...",
+      "snippet": "@Kaone You can search in affiliate programs tab for pertinent Affiliate opportunities, I also recommend searching in google and jaaxy \"weight loss affiliate ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zEUuvZH5wikJ:https://my.wealthyaffiliate.com/home+&cd=11&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://my.wealthyaffiliate.com/home+wealthy+affiliate&tbo=1&sa=X&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8QHzAKegQIAhAJ"
+    },
+    {
+      "position": 4,
+      "title": "An HONEST Wealthy Affiliate Review (WealthyAffiliate.com ...",
+      "link": "https://www.affiliatemarketertraining.com/wealthy-affiliate-review/",
+      "displayed_link": "www.affiliatemarketertraining.com › wealthy-affiliate-review",
+      "snippet": "I've been with Wealthy Affiliate for over 6 months now, so I thought it was time to write up this Wealthy Affiliate review. Here's what I honestly think.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_sydwnHaRMcJ:https://www.affiliatemarketertraining.com/wealthy-affiliate-review/+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Wealthy Affiliate Reviews | Read Customer Service Reviews ...",
+      "link": "https://www.trustpilot.com/review/wealthyaffiliate.com",
+      "displayed_link": "www.trustpilot.com › review › wealthyaffiliate",
+      "snippet": "Do you agree with Wealthy Affiliate's 4-star rating? Check out what 45 people have written so far, and share your own experience.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.8,
+            "reviews": 45
+          },
+          "extensions": [
+            "Rating: 3.8",
+            "45 reviews"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9jemWTVCsjEJ:https://www.trustpilot.com/review/wealthyaffiliate.com+&cd=23&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Wealthy Affiliate Review 2020 (Former Member, Honest Look ...",
+      "link": "https://www.ippei.com/wealthy-affiliate/",
+      "displayed_link": "www.ippei.com › wealthy-affiliate",
+      "date": "Dec 20, 2019",
+      "snippet": "Hello and welcome to the internet's most detailed breakdown of the Wealthy Affiliate (WA) program. We'll be going through every single module ...",
+      "rich_snippet": {
+        "bottom": {}
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4aOraG-XwVwJ:https://www.ippei.com/wealthy-affiliate/+&cd=24&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "The Problem With Wealthy Affiliate: Read This Before Joining",
+      "link": "https://crajun.com/affiliate-marketing-articles/problem-wealthy-affiliate/",
+      "displayed_link": "crajun.com › affiliate-marketing-articles › problem-wealthy-affiliate",
+      "snippet": "This article analyzes the sales pitch Wealthy Affiliate uses to get members signed up. It's a great community, but here are a few things you should know.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:f-xJccorGSkJ:https://crajun.com/affiliate-marketing-articles/problem-wealthy-affiliate/+&cd=25&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://crajun.com/affiliate-marketing-articles/problem-wealthy-affiliate/+wealthy+affiliate&tbo=1&sa=X&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8QHzAYegQICBAJ"
+    },
+    {
+      "position": 8,
+      "title": "Wealthy Affiliate Review [2020] - Scam Or A Legit Program?",
+      "link": "https://hustlelife.net/wealthy-affiliate-review/",
+      "displayed_link": "hustlelife.net › wealthy-affiliate-review",
+      "snippet": "Most reviews of Wealthy Affiliate promise you the world if you buy it. This is NOT one of those reviews. In fact, it might actually hurt your feelings. But if you want ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dWpumJ9XQRoJ:https://hustlelife.net/wealthy-affiliate-review/+&cd=26&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Wealthy Affiliate Review: Is it a Scam or Legit Way to Passive ...",
+      "link": "https://drews-review.com/wealthy-affiliate-review/",
+      "displayed_link": "drews-review.com › wealthy-affiliate-review",
+      "date": "Mar 11, 2019",
+      "snippet": "Welcome to my review on the Wealthy affiliate. I paid for the membership to see if the training is worth the $49 a month fee. Is it a scam or legit ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "": 297
+          },
+          "extensions": [
+            "$297.00"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:RUawDFrEXa0J:https://drews-review.com/wealthy-affiliate-review/+&cd=27&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [
+    {
+      "position": 1,
+      "query": "Top affiliate marketing platforms",
+      "results": []
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "wealthy affiliate login",
+      "link": "https://www.google.com/search?q=wealthy+affiliate+login&sa=X&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "wealthy affiliate lawsuit",
+      "link": "https://www.google.com/search?q=wealthy+affiliate+lawsuit&sa=X&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q1QIoAXoECA0QAg"
+    },
+    {
+      "query": "is wealthy affiliate worth it",
+      "link": "https://www.google.com/search?q=is+wealthy+affiliate+worth+it&sa=X&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q1QIoAnoECA0QAw"
+    },
+    {
+      "query": "wealthy affiliate review 2019",
+      "link": "https://www.google.com/search?q=wealthy+affiliate+review+2019&sa=X&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q1QIoA3oECA0QBA"
+    },
+    {
+      "query": "wealthy affiliate affiliate program",
+      "link": "https://www.google.com/search?q=wealthy+affiliate+affiliate+program&sa=X&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "wealthy affiliate reddit",
+      "link": "https://www.google.com/search?q=wealthy+affiliate+reddit&sa=X&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q1QIoBXoECA0QBg"
+    },
+    {
+      "query": "wealthy affiliate cost",
+      "link": "https://www.google.com/search?q=wealthy+affiliate+cost&sa=X&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q1QIoBnoECA0QBw"
+    },
+    {
+      "query": "wealthy affiliate training",
+      "link": "https://www.google.com/search?q=wealthy+affiliate+training&sa=X&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=wealthy+affiliate&ei=Lm8mXtOcAaOmmwX456v4BA&start=10&sa=N&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q8NMDegQIDhBC",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=wealthy+affiliate&ei=Lm8mXtOcAaOmmwX456v4BA&start=10&sa=N&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q8tMDegQIDhAw",
+      "3": "https://www.google.com/search?q=wealthy+affiliate&ei=Lm8mXtOcAaOmmwX456v4BA&start=20&sa=N&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q8tMDegQIDhAy",
+      "4": "https://www.google.com/search?q=wealthy+affiliate&ei=Lm8mXtOcAaOmmwX456v4BA&start=30&sa=N&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q8tMDegQIDhA0",
+      "5": "https://www.google.com/search?q=wealthy+affiliate&ei=Lm8mXtOcAaOmmwX456v4BA&start=40&sa=N&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q8tMDegQIDhA2",
+      "6": "https://www.google.com/search?q=wealthy+affiliate&ei=Lm8mXtOcAaOmmwX456v4BA&start=50&sa=N&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q8tMDegQIDhA4",
+      "7": "https://www.google.com/search?q=wealthy+affiliate&ei=Lm8mXtOcAaOmmwX456v4BA&start=60&sa=N&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q8tMDegQIDhA6",
+      "8": "https://www.google.com/search?q=wealthy+affiliate&ei=Lm8mXtOcAaOmmwX456v4BA&start=70&sa=N&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q8tMDegQIDhA8",
+      "9": "https://www.google.com/search?q=wealthy+affiliate&ei=Lm8mXtOcAaOmmwX456v4BA&start=80&sa=N&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q8tMDegQIDhA-",
+      "10": "https://www.google.com/search?q=wealthy+affiliate&ei=Lm8mXtOcAaOmmwX456v4BA&start=90&sa=N&ved=2ahUKEwjT69-v35PnAhUj06YKHfjzCk8Q8tMDegQIDhBA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=wealthy+affiliate&start=10&token=8e0854ba9016cf91",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=wealthy+affiliate&start=10&token=8e0854ba9016cf91",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=wealthy+affiliate&start=10&token=8e0854ba9016cf91",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=wealthy+affiliate&start=20&token=e7f6aa94f4ed28ec",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=wealthy+affiliate&start=30&token=3215a05920033e26",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=wealthy+affiliate&start=40&token=e5b7d5949c7465fc",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=wealthy+affiliate&start=50&token=6335d8823cdd8d84",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=wealthy+affiliate&start=60&token=41c909bc144202cf",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=wealthy+affiliate&start=70&token=b0fc638acde24529",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=wealthy+affiliate&start=80&token=d7a1927a36c910ec",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=wealthy+affiliate&start=90&token=24d128febf8e4472"
+    }
+  }
+}

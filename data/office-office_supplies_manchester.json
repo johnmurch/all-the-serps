@@ -1,0 +1,278 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:44:46 UTC",
+    "processed_at": "2020-01-21 22:44:46 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+manchester&oq=office+supplies+manchester&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 10.11
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies manchester",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 327000000,
+    "time_taken_displayed": 0.54,
+    "query_displayed": "office supplies manchester"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+manchester&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=53478914,-2240970,650&tbm=lcl&sa=X&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 53.478914,
+      "longitude": -2.24097,
+      "altitude": 650
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+manchester&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=53478914,-2240970,650&tbm=lcl&sa=X&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQjGp6BAgLEEY",
+    "places": [
+      {
+        "position": 1,
+        "title": "Paperchase",
+        "place_id": "3081026917773088313",
+        "lsig": "AB86z5Vsk787Whw8L-gf1iACr4ZK",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Vsk787Whw8L-gf1iACr4ZK&ludocid=3081026917773088313&q=office+supplies+manchester&tbm=lcl&token=b1e86b45380e5e8d",
+        "rating": 4.1,
+        "reviews": 46,
+        "price": "$$",
+        "type": "Stationery store",
+        "address": "Arndale Centre, 100 Corporation St",
+        "phone": "In Manchester Arndale",
+        "description": "Contemporary stationery, gifts & cards",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 53.4847341,
+          "longitude": -2.2420914
+        }
+      },
+      {
+        "position": 2,
+        "title": "Octopus Office Products Ltd",
+        "place_id": "3602581716147637851",
+        "lsig": "AB86z5UKTdGEJTJmo9IHlKwqvjrC",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UKTdGEJTJmo9IHlKwqvjrC&ludocid=3602581716147637851&q=office+supplies+manchester&tbm=lcl&token=94682ded6c588077",
+        "rating": 5,
+        "reviews": 146,
+        "type": "Office supply store",
+        "hours": "Closed ⋅ Opens 7AM Wed · +44 161 429 8118",
+        "address": "40 Princess St",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 53.4771152,
+          "longitude": -2.2398488
+        }
+      },
+      {
+        "position": 3,
+        "title": "Ryman Stationery Manchester University",
+        "place_id": "14800305573056449355",
+        "lsig": "AB86z5VmRDkXIEHkhpz5Hgh_fZr1",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VmRDkXIEHkhpz5Hgh_fZr1&ludocid=14800305573056449355&q=office+supplies+manchester&tbm=lcl&token=660f9c56553011f2",
+        "rating": 3.6,
+        "reviews": 14,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Closed ⋅ Opens 8AM Wed · +44 161 228 2133",
+        "address": "6 Oxford Rd",
+        "description": "Source for stationery & office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 53.473095,
+          "longitude": -2.2401196999999997
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Office Depot in MANCHESTER,MO - 439 LAFAYETTE CENTER",
+      "link": "https://www.officedepot.com/storelocator/mo/manchester/office-depot-3373/",
+      "displayed_link": "www.officedepot.com › storelocator › manchester › office-depot-3373",
+      "snippet": "Shop at the Office Depot Store in MANCHESTER,MO. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2YGd8v9zTRkJ:https://www.officedepot.com/storelocator/mo/manchester/office-depot-3373/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Staples® Official Online Store",
+      "link": "https://www.staples.com/",
+      "displayed_link": "www.staples.com",
+      "snippet": "Shop Staples for business essentials, printers, ink, computers, office furniture, printing services, promotional products and more. Solutions for Worklife.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Supplies",
+            "link": "https://www.staples.com/Office-Supplies/cat_SC1"
+          },
+          {
+            "title": "Small Office & Home Office ...",
+            "link": "https://www.staples.com/Small-Office-Home-Office-Furniture-Collections/cat_CL208484"
+          },
+          {
+            "title": "Printing & Marketing Services",
+            "link": "https://www.staples.com/services/printing/"
+          },
+          {
+            "title": "Pens",
+            "link": "https://www.staples.com/Pens/cat_CL110001"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CNR1OwZWsigJ:https://www.staples.com/+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Staples® S Willow St, Manchester, 03103 | Store Details",
+      "link": "https://stores.staples.com/nh/manchester/1525-s-willow-st",
+      "displayed_link": "stores.staples.com › manchester › 1525-s-willow-st",
+      "snippet": "Visit this Manchester Staples® for office supplies & furniture, school supplies, printers, ink & toner, copy paper, computers, technology, and more.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "School Supplies",
+            "link": "https://stores.staples.com/nh/manchester/1525-s-willow-st/school-supplies"
+          },
+          {
+            "title": "Office Furniture",
+            "link": "https://stores.staples.com/nh/manchester/1525-s-willow-st/office-furniture"
+          },
+          {
+            "title": "Shipping Supplies",
+            "link": "https://stores.staples.com/nh/manchester/1525-s-willow-st/shipping-supplies"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:z09FRm8EF0EJ:https://stores.staples.com/nh/manchester/1525-s-willow-st+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Top 10 Best Office Supplies in Manchester, CT - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=office+supplies&find_loc=Manchester%2C+CT",
+      "displayed_link": "www.yelp.com › search › find_loc=Manchester,+CT",
+      "snippet": "Reviews on Office Supplies in Manchester, CT - Staples, FedEx Office Print ... House decor, kitchenware, office supplies -- there were some decent finds, we ..."
+    },
+    {
+      "position": 5,
+      "title": "Top 10 Best Office Supplies in Manchester, NH - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=office+supplies&find_loc=Manchester%2C+NH",
+      "displayed_link": "www.yelp.com › search › find_loc=Manchester,+NH",
+      "snippet": "Reviews on Office Supplies in Manchester, NH - Staples, Walmart ... 725 Gold St, Manchester ... They frequently do not have the supply to fill my prescription.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ytJl4Ny1gHUJ:https://www.yelp.com/search%3Ffind_desc%3Doffice%2Bsupplies%26find_loc%3DManchester%252C%2BNH+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Best 6 Staples Office Supply Store in Manchester, TN with ...",
+      "link": "https://www.yellowpages.com/manchester-tn/staples-office-supply-store",
+      "displayed_link": "www.yellowpages.com › Manchester, TN",
+      "date": "6 results",
+      "snippet": "Staples Office Supply Store in Manchester, TN. Aces. Office Equipment & SuppliesKeysLocksmiths Equipment & Supplies. A Plus School & Office Supplies. Office Equipment & Supplies. Evelyn's Office Supplies. Office Equipment & Supplies. TotalGraphics, Inc. Office Equipment & SuppliesLithographersPrinting Services. ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VTpRh_tMrZEJ:https://www.yellowpages.com/manchester-tn/staples-office-supply-store+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Office Supplies | MANCHESTER, CT | Mail Room",
+      "link": "https://www.mailroommanchester.com/Products-Services/Office-Supplies",
+      "displayed_link": "www.mailroommanchester.com › Products-Services › Office-Supplies",
+      "snippet": "Mail Room offers a variety of essential office & business supplies in MANCHESTER, CT, 341 E Center st.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:xc7EE0uTyO8J:https://www.mailroommanchester.com/Products-Services/Office-Supplies+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Office Depot 49 Pavilion Dr Manchester, CT General ...",
+      "link": "https://www.mapquest.com/us/connecticut/office-depot-544649",
+      "displayed_link": "www.mapquest.com › connecticut › office-depot-544649",
+      "snippet": "<p>Office Depot is a national chain office supply store located down the street from Buckland Hills Mall. This store can supply all your office needs including ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nAG-0rLBJdkJ:https://www.mapquest.com/us/connecticut/office-depot-544649+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "TEDesk | Transfer Enterprises | Pre-Owned Office Furniture ...",
+      "link": "https://www.tedesk.com/",
+      "displayed_link": "www.tedesk.com",
+      "snippet": "Veteran-owned and operated for 25 years in Manchester, CT. Maximize your space & budget with the best office furniture solution provider in New England.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:t5S0Lr8q6ekJ:https://www.tedesk.com/+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Granite State Office Furniture Manchester, NH Affordable ...",
+      "link": "http://granitestateofficefurniture.com/",
+      "displayed_link": "granitestateofficefurniture.com",
+      "snippet": "Granite State Office Furniture Manchester, NH sells new commercial quality office furniture at everyday low prices. We offer experience, selection, installation, ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:HbFGmFR6h6oJ:granitestateofficefurniture.com/+&cd=13&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office depot",
+      "link": "https://www.google.com/search?q=office+depot&sa=X&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "office supplies online",
+      "link": "https://www.google.com/search?q=office+supplies+online&sa=X&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "office depot near me",
+      "link": "https://www.google.com/search?q=office+depot+near+me&sa=X&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "office depot manchester mo",
+      "link": "https://www.google.com/search?q=office+depot+manchester+mo&sa=X&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "office depo9t",
+      "link": "https://www.google.com/search?q=office+depo9t&sa=X&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "officemax near me",
+      "link": "https://www.google.com/search?q=officemax+near+me&sa=X&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+manchester&ei=5n4nXpeYKPvG0PEPgM2XkAw&start=10&sa=N&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ8NMDegQIDhA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+manchester&ei=5n4nXpeYKPvG0PEPgM2XkAw&start=10&sa=N&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ8tMDegQIDhAt",
+      "3": "https://www.google.com/search?q=office+supplies+manchester&ei=5n4nXpeYKPvG0PEPgM2XkAw&start=20&sa=N&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ8tMDegQIDhAv",
+      "4": "https://www.google.com/search?q=office+supplies+manchester&ei=5n4nXpeYKPvG0PEPgM2XkAw&start=30&sa=N&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ8tMDegQIDhAx",
+      "5": "https://www.google.com/search?q=office+supplies+manchester&ei=5n4nXpeYKPvG0PEPgM2XkAw&start=40&sa=N&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ8tMDegQIDhAz",
+      "6": "https://www.google.com/search?q=office+supplies+manchester&ei=5n4nXpeYKPvG0PEPgM2XkAw&start=50&sa=N&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ8tMDegQIDhA1",
+      "7": "https://www.google.com/search?q=office+supplies+manchester&ei=5n4nXpeYKPvG0PEPgM2XkAw&start=60&sa=N&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ8tMDegQIDhA3",
+      "8": "https://www.google.com/search?q=office+supplies+manchester&ei=5n4nXpeYKPvG0PEPgM2XkAw&start=70&sa=N&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ8tMDegQIDhA5",
+      "9": "https://www.google.com/search?q=office+supplies+manchester&ei=5n4nXpeYKPvG0PEPgM2XkAw&start=80&sa=N&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ8tMDegQIDhA7",
+      "10": "https://www.google.com/search?q=office+supplies+manchester&ei=5n4nXpeYKPvG0PEPgM2XkAw&start=90&sa=N&ved=2ahUKEwiXo-zA4pXnAhV7IzQIHYDmBcIQ8tMDegQIDhA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+manchester&start=10&token=478dc3d153a6aa62",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+manchester&start=10&token=478dc3d153a6aa62",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+manchester&start=10&token=478dc3d153a6aa62",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+manchester&start=20&token=d74199ac202835af",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+manchester&start=30&token=23604838e67df75c",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+manchester&start=40&token=d5cbc35f035ac8ff",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+manchester&start=50&token=b351a25fe73f23ba",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+manchester&start=60&token=a4a0c79d6ca6714c",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+manchester&start=70&token=f218d69512cdae29",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+manchester&start=80&token=7dfd026b4728080f",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+manchester&start=90&token=28f5ee8746b1a729"
+    }
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 17:05:44 UTC",
+    "processed_at": "2020-01-21 17:05:44 UTC",
+    "google_url": "https://www.google.com/search?q=best+travel+bookshop+london&oq=best+travel+bookshop+london&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 3.02
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best travel bookshop london",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 7980000,
+    "time_taken_displayed": 0.53,
+    "query_displayed": "best travel bookshop london"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=best+travel+bookshop+london&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=51514351,-165481,2780&tbm=lcl&sa=X&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 51.514351,
+      "longitude": -1.65481,
+      "altitude": 2780
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=best+travel+bookshop+london&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=51514351,-165481,2780&tbm=lcl&sa=X&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQjGp6BAgLED0",
+    "places": [
+      {
+        "position": 1,
+        "title": "Stanfords",
+        "place_id": "10948680385028733165",
+        "lsig": "AB86z5Xwirt5TxctzdHcDe_fHzc9",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Xwirt5TxctzdHcDe_fHzc9&ludocid=10948680385028733165&q=best+travel+bookshop+london&tbm=lcl&token=eef7a7b4bb5d168b",
+        "rating": 4.6,
+        "reviews": 1155,
+        "type": "Map store",
+        "hours": "Open ⋅ Closes 8PM · +44 20 7836 1321",
+        "address": "7 Mercer Walk",
+        "description": "Their website mentions travel bookshop",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 51.513082499999996,
+          "longitude": -0.1253326
+        }
+      },
+      {
+        "position": 2,
+        "title": "Stanfords Coffee House",
+        "place_id": "6619842375420666891",
+        "lsig": "AB86z5WSJtuEFMMAr6KRuX6QUyGD",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WSJtuEFMMAr6KRuX6QUyGD&ludocid=6619842375420666891&q=best+travel+bookshop+london&tbm=lcl&token=02e6cf4abd0fecb3",
+        "rating": 5,
+        "reviews": 1,
+        "type": "Cafe",
+        "address": "7A Mercer Walk",
+        "phone": "In Stanfords",
+        "description": "Their website mentions travel bookshop",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 51.5130407,
+          "longitude": -0.1254141
+        }
+      },
+      {
+        "position": 3,
+        "title": "The Travel Bookshop",
+        "place_id": "8340004020571558711",
+        "lsig": "AB86z5Um-PhJAilBD09ejTMfM3he",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Um-PhJAilBD09ejTMfM3he&ludocid=8340004020571558711&q=best+travel+bookshop+london&tbm=lcl&token=f3814e3bf2414d2e",
+        "rating": 0,
+        "type": "No reviews",
+        "address": "13-15 Blenheim Cres",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 51.5156633,
+          "longitude": -0.2056298
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "see_more_about": [
+      {
+        "title": null
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Stanfords: Maps, Atlases, Travel Guides, Travel Books and ...",
+      "link": "http://www.stanfords.co.uk/",
+      "displayed_link": "www.stanfords.co.uk",
+      "snippet": "The World's Biggest and Best Map and Travel Bookshop. For over 160 years, explorers, ... Find our new London store. Previous. Destinations Show Travel ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Books",
+            "link": "http://www.stanfords.co.uk/travel-guides-books"
+          },
+          {
+            "title": "Maps",
+            "link": "http://www.stanfords.co.uk/maps-atlases"
+          },
+          {
+            "title": "Globes",
+            "link": "http://www.stanfords.co.uk/globes"
+          },
+          {
+            "title": "Gifts & Stationery",
+            "link": "http://www.stanfords.co.uk/gifts-stationery"
+          }
+        ]
+      },
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:X95q6uIpF9oJ:www.stanfords.co.uk/+&cd=5&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:www.stanfords.co.uk/+best+travel+bookshop+london&tbo=1&sa=X&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQHzAEegQIAhAH"
+    },
+    {
+      "position": 2,
+      "title": "Stanfords London Store | Stanfords",
+      "link": "http://www.stanfords.co.uk/london-store",
+      "displayed_link": "www.stanfords.co.uk › london-store",
+      "snippet": "We are the world's largest map and travel book retailer. Stanfords prides itself on the depth of its stock, sourced by experts, from all over the world. Our London ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:rOZz2NXG-fQJ:www.stanfords.co.uk/london-store+&cd=6&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:www.stanfords.co.uk/london-store+best+travel+bookshop+london&tbo=1&sa=X&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQHzAFegQIARAJ"
+    },
+    {
+      "position": 3,
+      "title": "Travel Bookshop (London) - 2020 All You Need to Know ...",
+      "link": "https://www.tripadvisor.com/Attraction_Review-g186338-d209247-Reviews-Travel_Bookshop-London_England.html",
+      "displayed_link": "www.tripadvisor.com › ... › England › London › Things to Do in London",
+      "snippet": "The Travel Book Shop is the location of Hugh Grant's character's travel book shop on Portobello... read ... Top Selling Tours & Activities in and around London.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4,
+            "reviews": 20
+          },
+          "extensions": [
+            "Rating: 4",
+            "20 reviews"
+          ]
+        },
+        "bottom": {
+          "questions": [
+            "What hotels are near Travel Bookshop?",
+            "What restaurants are near Travel Bookshop?",
+            "What attractions are near Travel Bookshop?"
+          ]
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Stanfords Travel Bookshop Is Leaving Its Home Of More Than ...",
+      "link": "https://londonist.com/london/books-and-poetry/stanfords-travel-bookshop-is-leaving-its-home-of-more-than-100-years",
+      "displayed_link": "londonist.com › london › books-and-poetry › stanfords-travel-books...",
+      "date": "Oct 12, 2018",
+      "snippet": "The world's largest map store on Long Acre store is closing down.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:n767Spw_V2gJ:https://londonist.com/london/books-and-poetry/stanfords-travel-bookshop-is-leaving-its-home-of-more-than-100-years+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Stanfords in London, the biggest travel bookstore in the world",
+      "link": "https://tourismwithme.com/stanfords-in-london-the-biggest-travel-bookstore-in-the-world",
+      "displayed_link": "tourismwithme.com › stanfords-in-london-the-biggest-travel-bookstor...",
+      "snippet": "Stanfords travel bookstore in Covent Garden is known to be the biggest travel bookstore in the world. They have a large selection of world maps, guides, travel books and travel gadgets. I loved their section of furniture for travel lovers, with furniture made with suitcases and maps.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mby28Hq_qz4J:https://tourismwithme.com/stanfords-in-london-the-biggest-travel-bookstore-in-the-world+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "13 of the Best Bookshops in London - Roaming Required",
+      "link": "https://www.roamingrequired.com/13-of-the-best-bookshops-in-london/",
+      "displayed_link": "www.roamingrequired.com › 13-of-the-best-bookshops-in-london",
+      "date": "Dec 18, 2018",
+      "snippet": "London has some of the world's finest independent bookshops, here is 13 ... It's home to the world's largest collection of maps, travel books and ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wWJDqVK0OI0J:https://www.roamingrequired.com/13-of-the-best-bookshops-in-london/+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "The best bookshops in London - Time Out",
+      "link": "https://www.timeout.com/london/books/londons-best-bookshops",
+      "displayed_link": "www.timeout.com › london › books › londons-best-bookshops",
+      "date": "Jul 8, 2019",
+      "snippet": "Browse London's independent, most-loved and best bookshops for ... So iconic is this travel bookshop it even gets a mention in Arthur Conan ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KKTvIS-Bp2UJ:https://www.timeout.com/london/books/londons-best-bookshops+&cd=12&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.timeout.com/london/books/londons-best-bookshops+best+travel+bookshop+london&tbo=1&sa=X&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQHzALegQICBAJ"
+    },
+    {
+      "position": 8,
+      "title": "Best bookshops in London - Books - visitlondon.com",
+      "link": "https://www.visitlondon.com/things-to-do/shopping/hobbies-and-interests/books/top-bookshops-in-london",
+      "displayed_link": "www.visitlondon.com › Things to do › Shopping",
+      "snippet": "... books and new bestsellers in London's top bookshops and book markets. ... Stanfords flagship Covent Garden store is still a must-visit for lovers of travel ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:w6izlL-xCd0J:https://www.visitlondon.com/things-to-do/shopping/hobbies-and-interests/books/top-bookshops-in-london+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "7 Best Bookshops in London - Newsweek",
+      "link": "https://www.newsweek.com/7-best-bookshops-london-1461162",
+      "displayed_link": "www.newsweek.com › ... › Culture › Travel › London › United Kingdom",
+      "snippet": "London is one of the best cities for bookshops on the planet and the ... collection of bookshops—from niche ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "sep": 24
+          },
+          "extensions": [
+            "Sep 24, 2019"
+          ]
+        }
+      }
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "stanfords maps london",
+      "link": "https://www.google.com/search?q=stanfords+maps+london&sa=X&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ1QIoAHoECAwQAQ"
+    },
+    {
+      "query": "stanfords london moving",
+      "link": "https://www.google.com/search?q=stanfords+london+moving&sa=X&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ1QIoAXoECAwQAg"
+    },
+    {
+      "query": "7 mercer walk, covent garden, london, wc2h 9fa",
+      "link": "https://www.google.com/search?q=7+mercer+walk,+covent+garden,+london,+wc2h+9fa&sa=X&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ1QIoAnoECAwQAw"
+    },
+    {
+      "query": "stanfords covent garden moving",
+      "link": "https://www.google.com/search?q=stanfords+covent+garden+moving&sa=X&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ1QIoA3oECAwQBA"
+    },
+    {
+      "query": "london review bookshop",
+      "link": "https://www.google.com/search?q=london+review+bookshop&sa=X&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ1QIoBHoECAwQBQ"
+    },
+    {
+      "query": "antique map shop london",
+      "link": "https://www.google.com/search?q=antique+map+shop+london&sa=X&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ1QIoBXoECAwQBg"
+    },
+    {
+      "query": "london book store",
+      "link": "https://www.google.com/search?q=london+book+store&sa=X&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ1QIoBnoECAwQBw"
+    },
+    {
+      "query": "travel store london",
+      "link": "https://www.google.com/search?q=travel+store+london&sa=X&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ1QIoB3oECAwQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+travel+bookshop+london&ei=aS8nXum0LYypoAS0mJvYBw&start=10&sa=N&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ8NMDegQIEBBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+travel+bookshop+london&ei=aS8nXum0LYypoAS0mJvYBw&start=10&sa=N&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ8tMDegQIEBAu",
+      "3": "https://www.google.com/search?q=best+travel+bookshop+london&ei=aS8nXum0LYypoAS0mJvYBw&start=20&sa=N&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ8tMDegQIEBAw",
+      "4": "https://www.google.com/search?q=best+travel+bookshop+london&ei=aS8nXum0LYypoAS0mJvYBw&start=30&sa=N&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ8tMDegQIEBAy",
+      "5": "https://www.google.com/search?q=best+travel+bookshop+london&ei=aS8nXum0LYypoAS0mJvYBw&start=40&sa=N&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ8tMDegQIEBA0",
+      "6": "https://www.google.com/search?q=best+travel+bookshop+london&ei=aS8nXum0LYypoAS0mJvYBw&start=50&sa=N&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ8tMDegQIEBA2",
+      "7": "https://www.google.com/search?q=best+travel+bookshop+london&ei=aS8nXum0LYypoAS0mJvYBw&start=60&sa=N&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ8tMDegQIEBA4",
+      "8": "https://www.google.com/search?q=best+travel+bookshop+london&ei=aS8nXum0LYypoAS0mJvYBw&start=70&sa=N&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ8tMDegQIEBA6",
+      "9": "https://www.google.com/search?q=best+travel+bookshop+london&ei=aS8nXum0LYypoAS0mJvYBw&start=80&sa=N&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ8tMDegQIEBA8",
+      "10": "https://www.google.com/search?q=best+travel+bookshop+london&ei=aS8nXum0LYypoAS0mJvYBw&start=90&sa=N&ved=2ahUKEwipjd3ZlpXnAhWMFIgKHTTMBnsQ8tMDegQIEBA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+bookshop+london&start=10&token=087f4aa29b5df7a2",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+bookshop+london&start=10&token=087f4aa29b5df7a2",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+bookshop+london&start=10&token=087f4aa29b5df7a2",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+bookshop+london&start=20&token=1efcc9c401663c51",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+bookshop+london&start=30&token=64a85c48ccd17244",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+bookshop+london&start=40&token=5ffbf45beaea972b",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+bookshop+london&start=50&token=2aacebe83e0b2452",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+bookshop+london&start=60&token=bc48d0fbd9b1b523",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+bookshop+london&start=70&token=845bfcea37be4310",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+bookshop+london&start=80&token=e33696c5ee8120cc",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+bookshop+london&start=90&token=455f15e63592353d"
+    }
+  }
+}

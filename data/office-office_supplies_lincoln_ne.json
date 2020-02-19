@@ -1,0 +1,284 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:31:45 UTC",
+    "processed_at": "2020-01-21 22:31:45 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+lincoln+ne&oq=office+supplies+lincoln+ne&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 11.46
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies lincoln ne",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 34700000,
+    "time_taken_displayed": 0.43,
+    "query_displayed": "office supplies lincoln ne"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+lincoln+ne&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=40779137,-96663297,4231&tbm=lcl&sa=X&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 40.779137,
+      "longitude": -96.663297,
+      "altitude": 4231
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+lincoln+ne&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=40779137,-96663297,4231&tbm=lcl&sa=X&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQjGp6BAgLEEo",
+    "places": [
+      {
+        "position": 1,
+        "title": "Staples",
+        "place_id": "15884311157665445103",
+        "lsig": "AB86z5WBSsedlsZy85EoiURiVp-2",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WBSsedlsZy85EoiURiVp-2&ludocid=15884311157665445103&q=office+supplies+lincoln+ne&tbm=lcl&token=16c25f764c21741d",
+        "rating": 3.7,
+        "reviews": 66,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 8PM · (402) 467-1118",
+        "address": "Lincoln, NE",
+        "description": "Brand-name electronics & office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 40.8141165,
+          "longitude": -96.65216380000001
+        }
+      },
+      {
+        "position": 2,
+        "title": "Office Depot",
+        "place_id": "1920172773255227853",
+        "lsig": "AB86z5XPrFSAtIWhVGueOingI7y5",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XPrFSAtIWhVGueOingI7y5&ludocid=1920172773255227853&q=office+supplies+lincoln+ne&tbm=lcl&token=aa7d61837cc2e28f",
+        "rating": 4,
+        "reviews": 145,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (402) 466-3443",
+        "address": "Lincoln, NE",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 40.8162507,
+          "longitude": -96.6520378
+        }
+      },
+      {
+        "position": 3,
+        "title": "Office Depot",
+        "place_id": "4843552975454735383",
+        "lsig": "AB86z5UaMfTEvx0GDpkiXrSiJj4g",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UaMfTEvx0GDpkiXrSiJj4g&ludocid=4843552975454735383&q=office+supplies+lincoln+ne&tbm=lcl&token=e046516a60cdaabe",
+        "rating": 4.2,
+        "reviews": 70,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "Lincoln, NE",
+        "phone": "In SouthPointe Pavilions",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 40.7420243,
+          "longitude": -96.6745574
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Office Depot in LINCOLN,NE - 333 N. 50TH STREET",
+      "link": "https://www.officedepot.com/storelocator/ne/lincoln/office-depot-165/",
+      "displayed_link": "www.officedepot.com › storelocator › ne › lincoln › office-depot-165",
+      "snippet": "Shop at the Office Depot Store in LINCOLN,NE. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ovM-Zl6mQLsJ:https://www.officedepot.com/storelocator/ne/lincoln/office-depot-165/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Office Depot in LINCOLN,NE - 3120 PINE LAKE ROAD",
+      "link": "https://www.officedepot.com/storelocator/ne/lincoln/officemax-6609/",
+      "displayed_link": "www.officedepot.com › storelocator › ne › lincoln › officemax-6609",
+      "snippet": "Shop at the Office Depot Store in LINCOLN,NE. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:S8ae8VVY4hAJ:https://www.officedepot.com/storelocator/ne/lincoln/officemax-6609/+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Staples® O Street, Lincoln, 68510 | Store Details",
+      "link": "https://stores.staples.com/ne/lincoln/4940-o-street",
+      "displayed_link": "stores.staples.com › ne › lincoln › 4940-o-street",
+      "snippet": "Visit this Lincoln Staples® for office supplies & furniture, school supplies, printers, ink & toner, copy paper, computers, technology, and ... Lincoln , NE 68510. US.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Furniture",
+            "link": "https://stores.staples.com/ne/lincoln/4940-o-street/office-furniture"
+          },
+          {
+            "title": "School Supplies",
+            "link": "https://stores.staples.com/ne/lincoln/4940-o-street/school-supplies"
+          },
+          {
+            "title": "Shipping Supplies",
+            "link": "https://stores.staples.com/ne/lincoln/4940-o-street/shipping-supplies"
+          },
+          {
+            "title": "Tech Services",
+            "link": "https://stores.staples.com/ne/lincoln/4940-o-street/tech-services"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9eNd04h47CkJ:https://stores.staples.com/ne/lincoln/4940-o-street+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Top 10 Best Office Supplies in Lincoln, NE - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=Office+Supplies&find_loc=Lincoln%2C+NE",
+      "displayed_link": "www.yelp.com › search › find_loc=Lincoln,+NE",
+      "snippet": "Reviews on Office Supplies in Lincoln, NE - Officemax 1026, Staples, A&D Technical ... “Great location, and decent prices/selection for a office supply store.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0tPeuG8BU4sJ:https://www.yelp.com/search%3Ffind_desc%3DOffice%2BSupplies%26find_loc%3DLincoln%252C%2BNE+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "THE BEST 10 Office Equipment in Lincoln, NE - Last Updated ...",
+      "link": "https://www.yelp.com/search?cflt=officeequipment&find_loc=Lincoln%2C+ne",
+      "displayed_link": "www.yelp.com › Lincoln, NE › Shopping › Office Equipment",
+      "snippet": "Best Office Equipment in Lincoln, NE - Officemax 1026, Office Depot, All Makes, A O I, Central Office Equipment, Latsch's Inc, A&D Technical Supply, Office ..."
+    },
+    {
+      "position": 6,
+      "title": "Eakes - Office Supplies| Copiers| Printers| Furniture| Nebraska",
+      "link": "https://www.eakes.com/",
+      "displayed_link": "www.eakes.com",
+      "snippet": "Eakes provides copiers, printers, office furniture, supplies and janitorial ... degree in Mathematics, Physics and Chemistry at the University of Nebraska-Lincoln.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Supplies",
+            "link": "https://www.eakes.com/supplies/"
+          },
+          {
+            "title": "Imprinting",
+            "link": "https://www.eakes.com/imprinting/"
+          },
+          {
+            "title": "Janitorial",
+            "link": "https://www.eakes.com/janitorial/"
+          },
+          {
+            "title": "Furniture",
+            "link": "https://www.eakes.com/furniture/"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4aFZphZcEEoJ:https://www.eakes.com/+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Lincoln| | Office Supplies| Janitorial| Copiers| Furniture - Eakes",
+      "link": "https://www.eakes.com/about/locations/lincoln.html",
+      "displayed_link": "www.eakes.com › about › locations › lincoln",
+      "snippet": "Buy local with Eakes Office Solutions located in Lincoln, NE for Office Supplies, Copiers, Printers, Furniture and Design.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cRYUTcRViNsJ:https://www.eakes.com/about/locations/lincoln.html+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Office Depot 333 N 50th St Lincoln, NE Office Supplies ...",
+      "link": "https://www.mapquest.com/us/nebraska/office-depot-8419414",
+      "displayed_link": "www.mapquest.com › nebraska › office-depot-8419414",
+      "snippet": "Get directions, reviews and information for Office Depot in Lincoln, NE.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JKcjt-zb1yEJ:https://www.mapquest.com/us/nebraska/office-depot-8419414+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Best 21 Office Equipment Supplies in Lincoln, NE with ...",
+      "link": "https://www.yellowpages.com/lincoln-ne/office-equipment-supplies",
+      "displayed_link": "www.yellowpages.com › Lincoln, NE",
+      "date": "21 results",
+      "snippet": "Office Equipment Supplies in Lincoln on YP.com. See reviews, photos, directions, phone numbers and more for the best Office Equipment & Supplies ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:d2E6JUVqJZUJ:https://www.yellowpages.com/lincoln-ne/office-equipment-supplies+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Best 8 Office Supplies Retail in Lincoln, NE by Superpages",
+      "link": "https://www.superpages.com/yellowpages/c-office+supplies+retail/s-ne/t-lincoln/",
+      "displayed_link": "www.superpages.com › Lincoln, NE",
+      "date": "Results 1 8 of 8",
+      "snippet": "Find the Best Lincoln, NE Office Supplies Retail on Superpages. We have multiple consumer reviews, photos and opening hours.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-2OCeVrnFF0J:https://www.superpages.com/yellowpages/c-office%2Bsupplies%2Bretail/s-ne/t-lincoln/+&cd=13&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "office depot lincoln ne",
+      "link": "https://www.google.com/search?q=office+depot+lincoln+ne&sa=X&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ1QIoAHoECAwQAQ"
+    },
+    {
+      "query": "staples lincoln ne",
+      "link": "https://www.google.com/search?q=staples+lincoln+ne&sa=X&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ1QIoAXoECAwQAg"
+    },
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ1QIoAnoECAwQAw"
+    },
+    {
+      "query": "office supply stores near me",
+      "link": "https://www.google.com/search?q=office+supply+stores+near+me&sa=X&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ1QIoA3oECAwQBA"
+    },
+    {
+      "query": "staples lincoln ne hours",
+      "link": "https://www.google.com/search?q=staples+lincoln+ne+hours&sa=X&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ1QIoBHoECAwQBQ"
+    },
+    {
+      "query": "officemax",
+      "link": "https://www.google.com/search?q=officemax&sa=X&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ1QIoBXoECAwQBg"
+    },
+    {
+      "query": "office supplies online",
+      "link": "https://www.google.com/search?q=office+supplies+online&sa=X&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ1QIoBnoECAwQBw"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ1QIoB3oECAwQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+lincoln+ne&ei=2nsnXo-kHtXE4-EP3fK6uAI&start=10&sa=N&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ8NMDegQIDRA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+lincoln+ne&ei=2nsnXo-kHtXE4-EP3fK6uAI&start=10&sa=N&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ8tMDegQIDRAt",
+      "3": "https://www.google.com/search?q=office+supplies+lincoln+ne&ei=2nsnXo-kHtXE4-EP3fK6uAI&start=20&sa=N&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ8tMDegQIDRAv",
+      "4": "https://www.google.com/search?q=office+supplies+lincoln+ne&ei=2nsnXo-kHtXE4-EP3fK6uAI&start=30&sa=N&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ8tMDegQIDRAx",
+      "5": "https://www.google.com/search?q=office+supplies+lincoln+ne&ei=2nsnXo-kHtXE4-EP3fK6uAI&start=40&sa=N&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ8tMDegQIDRAz",
+      "6": "https://www.google.com/search?q=office+supplies+lincoln+ne&ei=2nsnXo-kHtXE4-EP3fK6uAI&start=50&sa=N&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ8tMDegQIDRA1",
+      "7": "https://www.google.com/search?q=office+supplies+lincoln+ne&ei=2nsnXo-kHtXE4-EP3fK6uAI&start=60&sa=N&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ8tMDegQIDRA3",
+      "8": "https://www.google.com/search?q=office+supplies+lincoln+ne&ei=2nsnXo-kHtXE4-EP3fK6uAI&start=70&sa=N&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ8tMDegQIDRA5",
+      "9": "https://www.google.com/search?q=office+supplies+lincoln+ne&ei=2nsnXo-kHtXE4-EP3fK6uAI&start=80&sa=N&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ8tMDegQIDRA7",
+      "10": "https://www.google.com/search?q=office+supplies+lincoln+ne&ei=2nsnXo-kHtXE4-EP3fK6uAI&start=90&sa=N&ved=2ahUKEwiP-erM35XnAhVV4jgGHV25DicQ8tMDegQIDRA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+lincoln+ne&start=10&token=1d6dfe4ad4f81053",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+lincoln+ne&start=10&token=1d6dfe4ad4f81053",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+lincoln+ne&start=10&token=1d6dfe4ad4f81053",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+lincoln+ne&start=20&token=41b20302e205bab0",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+lincoln+ne&start=30&token=66f7546017bf56ac",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+lincoln+ne&start=40&token=2b364797fd3b462e",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+lincoln+ne&start=50&token=1ea4b5652d75015e",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+lincoln+ne&start=60&token=0ffedac25acd62e7",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+lincoln+ne&start=70&token=1858c9b4c6a6bb66",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+lincoln+ne&start=80&token=dd82bc09c89dc57e",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+lincoln+ne&start=90&token=4a51e209c7c15251"
+    }
+  }
+}

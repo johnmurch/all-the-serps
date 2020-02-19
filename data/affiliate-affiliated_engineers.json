@@ -1,0 +1,342 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 03:38:03 UTC",
+    "processed_at": "2020-01-21 03:38:03 UTC",
+    "google_url": "https://www.google.com/search?q=affiliated+engineers&oq=affiliated+engineers&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 3.57
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "affiliated engineers",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 23400000,
+    "time_taken_displayed": 0.48,
+    "query_displayed": "affiliated engineers"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=affiliated+engineers&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36394369,-91532519,817475&tbm=lcl&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQtgN6BAgIEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 36.394369,
+      "longitude": -91.532519,
+      "altitude": 817475
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=affiliated+engineers&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36394369,-91532519,817475&tbm=lcl&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQjGp6BAgIEC8",
+    "places": [
+      {
+        "position": 1,
+        "title": "Affiliated Engineers Inc",
+        "place_id": "12610396276046851322",
+        "lsig": "AB86z5WkdpM7rsFHziFKm8Ijve9P",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WkdpM7rsFHziFKm8Ijve9P&ludocid=12610396276046851322&q=affiliated+engineers&tbm=lcl&token=0684a640c99a5404",
+        "rating": "A",
+        "links": {
+          "website": "https://aeieng.com/",
+          "directions": "https://www.google.com/maps/dir//Affiliated+Engineers+Inc,+5802+Research+Park+Blvd,+Madison,+WI+53719/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8807ae7de3186afb:0xaf012099aeae6cfa?sa=X"
+        },
+        "address": "Engineering consultant, Madison, WI",
+        "hours": "Closed ⋅ Opens 8AM Tue",
+        "gps_coordinates": {
+          "latitude": 43.056469199999995,
+          "longitude": -89.479126
+        }
+      },
+      {
+        "position": 2,
+        "title": "Affiliated Engineers Inc",
+        "place_id": "10958650728773776767",
+        "lsig": "AB86z5URVZAB2xelgqFkB_WzRDPb",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5URVZAB2xelgqFkB_WzRDPb&ludocid=10958650728773776767&q=affiliated+engineers&tbm=lcl&token=3864310a55db9aa2",
+        "rating": "B",
+        "links": {
+          "website": "https://aeieng.com/",
+          "directions": "https://www.google.com/maps/dir//Affiliated+Engineers+Inc,+One+Greenway+Plaza+Suite+150,+Houston,+TX+77046/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8640c0fc8dae4b01:0x9814f2c6c222f57f?sa=X"
+        },
+        "address": "Engineering consultant, Houston, TX",
+        "gps_coordinates": {
+          "latitude": 29.7322695,
+          "longitude": -95.43243249999999
+        }
+      },
+      {
+        "position": 3,
+        "title": "Affiliated Engineers Inc.",
+        "place_id": "1962847529714233462",
+        "lsig": "AB86z5UyExfgoOMJZgQdYFzbdu4b",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UyExfgoOMJZgQdYFzbdu4b&ludocid=1962847529714233462&q=affiliated+engineers&tbm=lcl&token=52a0d81f071e8889",
+        "rating": "C",
+        "links": {
+          "website": "http://www.aeieng.com/",
+          "directions": "https://www.google.com/maps/dir//Affiliated+Engineers+Inc.,+10+S+LaSalle+St+%232700,+Chicago,+IL+60603/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880e2cbfbf3f9823:0x1b3d6f6dbcdeb076?sa=X"
+        },
+        "phone": "In Law Offices of Thomas Battista",
+        "address": "Engineer, Chicago, IL",
+        "gps_coordinates": {
+          "latitude": 41.88183,
+          "longitude": -87.632606
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "title": "Affiliated Engineers, Inc.",
+    "type": "Company",
+    "website": "http://www.aeieng.com/",
+    "founded": "1927",
+    "profiles": [
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/affiliatedengineersinc/",
+        "source": "commontopic",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAA1UlEQVR4AWOwDp9LUzTELRi1wDdtaf+8w9sPXDtx7h4Q7Tt2c92OS9SxwCZibtesg0+fv3756i0aoo4FkxcdgxhHEwtiite8ePmGhhas3HIB2cRL1x5t3HV5xebzEEQFC67efAI3/cDxW7aR86icip6/QIRP9+xD1E+myOHTPv3AqAVA1DJ1/76jN+EI2YKLVx8hS+0+cgMY5yRbMHfVKbBxhNGFqw+B6mloweY9V2hrAbAIIceCugl7gE6DI2QTT124jyyVXrNxEKaiUQtGLRi1YNQCAMs01I34bbYCAAAAAElFTkSuQmCC"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/affiliated-engineers",
+        "source": "commontopic",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACtklEQVR4AeyVA5AkQRREZ862bTMcZ9u2wzrbtm3bWNvmaW3b3rzKRa+NOWVEDoqvqv//LZPtUpoubC2cLIxKMveyku1UmkYAG2EoyFYESFEgQIos346dX7K7YiFyN8iFB17Sxx4NRxzVdcbYO6aotke5cgB42sFXDGDjF4FM+UbGY+5TK9FXKQBKOKTtjNz68CMAdQ+oVjyAXPicoRtyS8M5GA0PqRGwgm9gxxdMf2SBkNhEZCoxORXbVH9CXllBWHOvCla9sQNPbegRit3qDmhyWL1SYkCKA7kIxvoH1MBrr5KZllJ/IWnK3zskZ/SXEIDB1vm0trAO6K5ndNCYN5DRz9tgWxdhfnc8pQ2madXdSmDb7CeWWPfOHite22LoDWMegiDFj4GJ983hFBLD9IOPcEB0AjZ8+S6daIeaAwJFG/v8ouJh4ROB3uf1sFHpB34GRSMmMRlJKalISE5hLEHJIRCjbptAXlyAmY8tEZ2QjOzaK4qSbHs6AItTdhHwvpU3N0ZB+hYQhcGXDTi//AFSUtNPW5SY3lX3KJc7gKSwuESYeIXByDMM4XFJyC1bv0i0PKbJoCx/ALewWMwSwccApZe9skFwTAKyiXEjPYZyBziq48zUlVK09j4VvLL3Q3ZFxCdh/D0z7lG+AHFJKVj03DrHwhxHqOzimjMeWZQ/QKQ42ZQH5jkW5u896o7IJmYJa0T5A/BqJ+S6Wv7eqebwH+A/QOUBTMwHYFdpAaY9tACrVqyYECPMOr9d1UF6Gx7QcgLb2McxfCOOu2uaB2CLyk/EJ6WPo4PEmtOLqgOsZK2Pa4IDSUvPeWKFXud1pRre94Ie5jy1kvqnC+AWxzTYn2Odnud0MSdjDM0i1ObXOvDVBQjNEFciMJrhKHJwH5FmDgIPfNds4DuniO75P3r6HNY9BwATNI1Cu+uNpgAAAABJRU5ErkJggg=="
+      },
+      {
+        "name": "YouTube",
+        "link": "https://www.youtube.com/channel/UCydXeONbT_W-Zd1HlV5DxIA",
+        "source": "commontopic",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAADm0lEQVR4AaWWhW5sxxJFVx3Pk/Exh5k5HxAGQZg54jCDKN8SQZhBFLEUZmZm5ph0PbViuVQi3/BS6/Tu6tq7h+fEJ7tsSgQSoUKAAUQIoUaEEiECEAghRKC2wSCsshoASMRQDlCB0CCspQIIgCJI6NqIrpQZkESiXO2DoZrKSe0kgqIKZkmUrtnpBCVorwplJ9ShLFVOLdH+KNFLKGENlSzdQjCoUypr6A3TBIQEa2B5AO0tpM/rrRa9pI0mg7VhQKjYl5pBScsFipHQAaR9htYSe1OAwTUSUxJStD2VVNoikrKjpkhZTKLfsqiQih0JQFlIiPIGCGHVoScRCJFeYhCB2o19BWOkNBXJaIedpk47e7TN9jE7GzOrYwZYFUxM0DAeuzAPuLCwKpyfX3nrjaXrr1157RWKAuOd7f9v9JeMGLbc+h833x1T0/x2XFr8+qQjV957J8QwQGNIwzT7zZw+8RQmp/xdrBqnTjzNNNEkRR3E/ryjjHbbiz/AaPe9BO0BI1VojH/9W+X3smZHCECkv2ipikbMzfETfHPN1SvvvcvPsvq5SFSyM4c0SiWqTE37E8zfc8dnRx329TVXb3jvHX+CmJ7JJLEy1cFWJglMTPhTJDkez999x6dHHf712rNxPcOgmGgdw5CQmpBgyk8jmqi5Ybzh/ffGX33JxugHg4YwMiFAQCEXF2Nqio2RBvqnbbf/60WXTe1/IKBSNC4vpRWoQjBKBaKqkIsLw+QkG2P493/+cu6Fs0cdUy8j61l7fClFiDgSqHYDGH/77fC3v7Mx/nfvff3kfpLxN98IaOfHoKZopKorH37w01/USX+JlY8+VJSsWOzvASIpiw8+yB9g4cEHkopGyKQ/pslYlW9vvmHpuWf9XSy/8Px3N92QomgdQzyxyX8AEQjAYGKY2nff1U/LxF//GpOTMTU98Zc/AzE7F8MAAOMfviczf/jB5eXVkd99u+HddxcffsjxOOh3IAKMx/7/b1hTINAEVBtNN/wkAa7rHBRVSWiNkpKUpisI0pUaIG2B7ixQhmpLMEuE2kH0d9L1zqyeNDOEFBOprZAQrGeQBpJGGp3YoYAIokhP/albd1Oj3VYwpFAyrBlJlBD7Qxwl7FCtYXYW2vE1l8UByHYW1WVqIiS1R5mRqosKXe9BJgmpgjIoBHanYkQ/ZehamTsLJNvYh1UrFAIYDGjvhUk1SV0QNATtY+hdtFX19BW1BPojd0p5ENc3bJAAAAAASUVORK5CYII="
+      },
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/affiliated_engineers/",
+        "source": "commontopic",
+        "image": "data:image/png;base64,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"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "TLC Engineering Solutions",
+        "link": "https://www.google.com/search?q=TLC+Engineering+Solutions&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw3N8g2tyyvVIJwUyoKckqSkg21-J3zcwsS8yqDM1NSyxMrixexSob4OCu45qVn5qWmFmXmpSsE5-eUlmTm5xXvYGUEAOVmgf9QAAAA&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQxA0wFXoECAkQBQ",
+        "source": "businessissuer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAwFBMVEX///8Are8Ap+4Aqu////0AAADW1tXs9/7b8PuO0PXKyc48tvDZ7vsBBgAAq+4Aou3i9f7q6+ua1fbz8/SprKyamZivsrP1+/zj5OQpsvGYr8kAn+7H5vjR7fvGyMn5+fmeoqLh7vWZvNim2vipucu+1+5YvvI3kMtfl8mcxeR0xvMAesd7sNwghshZsuUAlNtSnNS53/eIjI1rbm0/QUF5eno0NjZcXVwrLS1ThKcAnuAALlcAU5IAXpwAfLkAkNC6zZvCAAADXElEQVRYhe2VaXOkNhCGpVYPpy1OI7AZmIQsG+O9sHOtd5P9//8qLQnsuZjaSiofUsVbNUhI7YcXdTdmbNWqVatW/W9V/oDfH3whFIMf56ny9oTsyvPUHkDVqe93MS6xnOCnN9P0KgIAYX4iQjeCaPsa50sQQgro1VkMy4IgeDuDQErJSTQAusDhajakKkHLRKLLeUvECX6+t/O4CsO+4rLqwzA8BIWaMKQ+Fzw+y0k06PZBmacgiYVSpGa2D+qAy1DRLg7qrCEMjB7evS4RyDeTfVBFr3wxt44FvX+4elk6A8IYuOgucbJCY8rsw8dPFx3VNPUugfImCBJmUjuXwFnQKDgsZN2ofCxKM0kpt3OhLTk6nyyr3c0Tm0EiXQZNZ2Qze4bjPP6y+dXMfHI0e1/KmsQlUHvz2+Z683tG057qWQx4AhIeWuk66qmOqML9E1Tzx+b6+nqzuWmV0H0BW/O4fZCVTBFDoSvbH6jbQvcQlRmOJm0+P5v4EI8dma6T+vhUSJ6koLqU8ih/T5tZX75+/fOvb88SdM1hBdEEugOrSL8NphKoaU+7P3m8sdrdzrpP9UYcx64N8eJJ033d0ffIXe4U/QRlYuksqSXpXqn5wuxliqKmVcdftjGK7mIFIX3NGBsiuFPIa+SA6k4p2kuxjyKJFAYeii0TAuNIMZ8iD0tzDHUyBe88oA5QSJarGqtqQAIJnel+pMvY4zAg3zLOfReoxF3mHlqq6RCVghpqwfyBum3UIF5HW70MUY09QM9GKqatBgHtCJb26B99B8iRQgVsqCTrKnp+p0HS6yogkEvH0XcUMfYdWdcgN604q8nrkB6dERc1nQcKwbCXIYz6jGCLFTmKuPSxF7JCeh50dEYYeXSARBEhHDpSlFbF6NxcfXZeTWnT94o2TAko2ohjnU4KsJHKRsaH/ZY4/1jJYiX9OxVFY4dc939ZWpssc2gocv3Fozsq0qIoWhqdgtpch+Qmfu/VGosjnzsNcqZFu168hOQta3MNykuzmrcnjnL9rjqmyU5B+AKasE6SmzHZNcck1E607XzfUXnsaPo5SVaYVdY4B5gsbxo7mH8AZW72i8ZafwUleWOsOyVrjP3m6IxYO91PQ9u2e3cHj3z9k4WIVatWrVr1H+lva8lA7Hski2sAAAAASUVORK5CYII="
+      },
+      {
+        "name": "M‑E Engineers, Inc.",
+        "link": "https://www.google.com/search?q=ME+Engineers&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw3N8g2tyyvVIJwUyoKDSqzynK0-J3zcwsS8yqDM1NSyxMrixex8vi6KrjmpWfmpaYWFe9gZQQATFufPEMAAAA&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQxA0wFXoECAkQBw",
+        "source": "businessissuer",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADAASAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAFAAIEBgcDAf/EADMQAAIBAwIEAwcCBwEAAAAAAAECAwAEEQUhEjFBYQYTcSIyUYGRocEUsQcVJENy4vEW/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQIAAwQF/8QAIREAAwEAAgEEAwAAAAAAAAAAAAECEQMSMRMyUXEEFCH/2gAMAwEAAhEDEQA/AE8fSuZjoi8W9M8ntXPOgQPK7Ux4u1D75TqenhoZ3W44z7Ct07Y+nc5+FLRDdWtwdNvyzP5fmRsxyduYz8xURMfkfqEX9DcYH9tv2qtERxIzt5IwARxEyN6YGx32q46imLG45D2DzoR4fihfV7EyASosocqINsgEj7gU24hpXkCt/wCgtXaY6W4gUZw4CsB9dvpXTS7ldQhxDHHwK48yORt+LG3Wr3r+pjULeaG2tZfMYFsMpXA5bZG/xrPNDtWGpXjCElWXIG43+XrUmuyerA1HVpJ7pNk4nPlNdKpYqMRA/jHWlUpYpTLxm2t43Bzvj8mvaHYdSsL8yb00p2qUw3qHdXtnayxxXFzDFJIcIjuAT8vh3o4ZtONvoWjaf+jlVrp5Gfo23+JJHPG3PehFvBC+oCaBJVZZZBJ5jZ6benSrjeWh0yxJa4UTtIXGFyFHCBw9+X3qrWt9bxOyXUqRyPJ7HF7IOdgM8s9u9VS9o1Nr0/A7UkzY3AGfcPu8/lQ7SZZbS8SYxXLrvkOwYe0Mcu3P5UW1AhbObIHu9ai6BpjapfRpbx2xEJDNJl8LuM5B5+lM/gTjxa2d9eSS3uLecBP06Q8A5EEHc42qqWlmJUubg20zxBtpVICsfgNt/lWl6l4cgvtS47pGmVWyYVb2X65b0+HXvUz+WrPH5UtuFiHsqnDgYqTDEv8AKTawy0rEC0v6W4ySwIL/AOvelVo1/wAPvYzPc2s8vkblk3JT78qVB6jRNK1qDht5LthbwytC8hx5igEqOpGeuM1lv8RPD/8AI9XWa0mmmtJ3wHmbidX+BPXbl6VrOlyBrgsOYjJrM/4pXhkvra049lzKw78h+5qyLpcqlGS+NPidMLaR4xS60m3g1dn41RFV1UsCNsZPPPx+9DPFWp2eqWU0WnQFwRkuylR6YO/Q9KpNvePakrnjiIwUP4+FdLjVHYOluWSNgAc8zV3oSq7Iq/Zvp1ZavBUl42iXayys9uBiBSd1xscHoO3atR8D2xj06SdixMj8ILLgkL179ay/wi2fDcwU42Yb749pq1fwfIZNCtxGqhE4l2yN+I5pK9zHf848+g6FABYDY/eoN5dMFdI1IOw4vUgbVJnuVjjI6jY7UC/UyS3Ske6zdd/T8UColX/D5TKoGycR7AH/AL9KVNvBwwXEhzgpwLn6UqAyR//Z"
+      },
+      {
+        "name": "Henderson Engineers, Inc.",
+        "link": "https://www.google.com/search?q=henderson+engineers&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw3N8g2tyyvVIJzDSoq04q1-J3zcwsS8yqDM1NSyxMrixexCmek5qWkFhXn5ymk5qVn5qUC2TtYGQHP43V6SgAAAA&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQxA0wFXoECAkQCQ",
+        "source": "businessissuer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAAAPCAMAAACBZSIsAAAAkFBMVEX///8AggAAAAD3+/c9m0MAhAAAjBWur677+/vK4cwolTEAiQDy8vIAiw8AhgCJiog7PjqgoaC+v76DhILe3t61trXS09LMzcxxc3HExcR3eXcjJyKYmZdcXltaqGBMTkuOv5Hq8+uCuYVIoE7n6OehyqRCRUINFApUVlMwMy8ACQAZHhfc691wsHMdkSeayJ68Y7lCAAABnElEQVQ4jaWTcVPjIBDFX6nt4gVKSYAESqxnU81Z7X3/b3ebxGqcu+sfuswEZll+s+/tBDd6PYYu7n8uV4slvhgjp9Drgs/f4+jN6uGgZ5zaQjWoqyqVSB1KQq6qCBjOIFZVVuhSqrmwaQJUUqDInPNxibtixqEWSvA3lk6KPUOwNX5nsaNYIrdl6vFoy4woPIlaiRaVxc3qlp9+4vhHa5izt1nJp96QwbZGeMIvk/1A9Vu0e5LoCbCN2nHhO2dx+MTJzOnJSim47J2TuX97et45IDanC+dZnfb0xjm+4C9d/ahLOsGcTIMuWw79SBHQ+lKgHHSFTqAWl36mmPmcLj5LeD/3mV2PBiGxw+xzGnzG6PPEeXn97txHzuti8cFRzkHxQujGXSrpnByynZN8e4VzV2xm/vCLtrOwIYLgrYqOHCg4GGeQgrrOWR7PepoXyyWbkaWRzKlt3RkCcXYYfJ27axz9sNro9RuHYNHzbrgfPsfOeEnkOZthbfg/51DoYvjRJp+lnO7kR5n8Z3YWh/Xt8vf5/GMK/dV5/QHvWSHQfmmELgAAAABJRU5ErkJggg=="
+      },
+      {
+        "name": "Smith Seckman Reid, Inc.",
+        "link": "https://www.google.com/search?q=Smith+Seckman+Reid,+Inc.&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw3N8g2tyyvVIJwk82NKwosci21-J3zcwsS8yqDM1NSyxMrixexSgTnZpZkKASnJmfnJuYpBKVmpugoeOYl6-1gZQQA9eQeg08AAAA&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQxA0wFXoECAkQCw",
+        "source": "businessissuer",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "R. G. Vanderweil Enginee...",
+        "link": "https://www.google.com/search?q=rg+vanderweil+engineers&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw3N8g2tyyvVOIBcTPSikuqKjLStfid83MLEvMqgzNTUssTK4sXsYoXpSuUJealpBaVp2bmKKTmpWfmpaYWFe9gZQQAN2Vh0U0AAAA&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQxA0wFXoECAkQDQ",
+        "source": "businessissuer",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAEgASAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAABQcE/8QAIRAAAgICAQUBAQAAAAAAAAAAAAECEQMSIQQFUWGBkQb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A3EAAAAAAAAAAAAAAAAAAAAAAAAAAAABO7h3RdDNwl0+bJLRTiscb25ql7tr9vycuT+iwRusORq5ay4SmltzHzejpeaLTVikESJd+xRk08M3GMpqTjzro3f2k3Qx99hOcIS6bJjc+NZ0neyi18k2vjK9IUgJvZscXDJ1WLIp4uoqcHts1bbab9N16SSKYBJMUABQAAAAAAAAAAAAAAAAAAAAAAAAAAH//2Q=="
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?q=Affiliated+Engineers&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw3N8g2tyyvVELlaslkJ1vpJ5UWZ-alFhfrZxYXl6YWWRVnpqSWJ1YWL2IVcUxLy8zJTCxJTVFwzUsHqkotKt7ByggAxFaWilgAAAA&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQMSgAMBV6BAgJEAE",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLVT9c3NEw3N8g2tyyvVELlaslkJ1vpJ5UWZ-alFhfrZxYXl6YWWRVnpqSWJ1YWL2IVcUxLy8zJTCxJTVFwzUsHqkotKt7ByggAxFaWilgAAAA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Affiliated Engineers: Consulting Engineering Firm",
+      "link": "https://aeieng.com/",
+      "displayed_link": "aeieng.com",
+      "snippet": "Affiliated Engineers is an industry-leading expert, providing achievement in engineered systems for complex building, energy, and utility projects.",
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Careers",
+            "link": "https://aeieng.com/about/careers/",
+            "snippet": "If you are interested in learning more about our employment ..."
+          },
+          {
+            "title": "People",
+            "link": "https://aeieng.com/people/",
+            "snippet": "AEI Affiliated Engineers has built our success on relationships ..."
+          },
+          {
+            "title": "Contact",
+            "link": "https://aeieng.com/contact/",
+            "snippet": "AEI Affiliated Engineers has 18 offices and regional cultures ..."
+          },
+          {
+            "title": "Projects",
+            "link": "https://aeieng.com/projects/",
+            "snippet": "Building-sized or campus-scaled, every plan and project is an ..."
+          },
+          {
+            "title": "About",
+            "link": "https://aeieng.com/about/",
+            "snippet": "Learn about AEI Affiliated Engineers, providing industry ..."
+          },
+          {
+            "title": "Madison",
+            "link": "https://aeieng.com/contact/madison",
+            "snippet": "Consistently ranked as a top place to live by Money magazine ..."
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mXZ4b4L_XRUJ:https://aeieng.com/+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Affiliated Engineers, Inc Reviews | Glassdoor",
+      "link": "https://www.glassdoor.com/Reviews/Affiliated-Engineers-Inc-Reviews-E115671.htm",
+      "displayed_link": "www.glassdoor.com › Reviews › Affiliated-Engineers-Inc-Reviews-E...",
+      "date": "Dec 3, 2019",
+      "snippet": "46 Affiliated Engineers, Inc reviews. A free inside look at company reviews and salaries posted anonymously by employees.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.7,
+            "reviews": 46
+          },
+          "extensions": [
+            "Rating: 3.7",
+            "46 reviews"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2rtgnn3NUFwJ:https://www.glassdoor.com/Reviews/Affiliated-Engineers-Inc-Reviews-E115671.htm+&cd=11&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.glassdoor.com/Reviews/Affiliated-Engineers-Inc-Reviews-E115671.htm+affiliated+engineers&tbo=1&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQHzAKegQIBBAL"
+    },
+    {
+      "position": 3,
+      "title": "Affiliated Engineers Inc - Company Profile and News ...",
+      "link": "https://www.bloomberg.com/profile/company/4873763Z:US",
+      "displayed_link": "www.bloomberg.com › profile › company",
+      "snippet": "Affiliated Engineers, Inc. (AEI) provides engineering services. The Company designs mechanical, electrical, piping, plumbing, fire protection, technology, pivotal lighting, and utility infrastructure systems. AEI serves customers in the United States.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IIxGblzMrO8J:https://www.bloomberg.com/profile/company/4873763Z:US+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Affiliated Engineering Laboratories, Inc.",
+      "link": "https://www.aelgroup.net/",
+      "displayed_link": "www.aelgroup.net",
+      "snippet": "AEL, a New Jersey based professional service company, offers consulting services in the engineering, laboratory and computer fields.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:i8Wjnd47OycJ:https://www.aelgroup.net/+&cd=13&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.aelgroup.net/+affiliated+engineers&tbo=1&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQHzAMegQIBRAH"
+    },
+    {
+      "position": 5,
+      "title": "Working at Affiliated Engineers, Inc: Employee Reviews ...",
+      "link": "https://www.indeed.com/cmp/Affiliated-Engineers,-Inc/reviews",
+      "displayed_link": "www.indeed.com › cmp › Affiliated-Engineers,-Inc › reviews",
+      "snippet": "Reviews from Affiliated Engineers, Inc employees about Affiliated Engineers, Inc culture, salaries, benefits, work-life balance, management, job security, and ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.1,
+            "reviews": 17
+          },
+          "extensions": [
+            "Rating: 4.1",
+            "17 reviews"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:o71l0RQkb00J:https://www.indeed.com/cmp/Affiliated-Engineers,-Inc/reviews+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Affiliated Engineers, Inc Mission, Benefits, and Work Culture ...",
+      "link": "https://www.indeed.com/cmp/Affiliated-Engineers,-Inc/about",
+      "displayed_link": "www.indeed.com › cmp › Affiliated-Engineers,-Inc › about",
+      "snippet": "Come see what's going on inside Affiliated Engineers, Inc, including the company culture, employee work-life benefits, and business goals. Discover all the key ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ot5x9NcFTuEJ:https://www.indeed.com/cmp/Affiliated-Engineers,-Inc/about+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Affiliated Engineers Inc. (AEI) | Tradeline, Inc.",
+      "link": "https://www.tradelineinc.com/org/affiliated-engineers-inc-aei",
+      "displayed_link": "www.tradelineinc.com › org › affiliated-engineers-inc-aei",
+      "snippet": "(AEI) Affiliated Engineers, Inc. is a leading US-based multi-disciplinary consulting engineering firm that plans, designs, and delivers high performance engineered systems for technically complex building and energy infrastructure projects.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:e_KJwuXGqx4J:https://www.tradelineinc.com/org/affiliated-engineers-inc-aei+&cd=16&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.tradelineinc.com/org/affiliated-engineers-inc-aei+affiliated+engineers&tbo=1&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQHzAPegQIBhAJ"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "affiliated engineers salary",
+      "link": "https://www.google.com/search?q=affiliated+engineers+salary&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ1QIoAHoECBAQAQ"
+    },
+    {
+      "query": "affiliated engineers kansas city",
+      "link": "https://www.google.com/search?q=affiliated+engineers+kansas+city&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ1QIoAXoECBAQAg"
+    },
+    {
+      "query": "affiliated engineers denver",
+      "link": "https://www.google.com/search?q=affiliated+engineers+denver&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ1QIoAnoECBAQAw"
+    },
+    {
+      "query": "affiliated engineers ceo",
+      "link": "https://www.google.com/search?q=affiliated+engineers+ceo&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ1QIoA3oECBAQBA"
+    },
+    {
+      "query": "affiliated engineers linkedin",
+      "link": "https://www.google.com/search?q=affiliated+engineers+linkedin&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ1QIoBHoECBAQBQ"
+    },
+    {
+      "query": "affiliated engineers number of employees",
+      "link": "https://www.google.com/search?q=affiliated+engineers+number+of+employees&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ1QIoBXoECBAQBg"
+    },
+    {
+      "query": "affiliated engineers logo",
+      "link": "https://www.google.com/search?q=affiliated+engineers+logo&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ1QIoBnoECBAQBw"
+    },
+    {
+      "query": "affiliated engineers interview",
+      "link": "https://www.google.com/search?q=affiliated+engineers+interview&sa=X&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ1QIoB3oECBAQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=affiliated+engineers&ei=HXImXu-FPIK0tAbC9Ly4Cg&start=10&sa=N&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ8NMDegQIDhA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=affiliated+engineers&ei=HXImXu-FPIK0tAbC9Ly4Cg&start=10&sa=N&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ8tMDegQIDhAt",
+      "3": "https://www.google.com/search?q=affiliated+engineers&ei=HXImXu-FPIK0tAbC9Ly4Cg&start=20&sa=N&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ8tMDegQIDhAv",
+      "4": "https://www.google.com/search?q=affiliated+engineers&ei=HXImXu-FPIK0tAbC9Ly4Cg&start=30&sa=N&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ8tMDegQIDhAx",
+      "5": "https://www.google.com/search?q=affiliated+engineers&ei=HXImXu-FPIK0tAbC9Ly4Cg&start=40&sa=N&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ8tMDegQIDhAz",
+      "6": "https://www.google.com/search?q=affiliated+engineers&ei=HXImXu-FPIK0tAbC9Ly4Cg&start=50&sa=N&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ8tMDegQIDhA1",
+      "7": "https://www.google.com/search?q=affiliated+engineers&ei=HXImXu-FPIK0tAbC9Ly4Cg&start=60&sa=N&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ8tMDegQIDhA3",
+      "8": "https://www.google.com/search?q=affiliated+engineers&ei=HXImXu-FPIK0tAbC9Ly4Cg&start=70&sa=N&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ8tMDegQIDhA5",
+      "9": "https://www.google.com/search?q=affiliated+engineers&ei=HXImXu-FPIK0tAbC9Ly4Cg&start=80&sa=N&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ8tMDegQIDhA7",
+      "10": "https://www.google.com/search?q=affiliated+engineers&ei=HXImXu-FPIK0tAbC9Ly4Cg&start=90&sa=N&ved=2ahUKEwiviKiW4pPnAhUCGs0KHUI6D6cQ8tMDegQIDhA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+engineers&start=10&token=ba99066eb0254ade",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+engineers&start=10&token=ba99066eb0254ade",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+engineers&start=10&token=ba99066eb0254ade",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+engineers&start=20&token=c7e442cec638e2a5",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+engineers&start=30&token=70b90c77b0a93da7",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+engineers&start=40&token=2be446bea6a6d921",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+engineers&start=50&token=15ea9743e0e9c3e2",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+engineers&start=60&token=e84190b895af3452",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+engineers&start=70&token=b16f61b0e7656ee3",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+engineers&start=80&token=eb5e6bd0bb312480",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+engineers&start=90&token=0a1b983db1198edd"
+    }
+  }
+}

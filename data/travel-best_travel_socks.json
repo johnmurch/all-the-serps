@@ -1,0 +1,399 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 16:14:47 UTC",
+    "processed_at": "2020-01-21 16:14:47 UTC",
+    "google_url": "https://www.google.com/search?q=best+travel+socks&oq=best+travel+socks&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.24
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best travel socks",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 242000000,
+    "time_taken_displayed": 0.48,
+    "query_displayed": "best travel socks"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "bottom",
+      "title": "ExOfficio® Official Site | Adventure-Ready Apparel‎",
+      "link": "https://www.exofficio.com/socks/",
+      "displayed_link": "www.exofficio.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwikioSoi5XnAhUR1GQKHZULDPwYABAAGgJwag&sig=AOD64_18B9uK0sZXN2-zOIazv8IDRYuBLw&q=&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ0Qx6BAgREAE&adurl=",
+      "description": "Durable, packable, breathable clothing & accessories for all seasons & destinations. Bug-repelling, moisture-wicking, quick-drying & wrinkle-free collections. Shop now. Smart Design. Free Shipping Over $50. 25 Years Inventive Design. Free Returns."
+    },
+    {
+      "position": 2,
+      "block_position": "bottom",
+      "title": "Bombas® Are The Best Socks | Cushioned Footbed‎",
+      "link": "https://bombas.com/collections/best-sellers",
+      "displayed_link": "www.bombas.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwikioSoi5XnAhUR1GQKHZULDPwYABABGgJwag&sig=AOD64_3tcBftG5CRcCBDQW8FDz5srKeChg&q=&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ0Qx6BAgSEAE&adurl=",
+      "description": "After Two Years Of R&D, We Made The Most Comfortable Socks In The History Of Feet. Shop Now. Seamless Toe. Blister Tab. Honeycomb Support System. Styles: Ankle Socks, Calf Socks, Quarters Socks, No Show Socks, Dress Socks, Gripper Socks.",
+      "sitelinks": [
+        {
+          "title": "Performance Socks",
+          "link": "https://bombas.com/collections/womens-performance-socks"
+        },
+        {
+          "title": "Sock Tech",
+          "link": "https://bombas.com/pages/sock-tech"
+        },
+        {
+          "title": "Social Mission",
+          "link": "http://www.bombas.com/giving-back"
+        },
+        {
+          "title": "T-Shirts Have Arrived",
+          "link": "https://bombas.com/collections/t-shirts"
+        },
+        {
+          "title": "About Us",
+          "link": "https://bombas.com/pages/about-us"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Bombas Women's Solids Calf - Black",
+      "price": "$12.00",
+      "extracted_price": 12,
+      "link": "https://www.bombas.com/products/women-s-solid-calf-sock-white-medium-1?variant=29346387340",
+      "source": "Bombas",
+      "rating": 4.8,
+      "reviews": 4,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 2,
+      "title": "Travelsox TSS6000 The Original Patented Graduated Compression Performance Travel & Dress Socks With DryStat OTC Pairs",
+      "price": "$16.15",
+      "extracted_price": 16.15,
+      "link": "https://www.amazon.com/Travelsox-TSS6000-Graduated-Compression-Performance/dp/B0069IH4GK?source=ps-sl-shoppingads-lpcontext&psc=1",
+      "source": "Amazon.com",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 3,
+      "title": "Flight Compression Socks | Trtl Travel Havana / Large",
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "link": "https://trtltravel.com/products/trtl-travel-socks?variant=20669530800246&currency=USD",
+      "source": "Trtl",
+      "rating": 4.9,
+      "reviews": 74,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 4,
+      "title": "Jobst Travel 15-20 Knee Compression Socks",
+      "price": "$19.92",
+      "extracted_price": 19.92,
+      "link": "http://www.compressionstockings.com/product_info.php?products_id=418",
+      "source": "CompressionSt...",
+      "rating": 4.3,
+      "reviews": 188,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 5,
+      "title": "Bombas Men's Merino Wool Calf Sock 4-Pack - Black",
+      "price": "$68.40",
+      "extracted_price": 68.4,
+      "link": "https://www.bombas.com/products/mens-merino-wool-sock-4-pack?variant=12600570904661",
+      "source": "Bombas",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=best+travel+socks&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=33837698,-116909925,13737&tbm=lcl&sa=X&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 33.837698,
+      "longitude": -116.909925,
+      "altitude": 13737
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=best+travel+socks&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=33837698,-116909925,13737&tbm=lcl&sa=X&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQjGp6BAgLEEc",
+    "places": [
+      {
+        "position": 1,
+        "title": "Stance",
+        "place_id": "18382564428649822522",
+        "lsig": "AB86z5XE0uB3g-nU7_1LJbqlOhhT",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XE0uB3g-nU7_1LJbqlOhhT&ludocid=18382564428649822522&q=best+travel+socks&tbm=lcl&token=d7ae32bc5fdaef2d",
+        "rating": 3,
+        "reviews": 2,
+        "type": "Clothing store",
+        "address": "Cabazon, CA",
+        "phone": "In Cabazon Outlets",
+        "description": "\"I've been to many of the Stance shops and this is one of the best.\"",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 33.925334299999996,
+          "longitude": -116.81087610000002
+        }
+      },
+      {
+        "position": 2,
+        "title": "Walgreens",
+        "place_id": "6579708982618484446",
+        "lsig": "AB86z5VgvmC6UuuYoo8c4j1yFoa3",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VgvmC6UuuYoo8c4j1yFoa3&ludocid=6579708982618484446&q=best+travel+socks&tbm=lcl&token=c309cb209b0a0c78",
+        "rating": 2.8,
+        "reviews": 54,
+        "price": "$$",
+        "type": "Drug store",
+        "hours": "Open 24 hours · (951) 845-5984",
+        "address": "Banning, CA",
+        "description": "Their website mentions travel socks",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 33.9299703,
+          "longitude": -116.94620130000001
+        }
+      },
+      {
+        "position": 3,
+        "title": "Target",
+        "place_id": "8081336634912099246",
+        "lsig": "AB86z5UM8QaOskfBTuZE6WajxBkz",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UM8QaOskfBTuZE6WajxBkz&ludocid=8081336634912099246&q=best+travel+socks&tbm=lcl&token=c476d9cebd6719bf",
+        "rating": 4,
+        "reviews": 630,
+        "price": "$$",
+        "type": "Clothing store",
+        "hours": "Open ⋅ Closes 10PM · (951) 652-9585",
+        "address": "Hemet, CA",
+        "description": "Their website mentions travel socks",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 33.7454275,
+          "longitude": -117.0089749
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "see_more_about": [
+      {
+        "title": null
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "Is it a good idea to wear compression socks while flying?",
+      "snippet": "While the risk of developing blood clots on a flight is low, it goes up as travel time increases. Enter compression socks. Yes, really. ... These stockings help increase circulation and reduce the risk of swelling or worse deep vein thrombosis (DVT) and clotting on a long flight.",
+      "title": "Why You Should Wear Compression Socks on Your Next Flight ...",
+      "link": "https://www.travelchannel.com/roam-blog/news-deals/why-you-should-wear-compression-socks-when-you-fly",
+      "displayed_link": "www.travelchannel.com › roam-blog › news-deals › why-you-should-w..."
+    },
+    {
+      "question": "When should you put flight socks on?",
+      "snippet": "Flight socks and compression stockings Wearing compression stockings or flight socks during journeys of 3 hours or more can help prevent DVT if you're at an increased risk. The stockings or socks are usually knee length; compression stockings can also be thigh high.",
+      "title": "Prevent DVT (deep vein thrombosis) when you travel - NHS",
+      "link": "https://www.nhs.uk/live-well/healthy-body/prevent-dvt-when-you-travel/",
+      "displayed_link": "www.nhs.uk › live-well › healthy-body › prevent-dvt-when-you-travel"
+    },
+    {
+      "question": "How many days can you wear wool socks?",
+      "snippet": "You probably own 15-25 pairs of socks at home and throw dirty socks into the hamper after one wear. You rarely have this luxury on the road. Enter travel socks. The best merino wool socks allow you to travel odor-free for days on end while you wear the same socks day in and day out.Nov 15, 2016",
+      "title": "Travel Socks? Why Investing in Merino Wool Socks is a Great Idea ...",
+      "link": "https://www.nomadichustle.com/investing-in-merino-wool-socks/",
+      "displayed_link": "www.nomadichustle.com › investing-in-merino-wool-socks"
+    },
+    {
+      "question": "Do you need compression socks for travel?",
+      "snippet": "All of the experts we spoke to recommended wearing compression socks when traveling, both to minimize the risk of DVT as well as provide comfort. \"Stockings apply compression to the legs to 'squeeze' the blood back out of the veins and back 'uphill',” Dr. Besser tells Health.Jul 5, 2018",
+      "title": "Do You Need Compression Socks When You Travel? - Health",
+      "link": "https://www.health.com/style/travel-compression-socks",
+      "displayed_link": "www.health.com › style › travel-compression-socks"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "The 14 Best Compression Socks for Travel | Travel + Leisure ...",
+    "link": "https://www.travelandleisure.com/style/travel-accessories/compression-socks-for-flying",
+    "snippet": "Read on for our favorite pairs of flight socks that you need to pack for upcoming travels.Injinji. Courtesy of Amazon. ... Hapyceo. Courtesy of Amazon. ... Dr. Scholl's. ... Sockwell. Courtesy of Amazon. ... CEP. Courtesy of Amazon. ... Vitalsox Italy. Courtesy of Amazon. ... SB Sox. Courtesy of Amazon. ... 2XU. Courtesy of Amazon.More items...•May 10, 2019",
+    "thumbnail": "data:image/jpeg;base64,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"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Best Travel Socks for Every Trip | Tortuga Backpacks Blog",
+      "link": "https://blog.tortugabackpacks.com/best-travel-socks-comparison/",
+      "displayed_link": "blog.tortugabackpacks.com › best-travel-socks-comparison",
+      "snippet": "Darn Tough Light Hiker Micro Crew Light Cushion $21 I own these and love them! Made of breathable merino wool, these hiking socks provide ultimate comfort with incredible versatility and durability.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best Overall Travel Socks",
+            "link": "https://blog.tortugabackpacks.com/best-travel-socks-comparison/#best_overall_travel_socks"
+          },
+          {
+            "title": "Best Low-Profile Travel Socks",
+            "link": "https://blog.tortugabackpacks.com/best-travel-socks-comparison/#best_low-profile_travel_socks"
+          },
+          {
+            "title": "Types of Travel Socks",
+            "link": "https://blog.tortugabackpacks.com/best-travel-socks-comparison/#types_of_travel_socks"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-Igxqy3dB_UJ:https://blog.tortugabackpacks.com/best-travel-socks-comparison/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "7 Travel Socks Your Feet Will Love | SmarterTravel",
+      "link": "https://www.smartertravel.com/7-travel-socks-feet-will-love/",
+      "displayed_link": "www.smartertravel.com › 7-travel-socks-feet-will-love",
+      "date": "Apr 27, 2019",
+      "snippet": "Even the best travel shoes are nothing without a great pair of socks. Here are seven types you can trust to accompany you on your world ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QIDhB2f8r5YJ:https://www.smartertravel.com/7-travel-socks-feet-will-love/+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "The 5 Best Travel Socks - Bustle",
+      "link": "https://www.bustle.com/p/the-5-best-travel-socks-8919333",
+      "displayed_link": "www.bustle.com › the-5-best-travel-socks-8919333",
+      "date": "May 2, 2018",
+      "snippet": "The 5 Best Travel Socks. The Best Compression Socks For Long Airplane Rides. The Best Socks For Standing On Your Feet All Day. The Best Sweat-Wicking Socks For Warmer Weather. The Best Wool Socks For Colder Climates. The Best Hiking Socks For Off-The-Grid Travel. The Best Comfy Socks For Repairing Sore, Tired Feet.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:J5PA54lrcbcJ:https://www.bustle.com/p/the-5-best-travel-socks-8919333+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Choosing the Best Travel Socks for your Journey - Smartwool",
+      "link": "https://www.smartwool.com/blog/choosing-best-travel-socks-your-journey.html",
+      "displayed_link": "www.smartwool.com › blog › choosing-best-travel-socks-your-journey",
+      "snippet": "Find the best travel socks for you. Learn about compression vs non-binding socks for travel, benefits of wool socks. Fun new colors & patterns.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vuTcwZDM0V0J:https://www.smartwool.com/blog/choosing-best-travel-socks-your-journey.html+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Why merino wool socks make the best travel socks – Snarky ...",
+      "link": "https://snarkynomad.com/why-merino-wool-socks-make-the-best-travel-socks/",
+      "displayed_link": "snarkynomad.com › why-merino-wool-socks-make-the-best-travel-so...",
+      "date": "Jun 9, 2014",
+      "snippet": "Today's lecture: A treatise on the fabulousness of merino wool socks, and why they are far and away the best travel socks you can reasonably ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6e26oK4HK64J:https://snarkynomad.com/why-merino-wool-socks-make-the-best-travel-socks/+&cd=16&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Put Your Coziest Foot Forward with These 8 Best Travel Socks ...",
+      "link": "https://www.fluentu.com/blog/travel/best-travel-socks/",
+      "displayed_link": "www.fluentu.com › blog › travel › best-travel-socks",
+      "snippet": "What are the best travel socks out there? Well, you'll need a certain type for long flights. And another pair for hiking. Maybe even another pair to wear in your ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Ya3F9of5JJQJ:https://www.fluentu.com/blog/travel/best-travel-socks/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "The 9 Best Compression Socks for Travel in 2020 - TripSavvy",
+      "link": "https://www.tripsavvy.com/best-airplane-compression-socks-4136103",
+      "displayed_link": "www.tripsavvy.com › Trip Planning › Tech & Gear › Luggage",
+      "date": "Nov 4, 2019",
+      "snippet": "Stay comfortable while flying with these best airplane compression socks from top companies such as VitalSox, NewZill, Lifortune, MadeMother ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kI7qnWAsxcYJ:https://www.tripsavvy.com/best-airplane-compression-socks-4136103+&cd=18&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "2020 Guide To The Best Compression Socks For Flying Long ...",
+      "link": "https://www.chasingthedonkey.com/travel-reviews/best-compression-socks-for-flying-socks/",
+      "displayed_link": "www.chasingthedonkey.com › travel-reviews › best-compression-soc...",
+      "date": "Jump to We Also Have Lot Of Packing And Travel Products Tips ...",
+      "snippet": "We travel & write about food, accomm & the best things to do, so you'll save time ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:oIVYfLF9mcYJ:https://www.chasingthedonkey.com/travel-reviews/best-compression-socks-for-flying-socks/+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "The Best Men's Travel Socks for Work and Trail | The Manual",
+      "link": "https://www.themanual.com/fashion/best-mens-travel-socks/",
+      "displayed_link": "www.themanual.com › fashion › best-mens-travel-socks",
+      "date": "Nov 3, 2017",
+      "snippet": "When you spend all day on your feet, a good pair of socks makes all the difference. Here our favorite travel socks that work in the office and on ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_ZSFYIfmhoYJ:https://www.themanual.com/fashion/best-mens-travel-socks/+&cd=20&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "best travel compression socks",
+      "link": "https://www.google.com/search?q=best+travel+compression+socks&sa=X&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ1QIoAHoECAwQAQ"
+    },
+    {
+      "query": "travel socks walmart",
+      "link": "https://www.google.com/search?q=travel+socks+walmart&sa=X&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ1QIoAXoECAwQAg"
+    },
+    {
+      "query": "best travel socks wirecutter",
+      "link": "https://www.google.com/search?q=best+travel+socks+wirecutter&sa=X&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ1QIoAnoECAwQAw"
+    },
+    {
+      "query": "best travel socks reddit",
+      "link": "https://www.google.com/search?q=best+travel+socks+reddit&sa=X&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ1QIoA3oECAwQBA"
+    },
+    {
+      "query": "best flight socks",
+      "link": "https://www.google.com/search?q=best+flight+socks&sa=X&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ1QIoBHoECAwQBQ"
+    },
+    {
+      "query": "are flight socks the same as compression socks",
+      "link": "https://www.google.com/search?q=are+flight+socks+the+same+as+compression+socks&sa=X&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ1QIoBXoECAwQBg"
+    },
+    {
+      "query": "best compression socks for pregnancy travel",
+      "link": "https://www.google.com/search?q=best+compression+socks+for+pregnancy+travel&sa=X&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ1QIoBnoECAwQBw"
+    },
+    {
+      "query": "smartwool socks",
+      "link": "https://www.google.com/search?q=smartwool+socks&sa=X&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ1QIoB3oECAwQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+travel+socks&ei=eCMnXrqtJsrT-wT2pbLABg&start=10&sa=N&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ8NMDegQIDxB0",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+travel+socks&ei=eCMnXrqtJsrT-wT2pbLABg&start=10&sa=N&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ8tMDegQIDxBi",
+      "3": "https://www.google.com/search?q=best+travel+socks&ei=eCMnXrqtJsrT-wT2pbLABg&start=20&sa=N&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ8tMDegQIDxBk",
+      "4": "https://www.google.com/search?q=best+travel+socks&ei=eCMnXrqtJsrT-wT2pbLABg&start=30&sa=N&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ8tMDegQIDxBm",
+      "5": "https://www.google.com/search?q=best+travel+socks&ei=eCMnXrqtJsrT-wT2pbLABg&start=40&sa=N&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ8tMDegQIDxBo",
+      "6": "https://www.google.com/search?q=best+travel+socks&ei=eCMnXrqtJsrT-wT2pbLABg&start=50&sa=N&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ8tMDegQIDxBq",
+      "7": "https://www.google.com/search?q=best+travel+socks&ei=eCMnXrqtJsrT-wT2pbLABg&start=60&sa=N&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ8tMDegQIDxBs",
+      "8": "https://www.google.com/search?q=best+travel+socks&ei=eCMnXrqtJsrT-wT2pbLABg&start=70&sa=N&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ8tMDegQIDxBu",
+      "9": "https://www.google.com/search?q=best+travel+socks&ei=eCMnXrqtJsrT-wT2pbLABg&start=80&sa=N&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ8tMDegQIDxBw",
+      "10": "https://www.google.com/search?q=best+travel+socks&ei=eCMnXrqtJsrT-wT2pbLABg&start=90&sa=N&ved=2ahUKEwi6yf2ni5XnAhXK6Z4KHfaSDGgQ8tMDegQIDxBy"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+socks&start=10&token=61568ddfc3ac1514",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+socks&start=10&token=61568ddfc3ac1514",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+socks&start=10&token=61568ddfc3ac1514",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+socks&start=20&token=e2c3ab7ab7a8fb04",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+socks&start=30&token=c1f34d95e5469a10",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+socks&start=40&token=6083af7fc68cf8cb",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+socks&start=50&token=df374b8cd4edd838",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+socks&start=60&token=7c9c2df535cfa091",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+socks&start=70&token=47095d3edaca09c0",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+socks&start=80&token=9afb2d3ffe67f6b7",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+socks&start=90&token=fc2cc23e6b64a7de"
+    }
+  }
+}

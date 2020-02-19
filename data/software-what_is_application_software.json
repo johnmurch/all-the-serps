@@ -1,0 +1,335 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 19:36:55 UTC",
+    "processed_at": "2020-01-20 19:36:55 UTC",
+    "google_url": "https://www.google.com/search?q=what+is+application+software&oq=what+is+application+software&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 1.42
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what is application software",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 4830000000,
+    "time_taken_displayed": 0.67,
+    "query_displayed": "what is application software"
+  },
+  "knowledge_graph": {
+    "title": "Application software",
+    "type": "Software grouping",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "description": "Application software is a program or group of programs designed for end users. Examples of an application include a word processor, a spreadsheet, an accounting application, a web browser, an email client, a media player, a file viewer, an aeronautical flight simulator, a console game or a photo editor.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Application_software"
+    }
+  },
+  "inline_videos": [
+    {
+      "title": "What is Application Software | Computer & Networking Basics ...",
+      "link": "https://www.youtube.com/watch?v=Kh3MiaoLxlI",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "SimplyInfo",
+      "duration": "2:37",
+      "platform": "YouTube",
+      "date": "Apr 21, 2018"
+    },
+    {
+      "title": "Application Software",
+      "link": "https://www.youtube.com/watch?v=TI4XpdfWt6o",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Tutorials Point (India...",
+      "duration": "1:08",
+      "platform": "YouTube",
+      "date": "Jan 17, 2018"
+    },
+    {
+      "title": "Application Software",
+      "link": "https://www.youtube.com/watch?v=79Jewhkz5zM",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Mindset",
+      "duration": "11:27",
+      "platform": "YouTube",
+      "date": "May 12, 2014"
+    },
+    {
+      "title": "Difference between Application and System Software",
+      "link": "https://www.youtube.com/watch?v=JxkEkWpo6Vw",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0xcN7tOaA72VsPKDb_I1Fu0nEtAqxDpVpga0LsJpgCCKm_Lp2wSloHRVmJBa9HQ",
+      "channel": "Mindset",
+      "duration": "12:48",
+      "platform": "YouTube",
+      "date": "May 12, 2014"
+    },
+    {
+      "title": "Computer Software : Application Software (03:05)",
+      "link": "https://www.youtube.com/watch?v=t4JVAWopyqs",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQj_TjxK3xbmsmCbRm_Icdmviaf7CFGu6YXSV2s8UKPWaOCLLnrlZ7ed6itO-CF",
+      "channel": "Mr. Ford's Class",
+      "duration": "15:18",
+      "platform": "YouTube",
+      "date": "May 29, 2014"
+    },
+    {
+      "title": "Difference Between System Software and Application software ...",
+      "link": "https://www.youtube.com/watch?v=5SfBrazwnSA",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTh4TShInnEed-6NAxQjzqKR7pyZPvbFYnm0Dm5sMWbX39IyxpmEEXVniO43TRK6Q",
+      "channel": "Testing Duniya",
+      "duration": "7:22",
+      "platform": "YouTube",
+      "date": "Feb 28, 2019"
+    },
+    {
+      "title": "LI-8100A | Video: How to use the LI-8100A Windows ...",
+      "link": "https://www.licor.com/env/support/LI-8100A/videos/use-windows-software.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC1mYRkDFlAms4qQ5EXMYwR9dhp5b11pWNgdsujFc5moUE3pm6tIwoPak&usqp=CAI&s",
+      "channel": "",
+      "duration": "7:19",
+      "platform": "LI-COR Biosciences",
+      "date": "May 6, 2018"
+    },
+    {
+      "title": "Athi Rwexu develops new maths application software",
+      "link": "https://www.youtube.com/watch?v=RGhyb0a5810",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsAZRZav70bzOjknMtr3Th2UcwuU_GfEH7n9SADd6NEdevJh2duzf6iaBqT1EnFg",
+      "channel": "SABC Digital News",
+      "duration": "4:24",
+      "platform": "YouTube",
+      "date": "Jun 16, 2017"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is an application software and examples?",
+      "snippet": "An application is any program, or group of programs, that is designed for the end user. Applications software (also called end-user programs) include such things as database programs, word processors, Web browsers and spreadsheets.",
+      "title": "What is an Application (Application Software)? Webopedia Definition",
+      "link": "https://www.webopedia.com/TERM/A/application.html",
+      "displayed_link": "www.webopedia.com › TERM › application"
+    },
+    {
+      "question": "What is application software definition?",
+      "snippet": "Application software is a term which is used for software created for a specific purpose. It is generally a program or collection of programs used by end users. It can be called an application or simply an app. ... A software which is developed to help the user to perform specific tasks is called application software.",
+      "title": "Application Software definition and information - IT Definitions",
+      "link": "https://www.defit.org/application-software/",
+      "displayed_link": "www.defit.org › application-software"
+    },
+    {
+      "question": "What is application software Short answer?",
+      "snippet": "Application software is a program or group of programs designed for end users. ... While system software consists of low-level programs that interact with computers at a basic level, application software resides above system software and includes applications such as database programs, word processors and spreadsheets.",
+      "title": "What is Application Software? - Definition from Techopedia",
+      "link": "https://www.techopedia.com/definition/4224/application-software",
+      "displayed_link": "www.techopedia.com › definition › application-software"
+    },
+    {
+      "question": "What are the 4 types of application software?",
+      "snippet": "Depending on the level of language used there are different types of application software:1) Word processing software. ... 2) Spreadsheet Software. ... 3) Desktop Publishing Software. ... 4) Database Software. ... 5) Communication Software. ... 6) Presentation Software. ... 7) Internet Browsers. ... 8) Email Programs.",
+      "title": "What are the types of application software? - Quora",
+      "link": "https://www.quora.com/What-are-the-types-of-application-software",
+      "displayed_link": "www.quora.com › What-are-the-types-of-application-software"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Application software - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Application_software",
+      "displayed_link": "en.wikipedia.org › wiki › Application_software",
+      "snippet": "In information technology, an application (app), application program or application software is a computer program designed to help people perform an activity. ... Some application packages focus on a single task, such as word processing; others, called integrated software include several applications.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Category:Application software",
+            "link": "https://en.wikipedia.org/wiki/Category:Application_software"
+          },
+          {
+            "title": "Accounting software",
+            "link": "https://en.wikipedia.org/wiki/Accounting_software"
+          },
+          {
+            "title": "Word processor",
+            "link": "https://en.wikipedia.org/wiki/Word_processor"
+          },
+          {
+            "title": "Email client",
+            "link": "https://en.wikipedia.org/wiki/Email_client"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LPEyBYdhmbkJ:https://en.wikipedia.org/wiki/Application_software+&cd=1&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Application_software+what+is+application+software&tbo=1&sa=X&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQHzAAegQIARAJ"
+    },
+    {
+      "position": 2,
+      "title": "What is an Application (Application Software)? Webopedia ...",
+      "link": "https://www.webopedia.com/TERM/A/application.html",
+      "displayed_link": "www.webopedia.com › TERM › application",
+      "snippet": "An application is any program, or group of programs, that is designed for the end user. Applications software (also called end-user programs) include such things as database programs, word processors, Web browsers and spreadsheets. Image: Application Software Diagram.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MYeRmCgpQwMJ:https://www.webopedia.com/TERM/A/application.html+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "What is Application Software? - Definition from Techopedia",
+      "link": "https://www.techopedia.com/definition/4224/application-software",
+      "displayed_link": "www.techopedia.com › definition › application-software",
+      "snippet": "Application software is a program or group of programs designed for end users. ... While system software consists of low-level programs that interact with computers at a basic level, application software resides above system software and includes applications such as database programs, word processors and spreadsheets.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lLMY_Rq4MzcJ:https://www.techopedia.com/definition/4224/application-software+&cd=11&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.techopedia.com/definition/4224/application-software+what+is+application+software&tbo=1&sa=X&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQHzAKegQIBRAJ"
+    },
+    {
+      "position": 4,
+      "title": "What is Application Software? - Definition, Examples & Types ...",
+      "link": "https://study.com/academy/lesson/what-is-application-software-definition-examples-types.html",
+      "displayed_link": "study.com › academy › lesson › what-is-application-software-definition-...",
+      "snippet": "What is computer application software, and how does it differ from other categories of software? This lesson ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "oct": 6
+          },
+          "extensions": [
+            "Oct 6, 2014",
+            "Uploaded by The Study.com Video Team"
+          ]
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Application Software 101 | Quick Base",
+      "link": "https://www.quickbase.com/articles/application-software-basics",
+      "displayed_link": "www.quickbase.com › articles › application-software-basics",
+      "snippet": "Application Software 101 gives you a better understanding of key concepts and basic software FAQs. Click here for a deep dive into application software!",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Business Application Software",
+            "link": "https://www.quickbase.com/articles/application-software-basics#business-application-software"
+          },
+          {
+            "title": "Business Process ...",
+            "link": "https://www.quickbase.com/articles/application-software-basics#business-process-management-software"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dR8VWIijI6kJ:https://www.quickbase.com/articles/application-software-basics+&cd=21&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "What is application software? | IT PRO",
+      "link": "https://www.itpro.co.uk/business-operations/30331/what-is-application-software",
+      "displayed_link": "www.itpro.co.uk › Business › Business operations",
+      "snippet": "We look at the characteristics that define applications, from stand-alone software to full-blown suites.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cCldmWuA2ncJ:https://www.itpro.co.uk/business-operations/30331/what-is-application-software+&cd=22&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "What is application software? - Computer Business Review",
+      "link": "https://www.cbronline.com/what-is/what-is-application-software-4910115/",
+      "displayed_link": "www.cbronline.com › what-is › what-is-application-software-4910115",
+      "snippet": "Application software is differentiated from system software.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LZWXvsbAmYQJ:https://www.cbronline.com/what-is/what-is-application-software-4910115/+&cd=23&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "What is Application Software & Its Types | eduCBA",
+      "link": "https://www.educba.com/what-is-application-software-its-types/",
+      "displayed_link": "www.educba.com › ... › Software Development Basics",
+      "snippet": "From the lowest level assembly language to the high, there are different types of application software. It is one 3 major types of Computer software systems.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hW898FmJrQsJ:https://www.educba.com/what-is-application-software-its-types/+&cd=24&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.educba.com/what-is-application-software-its-types/+what+is+application+software&tbo=1&sa=X&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQHzAXegQICBAL"
+    },
+    {
+      "position": 9,
+      "title": "Application Software definition and information - IT Definitions",
+      "link": "https://www.defit.org/application-software/",
+      "displayed_link": "www.defit.org › Software",
+      "snippet": "Application software is a term which is used for software created for a specific purpose. It is generally a program or collection of programs used by end users.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:z6Hj0QjPG3IJ:https://www.defit.org/application-software/+&cd=25&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.defit.org/application-software/+what+is+application+software&tbo=1&sa=X&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQHzAYegQIBBAL"
+    }
+  ],
+  "related_search_boxes": [
+    {
+      "position": 1,
+      "query": "Types of application softwareView 3+ moreView 3+",
+      "results": []
+    },
+    {
+      "position": 2,
+      "query": "Examples of application softwareView 3+ moreView 3+",
+      "results": []
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "list of application software",
+      "link": "https://www.google.com/search?q=list+of+application+software&sa=X&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ1QIoAHoECBQQAQ"
+    },
+    {
+      "query": "application software examples",
+      "link": "https://www.google.com/search?q=application+software+examples&sa=X&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ1QIoAXoECBQQAg"
+    },
+    {
+      "query": "types of application software",
+      "link": "https://www.google.com/search?q=types+of+application+software&sa=X&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ1QIoAnoECBQQAw"
+    },
+    {
+      "query": "functions of application software",
+      "link": "https://www.google.com/search?q=functions+of+application+software&sa=X&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ1QIoA3oECBQQBA"
+    },
+    {
+      "query": "uses of application software",
+      "link": "https://www.google.com/search?q=uses+of+application+software&sa=X&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ1QIoBHoECBQQBQ"
+    },
+    {
+      "query": "application software pdf",
+      "link": "https://www.google.com/search?q=application+software+pdf&sa=X&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ1QIoBXoECBQQBg"
+    },
+    {
+      "query": "features of application software",
+      "link": "https://www.google.com/search?q=features+of+application+software&sa=X&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ1QIoBnoECBQQBw"
+    },
+    {
+      "query": "system software",
+      "link": "https://www.google.com/search?q=system+software&sa=X&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ1QIoB3oECBQQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what+is+application+software&ei=WAEmXrG3FKLt9AOGiaCgBg&start=10&sa=N&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ8NMDegQIERBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what+is+application+software&ei=WAEmXrG3FKLt9AOGiaCgBg&start=10&sa=N&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ8tMDegQIERAv",
+      "3": "https://www.google.com/search?q=what+is+application+software&ei=WAEmXrG3FKLt9AOGiaCgBg&start=20&sa=N&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ8tMDegQIERAx",
+      "4": "https://www.google.com/search?q=what+is+application+software&ei=WAEmXrG3FKLt9AOGiaCgBg&start=30&sa=N&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ8tMDegQIERAz",
+      "5": "https://www.google.com/search?q=what+is+application+software&ei=WAEmXrG3FKLt9AOGiaCgBg&start=40&sa=N&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ8tMDegQIERA1",
+      "6": "https://www.google.com/search?q=what+is+application+software&ei=WAEmXrG3FKLt9AOGiaCgBg&start=50&sa=N&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ8tMDegQIERA3",
+      "7": "https://www.google.com/search?q=what+is+application+software&ei=WAEmXrG3FKLt9AOGiaCgBg&start=60&sa=N&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ8tMDegQIERA5",
+      "8": "https://www.google.com/search?q=what+is+application+software&ei=WAEmXrG3FKLt9AOGiaCgBg&start=70&sa=N&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ8tMDegQIERA7",
+      "9": "https://www.google.com/search?q=what+is+application+software&ei=WAEmXrG3FKLt9AOGiaCgBg&start=80&sa=N&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ8tMDegQIERA9",
+      "10": "https://www.google.com/search?q=what+is+application+software&ei=WAEmXrG3FKLt9AOGiaCgBg&start=90&sa=N&ved=2ahUKEwixw5jQ9pLnAhWiNn0KHYYECGQQ8tMDegQIERA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+application+software&start=10&token=2f187b106e905c78",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+application+software&start=10&token=2f187b106e905c78",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+application+software&start=10&token=2f187b106e905c78",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+application+software&start=20&token=788367ae08ff4b37",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+application+software&start=30&token=469811f0e0ebfd31",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+application+software&start=40&token=cb9cd133fc2a0562",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+application+software&start=50&token=2af9888f3c8da625",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+application+software&start=60&token=f2e79a13f43f5f0f",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+application+software&start=70&token=5f98f53b8cfdeb8e",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+application+software&start=80&token=9cfe1cfd55be77e5",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+application+software&start=90&token=1f904aa255c44db4"
+    }
+  }
+}

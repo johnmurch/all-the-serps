@@ -1,0 +1,331 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 19:30:57 UTC",
+    "processed_at": "2020-01-21 19:30:57 UTC",
+    "google_url": "https://www.google.com/search?q=cron+job&oq=cron+job&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 1.25
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "cron job",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 15200000,
+    "time_taken_displayed": 0.43,
+    "query_displayed": "cron job"
+  },
+  "knowledge_graph": {
+    "title": "cron",
+    "type": "Computer software",
+    "description": "The software utility cron is a time-based job scheduler in Unix-like computer operating systems. Users that set up and maintain software environments use cron to schedule jobs to run periodically at fixed times, dates, or intervals.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Cron"
+    },
+    "stands_for": "Chronos (greek god)",
+    "function": "Daemon to execute scheduled commands",
+    "syntax": "cron [-n|-p|-s|-m<mailcommand>]",
+    "see_also": "crontab, at, pam",
+    "man_page_section": "8. System administration commands and daemons",
+    "developed_by": "Bell Labs",
+    "people_also_search_for": [
+      {
+        "name": "rsync",
+        "link": "https://www.google.com/search?q=rsync&stick=H4sIAAAAAAAAAONgFuLSz9U3MDItMTcqV-IEsQ2N8gpMtfic83Nz8_OCM1NSyxMrixexshYVV-Yl72BlBAByzyuxNAAAAA&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQxA0wHnoECA0QBQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAEgASAMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAAAgcBBQYECAP/xAA8EAABAgQDAgsGAwkAAAAAAAABAgMABAURBhIhEzEUF0FRUmFxgZGU0gcVIlWSwTOCoSMyNUJDYnKi0f/EABkBAQADAQEAAAAAAAAAAAAAAAADBAUBAv/EACkRAAIBAgUDAwUBAAAAAAAAAAABAgMRBBIUMaEhUeEiMkFhgZGxwRP/2gAMAwEAAhEDEQA/ALxhEdojpJ8YbRHST4wBKER2iOkPGG0R0k+MAShEc6OknxhtEdIeMAShEdojpJ8YbRHST4wBKEYBuLiEAfJ5Yav+Gg/lEY4O0bkNti3UI7DDuEW67RJupipCV4K4UOJeAypsAoqvfcAb8+hjX+46RUqlLMUKsLmWyy5MTj7sopAl20W+LKdSSNw7OeKlHDuo/U7IgoYdVH6nZGhQ03rmab+kRHYNb9kgj/ER1CaPg+bo81NyuJZiXmZdvPsp2WCS5zWANzc6aEkXGkebFGHJSmUek1amTLs1Kz6DmLqQC2u18un5u9JiysDFu2fgtLAU27Z+DQcHbsVBtsW5wIklpqxzNN9uURucDYbbxHVly77ymJZlouPPJAunkSNdNTr2AxvcFYfw1iB6oy5E84qUJLL+3ShMwklQScoHw7hyneDpuhPAxj0cuPIngIQunLjycPsGh/Sb+kQLDYGYIb7wI7LDVEwXOrFLqFUnHKqslG1ZQW2c/KlBI+LtO/kjRVLDkxJYnVQpZSXnVOBLKz8IUlQuFHmsL37DHY4GMnbPx5EMDTk7Z+PJ9B4TdaRhajpztptIsC2YafAIRSS6Jg6Qq7lFq07UOFISkOTraUJl23CAbWNzYAjU6dkInVKNt+CX/Kml7n+CUjNln2dVmXSq22fSkgHeCWwR4XEabDVcVh+r8NDW1SpstOp0uUmxNuu4EfgZ9aKW5IIaUoOuBallQATYpO7f/LHnl5huWmVLdlkP6WyqNrdkQYNpyS36f0hwVnK2/RnTVOnUGtSr89QlbB9pOdcsRZP0n93cd2kfjh2aFRoE7h6YVv8A28oSdygbkeNvqVGgXPlCXmqfLrlg+nK44tzMQnlCQN3bGac8WpxpaVZcmtweSNFJ5Xf7GilLJLNstr7m+M0qg4OclG8zc9VlEL5FIbtr/rp2riWAZz3eupupOUplxa3VmMc3PTyqlOqmSTkSMjQ/t5+8/paJMTzkoxMNst5lPJy3KsoToR945lbpuXyzmSUqMpW6yM4cSW6pTN4yOtm4PRsftHSvVVKvaImaJ/DAZv1lv/qo5aVmuCvIeSnOpu9kg25LRBT5dmVv5VNqUrOSVA636ubSPUo3kl9CScHKol8WNjidBFfnHFa7de1SecED7giEeeaqjswgJelm3lJ3KK8v2hHYycVZoU5yjFRcX0LXHsbYBv77c7pYeqK1xjR04exHNUxMwX9iEHaFGW+ZIO7vj6dMV9ir2ZM4jrsxVF1VyXU8EjZpYCgMqQN9+qKGGUKU8xn4RwpTzMopW6x1jzqaeWCFPDId4SmxPfeLo4l5f5495YeqMcS8v88e8sPVFyValLcvTr0J+5/sp9NkgJGkZOmkW+fYvLk39+PeWHqhxLy/zx7yw9UetRTPerpdynyP1gOYGLg4l5e/8de8sPVDiXl739+PeWHqhqKfcaul3KgVvtCLf4l5f5695YeqMw1FMaul3LWhCEZxkCEIQAhCEAIQhACEIQB//9k="
+      },
+      {
+        "name": "anacron",
+        "link": "https://www.google.com/search?q=anacron&stick=H4sIAAAAAAAAAONgFuLSz9U3MDItMTcqV-IEsc0tk8qStfic83Nz8_OCM1NSyxMrixexsifmJSYX5eftYGUEAHEDITY2AAAA&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQxA0wHnoECA0QBw",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEX///9/f38AAACDg4P6+vp8fHwlJSW8vLwdHR3V1dUZGRlqamqJiYmUlJRaWlp3d3czMzNCQkJxcXG2trZkZGRfX1+tra3d3d3p6emhoaFPT09UVFQTExMuLi7Ly8vx8fE6OjrYKFV8AAADH0lEQVRYhe2Y2bqzKgyGVcShDhStQ1vU3v9V/oyKCLi6XGd7fydtffQ1CQkJDYL/RRWvusZpCbkJEZJeAd2jTfe/Ak1XQFgD4SugoavrBxX96IYrIKa27/vLEKaMuvX8C9D0N6AlSDhouQIZno9kCkoKGucIw/R3sLESSRQG4xCPE/9ef5/dY7HmTwLLx/bju2jFMHLKWnN9oWt9WerGcAcPsTIfkCSgV+qrK5qmedQ40a7mBqgyQA1367VVVwGYwjBkH7DeWL0RUQPECiH+qF8vyBmbAGjW3cCIeZzrYq7Hqt4x3FMkqrjZSQfV8r6HBcNRoXqTP6Vk1G7IwWEo9a7Rw5nFLZnNrY3UyQX1gDJ+B4EejGaTO0zSscZnDyfJOFlSt2ScWHyvzziUJDJKPaGL5WrJv03nnBA0PpC82pxzlHPUtSTb6VZRg1rO+fzAICokQHpPXxt7tzPobOWwBB21cE4iDQJP5EWBwgkSyfhWoGUokZd0c4GqfahRG8/QYxTzzQ7imzTZ7oQwDdrGiWKFYgfhQxIhmC/uUNFUCswk6hiIJyveLz6qhrFyhApZQGznFOn4MrIIomrMHSQbqHWCYLu0DudIFCR7ZSiwgyDqlxm4ssAR7JiYMWJueZIJulZtMioNlSzQ7kxCLtBLrxBaannc+6qE1YgdJNq9erQM0pNie7tAPQcVqtZCPThQkwLdbdsIuzJEloyUD1WaJAny6m/NRCpVahMLBz61947CUt6THFttKMrFYhI8ugYmbpEVlEe7dfOK72t8z77txfbs4OM06QhKBMguEbmzPss5ote6QLJjn/cRgCI/SM4Q79OWLd/oBAVyDHYNR4ozrQvk0kKi84ArDtAeHFNdw+qcxzsA5UiqnwMHI5lmVXF0inLMWkAdAjJ92LaNx+u1GhxRAK0z7+4oOBugfkfP6nDHotPxesQlxpEyLXW14mK/kT8dBFJh897m9fvPDlw50awkE8Yv/NEPEOKE8BPFTeTTN4e2HDsx5RcYprm2Y35xHB0r06wi/e1/NmNaFfhOm/Gnhn1+8Z8f1iiuEv7D+gdsRC1wRbybYAAAAABJRU5ErkJggg=="
+      },
+      {
+        "name": "Linux",
+        "link": "https://www.google.com/search?q=Linux&stick=H4sIAAAAAAAAAONgFuLSz9U3MDItMTcqV-IEsdMKqqoKtPic83Nz8_OCM1NSyxMrixexsvpk5pVW7GBlBADKruYtNAAAAA&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQxA0wHnoECA0QCQ",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAA2FBMVEX///8AAADnv13w8PDt7e2ysrKPj4/4+PiqqqrpwFxAQEBSUlKLi4twcHDb29vV1dWZmZni4uLvxmCgoKF5eXljY2P4+v7RrVTOzs68vLw5OTlKSkocHBzj5uzrwFQjIyMPDw/FxsdtZFK4mEiOcyu9wMWjjFbXs19WRyNGSlKsn4S/oV1mUiCxjzlkUihiTRLFok+oi0Spjk7SzsUZICswMDC/tJ67ljjOpTu9pW7DvLCRgV/DtJfasUpzXy7Hp1y7qH8vIgAcFwqFbjU5LxdIOx2gjmhPSDm7AvCpAAADQklEQVRYhe2XaXeaQBSGuYCacQGZsLkRLGmb1DbF2iSaSDRNl///j3pBgjOAypJPPX3PSSJGnrk7V0H4r7eQ3GyPLzpntTldiDWohWkNIVGzDghY1XCvx4Gg9TYGAUyrcpQUqLJvaoJw64IMfUeYnod/GlVBiqtoYR2dS7Km1wFputRvIUDoubJWC9Q3oDECwKDrUh0Qthn033mX77Gs7TpdIo0H8IES+vHq2hzVsUiCTxYVRZFQa/a5lmuXlIiRCKFXmL3KoC+URKKiRW8AulVB2lfP933P8+aeM0fXelVBA/jmRCFy/MV3BN1WBbkg3N0vl/erB0HQa8yRJvTxt2nG1kHVIGEty9xVVZN00NlLIwTphz58RNilEnttV32WGOmIDKs5p2TuicJdvpZG2efYLcAYwC7HmXIp26kR1iQMy4Fyb0DQqGS8B7mZ7gO0xzAqA8JYaNl3cX6P0SS1rkHRatIp1SjtVDG+SgbAAi8ebsXdG9TiktcJLco/JE9N5rMaF6tGaFHxZaINRvLa5o5vQbjpFJ3dmsuUr803Ssco0SaYs/1Fyo1m+HwrWkl99sgUaBDNgIIgHdrJ61aqRwduiVnSYcpaTpVxP5olSjHQiKlrOXVPNHCLjpI2Y7zGg9RhGYuumX1B4Xu3uVspcxo6T4/+FXRyQa/baWbm5WrtEDHpEW1f2PikvIhBpyG2IiiBKNKn7Cqs+Zt1zDHybuW0dYKZhSsR8bOzYusQsuM8n96374m426zoj0yKV/ifHcjbngR58YIm0pck3LHMDQnfRf2k/sScqJODlIl9F8Sc0LdUsZg+HkK9X+BahARWEASH7NoGjiMmQt/4qW1a0QGURmtl+OM85HIWDEWM8sa3pmSJKTmLXJDKg8g8VS3mMsUhq0OucSTi4SBkEqdeW4TnBAf7hCdZN+HXNKN7huoaWNIpUJDvWKR1wHzWsl74r4886ECkYy040m8eNGdBzvoYB0vJS9wjj4J0fsuAnijD2R7nYG6wo3acZRTp1rTZG0Wc8Z89yJmd4qDsWYgiWdvlpOydlVkAJAgPsyCwcmIwI8Xiw2ii5h058dFW4gRH81VI8nZjbbaHu76EzMILzb+jv/v/OXj3NV1MAAAAAElFTkSuQmCC"
+      },
+      {
+        "name": "sudo",
+        "link": "https://www.google.com/search?q=sudo&stick=H4sIAAAAAAAAAONgFuLSz9U3MDItMTcqV-IEsY0ri8qytPic83Nz8_OCM1NSyxMrixexshSXpuTvYGUEAMacQYszAAAA&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQxA0wHnoECA0QCw",
+        "source": "common",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAEgASAMBIgACEQEDEQH/xAAcAAACAwADAQAAAAAAAAAAAAAABwQFBgIDCAH/xAA5EAABAwIEAwUGBAUFAAAAAAABAgMEBREABhIhMUFREyJhcYEHFBWRobEjMkLBJDNSU2JDcqLR4f/EABoBAAIDAQEAAAAAAAAAAAAAAAIDAQQFAAb/xAAmEQACAgEDAwQDAQAAAAAAAAABAgADEQQSMRNBUQUhYXEiMkIU/9oADAMBAAIRAxEAPwB44oplcfVMdj0iCmd7sbSVl4NhKv7aCRZS7bkbAbXIJx8zhNkQ6c12Dio7TzwakTEC6ozZB74HW9k34J1XOwwp84yqgmpJpEQmnwYQ/AbbVfVffUT+oniSdyT53JELnAkE4GY3Gs0Um4blyRAfO3YzvwVX8NWyvNJIx8ezRTDqRTnDU5A2DMGzhv0Kvyp81EYUMPNebIbQaEtMhscO1CV/cXxxqGZ82TI5Q7K93YP9tAQPoMM/zvB6izfuTn11gKNYZarn5kQw6VRktji0ocyb3Llrg25DSb9jNNPQA3VlGlyQbFuYQhJP+C/yrHkb9QOGEEqizRI1oYnqnJAcDiWl9oByIFth9MXDees2UpsRJKG3ykWs83pXbxBH7DBHTt2kdQd453c1UUFSI85E10f6UIF9fyRe3rYYjMZkebnMt1an+4xZKgiO8XgvS4eCHbbIKv02JBO17kApKf7Qs2vJKEPNxUHiG0gfYXxO9nNaqlQqsumVY+/0+UypckvDZsfuD0wLaexV3ESRYpOBPQeDGSyDVXZseXEU8qSxEe7KPJWbrcSBuFH9Wk3Tq4m2++5MJhzTzIzUyK7GkIC2XUFC0nmCLEYSVXBdgU9x1ZcfjuOwnHFcV9kopufG6SfXDwdcS02pxwhKEAqUTyAwjawsoplN1pLbklbs1STxHanVY+pOGVZ3iC/6y2okOI7HiJaaX7w84UuPP09TzQJOwSdQAsNyTfj4YJhbqWXPhMaoRlOsSnFJ1/hpWggWUPDc/wDuIVLiypTKUPyX2oltm+0VZQv/AE8LYv2kNRmkR4iEI1rSgXHEqITc9eOLZQ5yTEbxjAnJ+Qy9U6zLVKLCJUZMZhatSSogjfqBx5cMVz79NkfAKZU5DclLL6y+9rKgEEnSgrO5HC+OdTCm5K4wV2rgWUAoTbUb22FzzxXVrLNQYhSZMgghpIUhDKS5rud79LDw64Bn09LKtlgUtx5MHLtnC5xOio0lE+HmH4pSWKe5T20uRJTDHZJWSTZO3dWCLG/EdcZ7L7qqbkytVBjaRIkNxWzzFklf3xVzZ0lcbsDKeVH5NlwlPoOGLihNKm5BrDbCdb0SaiSEdRosPrth16MlRBMKtgzR1ZFpDVKoMdtCbHQPtgxa0J1t+kxXWSChbaVJI5gjBjNlmQ84uK+BuRGyQ5PWmImxsQFmyiPJGo+mFhml1pWZVosCiMgNpTyB54ZNeVrr9IaV+VtqRIA/ySEoH0cVhFz6ip+qzHid1SF/RRA+gGLWkTc+fETccLNbGm6ylCXEgqUBdSrBNza5xfwYjfv7CvicN3QvXobXcqtv/wBYXDU4gceGNBkxS5dXWlK0jSwqylcEk2AP32xb1BSqs2McASsnuwGJtqZSvd5j1QluJcWpRU0bWCQee/PESrZhHuqlUyXEZTq0CVIWNBUL3CRcXOx+WIVdrdMyrShSmx75IKP5LytV78Su/I9MLvMk9PwSltoQlHaa3tCBZKdRBsB072PGen+nH1bVNrNWCU/nsCB8czRts6KbE57yLmpHZyQ+7UYs118qUtUfTZNrcbdbn5Yn+ymelvMzlNdP4NSYU1Y/1p7yT9FfPGMdWVHjfEqgylQa5T5SFEFqU0r01C/0vj2roOlsHEoKfyzPR/s8dLVKepaz3qc8pgDojZSP+Ck/LBiPQ3OwzzU2E7Iejsu28brF/kE/LBjIl2T8zERqtR5iv5ZU7FWemtIUCfVu3rhAZqjLpWZajDWCAl9S0HqlR1D729MekcxUwVijyIWvs3FAKadtfs3EnUhXoQDhMZnpT2amfw2ks5jpw7GREKgC8kb2STxI4jqDfntY01mx/fvF2ruWZKlGPLfU3Lntw2wi4cWnVc3FhbyJ+WNxllumZfhvVqTPblMuFKY/c0hSkm1977Anj18sKt9Lsd9bMhtbbqDpW2tJSoHxBxezKi6/lVIeWm6nENNtgjuITwAHTu38zfnh+tofVV9INhTz9eB9xNbBDnHvLjM1RRmCSXpdejJQndthtHdR9bk+eIFaix3zGbdqLTHYMhCULte3Xj4YzEZPaSmUf1OD74l19ztKo9uCEhKRbwSL/W+G0aeuhBXWMAQWYscmRZbaGZLjbTqXUJsA4ngrbliXluCupZgpsJoXU9JQLf4g3UfkCcQG21vOpaaQtxxZslCElSlHoANzhg0KAMjx11KrAGuSEdnChIIUtkK/Uroo8AOXHhe03WBF+ZKLkxi5ee999oFSfbOpppptkEHmCo/Yp+eDEn2ZUd+FT1zJg/iZKi44fE8h4AWHpgxlS3NvjK5vyexXCmXHcXFqLQs3Ib4242UOY+3K2DBjp0Xldbms/wANnSgJqTKe6mfGB7RI8x3h6g+eKJGTcvVnUaDXlsO/2JqArSehUnh64MGDW104MgqDzK1Xs8zCmcY6mGAyE6zNLo7DT11fta+O8ZfyrTCn4xmJyW6OLNPaAB8Natj6YMGGNqbD3gipRLanVB1sGNkbL5g6+6qdIBU8of7lC49B6jGuyd7PFtyxU626qTLVuVub7njbp98GDCSSeYcZzTaWmwhAsBywYMGInT//2Q=="
+      },
+      {
+        "name": "Secure Shell",
+        "link": "https://www.google.com/search?q=Secure+Shell&stick=H4sIAAAAAAAAAONgFuLSz9U3MDItMTcqV-IAsc1NLFO0-Jzzc3Pz84IzU1LLEyuLF7HyBKcmlxalKgRnpObk7GBlBACG5Z_hOgAAAA&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQxA0wHnoECA0QDQ",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAbFBMVEX///8jHyAAAAAfGxwTDQ4KAAH19fV/fX6XlZYbFhft7e0OBQgeGRoXERP8/PzX19d2dHXKycmhoKA3NDXAv7/e3t6Qj49RUFCvr69APj/n5uYxLS/Qz8+qqamFg4NZV1hJR0hjYWJubW0pJye5hPQ4AAACqElEQVRYhe2X25KjIBCGpVEEgVE84DEmcd7/HQcx8excrF5s7eaviqnEP1/apmlbx/nr1Axv1ddZELJHCjk5CYKwjwcQFGdByhxSQLw9C6rMQZmI4v5T+OegIRAEODBv5YA7oYpmfTzA8pOgQQWw+yWgBuB2CcjR+hrOoFZdw4lBXgN6MH4RCKJrQOk9uAb00UcXKUhpdC+TJKnrOnk822LTgavRkeT3zo/TnSIOKALgkgkhsJEQzAWANpg78MwhmHQ5wBpDWuAYbcXHbk78XceKk9XeDsUKhqYXHjhWly7ZEceQ+kxl7oFjCXrI8YQH4JnXzOr1IZWTwyTGyNsDqel3nGaEkKCYfodkZG/JY4A0DAipYtgBdXLivL7SMMl3nCfbOLrh5AJUj6vB7u/h5GuS+TQFJLvXIPRFrBagWR4ZJPdI39KmqgIyzU6znLncGOJUZfPzWxBCmMkhnYAeHQ03IPNnLwMun9FyZigF2hMW0oPcoviuwRS/twAVsOsbcsL6MYMeOpbX1oK7tz+seDeskdw/vcpS5iNbZS4Ta6IobU5V1yfGM3sW419ARiRURew/yxq7MN9WuHwvcdWkN93lyTfzgB+DRgVZc5uBtjMYqUJF2QaURv6k6vXlVOvIbZWmo/Q7vBKvQTG4o97NhyRTHkBps43fgvR1mWITUTxfWd6lSqW6nkpUlI6eV5GrVdMo+r0FqUWJyH7x5p3QzOPLMuNLxyx1yS9NDffDJRH7lb8COSF2DzHYpqThh47FcFZ14G2jYhzq9xpVzz2HkIBWDyAZzbGtW6O+0RqxvFWzZhPSXFqHXV1uPUlU7NzWSGUKWxvR+FaYdrR9+iJZeqO69f22NxWm4W4pH/2XOv3Q/1IEzSWcAiC7BJTD8xKO43ef3fLRv6YfJ3QjrEeljukAAAAASUVORK5CYII="
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?q=cron&stick=H4sIAAAAAAAAAONgFuLSz9U3MDItMTcqV0JiawlnJ1vpJ-fn5ubnWRVnpqSWJ1YWL2JlSS7Kz9vByggAGzCxYzkAAAA&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQMSgAMB56BAgNEAE",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3MDItMTcqV0JiawlnJ1vpJ-fn5ubnWRVnpqSWJ1YWL2JlSS7Kz9vByggAGzCxYzkAAAA",
+    "see_more_about": [
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "How do I setup a cron job?",
+      "snippet": "ProcedureCreate an ASCII text cron file, such as batchJob1.txt.Edit the cron file using a text editor to input the command to schedule the service. ... To run the cron job, enter the command crontab batchJob1.txt .To verify the scheduled jobs, enter the command crontab -1 . ... To remove the scheduled jobs, type crontab -r .Aug 12, 2019",
+      "title": "Scheduling batch jobs using cron (on UNIX) - IBM",
+      "link": "https://www.ibm.com/support/knowledgecenter/en/SSWSR9_11.5.0/com.ibm.mdmhs.dev.platform.doc/tasks/t_to_use_cron_job_to_sched_bulk_proc_service.html",
+      "displayed_link": "www.ibm.com › tasks › t_to_use_cron_job_to_sched_bulk_proc_service"
+    },
+    {
+      "question": "What is Windows cron job?",
+      "snippet": "A cron job is simply a scheduled task that runs regularly on your server. Most administrators would set up a cron job to run regularly scheduled backups on the server, for example. In a Windows server environment, you would need to set up a “Scheduled Task” instead of a cron job.",
+      "title": "Setting Up A Cron Job | ActiveCampaign Help",
+      "link": "https://www.activecampaign.com/help/setting-up-a-cron-job/",
+      "displayed_link": "www.activecampaign.com › help › setting-up-a-cron-job"
+    },
+    {
+      "question": "Do cron jobs run automatically?",
+      "snippet": "Linux has a great program for this called cron. It allows tasks to be automatically run in the background at regular intervals. You could also use it to automatically create backups, synchronize files, schedule updates, and much more.Jul 29, 2007",
+      "title": "Schedule Tasks on Linux Using Crontab - kvz.io",
+      "link": "https://kvz.io/blog/2007/07/29/schedule-tasks-on-linux-using-crontab/",
+      "displayed_link": "kvz.io › blog › 2007/07/29 › schedule-tasks-on-linux-using-crontab"
+    },
+    {
+      "question": "Where are cron jobs?",
+      "snippet": "The individual user cron files are located in /var/spool/cron, and system services and applications generally add cron job files in the /etc/cron.d directory.Nov 6, 2017",
+      "title": "How to use cron in Linux | Opensource.com",
+      "link": "https://opensource.com/article/17/11/how-use-cron-linux",
+      "displayed_link": "opensource.com › article › how-use-cron-linux"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "What Are Cron Jobs? | HostGator Support",
+    "link": "https://www.hostgator.com/help/article/what-are-cron-jobs",
+    "snippet": "What Is a Cron Job? cron is a Linux utility which schedules a command or script on your server to run automatically at a specified time and date. A cron job is the scheduled task itself. Cron jobs can be very useful to automate repetitive tasks.",
+    "thumbnail": "data:image/png;base64,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"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "cron - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Cron",
+      "displayed_link": "en.wikipedia.org › wiki › Cron",
+      "snippet": "The software utility cron is a time-based job scheduler in Unix-like computer operating systems. Users that set up and maintain software environments use cron ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Cron (disambiguation)",
+            "link": "https://en.wikipedia.org/wiki/Cron_(disambiguation)"
+          },
+          {
+            "title": "Job scheduler",
+            "link": "https://en.wikipedia.org/wiki/Job_scheduler"
+          },
+          {
+            "title": "Command",
+            "link": "https://en.wikipedia.org/wiki/At_(command)"
+          },
+          {
+            "title": "Fcron",
+            "link": "https://en.wikipedia.org/wiki/Fcron"
+          }
+        ],
+        "list": [
+          {
+            "title": "AT&T Bell Laboratories",
+            "link": "https://en.wikipedia.org/wiki/AT%26T_Bell_Laboratories",
+            "date": "Initial release‎: ‎May 1975; 44 years ago"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:45VcWXyunB8J:https://en.wikipedia.org/wiki/Cron+&cd=12&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Cron+cron+job&tbo=1&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQHzALegQIAxAJ"
+    },
+    {
+      "position": 2,
+      "title": "cron-job.org - Free cronjobs - from minutely to once a year.",
+      "link": "https://cron-job.org/en/",
+      "displayed_link": "cron-job.org › ...",
+      "snippet": "Execution up to 60x an hour. Set up as many cronjobs as you like. Each of your jobs can be executed up to 60 times an hour. Flexibly configure the execution ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uUGjF5qM308J:https://cron-job.org/en/+&cd=13&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://cron-job.org/en/+cron+job&tbo=1&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQHzAMegQIBBAJ"
+    },
+    {
+      "position": 3,
+      "title": "A Beginners Guide To Cron Jobs - OSTechNix",
+      "link": "https://www.ostechnix.com/a-beginners-guide-to-cron-jobs/",
+      "displayed_link": "www.ostechnix.com › a-beginners-guide-to-cron-jobs",
+      "date": "May 6, 2019",
+      "snippet": "This guide explains the basic usage of Cron Jobs in Linux and two websites that helps you to easily generate a crontab expression.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:e6i3vcwid-8J:https://www.ostechnix.com/a-beginners-guide-to-cron-jobs/+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "What Are Cron Jobs? | HostGator Support",
+      "link": "https://www.hostgator.com/help/article/what-are-cron-jobs",
+      "displayed_link": "www.hostgator.com › help › article › what-are-cron-jobs",
+      "snippet": "What Is a Cron Job? cron is a Linux utility which schedules a command or script on your server to run automatically at a specified time and date. A cron job is the scheduled task itself. Cron jobs can be very useful to automate repetitive tasks.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MDQlIB1lcdYJ:https://www.hostgator.com/help/article/what-are-cron-jobs+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "How To Add Jobs To cron Under Linux or UNIX - nixCraft",
+      "link": "https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/",
+      "displayed_link": "www.cyberciti.biz › faq › how-do-i-add-jobs-to-cron-under-linux-or-...",
+      "date": "Sep 30, 2019",
+      "snippet": "A step by step guide for scheduling cron jobs and commands on Linux, *BSD, and Unix-like operating systems using crontab.",
+      "sitelinks": {
+        "list": [
+          {
+            "date": "@weekly‎: ‎Run once a week, “0 0 * * 0”"
+          },
+          {
+            "date": "@monthly‎: ‎Run once a month, “0 0 1 * *”"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "daily_run_once_a_day": null,
+            "weekly_run_once_a_week": null,
+            "hourly_run_once_an_hour": null,
+            "monthly_run_once_a_month": null
+          },
+          "extensions": [
+            "@daily‎: ‎Run once a day, “0 0 * * *”",
+            "@weekly‎: ‎Run once a week, “0 0 * * 0”",
+            "@hourly‎: ‎Run once an hour, “0 * * * *”",
+            "@monthly‎: ‎Run once a month, “0 0 1 * *”"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2mL3zhJHmR0J:https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/+&cd=16&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/+cron+job&tbo=1&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQHzAPegQIChAJ"
+    },
+    {
+      "position": 6,
+      "title": "Scheduling Tasks with Cron Jobs - Envato Tuts+ Code",
+      "link": "https://code.tutsplus.com/tutorials/scheduling-tasks-with-cron-jobs--net-8800",
+      "displayed_link": "code.tutsplus.com › tutorials › scheduling-tasks-with-cron-jobs--net-8...",
+      "date": "Jan 26, 2010",
+      "snippet": "Cron Jobs are used for scheduling tasks to run on the server. They're most commonly used for automating system maintenance or ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IXqrEGub0CsJ:https://code.tutsplus.com/tutorials/scheduling-tasks-with-cron-jobs--net-8800+&cd=17&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://code.tutsplus.com/tutorials/scheduling-tasks-with-cron-jobs--net-8800+cron+job&tbo=1&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQHzAQegQICBAJ"
+    },
+    {
+      "position": 7,
+      "title": "How to use cron in Linux | Opensource.com",
+      "link": "https://opensource.com/article/17/11/how-use-cron-linux",
+      "displayed_link": "opensource.com › article › how-use-cron-linux",
+      "date": "Jan 2, 2020",
+      "snippet": "The contents of these files define cron jobs that are to be run at various intervals. The individual user cron files are located in /var/spool/cron, ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4HlPpcRHQfQJ:https://opensource.com/article/17/11/how-use-cron-linux+&cd=18&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "crontab.guru - the cron schedule expression editor",
+      "link": "https://crontab.guru/",
+      "displayed_link": "crontab.guru",
+      "snippet": "An easy to use editor for crontab schedules. ... integration and instant alerts when things go wrong, Cronitor helps you bring your cron jobs out of the shadows.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9PRJ015pjPoJ:https://crontab.guru/+&cd=19&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://crontab.guru/+cron+job&tbo=1&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQHzASegQIBxAH"
+    },
+    {
+      "position": 9,
+      "title": "What is Cron Job? - Hivelocity Hosting",
+      "link": "https://www.hivelocity.net/kb/what-is-cron-job/",
+      "displayed_link": "www.hivelocity.net › Knowledge Base Articles",
+      "snippet": "A cron job is a Linux command for scheduling a task to be executed sometime in the future. This is normally used to schedule a job that is executed periodically ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qnXaJlsY868J:https://www.hivelocity.net/kb/what-is-cron-job/+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Cron Job: a Comprehensive Guide for Beginners 2020",
+      "link": "https://www.hostinger.com/tutorials/cron-job",
+      "displayed_link": "www.hostinger.com › tutorials › cron-job",
+      "date": "Jan 2, 2020",
+      "snippet": "For a webmaster, cron job is a powerful method to handle repetitive tasks. This article will cover a basic guidance of using cron job.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WJD6MhB2icgJ:https://www.hostinger.com/tutorials/cron-job+&cd=21&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "cron job time",
+      "link": "https://www.google.com/search?q=cron+job+time&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ1QIoAHoECBQQAQ"
+    },
+    {
+      "query": "cron job online",
+      "link": "https://www.google.com/search?q=cron+job+online&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ1QIoAXoECBQQAg"
+    },
+    {
+      "query": "cron job php",
+      "link": "https://www.google.com/search?q=cron+job+php&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ1QIoAnoECBQQAw"
+    },
+    {
+      "query": "cron job windows",
+      "link": "https://www.google.com/search?q=cron+job+windows&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ1QIoA3oECBQQBA"
+    },
+    {
+      "query": "cron job python",
+      "link": "https://www.google.com/search?q=cron+job+python&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ1QIoBHoECBQQBQ"
+    },
+    {
+      "query": "how to set cron job in linux server step by step",
+      "link": "https://www.google.com/search?q=how+to+set+cron+job+in+linux+server+step+by+step&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ1QIoBXoECBQQBg"
+    },
+    {
+      "query": "cron job nodejs",
+      "link": "https://www.google.com/search?q=cron+job+nodejs&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ1QIoBnoECBQQBw"
+    },
+    {
+      "query": "cron job every hour",
+      "link": "https://www.google.com/search?q=cron+job+every+hour&sa=X&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ1QIoB3oECBQQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=cron+job&ei=cVEnXoCoOa280PEPgLmAsAY&start=10&sa=N&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ8NMDegQIExA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=cron+job&ei=cVEnXoCoOa280PEPgLmAsAY&start=10&sa=N&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ8tMDegQIExAt",
+      "3": "https://www.google.com/search?q=cron+job&ei=cVEnXoCoOa280PEPgLmAsAY&start=20&sa=N&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ8tMDegQIExAv",
+      "4": "https://www.google.com/search?q=cron+job&ei=cVEnXoCoOa280PEPgLmAsAY&start=30&sa=N&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ8tMDegQIExAx",
+      "5": "https://www.google.com/search?q=cron+job&ei=cVEnXoCoOa280PEPgLmAsAY&start=40&sa=N&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ8tMDegQIExAz",
+      "6": "https://www.google.com/search?q=cron+job&ei=cVEnXoCoOa280PEPgLmAsAY&start=50&sa=N&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ8tMDegQIExA1",
+      "7": "https://www.google.com/search?q=cron+job&ei=cVEnXoCoOa280PEPgLmAsAY&start=60&sa=N&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ8tMDegQIExA3",
+      "8": "https://www.google.com/search?q=cron+job&ei=cVEnXoCoOa280PEPgLmAsAY&start=70&sa=N&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ8tMDegQIExA5",
+      "9": "https://www.google.com/search?q=cron+job&ei=cVEnXoCoOa280PEPgLmAsAY&start=80&sa=N&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ8tMDegQIExA7",
+      "10": "https://www.google.com/search?q=cron+job&ei=cVEnXoCoOa280PEPgLmAsAY&start=90&sa=N&ved=2ahUKEwjApIOUt5XnAhUtHjQIHYAcAGYQ8tMDegQIExA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cron+job&start=10&token=31295cdaefdcd5f4",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cron+job&start=10&token=31295cdaefdcd5f4",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cron+job&start=10&token=31295cdaefdcd5f4",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cron+job&start=20&token=fb3fd5fa03309339",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cron+job&start=30&token=3ac59e9dacc141a7",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cron+job&start=40&token=efa65867b78164d3",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cron+job&start=50&token=553153999f4bec8b",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cron+job&start=60&token=fab2dd4d67f9950d",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cron+job&start=70&token=eed60e07ef5abf8c",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cron+job&start=80&token=e7e7dfe9ca6634da",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cron+job&start=90&token=628268eccda58478"
+    }
+  }
+}

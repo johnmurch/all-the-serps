@@ -1,0 +1,376 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 22:54:45 UTC",
+    "processed_at": "2020-01-20 22:54:45 UTC",
+    "google_url": "https://www.google.com/search?q=is+solar+energy+renewable&oq=is+solar+energy+renewable&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 1.96
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "is solar energy renewable",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 123000000,
+    "time_taken_displayed": 0.58,
+    "query_displayed": "is solar energy renewable"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Clean Tech & Renewable Energy | Leader in Clean Technology‎",
+      "link": "https://esd.ny.gov/industries/cleantech-and-renewable-energy",
+      "displayed_link": "esd.ny.gov/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjZgLfsopPnAhWHk48KHRyOB0sYABAAGgJzYg&sig=AOD64_2UNRNwnzMbOiVUYpVk5TOZm83JAg&q=&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ0Qx6BAgVEAE&adurl=",
+      "description": "New York State Is Committing To Low-Cost Clean Energy In A Big Way - Find Out How! Request Proposals. View Services. Sign Up For Newsletters."
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Energy For The Future | Outlook On Energy‎",
+      "link": "https://corporate.exxonmobil.com/Energy-and-environment/Looking-forward/Outlook-for-Energy",
+      "displayed_link": "corporate.exxonmobil.com/EnergyOutlook/FutureEnergy",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjZgLfsopPnAhWHk48KHRyOB0sYABABGgJzYg&sig=AOD64_0YBFUkxsPJMcBlXPUC92wl1RG9rA&q=&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ0Qx6BAgWEAE&adurl=",
+      "description": "Promoting a Better Understanding Of the Issues Shaping the World’s Energy Needs. Learn More About Our Innovations As A Leader In The Energy Industry. Unexpected Energy. Driving Innovation. Advancing Technology.",
+      "sitelinks": [
+        {
+          "title": "Energy",
+          "link": "https://corporate.exxonmobil.com/en/Energy-and-environment/Energy-resources/Outlook-for-Energy"
+        },
+        {
+          "title": "Environment",
+          "link": "https://corporate.exxonmobil.com/en/Energy-and-environment/Environmental-protection/Climate-change/Understanding-the-ExxonKnew-controversy"
+        },
+        {
+          "title": "Energy Factor Newsletter",
+          "link": "https://energyfactor.exxonmobil.com/newsletter/"
+        },
+        {
+          "title": "Technology",
+          "link": "https://corporate.exxonmobil.com/en/Energy-and-environment/Tools-and-processes/Energy-efficiency"
+        },
+        {
+          "title": "News",
+          "link": "https://energyfactor.exxonmobil.com/category/news/"
+        }
+      ]
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Renewable energy",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "description": "Renewable energy is energy that is collected from renewable resources, which are naturally replenished on a human timescale, such as sunlight, wind, rain, tides, waves, and geothermal heat.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Renewable_energy"
+    },
+    "renewable_energy_companies": [
+      {
+        "name": "Brookfield Renewable Partners",
+        "link": "https://www.google.com/search?q=Brookfield+Renewable+Partners&stick=H4sIAAAAAAAAAONgFuLQz9U3MEvLKFbiArHSCosNzbK0RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKA8VyclKTSzLz8_Qzi4tLU4uKF7HKOhXl52enZabmpCgEpeallicm5aQqBCQWleQB5XewMgIA8yGvRmcAAAA&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQxA0wI3oECBcQBQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAEgASAMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABQcDBAYBAv/EADIQAAEDAwMCAwYFBQAAAAAAAAECAwQABREGEiExURMiQRQyYXGBoYKRsdHwFRZCQ1L/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAHhEBAAICAgMBAAAAAAAAAAAAAAECE0ESMQNRYRH/2gAMAwEAAhEDEQA/ALxpSlApSlApSlApSlApSlB5kd6ZHeqQkXq7lu+yE3TUHjxZ7yGCwN0VtIVx4hI4x+mK7hjV1wF2t9oagsT1uW5mZImNSAlASSAtYGOQOox1yK628Noca+asu4zTNcDH17NcjxLq9Zkt2OXJEduR7Rl1OVbQtSMdMg+tJevJ6G7hcotlS9ZbfJMd98yNrqikgKUlGMYGe9TFdrLV3uR3pkdxVYva2etesbzFSpyauUuG3borjuxtJUjKjuI8o8yc/Ss1xn3t3XUtp5x1mLBtinyxHmFKDlKhv93k5xgemAc+lXFZM0aWTmvMjvVbt69MC0WSM0ht2XKhe0LduMzaEoyQMr2+ZRIPoOlG9XuXW/aVmMuPxYkhqYZcbflJU2j1/wCsYyKmKxmqsjI70qtBqm83e4aYlCIYFtmzVBsok7lPIAIw4nAx0z1NeVLUmva18kW6brWiLfKNxYi6jujceY+t6TGaUhKVFZOeqenBH0qctulrdbrw1cIji0hu3CAhgqBR4YIOe5PHethzTEBas4cTk5O1Q5Pfp1/nfJWmIClKO1wJUkp2hWAAVbjjt2+VWbzO0in5pBs6Et0V2JHcus1VsZleNHtq1p8IOcqAzjJHU4Jr5naKtjqJjgu85m0THfaZMJtY8NaiQTzjcAeOB+1TatLQj/skHKcEKUDnylOeR1OTz3NZ0aeiIblIBcxJSlK8kHAHbI+HrTnPtMfxCzNFWe6Kuz7jzw/qaGAMYSYxbGElGRkH59q3W9NRxOkzXZ77z8i3CC6pRTykf58D3vtW05puG7jeXNwOdydqc+UJ5AGMYTWBel2zJStt3Y0kJGzYMkeXd5viEY/Eacp9rw+Ij+07eh23x7deJUO422P7MH0BJU43wdqgU7T7wPHTNbzOk4Am2p5U+VIctiHm8POhZe8VOFb88/IDHyqVmWGHLD5WkpcfXuW4nAV0AxnHTgVjVpuCvOUr5TjIIB6g5yB18o+/enOZ2cIjSDt+hIkKVbVovE5yPbni7DirWgoRnOR0yfzr2pxjTsNhbK2y4FNL8QHIyTxweOnFKza027lqtfzSZpSlZbKUpQKUpQKUpQKUpQKUpQKUpQKUpQKUpQKUpQf/2Q=="
+      },
+      {
+        "name": "NextEra Energy",
+        "link": "https://www.google.com/search?q=NextEra+Energy&stick=H4sIAAAAAAAAAONgFuLQz9U3MEvLKFbiArEyDJPNq4q1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKA8VyclKTSzLz8_Qzi4tLU4uKF7Hy-aVWlLgWJSq45qUWpVfuYGUEAHTyl6dYAAAA&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQxA0wI3oECBcQBw",
+        "source": "common",
+        "image": "data:image/png;base64,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"
+      },
+      {
+        "name": "NextEra Energy Partners",
+        "link": "https://www.google.com/search?q=NextEra+Energy+Partners&stick=H4sIAAAAAAAAAONgFuLQz9U3MEvLKFbi1U_XNzRMKjMsszCyMNESyU620k_Oz83Nz7NKyS_PK08sSilexSgMFMvJSU0uyczP088sLi5NLSpexCrul1pR4lqUqOCal1qUXqkQkFhUAmQV72BlBAD41ljAZAAAAA&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQxA0wI3oECBcQCQ",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIoAAABICAMAAAAeeZ3pAAAA5FBMVEX///8AAACmpqby8vL///3s7OwZmdbHx8ckJCSrq6ve3t7Q0ND7+/vk5OTo6OjV1dWOjo5paWl0vT/R5MOysrIbGxu22KD4+vZkZGQxMTErKyvq8+LD37GcnJyNw2ZYWFi9vb1otCrL4bt3d3eEhIRKSkqmzIna6s0Ai9AAkdIODg6dy+KcyYBAQEBvuzbi7tjJ5O/d8PVMp9OCvVit0ebt+Pm12OdarQd5ukh/vdslndJlrtSx1paWyHT2/fCMxt5suVdnt2Rgs3pWr4ZHqZs6o67T6d9itm41orduuyJru0y93t/xgL4oAAAH0klEQVRoge2ZDXeiyBKGuwTBD4gfUVFRwW8RjSDBUYy6e2f37p27////bFV3q8lMzE7OZDbZc3zPCWCD3Q9vV1WDYeyqq6666qqrrvpoUlW5/7aJH3K9/NU3R/o53b5K9oLv1IW6vxVaUAve8pg+0GbB1PDe90NsNoJAje9XvOE+sI53YLiVHO7SJjMrrsKb8pUCbpUcnkszxa2kWc4wb/gpM20UlGdQap9sGplFVmvX4rKjMTXUZrf4YY1/Y7bxJt5ksozVcDIJvMlWXU6oQQtEHy7AFPqM9TNtqAIgVa6KB3OFpcAEyFfofBsKJSCCPOiVdvE5lNraon2k9lpHo9Z7xm4jblaHthsvCeJg6S1Z6GmJtvT9SRKEITbz6wtQVBQXimwAjmkUEEqBOt751GFZaPYLeegrhg5QKICLlw+AVbLt51DGvc5TFJyaNeJwQKujMjXWPJocNfECREFv2GZLDfiBT1C9Qdv2FAcx8aDfYG0w8EAHswIDPA/8PORZo46T2SyytFt4DuWWPYxw+I7ae9jbJOy+14lsdkRhK0/DUPH9pXcIPaJCvGB12GhaQihKpp5NpbJFMIsZJlCcObakUuBWAMMj06fmHKKkcIYKcPMMhkRhO/QDUaIZFw1VnrEzyr2nSW0QhUJ1pU3Qnq1EqVYbzWaz0cydUObAWxrZChqiTHlg3CBKGipsMLxAwlGs9fhxrBDbrMWzQ7qSxEIGoeCMeZofYwx7HIUcNwyakcERpe7IlizNTabO+HTlGSsNGWRfQFHZvrtHV2pMFrTaiFnR4uRKqHmUKvFmG3AUFngaRZIvUFi9StvKVDmhtHmq5Ch36DyPnBKhIA+kX3KFsXH0yJXeDjf78l6iYJR63iG4T3gGcVcmGDWYQGiOyofEfME0ObuiQMM0zEZGuJKDYe5mAITCmlC6RMIeCEVlrU8YKyOuVsSTZ0E77gpTD9oEq8g2ZlhX6Gqff/aXE2GLOwWAknFGYbk5tszTAoXpTYBGnqO0Qb9Eou5FyVRt1bKlZBG197iz+Uk1DlarEA2yQp7WLA6CMMbWUPSi5PKUxgr3nm+NXJ7qryKyxTBN9MbkKBdNYXL5UZ8siHKjPmmga+TaKD+r37ckDngs9acUMdXnyuw/pxxgVtcxj42+A88tPv+gzP58XqdIGQ7zL1xWSHHJYMrKA1O00norL0AVGP2R2lmDpdup41cVcZgV4ygpx6lnja8HiuO/I06BUJOCTcEllLfqshUztH08hDYD4DnCYKqg7VIlLKJSDgLkpvyweiofGE/xYYm12tuu2MUHMfIBnEI+rztA9bgIGZFsOgyxNY+c7o3r6iUo6a6bQxRa3hAlQyhVl6uAKFUdr8acxqBs0EYR/QlZVIFwwVolnrZ6wZWsqDk3QCWxWtVBVmmHnx0Aj/ii2KEbwFNSoDSPfaTps7gtPMcjEx9T5KqnhonHLYkZLqDe5rIvEkWZYkHW8bjJezqiFL9Cqbb53X6DUuUoFboPgBQdmyaPFpychBZSz1dVK8GHHWK5iNIXvQAtEzr6kDqjmFMoPEEBdD57mqAKl0Ku0FljjgmLHUBm4J6jlqJESwIWW9uJj88bnn+BhJ6zSqXSnIIyTTgFaLBHYas/NgdR0nhRWqJImeew5X6kmnQ4NEX/ODhOjsVW4UYL6RPachGFAmA6T/G5St+kq2SEDpk6aiqi9BHKDWZU/+iKzoV5DVMHr25CXZhhuqWqnDOG0+MdMHJXPj0aa/hoeskUGl9B0eFQ3tvgNEEYzF9N0A2liP5t2BKD0cDJM3X+DaUKLu3xodNbsTDxVwf2Z5xQ8LLggi3Z06qNfbdRRSoax7Dtiw6foOjQFCiZM4qwIIWXteU3S+IRCR+7aFq2YcA2SIK5HC69C29dZxSZuIyC75zMlW9QkE+iKEKPMmhARtJXTOnnJonVzWSJa3sSbpEq3ky0yYW6e0bhLzD83oYXk5mjYE2uPgrbIcWKRHHoMQDmuOzJKFup8dLTYjQmOGxV1dcoisPnUVxHvpLknYG023GUgiPG1us81bOOeCCtl3g5d+t9hZlOiauO7xJOSaH6btIev4N54FRk/yGVldCf+Pc+zQ1l9iVXforOVSXkbwrJZBsE7CDfHC7Fyg8I66e9GOPr7MNottt1Op2I1OnsdrPRQ63VGy/sfYwjo5ZWLOo/afnjI59uxtqPe7XRrrMud7t33TtU+StR210Xz65/+fU/n3/7/b/7e887mrJ6E1cs+7Y2I4Qnw98dR8axj83iY/dOqvzLH59/+19CFiU/DKIuegRxHosPXl53diOcDJyNhW3vUZYQHtn2Auev1yIDo3L3y5cvd///4/Pvf/4Qxf52FB3vmPsRdWa11nixt17TiY3TinfTLe9ai/0rCfjG7s3WggJtWEe7h9bYPhO89AvZqZen11j2uDXazWrjPXvFr2jkBncB5yLa1Xr81ehtfi1DoF7rdvF9ttqtTlmE43qGjr5tLZBvUtbe+rt+1cXDmmfJelf7TvK3l8o5IuKIRi1bTIj6NpNyacBLsmuYLN1o1rPfyw0hqxV1v3Q70o131GL2qbt+GPMfD96Tgwzp1N7bDvodZVTGaXlfDK5FJ2q9shT/BOHSP57V9j/vHxnfT4JrzOJj/OODWbx6fASUj8Bw0oeCueqqq/7V+gsSddwlwDHwKAAAAABJRU5ErkJggg=="
+      },
+      {
+        "name": "Pattern Energy",
+        "link": "https://www.google.com/search?q=Pattern+Energy&stick=H4sIAAAAAAAAAONgFuLQz9U3MEvLKFbi1U_XNzTMMDaqTKusSNESyU620k_Oz83Nz7NKyS_PK08sSilexSgMFMvJSU0uyczP088sLi5NLSpexMoXkFhSklqUp-Cal1qUXrmDlREAY6M_AVsAAAA&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQxA0wI3oECBcQCw",
+        "source": "common",
+        "image": "data:image/png;base64,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"
+      },
+      {
+        "name": "Enphase Energy",
+        "link": "https://www.google.com/search?q=Enphase+Energy&stick=H4sIAAAAAAAAAONgFuLQz9U3MEvLKFbiArGqLMorUyq1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKA8VyclKTSzLz8_Qzi4tLU4uKF7HyueYVZCQWpyq45qUWpVfuYGUEANmI3XlYAAAA&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQxA0wI3oECBcQDQ",
+        "source": "common",
+        "image": "data:image/png;base64,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"
+      }
+    ],
+    "renewable_energy_companies_link": "https://www.google.com/search?q=Renewable+energy+companies&stick=H4sIAAAAAAAAAONgFuLQz9U3MEvLKFaCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMQoDxXJyUpNLMvPz9DOLi0tTi4oXsUoFpeallicm5aQqABlF6ZUKQJ0FiXmZqcU7WBkBdMv_pWIAAAA&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQMSgAMCN6BAgXEAE",
+    "renewable_energy_companies_stick": "H4sIAAAAAAAAAONgFuLQz9U3MEvLKFaCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMQoDxXJyUpNLMvPz9DOLi0tTi4oXsUoFpeallicm5aQqABlF6ZUKQJ0FiXmZqcU7WBkBdMv_pWIAAAA",
+    "people_also_search_for": [
+      {
+        "name": "Sustainability",
+        "link": "https://www.google.com/search?q=Sustainability&stick=H4sIAAAAAAAAAONgFuLQz9U3MEvLKFYCszKyi0u0-Jzzc3Pz84IzU1LLEyuLF7HyBZcWlyRm5iUmZeZkllTuYGUEAK0PSPQ6AAAA&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQxA0wJHoECBgQBQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Energy",
+        "link": "https://www.google.com/search?q=Energy&stick=H4sIAAAAAAAAAONgFuLQz9U3MEvLKFYCs4xyc-O1-Jzzc3Pz84IzU1LLEyuLF7GyuealFqVX7mBlBAAMvdjRMgAAAA&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQxA0wJHoECBgQBw",
+        "source": "common",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAEgASAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAEAAIDBQYBB//EAC8QAAEDAwMDAAgHAAAAAAAAAAEAAgMEESESMUEFUWETFCIycZGhwQZCQ4GiseH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwAEBQH/xAAgEQACAwACAgMBAAAAAAAAAAAAAQIDERIhBCITQVEU/9oADAMBAAIRAxEAPwDykRpwjxsiGxKZkNwtuNOma7AMRJ4h8I9lP4RlNQPmeGRsLnnYAJ68UW7inFOeyd6t7OM9/C1nqEFG3RoEs2+oi7QewHPxToHyaQ7SDnLcEeMWso6Pw58xjnUptthQPgI4XoklJT9WcfSRNhqdH6YAabBZ6u6VLCXa43NLTY4wufzaiLyMZlnxEcLis56a3CSry8dplhWpoIZH4RMcV+FxjQioWrTqijPsmPggBthaPo0Ipopqn2g4N0XB4O/0VXSMFwtFTx2oJ2WH5XZ4GR90+3FHCl8vvhS1N3va3JeTcJ9HWvpDIyONjzI0sc5zL2B7J9W1sj2ljtLg3F8IBjWl9ybebboXBS6GcgynLo5mlzdDge1irXrHT3S0DZ9JLL2JA5Ax9Cq6kGnQS43vgDlXfUKksoY4Q8tBcXOA+V7fshnqlHAJT9GYTqFNpJOM9uEkXXWJKSZKKY6ux8SqjRcR2QDHImJ6rQng6cdLijeAc38WWj6TVsgmuY2vabtLTkEHH3WQhltZWMNTYbp0mprGZ9lbT1BvUoQyR/AyWG24NvpZDRxNlZrc04OXA3v/AKrJjhV0DHuAJjc5gN7EA5H3+SHEd3i/tDGANglqz6HKDaJaSNpex+WxsBLnE8clB19aZ5HPOAfdbfYcBH1TGwdGkkbpYXytZp5tuf6Czs8mTlFCab5ElXvRDUyXSQs8i4uSt7LEa+iuZIiI5MhVrXqZktlQjYXJQLWORFsmwqZkynZP5TVaJlUa38MzPdWSQN0lssZ1NcLjBFsK4l9JARqFMT2MRsf5rGdG6myir2SyE6CC1xHF1pqipmmBLaQvaRdjw73hvffZJnP207GvoF/EVWZI6RpMWGONo2gDfx8FnZpd8p3VepesyMaCCIgWhzSSDklVck/lGrcjhFV2Pmk8pIGWZJJdvY5VgYentlXEklMsNIkbMnifyupLvJg8UOFR5Uw6pVNh9AKqcQ2t6MSu027WvZJJTkycUDOqPKidNdJJC5MJRRC+VJJJLbYaij//2Q=="
+      },
+      {
+        "name": "Solar energy",
+        "link": "https://www.google.com/search?q=Solar+energy&stick=H4sIAAAAAAAAAONgFuLQz9U3MEvLKFaCsCqSUrT4nPNzc_PzgjNTUssTK4sXsfIE5-ckFimk5qUWpVfuYGUEAFtTDu84AAAA&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQxA0wJHoECBgQCQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Hydropower",
+        "link": "https://www.google.com/search?q=Hydropower&stick=H4sIAAAAAAAAAONgFuLQz9U3MEvLKFYCs4zz0nK0-Jzzc3Pz84IzU1LLEyuLF7FyeVSmFOUX5JenFu1gZQQAJFUrTDYAAAA&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQxA0wJHoECBgQCw",
+        "source": "common",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAEgASAMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAAABQECBAMG/8QAMxAAAQMDAwIDBgQHAAAAAAAAAQACAwQFERIhMUFRE2HRFCIycZGhgbHB4QYVIzNCUnL/xAAZAQADAQEBAAAAAAAAAAAAAAABAgMABAX/xAAfEQACAgIDAQEBAAAAAAAAAAAAAQIDERMSMVEhQRT/2gAMAwEAAhEDEQA/APM7oWD+ZxHiOUj/AJHqgXOI8Ryn5N/dd+yHpDi/Dfko/FLjchnDKeRx7Hb1XJ9zn1aW0pz2Oon8kN0PQ8GNs+ajKSm4VxdpEIB7eGcq01VcYZDG+Iah/q3UPqNku+BtbHGUZSZ9wqhI4BmG8jVHugXCp0k6eBn+2fVb+iAdbHGVKTe21LSQ3cZPLOyEN8Ta2aKRrHiYN5LcYcSVxhAbOwOjcCHb5yU6uVRaae4tjpqOsBbsdU7dOckbnTx+C03GKlgog9tFHPPJIHAeKctGDtnbbfsvI3dLHZ6Or5nPR5+shLJnER5DjqaRwrTxOkka9sYcJAMbDY8J7b6+CMsqhTUpexrgI3xl4B494OJ/RZbZeKilrAZYIIZoXamCOIDvvvnKG2TzhG1RX6Lp4ZPGjeIw5ryOBuCukdHUSXFvs8T5S/LsNBJx1GPJOY7hUNqHVNUXCpc4yxPaGtHfIwB6rGam6UtSJTVSvE4y2QuOphd0+Sysm/wOuKNNntdfXyyDQ50UTgJJMYa0HglMqj+HYonkS1UB9/SMmTcH/L4ePv5LDA+6RSRyPllJ66nudvjG5PKbyVL6iJvi/EAuaVt3P4/heNVePoqbaog6ZgqIgGkjYv8Afxxjbr0zjzwhNYTFHGTJjVlC6NthF0w9E1qpGVIkdKwPzscjkHogUb6auZTyEvjyDGT1b2PyXtLfZYaIO94EHp2V6u3UUob4oOWnILTghT5ZL8MI8RdbW4v9pgBGRpmb37O+fRMprL7dTxStb/UaMtcPuF6V0tLEMNY36LNLcG6dLAAFRcn0I1FdswOs7aihjp5RgsA0u6tIHK7tt1PHHGJHBzmNA+yo+sJ6rPJUuJ5TqmTFdkV0a3iIdAs8jo+yyumPdcnSEq8aESleXmAd1QuJehWVZB2D6W4vdwVmkrHHkpT457oMvcqKoSLO/JtknJ5XB0qzF/mql2eqvGvBF2ZNBkVS9Z8+aNSdRJ8jsXKhcVXUoJyUyQMklyFRCOBSgO3xK2fNQhBIZk5UIQiKSCjKEIpAJBUaghCICM+aEIRMf//Z"
+      },
+      {
+        "name": "Solar power",
+        "link": "https://www.google.com/search?q=Solar+power&stick=H4sIAAAAAAAAAONgFuLQz9U3MEvLKFbiArFMSwwqU8q0-Jzzc3Pz84IzU1LLEyuLF7FyB-fnJBYpFOSXpxbtYGUEAG7f3kw5AAAA&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQxA0wJHoECBgQDQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?q=Renewable+energy&stick=H4sIAAAAAAAAAONgFuLQz9U3MEvLKFaCs7SEs5Ot9JPzc3Pz86yKM1NSyxMrixexCgSl5gGZSTmpCkBGUXrlDlZGAJpWJFFBAAAA&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQMSgAMCR6BAgYEAE",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLQz9U3MEvLKFaCs7SEs5Ot9JPzc3Pz86yKM1NSyxMrixexCgSl5gGZSTmpCkBGUXrlDlZGAJpWJFFBAAAA",
+    "see_more_about": [
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      }
+    ]
+  },
+  "top_stories": [
+    {
+      "title": "U.S. Companies Fuel Europe’s Green-Energy Push",
+      "link": "https://www.wsj.com/articles/u-s-companies-fuel-europes-green-energy-push-11579437000",
+      "source": "The Wall Street Journal",
+      "date": "1 day ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLW8WGeQEPbB7NAUyYEF9RLivEJeWa6lOaKKx5MBAemKI4ho2xGnLYxVF9bfEShiiwudPig&usqp=CAI&s"
+    },
+    {
+      "title": "Could renewable energy, wind energy, concentrated solar power and PV, overcome coal in China?",
+      "link": "https://www.evwind.es/2020/01/20/could-renewable-energy-wind-energy-concentrated-solar-power-and-pv-overcome-coal-in-china/73141",
+      "source": "Evwind",
+      "date": "15 hours ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1aVIa1CZ3vdNVM_kZMxBTn5eF9AOX-BVVcInCMEKnYrQZafPNxcrA7bMpGYZgJcM5U6Amg&usqp=CAI&s"
+    },
+    {
+      "title": "Saudi Arabia joins club of Middle East's 'green energy' leaders",
+      "link": "https://www.oilandgas360.com/saudi-arabia-joins-club-of-middle-easts-green-energy-leaders/",
+      "source": "Oil & Gas 360",
+      "date": "18 hours ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSelp05375-0e2TTI9MpQuoAuRja6si1YjhZoxP6LgAyucmFrN3xxKDtIwi17WVvzZEpH8OOA&usqp=CAI&s"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=is+solar+energy+renewable&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQt8YBKAF6BAgEEA4",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=is+solar+energy+renewable&tbm=nws&token=c9a57c5cd614c7e6",
+  "related_questions": [
+    {
+      "question": "Is solar energy the best renewable resource?",
+      "snippet": "Solar energy is a good alternative to replace fossil fuel as the major energy source because solar power is renewable at absolutely no cost to supply energy infinitely. ... Solar panels are able to harness the energy from the sun and convert it to electricity.",
+      "title": "Why Solar Energy is Good? - Go-Green.ae",
+      "link": "https://www.go-green.ae/greenstory_view.php?storyid=1044",
+      "displayed_link": "www.go-green.ae › greenstory_view"
+    },
+    {
+      "question": "What type of energy is solar energy?",
+      "snippet": "Solar energy is a renewable resource. It is derived from the sun's rays. Solar energy is converted directly to electricity through solar photovoltaic panels. Solar rays, collected off reflective surfaces, heat an object in a process that creates solar thermal energy.",
+      "title": "Solar | PHMC > Energy Resources",
+      "link": "http://www.phmc.state.pa.us/portal/communities/energy/solar.html",
+      "displayed_link": "www.phmc.state.pa.us › portal › communities › energy › solar"
+    },
+    {
+      "question": "Why Solar energy is the cleanest form of energy?",
+      "snippet": "Solar energy - a clean source No greenhouse gas emissions are released into the atmosphere when you use solar panels to create electricity. And because the sun provides more energy than we'll ever need, electricity from solar power is a very important energy source in the move to clean energy production.",
+      "title": "Solar energy - facts and advantages about solar power | Fortum",
+      "link": "https://www.fortum.com/about-us/our-company/our-energy-production/solar-power-unlimited-source-energy",
+      "displayed_link": "www.fortum.com › about-us › our-company › our-energy-production"
+    },
+    {
+      "question": "Is the sun's energy renewable?",
+      "snippet": "The United States currently relies heavily on coal, oil, and natural gas for its energy. ... In contrast, the many types of renewable energy resources-such as wind and solar energy-are constantly replenished and will never run out. Most renewable energy comes either directly or indirectly from the sun.",
+      "title": "Types of renewable energy - Renewable Energy World",
+      "link": "https://www.renewableenergyworld.com/types-of-renewable-energy/",
+      "displayed_link": "www.renewableenergyworld.com › types-of-renewable-energy"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Renewable energy target (RET) & alternate energy sources",
+    "link": "https://www.energymatters.com.au/components/renewable-energy/",
+    "snippet": "Solar energy is a renewable free source of energy that is sustainable and totally inexhaustible, unlike fossil fuels that are finite. It is also a non-polluting source of energy and it does not emit any greenhouse gases when producing electricity.",
+    "thumbnail": "data:image/png;base64,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"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Renewable energy target (RET) & alternate energy sources",
+      "link": "https://www.energymatters.com.au/components/renewable-energy/",
+      "displayed_link": "www.energymatters.com.au › components › renewable-energy",
+      "snippet": "Solar energy is a renewable free source of energy that is sustainable and totally inexhaustible, unlike fossil fuels that are finite. It is also a non-polluting source of energy and it does not emit any greenhouse gases when producing electricity.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Hd3onbgQm0wJ:https://www.energymatters.com.au/components/renewable-energy/+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Is Solar Energy Renewable or Nonrenewable? | EnergySage",
+      "link": "https://news.energysage.com/solar-energy-renewable-nonrenewable/",
+      "displayed_link": "news.energysage.com › solar-energy-renewable-nonrenewable",
+      "date": "Jun 24, 2019",
+      "snippet": "Solar energy is a renewable resource, and producing power with solar panels is a cost-effective alternative to fossil fuels like coal and natural ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:RTqyzy_8RQEJ:https://news.energysage.com/solar-energy-renewable-nonrenewable/+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Solar Energy - Solar Power | Green Mountain Energy",
+      "link": "https://www.greenmountainenergy.com/why-renewable-energy/renewable-energy-101/solar/",
+      "displayed_link": "www.greenmountainenergy.com › ... › Renewable Energy Sources",
+      "snippet": "Though it still accounts for only about 2 percent of total electricity generation in the United States, solar energy has proven itself as a viable form of renewable ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Ao5Qqc5Npo4J:https://www.greenmountainenergy.com/why-renewable-energy/renewable-energy-101/solar/+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "About Solar Energy | SEIA",
+      "link": "https://www.seia.org/initiatives/about-solar-energy",
+      "displayed_link": "www.seia.org › initiatives › about-solar-energy",
+      "snippet": "Solar power is energy from the sun that is converted into thermal or electrical energy. Solar energy is the cleanest and most abundant renewable energy source ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:veSbb4tMb6oJ:https://www.seia.org/initiatives/about-solar-energy+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "What is solar energy? - Renewable Energy World",
+      "link": "https://www.renewableenergyworld.com/types-of-renewable-energy/what-is-solar-energy/",
+      "displayed_link": "www.renewableenergyworld.com › types-of-renewable-energy › what-is...",
+      "snippet": "What Type of Energy is Solar? Solar panels convert the sun's light into usable solar energy using N-type and ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "oct": 7
+          },
+          "extensions": [
+            "Oct 7, 2015",
+            "Uploaded by U.S. Department of Energy"
+          ]
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Solar energy - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Solar_energy",
+      "displayed_link": "en.wikipedia.org › wiki › Solar_energy",
+      "snippet": "Solar energy is radiant light and heat from the Sun that is harnessed using a range of ever-evolving technologies such as solar heating, photovoltaics, solar thermal energy, solar architecture, molten salt power plants and artificial photosynthesis. It is an important source of renewable energy and its technologies are ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:g23B3Rg7jSUJ:https://en.wikipedia.org/wiki/Solar_energy+&cd=20&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Solar_energy+is+solar+energy+renewable&tbo=1&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQHzATegQIDBAJ"
+    },
+    {
+      "position": 7,
+      "title": "How Solar Fits Into the World of Renewable Energy | Vivint Solar",
+      "link": "https://www.vivintsolar.com/blog/how-solar-fits-into-the-world-of-renewable-energy",
+      "displayed_link": "www.vivintsolar.com › blog › how-solar-fits-into-the-world-of-renew...",
+      "date": "Jan 23, 2018",
+      "snippet": "There are two basic kinds of energy resources: finite and renewable. Learn how solar energy compares to other means of energy production on ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JtjOSQBpRVUJ:https://www.vivintsolar.com/blog/how-solar-fits-into-the-world-of-renewable-energy+&cd=21&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Which are the benefits of solar energy? | ACCIONA",
+      "link": "https://www.acciona.com/renewable-energy/solar-energy/",
+      "displayed_link": "www.acciona.com › renewable-energy › solar-energy",
+      "date": "Dec 26, 2017",
+      "snippet": "Did you know solar energy is suitable in areas isolated from the ... of human beings in the world from renewable energies such as solar.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:85c2TuGh-ZkJ:https://www.acciona.com/renewable-energy/solar-energy/+&cd=22&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.acciona.com/renewable-energy/solar-energy/+is+solar+energy+renewable&tbo=1&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQHzAVegQIBhAJ"
+    },
+    {
+      "position": 9,
+      "title": "Solar energy - IRENA",
+      "link": "https://www.irena.org/solar",
+      "displayed_link": "www.irena.org › solar",
+      "snippet": "Solar energy is used worldwide and is increasingly popular for generating ... Today, PV is one of the fastest-growing renewable energy technologies, and is ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gdczamGEODYJ:https://www.irena.org/solar+&cd=23&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "is solar energy renewable nonrenewable or inexhaustible",
+      "link": "https://www.google.com/search?q=is+solar+energy+renewable+nonrenewable+or+inexhaustible&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ1QIoAHoECBkQAQ"
+    },
+    {
+      "query": "advantages of solar energy",
+      "link": "https://www.google.com/search?q=advantages+of+solar+energy&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ1QIoAXoECBkQAg"
+    },
+    {
+      "query": "renewable energy",
+      "link": "https://www.google.com/search?q=renewable+energy&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ1QIoAnoECBkQAw"
+    },
+    {
+      "query": "solar energy pros and cons",
+      "link": "https://www.google.com/search?q=solar+energy+pros+and+cons&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ1QIoA3oECBkQBA"
+    },
+    {
+      "query": "how does solar energy work",
+      "link": "https://www.google.com/search?q=how+does+solar+energy+work&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ1QIoBHoECBkQBQ"
+    },
+    {
+      "query": "how is solar energy produced",
+      "link": "https://www.google.com/search?q=how+is+solar+energy+produced&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ1QIoBXoECBkQBg"
+    },
+    {
+      "query": "all about solar energy",
+      "link": "https://www.google.com/search?q=all+about+solar+energy&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ1QIoBnoECBkQBw"
+    },
+    {
+      "query": "solar energy background",
+      "link": "https://www.google.com/search?q=solar+energy+background&sa=X&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ1QIoB3oECBkQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=is+solar+energy+renewable&ei=ti8mXp28Jeab4-EP4o-duAI&start=10&sa=N&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ8NMDegQIExBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=is+solar+energy+renewable&ei=ti8mXp28Jeab4-EP4o-duAI&start=10&sa=N&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ8tMDegQIExAv",
+      "3": "https://www.google.com/search?q=is+solar+energy+renewable&ei=ti8mXp28Jeab4-EP4o-duAI&start=20&sa=N&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ8tMDegQIExAx",
+      "4": "https://www.google.com/search?q=is+solar+energy+renewable&ei=ti8mXp28Jeab4-EP4o-duAI&start=30&sa=N&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ8tMDegQIExAz",
+      "5": "https://www.google.com/search?q=is+solar+energy+renewable&ei=ti8mXp28Jeab4-EP4o-duAI&start=40&sa=N&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ8tMDegQIExA1",
+      "6": "https://www.google.com/search?q=is+solar+energy+renewable&ei=ti8mXp28Jeab4-EP4o-duAI&start=50&sa=N&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ8tMDegQIExA3",
+      "7": "https://www.google.com/search?q=is+solar+energy+renewable&ei=ti8mXp28Jeab4-EP4o-duAI&start=60&sa=N&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ8tMDegQIExA5",
+      "8": "https://www.google.com/search?q=is+solar+energy+renewable&ei=ti8mXp28Jeab4-EP4o-duAI&start=70&sa=N&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ8tMDegQIExA7",
+      "9": "https://www.google.com/search?q=is+solar+energy+renewable&ei=ti8mXp28Jeab4-EP4o-duAI&start=80&sa=N&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ8tMDegQIExA9",
+      "10": "https://www.google.com/search?q=is+solar+energy+renewable&ei=ti8mXp28Jeab4-EP4o-duAI&start=90&sa=N&ved=2ahUKEwid77DsopPnAhXmzTgGHeJHBycQ8tMDegQIExA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=is+solar+energy+renewable&start=10&token=b66d192a6634e9f6",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=is+solar+energy+renewable&start=10&token=b66d192a6634e9f6",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=is+solar+energy+renewable&start=10&token=b66d192a6634e9f6",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=is+solar+energy+renewable&start=20&token=c7c9113d103fd948",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=is+solar+energy+renewable&start=30&token=eb4eb496563d792d",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=is+solar+energy+renewable&start=40&token=2d98264767731931",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=is+solar+energy+renewable&start=50&token=a955aa0b48108a6e",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=is+solar+energy+renewable&start=60&token=3e2bf21a65117d87",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=is+solar+energy+renewable&start=70&token=c1bd7deb5c9453c8",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=is+solar+energy+renewable&start=80&token=835e20cff234c3e3",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=is+solar+energy+renewable&start=90&token=f2f333b056aa35d5"
+    }
+  }
+}

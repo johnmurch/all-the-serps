@@ -1,0 +1,282 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 19:27:58 UTC",
+    "processed_at": "2020-01-21 19:27:58 UTC",
+    "google_url": "https://www.google.com/search?q=job+market&oq=job+market&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 1.8
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "job market",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 5780000000,
+    "time_taken_displayed": 0.58,
+    "query_displayed": "job market"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "bottom",
+      "title": "Post Jobs for Free | The Smartest Way to Hire‎",
+      "link": "https://www.ziprecruiter.com/post-a-job",
+      "displayed_link": "www.ziprecruiter.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwi7hvO-tpXnAhWXFY8KHZDUC24YABAAGgJzYg&sig=AOD64_1jkKotoD5WmPFR-iegZ3OyJ6Xqjg&q=&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ0Qx6BAgUEAE&adurl=",
+      "description": "Post Jobs & Find Qualified Candidates Fast. Hire Now. Start Your Free Trial With ZipRecruiter. Chat Support Available. Search Jobs. Services: Job Boards, Post Jobs, Find Candidates.",
+      "sitelinks": [
+        {
+          "title": "Search Resumes",
+          "link": "http://www.ziprecruiter.com/resume-database/search"
+        },
+        {
+          "title": "Post a Job Now",
+          "link": "http://www.ziprecruiter.com/post-a-job"
+        },
+        {
+          "title": "Explore Features",
+          "link": "http://www.ziprecruiter.com/features"
+        }
+      ]
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Labour economics",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "description": "Labour economics seeks to understand the functioning and dynamics of the markets for wage labour. Labour is a commodity that supplied by labourers in exchange for a wage paid by demanding firms.\nLabour markets or job markets function through the interaction of workers and employers.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Labour_economics"
+    },
+    "people_also_search_for": [
+      {
+        "name": "Agriculture",
+        "link": "https://www.google.com/search?q=Agriculture&stick=H4sIAAAAAAAAAONgFuLQz9U3MMm1SFZiB7EystO0-Jzzc3Pz84IzU1LLEyuLF7FyO6YXZSaX5pSUFqXuYGUEAAZTFS02AAAA&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQxA0wGnoECA8QBQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Entrepreneurship",
+        "link": "https://www.google.com/search?q=Entrepreneurship&stick=H4sIAAAAAAAAAONgFuLQz9U3MMm1SFYCs4zyygu1-Jzzc3Pz84IzU1LLEyuLF7EKuOaVFKUWFKXmpZYWFWdkFuxgZQQAG5VBlzwAAAA&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQxA0wGnoECA8QBw",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Economics",
+        "link": "https://www.google.com/search?q=Economics&stick=H4sIAAAAAAAAAONgFuLQz9U3MMm1SFYCs4yyzIy0-Jzzc3Pz84IzU1LLEyuLF7Fyuibn5-XnZiYX72BlBAAwH0LpNQAAAA&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQxA0wGnoECA8QCQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Macroeconomics",
+        "link": "https://www.google.com/search?q=Macroeconomics&stick=H4sIAAAAAAAAAONgFuLQz9U3MMm1SFaCsIrSzLT4nPNzc_PzgjNTUssTK4sXsfL5JiYX5acm5-fl52YmF-9gZQQAu3RJkDoAAAA&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQxA0wGnoECA8QCw",
+        "source": "common",
+        "image": "data:image/png;base64,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"
+      },
+      {
+        "name": "Business",
+        "link": "https://www.google.com/search?q=Business&stick=H4sIAAAAAAAAAONgFuLQz9U3MMm1SFbi1k_XNzQyqLTIsTDU4nPOz83NzwvOTEktT6wsXsTK4VRanJmXWly8g5URAB1wDNw3AAAA&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQxA0wGnoECA8QDQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?q=Labour+economics&stick=H4sIAAAAAAAAAONgFuLQz9U3MMm1SFaCs7SEs5Ot9JPzc3Pz86yKM1NSyxMrixexCvgkJuWXFimkJufn5edmJhfvYGUEAIu1hA1BAAAA&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQMSgAMBp6BAgPEAE",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLQz9U3MMm1SFaCs7SEs5Ot9JPzc3Pz86yKM1NSyxMrixexCvgkJuWXFimkJufn5edmJhfvYGUEAIu1hA1BAAAA"
+  },
+  "top_stories": [
+    {
+      "title": "Top cloud computing trends impacting IT job market",
+      "link": "https://www.techrepublic.com/article/top-cloud-computing-trends-impacting-it-job-market/",
+      "source": "TechRepublic",
+      "date": "4 hours ago",
+      "thumbnail": "data:image/jpeg;base64,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"
+    },
+    {
+      "title": "Sterling vs Euro Rises as UK Job Market Outperforms",
+      "link": "https://www.poundsterlingforecast.com/2020/01/sterling-vs-euro-rises-as-uk-job-market-outperforms/",
+      "source": "Pound Sterling Forecast",
+      "date": "9 hours ago",
+      "thumbnail": "data:image/jpeg;base64,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"
+    },
+    {
+      "title": "Axios Markets - January 21, 2020",
+      "link": "https://www.axios.com/newsletters/axios-markets-ba601a35-f8ab-4dd4-9efc-b270c2b351c2.html",
+      "source": "Axios",
+      "date": "6 hours ago",
+      "thumbnail": "data:image/jpeg;base64,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"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=job+market&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQt8YBKAF6BAgEEBI",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+market&tbm=nws&token=54377d531fb28914",
+  "related_questions": [
+    {
+      "question": "What job market means?",
+      "snippet": "The job market is the market in which employers search for employees and employees search for jobs. ... The job market can grow or shrink depending on the demand for labor and the available supply of workers within the overall economy.Sep 1, 2019",
+      "title": "Job Market Definition - Investopedia",
+      "link": "https://www.investopedia.com/terms/j/job-market.asp",
+      "displayed_link": "www.investopedia.com › terms › job-market"
+    },
+    {
+      "question": "What jobs will be in demand in 2019?",
+      "snippet": "Here are the most in-demand jobs for 2019Application software developer. Annual median salary: $101,790. ... Medical services manager. Annual median salary: $98,350. ... Registered nurse. Annual median salary: $70,000. ... Medical technologist. Annual median salary: $51,770. ... Construction laborer. Annual median salary: $34,350. ... Nursing assistant. ... Home health aide.Jan 24, 2019",
+      "title": "Here are the most in-demand jobs for 2019 - CNBC.com",
+      "link": "https://www.cnbc.com/2019/01/24/here-are-the-most-in-demand-jobs-for-2019.html",
+      "displayed_link": "www.cnbc.com › 2019/01/24 › here-are-the-most-in-demand-jobs-for-2..."
+    },
+    {
+      "question": "Why is the job market important?",
+      "snippet": "Why it matters: Wage and salary levels set by the job market are an important indicator for analysts and economic policy makers. More important, the job market fosters economic productivity by creating jobs and cycling money through the economy via wages and salaries.Jun 6, 2019",
+      "title": "Job Market Definition & Example | InvestingAnswers",
+      "link": "https://investinganswers.com/dictionary/j/job-market",
+      "displayed_link": "investinganswers.com › dictionary › job-market"
+    },
+    {
+      "question": "What is the best definition of jobs in the hidden job market?",
+      "snippet": "Hidden job market definition Hidden job market refers to describe jobs which are not publicly advertised by the employer. ... Employers may choose a hidden market method to reduce the cost of advertised posts and trim the time involved in the finding/hiring process.",
+      "title": "What is Hidden Job Market? | TalentLyft",
+      "link": "https://www.talentlyft.com/en/resources/what-is-hidden-job-market",
+      "displayed_link": "www.talentlyft.com › resources › what-is-hidden-job-market"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Job Market Definition - Investopedia",
+      "link": "https://www.investopedia.com/terms/j/job-market.asp",
+      "displayed_link": "www.investopedia.com › Investing › Markets",
+      "date": "Sep 1, 2019",
+      "snippet": "A job market is a market in which employers search for employees and employees search for jobs. It alludes to the competition and interplay ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LHLGYvmWsr4J:https://www.investopedia.com/terms/j/job-market.asp+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Job Market - News about Jobs in Demand and the Job Outlook",
+      "link": "https://www.recruiter.com/job-market.html",
+      "displayed_link": "www.recruiter.com › job-market",
+      "snippet": "Job Market Resources. The job market changes rapidly, both on a local and national level. National employment news consists of the unemployment rate, trends in particular industries, and careers in unusually high or projected demand.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:od_9r2EUx90J:https://www.recruiter.com/job-market.html+&cd=16&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.recruiter.com/job-market.html+job+market&tbo=1&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQHzAPegQICxAJ"
+    },
+    {
+      "position": 3,
+      "title": "Dire Predictions For The Job Market In 2020 - Forbes",
+      "link": "https://www.forbes.com/sites/jackkelly/2019/12/16/dire-predictions-for-the-job-market-in-2020/",
+      "displayed_link": "www.forbes.com › sites › jackkelly › 2019/12/16 › dire-predictions-f...",
+      "date": "Dec 16, 2019",
+      "snippet": "The start of 2020 will continue the current trends that we are witnessing right now, including the slow and steady ascension of technology, ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:B-T32Y3Pe2cJ:https://www.forbes.com/sites/jackkelly/2019/12/16/dire-predictions-for-the-job-market-in-2020/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "The job market is so good, new hires aren't showing up for ...",
+      "link": "https://www.cnn.com/2019/09/16/success/ghosting-first-day-of-work/index.html",
+      "displayed_link": "www.cnn.com › 2019/09/16 › success › ghosting-first-day-of-work",
+      "date": "Sep 16, 2019",
+      "snippet": "The labor market is going strong, and job candidates have plenty of opportunities to choose from. So much so that some are bailing on their ..."
+    },
+    {
+      "position": 5,
+      "title": "The Top 5 Reasons Why the 2019 Job Market Will Be Even ...",
+      "link": "https://www.ziprecruiter.com/blog/2019-job-market-strength/",
+      "displayed_link": "www.ziprecruiter.com › Home › Job Market Insights",
+      "snippet": "There's no doubt 2018 was one of the best job markets in history. But these five trends point to the 2019 job market being even better.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8bJhobQlDggJ:https://www.ziprecruiter.com/blog/2019-job-market-strength/+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "How a Strong Job Market Has Proved the Experts Wrong - The ...",
+      "link": "https://www.nytimes.com/2019/12/06/upshot/jobs-report-economic-growth-potential-inflation.html",
+      "displayed_link": "www.nytimes.com › jobs-report-economic-growth-potential-inflation",
+      "date": "Dec 6, 2019",
+      "snippet": "Conventional wisdom seems to have been too pessimistic about how much the economy could grow before setting off inflation. In hindsight, a ..."
+    },
+    {
+      "position": 7,
+      "title": "Job Market | Definition of Job Market by Merriam-Webster",
+      "link": "https://www.merriam-webster.com/dictionary/job%20market",
+      "displayed_link": "www.merriam-webster.com › dictionary › job market",
+      "snippet": "Job market definition is - the number of jobs that are available for workers.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LZlugiu-PV8J:https://www.merriam-webster.com/dictionary/job%2520market+&cd=21&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.merriam-webster.com/dictionary/job%2520market+job+market&tbo=1&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQHzAUegQIBxAJ"
+    },
+    {
+      "position": 8,
+      "title": "Job Market Surges As Employers Add 266,000 Jobs In ... - NPR",
+      "link": "https://www.npr.org/2019/12/06/785334356/job-market-surges-as-employers-add-266-000-jobs-in-november",
+      "displayed_link": "www.npr.org › 2019/12/06 › job-market-surges-as-employers-add-266-...",
+      "date": "Dec 6, 2019",
+      "snippet": "U.S. employers added a better-than-expected number of jobs last month, boosted in part by the return of General Motors workers who had been ..."
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "job market trends",
+      "link": "https://www.google.com/search?q=job+market+trends&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ1QIoAHoECBYQAQ"
+    },
+    {
+      "query": "job market example",
+      "link": "https://www.google.com/search?q=job+market+example&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ1QIoAXoECBYQAg"
+    },
+    {
+      "query": "job market 2019",
+      "link": "https://www.google.com/search?q=job+market+2019&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ1QIoAnoECBYQAw"
+    },
+    {
+      "query": "job market news",
+      "link": "https://www.google.com/search?q=job+market+news&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ1QIoA3oECBYQBA"
+    },
+    {
+      "query": "job market in india",
+      "link": "https://www.google.com/search?q=job+market+in+india&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ1QIoBHoECBYQBQ"
+    },
+    {
+      "query": "i am on the job market meaning",
+      "link": "https://www.google.com/search?q=i+am+on+the+job+market+meaning&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ1QIoBXoECBYQBg"
+    },
+    {
+      "query": "job market trends 2019",
+      "link": "https://www.google.com/search?q=job+market+trends+2019&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ1QIoBnoECBYQBw"
+    },
+    {
+      "query": "job market today",
+      "link": "https://www.google.com/search?q=job+market+today&sa=X&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ1QIoB3oECBYQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=job+market&ei=v1AnXpukFNiO4-EPyuuxsAY&start=10&sa=N&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ8NMDegQIFRBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=job+market&ei=v1AnXpukFNiO4-EPyuuxsAY&start=10&sa=N&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ8tMDegQIFRAu",
+      "3": "https://www.google.com/search?q=job+market&ei=v1AnXpukFNiO4-EPyuuxsAY&start=20&sa=N&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ8tMDegQIFRAw",
+      "4": "https://www.google.com/search?q=job+market&ei=v1AnXpukFNiO4-EPyuuxsAY&start=30&sa=N&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ8tMDegQIFRAy",
+      "5": "https://www.google.com/search?q=job+market&ei=v1AnXpukFNiO4-EPyuuxsAY&start=40&sa=N&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ8tMDegQIFRA0",
+      "6": "https://www.google.com/search?q=job+market&ei=v1AnXpukFNiO4-EPyuuxsAY&start=50&sa=N&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ8tMDegQIFRA2",
+      "7": "https://www.google.com/search?q=job+market&ei=v1AnXpukFNiO4-EPyuuxsAY&start=60&sa=N&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ8tMDegQIFRA4",
+      "8": "https://www.google.com/search?q=job+market&ei=v1AnXpukFNiO4-EPyuuxsAY&start=70&sa=N&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ8tMDegQIFRA6",
+      "9": "https://www.google.com/search?q=job+market&ei=v1AnXpukFNiO4-EPyuuxsAY&start=80&sa=N&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ8tMDegQIFRA8",
+      "10": "https://www.google.com/search?q=job+market&ei=v1AnXpukFNiO4-EPyuuxsAY&start=90&sa=N&ved=2ahUKEwjb_-2-tpXnAhVYxzgGHcp1DGYQ8tMDegQIFRA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+market&start=10&token=283dd0832f0387ce",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+market&start=10&token=283dd0832f0387ce",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+market&start=10&token=283dd0832f0387ce",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+market&start=20&token=7ca88e598b914f35",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+market&start=30&token=b6b0732b94b69cb2",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+market&start=40&token=d41af98ed97057e7",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+market&start=50&token=21680903809d83a1",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+market&start=60&token=40d3d9ddcf376119",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+market&start=70&token=e5a379dcc400e627",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+market&start=80&token=7b906fba365a8774",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+market&start=90&token=f9229580c5a1f154"
+    }
+  }
+}

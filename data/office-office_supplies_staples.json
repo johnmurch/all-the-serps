@@ -1,0 +1,381 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:44:20 UTC",
+    "processed_at": "2020-01-21 22:44:20 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+staples&oq=office+supplies+staples&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.51
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies staples",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 57000000,
+    "time_taken_displayed": 0.44,
+    "query_displayed": "office supplies staples"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Staples® Office Supplies | Get $15 Off $60 W/ Code 25605‎",
+      "link": "https://www.staples.com/Office-Supplies/cat_SC1",
+      "displayed_link": "www.staples.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiGh_6w4pXnAhXKIysKHfrJDwUYABAAGgJzZg&sig=AOD64_3ld-4bzAGj0cQVPernG3f0zKKY2A&q=&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ0Qx6BAgQEAE&adurl=",
+      "description": "Staples is Helping Businesses of All Sizes Be More Productive, Connected and Inspired. Staples Provides Custom Solutions To Help Organizations Achieve Their Goals.",
+      "deal": [
+        "$15 off Online Orders $60+",
+        "Code 25605",
+        "Valid Jan 20",
+        "Jan 24"
+      ],
+      "sitelinks": [
+        {
+          "title": "Weekly Ad",
+          "link": "http://weeklyad.staples.com/StaplesSD/WeeklyAd#!/"
+        },
+        {
+          "title": "The Loop",
+          "link": "https://www.staples.com/theloop"
+        },
+        {
+          "title": "Next Day Delivery On $35+",
+          "link": "https://www.staples.com/deals/Next-Day-Delivery/BI1484954"
+        },
+        {
+          "title": "About Us",
+          "link": "https://www.staples.com/sbd/cre/marketing/about_us/index.html"
+        },
+        {
+          "title": "$15 Off On Orders $60+",
+          "link": "https://www.staples.com/deals/Coupon-Details/BI1870517"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Office Home & Student 2019Office Home & Student 2019Office Home & Student 2019",
+      "price": "$149.99",
+      "extracted_price": 149.99,
+      "link": "https://www.microsoft.com/en-us/p/office-home--student-2019/CFQ7TTC0K7C8/0002?source=googleshopping",
+      "source": "Microsoft Store",
+      "rating": 4.5,
+      "reviews": 72,
+      "thumbnail": "data:image/webp;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 2,
+      "title": "Staples Mutiuse - 8 Ream/Carton Multipurpose Paper - 8.5\" X 11\", 20 Lbs., 94 Brightness - Multipurpose Paper, 500/Ream (26860-Cc) - At StaplesStaples Mutiuse - 8 Ream/Carton Multipurpose Paper - 8.5\" X 11\", 20 Lbs., 94 Brightness - Multipurpose Paper, 500/Ream (26860-Cc) - At StaplesStaples Mutiuse - 8 Ream/Carton Multipurpose Paper - 8.5\" X 11\", 20 Lbs., 94 Brightness - Multipurpose Paper, 500/Ream (26860-Cc) - At Staples",
+      "price": "$29.99",
+      "extracted_price": 29.99,
+      "link": "https://www.staples.com/Staples-Multiuse-Copy-Paper-8-1-2-x-11-8-Ream-Case/product_1149611",
+      "source": "Staples",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 3,
+      "title": "HP 952XL - Black Ink Cartridges, 4-Pack - High Yield - (N9K28An) - At StaplesHP 952XL - Black Ink Cartridges, 4-Pack - High Yield - (N9K28An) - At StaplesHP 952XL - Black Ink Cartridges, 4-Pack - High Yield - (N9K28An) - At Staples",
+      "price": "$113.99",
+      "extracted_price": 113.99,
+      "link": "https://www.staples.com/HP-952XL-High-Yield-Black-952-C-M-Y-Color-Ink-Cartridges-N9K28AN-140-Combo-4-Pack/product_2030289",
+      "source": "Staples",
+      "rating": 4.6,
+      "reviews": 3000,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+staples&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36384309,-95968201,36813&tbm=lcl&sa=X&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQtgN6BAgLEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 36.384309,
+      "longitude": -95.968201,
+      "altitude": 36813
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+staples&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36384309,-95968201,36813&tbm=lcl&sa=X&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQjGp6BAgLEC0",
+    "places": [
+      {
+        "position": 1,
+        "title": "Staples",
+        "place_id": "12742591058458555886",
+        "lsig": "AB86z5WAdVwqFbc7Q2Qz-MPjvT5p",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WAdVwqFbc7Q2Qz-MPjvT5p&ludocid=12742591058458555886&q=office+supplies+staples&tbm=lcl&token=e916b89aa9097564",
+        "rating": "A",
+        "links": {
+          "website": "https://stores.staples.com/ok/tulsa/2711-south-harvard?cmpid=st_ll_goo&cid=LS:RETAIL:G",
+          "directions": "https://www.google.com/maps/dir//Staples,+2711+S+Harvard+Ave,+Tulsa,+OK+74114/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87b6ed29b687480d:0xb0d6c70df57db5ee?sa=X"
+        },
+        "address": "Tulsa, OK",
+        "hours": "Open ⋅ Closes 8PM",
+        "gps_coordinates": {
+          "latitude": 36.123883299999996,
+          "longitude": -95.9394748
+        }
+      },
+      {
+        "position": 2,
+        "title": "Staples",
+        "place_id": "3840119617244773416",
+        "lsig": "AB86z5UPiXj4rBmYuHAJj0O1K3Eu",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UPiXj4rBmYuHAJj0O1K3Eu&ludocid=3840119617244773416&q=office+supplies+staples&tbm=lcl&token=2068523956020f3d",
+        "rating": "B",
+        "links": {
+          "website": "https://stores.staples.com/ok/bartlesville/2400-se-washington-blvd?cmpid=st_ll_goo&cid=LS:RETAIL:G",
+          "directions": "https://www.google.com/maps/dir//Staples,+2400+SE+Washington+Blvd,+Bartlesville,+OK+74006/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87b71186a88f1e89:0x354ad87230e23c28?sa=X"
+        },
+        "address": "Bartlesville, OK",
+        "hours": "Open ⋅ Closes 8PM",
+        "gps_coordinates": {
+          "latitude": 36.714475,
+          "longitude": -95.93451499999999
+        }
+      },
+      {
+        "position": 3,
+        "title": "Staples",
+        "place_id": "3190991170400678929",
+        "lsig": "AB86z5Vi-X0dayJhDkQJJSN4jud9",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Vi-X0dayJhDkQJJSN4jud9&ludocid=3190991170400678929&q=office+supplies+staples&tbm=lcl&token=47b00bc089ba8721",
+        "rating": "C",
+        "links": {
+          "website": "https://stores.staples.com/ok/tulsa/7521-s-olympia-avenue-west?cmpid=st_ll_goo&cid=LS:RETAIL:G",
+          "directions": "https://www.google.com/maps/dir//Staples,+7521+S+Olympia+Ave+W,+Tulsa,+OK+74132/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87b6952555555555:0x2c48ad901923f411?sa=X"
+        },
+        "phone": "In Tulsa Hills Shopping Center",
+        "address": ", Tulsa, OK",
+        "hours": "Open ⋅ Closes 8PM",
+        "gps_coordinates": {
+          "latitude": 36.0541445,
+          "longitude": -96.0018881
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "What do they sell at Staples?",
+      "snippet": "In addition to selling office supplies, business machines, and tech services, Staples also offers a copy and print center for photocopies, digital printing, faxing, custom business cards, custom rubber stamps, promotional products, binding, lamination, folding, cutting and engraved products.",
+      "title": "Staples Inc. - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Staples_Inc.",
+      "displayed_link": "https://en.wikipedia.org › wiki › Staples_Inc"
+    },
+    {
+      "question": "Can I scan documents at Staples?",
+      "snippet": "You can access the cloud, make copies, scan documents, send faxes, shred files and use the computer rental station at a Staples location. With a Staples store always nearby, we're your office on the go.",
+      "title": "Staples Copy & Print - Copy, Scan, Shred, Fax & Computer Rental ...",
+      "link": "https://www.staplescopyandprint.ca/OfficeOnTheGo.aspx",
+      "displayed_link": "https://www.staplescopyandprint.ca › OfficeOnTheGo"
+    },
+    {
+      "question": "Can you print photos at Staples?",
+      "snippet": "Online Photo Printing. Get photo Prints at Staples Print & Marketing. We offer same day service, premium prints on our best quality photo paper, enlargements, social prints, and panoramic photos.",
+      "title": "Staples Photo Printing | Photo Printing Canada | Online Photo Printing",
+      "link": "https://www.staplescopyandprint.ca/PrintOnlineInfo/PhotoPrintsInfo.aspx",
+      "displayed_link": "https://www.staplescopyandprint.ca › PrintOnlineInfo › PhotoPrintsInfo"
+    },
+    {
+      "question": "Do staples still have stores?",
+      "snippet": "The US owner of Staples has sold the UK arm, which employs 1,100 people across 106 stores, to Hilco for a \"nominal\" sum. Hilco said it was planning to phase out Staples-branded shops over the coming months. Staples also has online and business-to-business operations.Nov 17, 2016",
+      "title": "Staples brand to disappear from UK High Streets - BBC News",
+      "link": "https://www.bbc.co.uk/news/business-38013806",
+      "displayed_link": "https://www.bbc.co.uk › news › business-38013806"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "STAPLES® Office Supplies and Office Products",
+      "link": "https://www.staples.com/Office-Supplies/cat_SC1",
+      "displayed_link": "https://www.staples.com › Office-Supplies › cat_SC1",
+      "snippet": "Start with Staples® and be an office superhero. Get everything from office supplies to exclusives including writing, filing and other popular office products.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Basics",
+            "link": "https://www.staples.com/Office-Basics/cat_CG1036"
+          },
+          {
+            "title": "Desk Organizers & Accessories",
+            "link": "https://www.staples.com/Desk-Organizers-Accessories/cat_CG22"
+          },
+          {
+            "title": "Writing Supplies",
+            "link": "https://www.staples.com/Writing-Supplies/cat_CG11"
+          },
+          {
+            "title": "Folders & Filing",
+            "link": "https://www.staples.com/Folders-Filing/cat_CG3539"
+          }
+        ]
+      }
+    },
+    {
+      "position": 2,
+      "title": "Have a Look at Our Shop All Office Supplies at Staples",
+      "link": "https://www.staples.com/deals/Shop-All-Office-Supplies/BI1584905",
+      "displayed_link": "https://www.staples.com › deals › Shop-All-Office-Supplies",
+      "snippet": "Visit Staples to check out our Shop All Office Supplies and get free shipping on select orders.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BbC5stTNUj8J:https://www.staples.com/deals/Shop-All-Office-Supplies/BI1584905+&cd=2&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Shop Our Selection of Staples Buy Online - Office Supplies at ...",
+      "link": "https://www.staples.com/Staples-Reserve-Online-Office-Supplies/cat_CL168018/006y1",
+      "displayed_link": "https://www.staples.com › cat_CL168018",
+      "snippet": "Browse Staples Buy Online - Office Supplies on sale, by desired features, or by customer ratings.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XyBJIrsRuTYJ:https://www.staples.com/Staples-Reserve-Online-Office-Supplies/cat_CL168018/006y1+&cd=3&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Staples® Official Online Store",
+      "link": "https://www.staples.com/",
+      "displayed_link": "https://www.staples.com",
+      "snippet": "Shop Staples for business essentials, printers, ink, computers, office furniture, printing services, promotional products and more. Solutions for Worklife.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Supplies",
+            "link": "https://www.staples.com/Office-Supplies/cat_SC1"
+          },
+          {
+            "title": "Small Office & Home Office ...",
+            "link": "https://www.staples.com/Small-Office-Home-Office-Furniture-Collections/cat_CL208484"
+          },
+          {
+            "title": "Printing & Marketing Services",
+            "link": "https://www.staples.com/services/printing/"
+          },
+          {
+            "title": "Pens",
+            "link": "https://www.staples.com/Pens/cat_CL110001"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CNR1OwZWsigJ:https://www.staples.com/+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Shop All Office Supplies | Staples",
+      "link": "https://www.staples.com/deals/Shop-All-Office-Supplies/BI1584905?supercategory=4953&bopis&icid=STAPLESBRANDSHOP:LINKBOX1:OFFICESUPPLIES5:WritingSupplies::::",
+      "displayed_link": "https://www.staples.com › deals › Shop-All-Office-Supplies › icid=STAPLES...",
+      "snippet": "Shop Shop All Office Supplies at Staples. Choose from our wide selection of Shop All Office Supplies and get fast & free shipping on select orders."
+    },
+    {
+      "position": 6,
+      "title": "Shop designer+office+supplies by Options, Prices ... - Staples",
+      "link": "https://www.staples.com/designer+office+supplies/directory_designer+office+supplies",
+      "displayed_link": "https://www.staples.com › designer+office+supplies › directory_designer+off...",
+      "snippet": "Browse designer+office+supplies on sale, by desired features, or by customer ratings."
+    },
+    {
+      "position": 7,
+      "title": "Staples® Store Locator | Find Staples Office Supply Stores ...",
+      "link": "https://stores.staples.com/search",
+      "displayed_link": "https://stores.staples.com › search",
+      "snippet": "Search for Staples® office supply stores in your area to find location hours, directions, addresses, phone numbers, promotions, features, events and services.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4OqR4A_G35AJ:https://stores.staples.com/search+&cd=18&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Office Supplies - Staples Advantage",
+      "link": "http://www.staplesadvantage.com/learn/products/office-supplies/office-supplies.html",
+      "displayed_link": "www.staplesadvantage.com › learn › products › office-supplies",
+      "snippet": "No information is available for this page.Learn why"
+    },
+    {
+      "position": 9,
+      "title": "Staples - Office Depot",
+      "link": "https://www.officedepot.com/a/browse/staples/N=5+658791/",
+      "displayed_link": "https://www.officedepot.com › ... › Basic Supplies › Staplers & Staples",
+      "snippet": "Find great deals on all your staple needs at Office Depot & OfficeMax. Shop online or in-store for staples & other office supplies today."
+    },
+    {
+      "position": 10,
+      "title": "Office Supplies Staples: Amazon.com",
+      "link": "https://www.amazon.com/slp/office-supplies-staples/dudqaw752bdc6fm",
+      "displayed_link": "https://www.amazon.com › slp › office-supplies-staples",
+      "snippet": "Buy products related to office supplies staples and see what customers say about office supplies staples on Amazon.com ✓ FREE DELIVERY possible on ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Zg3TLE77uFcJ:https://www.amazon.com/slp/office-supplies-staples/dudqaw752bdc6fm+&cd=21&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ1QIoAHoECA4QAQ"
+    },
+    {
+      "query": "staples locations",
+      "link": "https://www.google.com/search?q=staples+locations&sa=X&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ1QIoAXoECA4QAg"
+    },
+    {
+      "query": "office depot",
+      "link": "https://www.google.com/search?q=office+depot&sa=X&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ1QIoAnoECA4QAw"
+    },
+    {
+      "query": "staples advantage",
+      "link": "https://www.google.com/search?q=staples+advantage&sa=X&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ1QIoA3oECA4QBA"
+    },
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ1QIoBHoECA4QBQ"
+    },
+    {
+      "query": "staples deals",
+      "link": "https://www.google.com/search?q=staples+deals&sa=X&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ1QIoBXoECA4QBg"
+    },
+    {
+      "query": "staples coupons",
+      "link": "https://www.google.com/search?q=staples+coupons&sa=X&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ1QIoBnoECA4QBw"
+    },
+    {
+      "query": "office max",
+      "link": "https://www.google.com/search?q=office+max&sa=X&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ1QIoB3oECA4QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+staples&ei=xX4nXsmTErSe4-EP_9iGgA4&start=10&sa=N&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ8NMDegQIDxBC",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+staples&ei=xX4nXsmTErSe4-EP_9iGgA4&start=10&sa=N&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ8tMDegQIDxAw",
+      "3": "https://www.google.com/search?q=office+supplies+staples&ei=xX4nXsmTErSe4-EP_9iGgA4&start=20&sa=N&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ8tMDegQIDxAy",
+      "4": "https://www.google.com/search?q=office+supplies+staples&ei=xX4nXsmTErSe4-EP_9iGgA4&start=30&sa=N&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ8tMDegQIDxA0",
+      "5": "https://www.google.com/search?q=office+supplies+staples&ei=xX4nXsmTErSe4-EP_9iGgA4&start=40&sa=N&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ8tMDegQIDxA2",
+      "6": "https://www.google.com/search?q=office+supplies+staples&ei=xX4nXsmTErSe4-EP_9iGgA4&start=50&sa=N&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ8tMDegQIDxA4",
+      "7": "https://www.google.com/search?q=office+supplies+staples&ei=xX4nXsmTErSe4-EP_9iGgA4&start=60&sa=N&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ8tMDegQIDxA6",
+      "8": "https://www.google.com/search?q=office+supplies+staples&ei=xX4nXsmTErSe4-EP_9iGgA4&start=70&sa=N&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ8tMDegQIDxA8",
+      "9": "https://www.google.com/search?q=office+supplies+staples&ei=xX4nXsmTErSe4-EP_9iGgA4&start=80&sa=N&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ8tMDegQIDxA-",
+      "10": "https://www.google.com/search?q=office+supplies+staples&ei=xX4nXsmTErSe4-EP_9iGgA4&start=90&sa=N&ved=2ahUKEwiJiviw4pXnAhU0zzgGHX-sAeAQ8tMDegQIDxBA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+staples&start=10&token=2accbfe1f50785aa",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+staples&start=10&token=2accbfe1f50785aa",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+staples&start=10&token=2accbfe1f50785aa",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+staples&start=20&token=e5ee267ff3bb06c4",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+staples&start=30&token=968c645285953c6d",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+staples&start=40&token=a6157fdfb8bbe02a",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+staples&start=50&token=76b03371d12e5416",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+staples&start=60&token=f604bd2c02ccc79f",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+staples&start=70&token=1d5a0a0a3cbe1c78",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+staples&start=80&token=44d3eb0bc83ac63f",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+staples&start=90&token=2c3acc8ddb5131ae"
+    }
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 23:01:16 UTC",
+    "processed_at": "2020-01-21 23:01:16 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+baltimore&oq=office+supplies+baltimore&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 3.53
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies baltimore",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 108000000,
+    "time_taken_displayed": 0.49,
+    "query_displayed": "office supplies baltimore"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+baltimore&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=39323039,-76612222,4463&tbm=lcl&sa=X&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 39.323039,
+      "longitude": -76.612222,
+      "altitude": 4463
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+baltimore&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=39323039,-76612222,4463&tbm=lcl&sa=X&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQjGp6BAgLEEI",
+    "places": [
+      {
+        "position": 1,
+        "title": "Baltimore Office Supply Co",
+        "place_id": "11325411730947997939",
+        "lsig": "AB86z5Vkr27rw1AbkcTuSYdd2QMY",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Vkr27rw1AbkcTuSYdd2QMY&ludocid=11325411730947997939&q=office+supplies+baltimore&tbm=lcl&token=c3a74140dd16d028",
+        "rating": 5,
+        "reviews": 1,
+        "type": "Print shop",
+        "hours": "Closed ⋅ Opens 8:30AM Wed · (410) 539-5184",
+        "address": "Baltimore, MD",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 39.284011,
+          "longitude": -76.62451399999999
+        }
+      },
+      {
+        "position": 2,
+        "title": "Staples",
+        "place_id": "5651670610808893094",
+        "lsig": "AB86z5V3Ols9nCYyEGTLfDfSGUCX",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5V3Ols9nCYyEGTLfDfSGUCX&ludocid=5651670610808893094&q=office+supplies+baltimore&tbm=lcl&token=056128846bdd4154",
+        "rating": 3.9,
+        "reviews": 151,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (410) 323-6235",
+        "address": "Baltimore, MD",
+        "description": "Brand-name electronics & office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 39.362068,
+          "longitude": -76.609473
+        }
+      },
+      {
+        "position": 3,
+        "title": "dancker",
+        "place_id": "18432518198758507358",
+        "lsig": "AB86z5U0kg7U3BGq4X5R7zVnAAY1",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5U0kg7U3BGq4X5R7zVnAAY1&ludocid=18432518198758507358&q=office+supplies+baltimore&tbm=lcl&token=103f0d2f2d5784cc",
+        "rating": 4.8,
+        "reviews": 4,
+        "type": "Office furniture store",
+        "hours": "Closed ⋅ Opens 8:30AM Wed · (410) 547-8700",
+        "address": "Baltimore, MD",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 39.284627,
+          "longitude": -76.599931
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Top 10 Best Office Supply Store in Baltimore, MD - Last ...",
+      "link": "https://www.yelp.com/search?find_desc=office+supply+store&find_loc=Baltimore%2C+MD",
+      "displayed_link": "www.yelp.com › search › find_loc=Baltimore,+MD",
+      "snippet": "Reviews on Office Supply Store in Baltimore, MD - Office Depot, Geddes School ... Wholesale Stores, Office Equipment, Art Supplies. 7110 Belair Rd, Baltimore.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jVhL447ABoYJ:https://www.yelp.com/search%3Ffind_desc%3Doffice%2Bsupply%2Bstore%26find_loc%3DBaltimore%252C%2BMD+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Top 10 Best Office Supply Store near Inner Harbor, Baltimore ...",
+      "link": "https://www.yelp.com/search?find_desc=office+supply+store&find_loc=Inner+Harbor%2C+Baltimore%2C+MD",
+      "displayed_link": "www.yelp.com › Baltimore, MD › Inner Harbor",
+      "snippet": "Reviews on Office Supply Store in Inner Harbor, Baltimore, MD - Office Depot, ... “Pikesville office supply reminds me of how businesses used to be - - lots of ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CRcbYYxA9JAJ:https://www.yelp.com/search%3Ffind_desc%3Doffice%2Bsupply%2Bstore%26find_loc%3DInner%2BHarbor%252C%2BBaltimore%252C%2BMD+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Baltimore Office Supplies | OnTimeSupplies.com",
+      "link": "https://www.ontimesupplies.com/baltimore-office-supplies.html",
+      "displayed_link": "www.ontimesupplies.com › Local Warehouses",
+      "snippet": "Buy Baltimore Office Supplies -- get fast delivery or local pick up on more than 40000 discount office supplies at OnTimeSupplies.com your online local ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YzRYI_2wn7YJ:https://www.ontimesupplies.com/baltimore-office-supplies.html+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Office Supplies & Janitorial Products: Baltimore, MD - Guernsey",
+      "link": "https://www.buyguernsey.com/office-supplies/baltimore-md/",
+      "displayed_link": "www.buyguernsey.com › office-supplies › baltimore-md",
+      "snippet": "Located in Baltimore, MD. Guernsey Inc. outfits Baltimore area businesses with everything needed for the woring in the office, cleaning the office & breakrrom ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:niL3ZJpjOB4J:https://www.buyguernsey.com/office-supplies/baltimore-md/+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Staples® York Road, Baltimore, 21212 | Store Details",
+      "link": "https://stores.staples.com/md/baltimore/5835-york-road",
+      "displayed_link": "stores.staples.com › MD › Baltimore",
+      "snippet": "Visit this Baltimore Staples® for office supplies & furniture, school supplies, printers, ink & toner, copy paper, computers, technology, and more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QoENmMkndFcJ:https://stores.staples.com/md/baltimore/5835-york-road+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Best 30 Office Supply Stores in Baltimore, MD with Reviews ...",
+      "link": "https://www.yellowpages.com/baltimore-md/office-supply-stores",
+      "displayed_link": "www.yellowpages.com › Baltimore, MD",
+      "date": "172 results",
+      "snippet": "Office Supply Stores in Baltimore on YP.com. See reviews, photos, directions, phone numbers and more for the best Office Equipment & Supplies in ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cQM_MkbPyZUJ:https://www.yellowpages.com/baltimore-md/office-supply-stores+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Office Depot in BALTIMORE,MD - 1953 EAST JOPPA ROAD",
+      "link": "https://www.officedepot.com/storelocator/md/baltimore/office-depot-173/",
+      "displayed_link": "www.officedepot.com › storelocator › baltimore › office-depot-173",
+      "snippet": "Shop at the Office Depot Store in BALTIMORE,MD. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nJJ6vgr7tJoJ:https://www.officedepot.com/storelocator/md/baltimore/office-depot-173/+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Office Depot in BALTIMORE,MD - 6501 BALTIMORE NATL ...",
+      "link": "https://www.officedepot.com/storelocator/md/baltimore/office-depot-98/",
+      "displayed_link": "www.officedepot.com › storelocator › baltimore › office-depot-98",
+      "snippet": "Office Depot baltimore, MD Store #98 When you shop at my Office Depot® in Baltimore you'll enjoy low prices on office supplies and products, including everything from paper, ink and toner, to the latest technology, cleaning and breakroom supplies and more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IjZa75HblG4J:https://www.officedepot.com/storelocator/md/baltimore/office-depot-98/+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Office Products | Baltimore, MD - Sutherland Data Products LTD",
+      "link": "http://www.sutherlanddataproducts.com/Office-Products.html",
+      "displayed_link": "www.sutherlanddataproducts.com › Office-Products",
+      "snippet": "Find everything you need when you shop office products from Sutherland Data Products LTD. Based in Baltimore, MD, we also offer office furniture.",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:RIRxViHV-rAJ:www.sutherlanddataproducts.com/Office-Products.html+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Sutherland Data Products LTD: Office Supplies | Baltimore, MD",
+      "link": "http://www.sutherlanddataproducts.com/",
+      "displayed_link": "www.sutherlanddataproducts.com",
+      "snippet": "Sutherland Data Products LTD offers premium office supplies at competitive pricing. We provide service to Baltimore, MD, and surrounding areas.",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:5o8jC8P_2igJ:www.sutherlanddataproducts.com/+&cd=13&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:www.sutherlanddataproducts.com/+office+supplies+baltimore&tbo=1&sa=X&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQHzAMegQICBAH"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office depot",
+      "link": "https://www.google.com/search?q=office+depot&sa=X&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "staples",
+      "link": "https://www.google.com/search?q=staples&sa=X&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "office supply store near me",
+      "link": "https://www.google.com/search?q=office+supply+store+near+me&sa=X&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "office depot near me",
+      "link": "https://www.google.com/search?q=office+depot+near+me&sa=X&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "office depot baltimore",
+      "link": "https://www.google.com/search?q=office+depot+baltimore&sa=X&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ1QIoBnoECA0QBw"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+baltimore&ei=vIInXsvUMa6f4-EP4NqimAw&start=10&sa=N&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ8NMDegQIDhA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+baltimore&ei=vIInXsvUMa6f4-EP4NqimAw&start=10&sa=N&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ8tMDegQIDhAt",
+      "3": "https://www.google.com/search?q=office+supplies+baltimore&ei=vIInXsvUMa6f4-EP4NqimAw&start=20&sa=N&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ8tMDegQIDhAv",
+      "4": "https://www.google.com/search?q=office+supplies+baltimore&ei=vIInXsvUMa6f4-EP4NqimAw&start=30&sa=N&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ8tMDegQIDhAx",
+      "5": "https://www.google.com/search?q=office+supplies+baltimore&ei=vIInXsvUMa6f4-EP4NqimAw&start=40&sa=N&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ8tMDegQIDhAz",
+      "6": "https://www.google.com/search?q=office+supplies+baltimore&ei=vIInXsvUMa6f4-EP4NqimAw&start=50&sa=N&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ8tMDegQIDhA1",
+      "7": "https://www.google.com/search?q=office+supplies+baltimore&ei=vIInXsvUMa6f4-EP4NqimAw&start=60&sa=N&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ8tMDegQIDhA3",
+      "8": "https://www.google.com/search?q=office+supplies+baltimore&ei=vIInXsvUMa6f4-EP4NqimAw&start=70&sa=N&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ8tMDegQIDhA5",
+      "9": "https://www.google.com/search?q=office+supplies+baltimore&ei=vIInXsvUMa6f4-EP4NqimAw&start=80&sa=N&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ8tMDegQIDhA7",
+      "10": "https://www.google.com/search?q=office+supplies+baltimore&ei=vIInXsvUMa6f4-EP4NqimAw&start=90&sa=N&ved=2ahUKEwjLopaV5pXnAhWuzzgGHWCtCMMQ8tMDegQIDhA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+baltimore&start=10&token=6834287cbb997dff",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+baltimore&start=10&token=6834287cbb997dff",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+baltimore&start=10&token=6834287cbb997dff",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+baltimore&start=20&token=aec09862fccde58c",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+baltimore&start=30&token=d6d138ff959ee53a",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+baltimore&start=40&token=9358c8a9b3aaf55c",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+baltimore&start=50&token=7c75f264ca8748c4",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+baltimore&start=60&token=6969ddbf4008a357",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+baltimore&start=70&token=a104c6c4d853873d",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+baltimore&start=80&token=d3630e27cf07135e",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+baltimore&start=90&token=076f1c77c88c1363"
+    }
+  }
+}

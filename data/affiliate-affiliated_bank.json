@@ -1,0 +1,327 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 03:35:50 UTC",
+    "processed_at": "2020-01-21 03:35:50 UTC",
+    "google_url": "https://www.google.com/search?q=affiliated+bank&oq=affiliated+bank&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.69
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "affiliated bank",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 359000000,
+    "time_taken_displayed": 0.52,
+    "query_displayed": "affiliated bank"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=affiliated+bank&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=30144358,-96741851,101137&tbm=lcl&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQtgN6BAgJEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 30.144358,
+      "longitude": -96.741851,
+      "altitude": 101137
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=affiliated+bank&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=30144358,-96741851,101137&tbm=lcl&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQjGp6BAgJEDE",
+    "places": [
+      {
+        "position": 1,
+        "title": "Affiliated Bank",
+        "place_id": "17626560031954929326",
+        "lsig": "AB86z5VkZ2tm2FNqSYnY2dC9XDCV",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VkZ2tm2FNqSYnY2dC9XDCV&ludocid=17626560031954929326&q=affiliated+bank&tbm=lcl&token=bc220f8bec0b07ca",
+        "rating": "A",
+        "links": {
+          "website": "https://www.affiliatedbank.com/",
+          "directions": "https://www.google.com/maps/dir//Affiliated+Bank,+1750+Round+Rock+Ave+%23300,+Round+Rock,+TX+78681/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644d1f3cf22595f:0xf49e1ef5a4c586ae?sa=X"
+        },
+        "address": "Bank, Round Rock, TX",
+        "hours": "Closed ⋅ Opens 9AM Tue",
+        "gps_coordinates": {
+          "latitude": 30.512855000000002,
+          "longitude": -97.70420800000001
+        }
+      },
+      {
+        "position": 2,
+        "title": "Affiliated Bank Mortgage",
+        "place_id": "14727938279276082645",
+        "lsig": "AB86z5U_peIwLWhivb_3GcPhZgnF",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5U_peIwLWhivb_3GcPhZgnF&ludocid=14727938279276082645&q=affiliated+bank&tbm=lcl&token=cbfe9440c1016400",
+        "rating": "B",
+        "links": {
+          "website": "https://www.affiliatedbank.com/",
+          "directions": "https://www.google.com/maps/dir//Affiliated+Bank+Mortgage,+600+Round+Rock+W+Dr+%23101,+Round+Rock,+TX+78681/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644d1f3ce75a9af:0xcc6425d54220f5d5?sa=X"
+        },
+        "address": "Mortgage lender, Round Rock, TX",
+        "hours": "Closed ⋅ Opens 9AM Tue",
+        "gps_coordinates": {
+          "latitude": 30.503174899999998,
+          "longitude": -97.6904326
+        }
+      },
+      {
+        "position": 3,
+        "title": "Affiliated Bank",
+        "place_id": "13167974798871304950",
+        "lsig": "AB86z5UTtj3TsGG_71qj78k3lsGc",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UTtj3TsGG_71qj78k3lsGc&ludocid=13167974798871304950&q=affiliated+bank&tbm=lcl&token=51779849170a48de",
+        "rating": "C",
+        "links": {
+          "website": "https://www.affiliatedbank.com/",
+          "directions": "https://www.google.com/maps/dir//Affiliated+Bank,+410+W+Grand+Pkwy+S,+Katy,+TX+77494/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864126ddb55d3ba5:0xb6be0b500a051af6?sa=X"
+        },
+        "address": "Bank, Katy, TX",
+        "hours": "Closed ⋅ Opens 9AM Tue",
+        "gps_coordinates": {
+          "latitude": 29.7758628,
+          "longitude": -95.7794942
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "title": "Affiliated Bank, National Association",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "website": "http://www.affiliatedbank.com/",
+    "founded": "1959",
+    "parent_organization": "BancAffiliated",
+    "people_also_search_for": [
+      {
+        "name": "Bank & Trust Company",
+        "link": "https://www.google.com/search?q=Bank+and+Trust+Company&stick=H4sIAAAAAAAAAONgFuLVT9c3NEypKDTIqqgoV4Jw0yoNC8qKcnO1-J3zcwsS8yqDM1NSyxMrixexijkl5mUrJOalKIQUlRaXKEAV7GBlBADGna6aTQAAAA&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQxA0wFnoECAwQBQ",
+        "source": "businessissuer",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAEgASAMBEQACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABgIDBAUHCAH/xAAyEAACAQMDAwEFBgcAAAAAAAABAgMABBEFEjEGIUEUByJRYXETFSMyscEWNEJSYoGh/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAEDAgT/xAAfEQEBAAIBBAMAAAAAAAAAAAAAAQIRAxIiMUETIXH/2gAMAwEAAhEDEQA/AO40CgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgUCgg/UPtFs9J1y00+3t2vIXkKXM8RyIiOQPiRyflWuPFbNssuWS6bnXeoPS6XZXulGG6S7mWONxllIIJyMEZ4rnHDdsrrLPU3Gtt+vrQ21u09tI00kO91gYFVfONncjB7+a6vFduZyxlaV1fHqGvtpXpZI2KZUnHulS4cMc45TsBz3PimXHrHa48m8tKtA6n+9tV1Cx/BRosta85lQMVLfMZA+Hn61MsOmSmOe7YsWfVdxG8ialboxV5wGtRhVWJwjM24+SwwBVvHPSTO+1N913Z263IitJpHhEwUsyqkjRlgVBz52Gk4rS8sSqBzLBHIy7S6hiuc4yOKyao97Qfv7+HJj00V9SO8gAy5Tzs+dacfT1dzPk6unteel2TJK8Vz6SN/5qAsef8R/Vk+OR9K9vh4nSvY9Fqd/9vG9pCemVyFjuE3ZlHlc8n+48Vhz6n69HDu/iRvfemuLqWSCJp4neP0LWeI4IxIFSQyAZA2kMecjjGK41t3vQ/Ut8j/aWuiWZIXcZPeG5tsp3KQvdTsOPPvinRPdTrvqMZOrmhFzdWmjWKzGSRQyBtyFXK4kO3sWx27+DV+P1tPk19yL7dU3Aia6uNDthYmNpJuxLrH+G0hIIwez5x521Pjnjf2vXfOks02yt57G3nudPtYpniBZFjHu7h3X/v61lbd+Wsks8NkiqihUACqMADwK5dPtBA+pfZjpWua9BqSubZWfN5FGMCb5j4E+T+9bY81xx0xz4ZldpcbN7Syt7bSUhgihKqI8YUIPArLe7utdamoxUi13Y/2k9sWMWFAX8r5Pfj4Y/wB1e1O5R6fX0Cbby3clcvvThscLgccc/P5Vd4prJditdRghmSJrdWZg67U2rktl8jHnJ71LZV1YtSWOp3cJjvzZzIRkRlMgMDlTx9KssnhNW+Qw9QZBFxZjvjGw4xj9c07TublM7Bu/NjvXDtVQKBQKBQKBQKBQKBQKBQKBQKBQKBQKBQKBQKBQKBQf/9k="
+      },
+      {
+        "name": "Bank Of Sun Prairie",
+        "link": "https://www.google.com/search?q=Bank+Of+Sun+Prairie&stick=H4sIAAAAAAAAAONgFuLVT9c3NEypKDTIqqgoV4Jwk82NCwtNitK1-J3zcwsS8yqDM1NSyxMrixexCjsl5mUr-KcpBJfmKQQUJWYWZabuYGUEAEk_5f1KAAAA&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQxA0wFnoECAwQBw",
+        "source": "businessissuer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAdCAMAAAA+cNoxAAAAzFBMVEXw8PDy8vLx8fH19fX18/T4+Pjw9Pbw9/r0aADc3Nzt7+50dHW9vb3s7OzX19efn6Dyqobl5eWmpqfDw8ReXmC2trf///+SkpPH28/l6+jzmmvyu6HzoHjxx7L0g0T0YwDzjFXx29Hw6OXOzs+AgIFGRkhsbG1OTlDT4dmdxKy81MWMu57w4tzx0sTywan0fjr0cxz0eCzysJA7Oz4wMDSszLjkiErFfzakbQBZhkFdoXE4lFsAgTMqjEtwcgqIfzaUkVl4r4xHnWoAdxTqaPwMAAADiElEQVRIiZ2UC3eqOBDHyROQNxh5WlFQA4pe2WUf1u6u7ff/TjtY7a1Xzt6zHSCEHOaX/8wkUZQPw3zb7NwkydJmy5HyZePb1HWTLMvc3hqOv4bBfOomT9psnwDt2yHJXOVLJKykbqLtd4rKOVfVOfRz/BUSStN8lqq3eJDaPOWu+v85fLrLZ81nR754yuccpBJCAIwVhOCGPvmvMuBt286m/F7jYp8rGHu+EBgVHhE6CUzTR8IGIgEmGoicp1Mt+zEQ3uQtV9hKNwIWChasiR2YoSeIggo/KEKhP5DwIs21xcOwmmWKwgyztEhosKAs9SAwfAZjYzL2jMmjINS02oE/Ds93FoCC0i6KpRXoq7AIjLWHFLZkY33lPyaL7zKtfQQp6D200DH1UgS69UthhmJFrorYQIp2udYMgHjLsRcKx/OZcITJAls4VmgiZPuBHVoDDulB2w5UFTVYwcxihGF4QAmUn7FLSxCBFUEwuRQQE3xx5y6AhpYxbxAqC19AIPZYsQwPeWuxsle+URAzYGKtj30I3bCXpv8ewkGbD66zKffWBBXGxJmsyonTp8dzBLB9VoZMH08AI8yQLftV24OetN1QjqYNYuFS70HMN4QPoJUwrNIxLEusCYAMx0ACQKb5nmxXywc2lprAYTIRht2DHLwOe0U2Y6W5JoEYF72iYMzEhyK8aPfa/EESb7KG66YdorHlo5IVUHm8LhBamaHjT/yyWJNxUQq/tH7VhXKV9G3/AFITF5Z7EBDkBcizLaLD1rN1ZNm6ZdtIty8XdOFV2BcXvIXDqP0hODXNUoDDrleguBhRSvsexRghTGHn0v5N4Qv1zzWK1k1m0zuSOj0knw5JHNdRBBAcyVFMRxIIUiIaSyDB6K3msG3bZNbyj/CQmmrJ5yWB4yruJPhVlYzr/oN2Fa6ljOJIyji6TYnmbpocDlN6McTm+T6Z353/tKJVXQGoq+NNtJE1IOu6jmq5gbaitwnJtt399vsffx6fX1+Op5e//v4HPOQIqDdaRaO6i0ddHclKRhBnVUddBLesO1nLC4XSuDuewJ435+r8uqnqc/d8fn05vUJfXlkU0gvzAhrUQM6Vd/GXFve/QMbOL2+nU1XLmN7biMbV+XzcyO+6LhMPbicqz2+nbjSi9P7vq08/HFWbLqYDvncm345yCPHJQL6sutFPUFVHfzpZr2z0vcSD9i+95VVnitGZxAAAAABJRU5ErkJggg=="
+      },
+      {
+        "name": "Southside Bank",
+        "link": "https://www.google.com/search?q=Southside+Bank&stick=H4sIAAAAAAAAAONgFuLVT9c3NEypKDTIqqgoV4JxC7LKDKoMtfid83MLEvMqgzNTUssTK4sXsfIF55eWZBQD-QpOiXnZO1gZAeCbft5FAAAA&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQxA0wFnoECAwQCQ",
+        "source": "businessissuer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAPCAMAAABup0kSAAAAilBMVEX///8AOl1meY3T2d4ANFkAJVAAMVe9wcTd3+C5vcAAN1uUm6C1ur3P0tSXnqL8/P1qdXzm6OlyfIOAiI6GjpTv8PGrsLTHys2NlJkAK1R4goikqq0AH01jb3aepKg5V3EsT2wfRmaut8AAG0yIlaQAAD5QZ36ZpLGjrbjBx894iJkAEUcAAEJbb4XzSpayAAAB5klEQVQ4jZ2TyXbjIBBFn8bCGowRAiw02E7caSfd/v/f6yrijTfxOc1CQCEu9V4B8jLLsiZrmkxaVcCMQ6th2sHuAGsAYxHtONrWRQDk4YcYdNTbaMcOCKO1HoyZ6lN5Pl+WOmFiD6XN2mt33OOgGHPg3Xt6DLpZDdBKr/oY4LYRtOcoY5Y34J1H+loJZm95a9tJYHXDM8Y552e3dhouYcDnUOuMQz5dccsnIeJeMgZ+PcL2Mj+YZ8xgrY0zlD08smHVfYgtj/KlML/qOmHeJsFAx95v3JsVkefqSdROVig+MG51tCVR1Sc+qm/M75oxba8GpYd9TwcCDSFEEdhSwrI3m5qVPwrGF2HwoFH1Cnl9AW6VUIopVcpvrEjT5lkQ+nlO+ognzksggJe09pq87ziqvPfEFpeXIlmMz3Py5r8aF7x5/5qg5NDLUkBR0GJQykX+UJAzDZfjRwxfF7G4Phnc/hTgSzdzPIiCTYoR0EEFaP0jZrpWtWBOf0PCsJe7ZIaRTy8YMuGlqKVwX/cJLuekzyyKyDOGhXXCC4oxEniFme587JJM+JCCczacwxbC7CStneNsgnmJKcslO8n7rKoy+8agK8TPLqnriDt6xZEX3sgLbx4vnELYablxLCyJaYUW1I+Uf+5vIGJyrDGEAAAAAElFTkSuQmCC"
+      },
+      {
+        "name": "Origin Bank",
+        "link": "https://www.google.com/search?q=Origin+Bank&stick=H4sIAAAAAAAAAONgFuLVT9c3NEypKDTIqqgoV4Jw0yqNLAqzkoy1-J3zcwsS8yqDM1NSyxMrixexcvsXZaZn5ik4JeZl72BlBABY3jEFQgAAAA&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQxA0wFnoECAwQCw",
+        "source": "businessissuer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAA2CAMAAABTGy/EAAAAnFBMVEX////6+vvZ2uHn5+x5fJnP0Nn19ffc3ePCw8/w8PPGx9Lt7fEAAEe32vGYzOyq1O/t9vyNq9Ou2fLf7PZucpKlqLmAg55zd5W8vcqvscCovdwAT6rD4vXA3PAkldJwst5JTnlslcgAYbFbqNk4m9RWW4KWmK4yOWxkaIt/oM2HwOcaJWLQ2+sAXbGlr8UADVgAAFFBRnQKGVyLjaUg/K1uAAABCUlEQVRIie2QyU7DMBCG/3iJtzZQcBKHsoS2DmEpS/P+78akCCEOiYTUAwd/h9F4ZH/jGSCRSCQSif/GsijOzk/gWV0UZLqkTHlfjpUKPxG8FuH7aiNnPFfr1fXy5vYOyFugJFOmKCftMYKVaDMYjCcSZZOi+806w3a3o35j5yhb7RG7ByNUrDrytaIifyejaALr+aTocb/JzNMo0uNcvbXw2qJzNWsgjj8SvCm91BD2WU2P9rJ/fXsftgWlreWRBYve9erDeBLVJBIsKp/3MqAONubTJrk4HBbl1zJLDu4gwfXgmOFgtJkQHGxQxoG53LGZdbNu0L8rru+qmQd/YWaCRCKRSCROwicdIw9Emtmu3wAAAABJRU5ErkJggg=="
+      },
+      {
+        "name": "First Internet Bank of I...",
+        "link": "https://www.google.com/search?q=First+Internet+Bank+of+Indiana&stick=H4sIAAAAAAAAAONgFuLVT9c3NEypKDTIqqgoV4JxC4rNspLytPid83MLEvMqgzNTUssTK4sXscq5ZRYVlyh45pWkFuWllig4JeZlK-SnAQVSMhPzEnewMgIANHIzG1UAAAA&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQxA0wFnoECAwQDQ",
+        "source": "businessissuer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAk1BMVEX////+/v4AUohdlzIAUYdcljEASIIAToo5elkAT4ZTkSOiw4zy+PodXpB5oLxhmiyqx5aCpb9rjKxEhEq7zdsAP33m7/N4p1gARIDy9+6wy56cuM2pyJBHg2UYXJIPWIx1l7WYvIBVkxfj7dyPtXXX5c3N3sHE2LY6dJ9nnT8ybJmLs21xo09khaiNrMVfjK+fvqH3/0ntAAADQUlEQVRYhd1X61qbQBAdyIIuwdQIUdC2JrG1jbW17/903Ss7sxfY+PWXBxPkdjJ75szsAiBRiM3siukI7M5dDG6dbrK32quRJ1MXyaH6LkgoaFe4H3WHwa3F3M/Eh7YUUZroDLhRFGSnw4aizYIdX5gKfXr8/OXr1TIe92DEikHQHKrj5QVXYNyB2SN7sr6hEeFUADx9OzbVp8uLUoKJrWTyo/8nOyaIcPqROADffwmayhDZZxhhYJioiGft+a5pqpWAi8h+hUeli4gSjT8sTUDEawpOiDyF71+P1QRBxBz4z+0GY/tSq/Oe2Cqa+5MMplLbqvLErjeeCW9f6tJpNNURjNcrqbBkwESMESJUZIrJFxue1lIazbCKauSIJr5WMlmNtG10vqsgIpRwQYTqR2sqmZBG4+H0emdwktHMROTVt2Ci6Z9w3ZxFJHTaoaFZZ4tt3XhZS4htGoVk+h2tfkeUFtuVpYrpT6z6BVHEkKUy3ibeKgBcRGjg60mjKkujoPnb6pdDI4b00+9PBfbBdER5WUs2/3OI3lpMVIRDW2Fna7FL5g9N8Oxa7QOTwVkiqhFOP9wMvAVnQEVo8ujEDvuRFrtw7Xg/cN4CNkHUkEvVD5tBtDqiEZ0g/fSzRGPbSp5paGiSz8naWz9BxCPOeBHlpr+sdxNqeSpCRDVKlEiJoVIZJ0q1kZmZNtQoPrRqYYI0EdnBBG1EZ834qLRtRPzJZQPTiwgz0wU+yhKbPYoljMYV5xGxs0tkfzuhrznWKLaIWK5+hX7g7/YRaSMgYyJEWT2bhT1bMnliL2rEotMR9Be1Tr9dQhSZhgymo77ONORiq+2JRh9qFiFE3itE2CHZ3PrIH1q0H2Ws2EhE7zSkj/8p9sdN/5zY3blip4q2my1ap9GiIbtlQ8KMId0iops15Bkl0s29Qsym3yuRSES56X82036EiPE+19kA9/TFj2SN8foh4Ww/IjiYt9loRGXJh4fliMQ23jXTi18kIrkNJiawuSeLUWPNpxMydcTZCoop4WzD+HxsAnRD7WP3AL5G6E1JYFxfh/i7DbG59TSKiZ2PhI+QQYPeBYG8aAde+tHymNyEf5ReLLxYgn70bvwD2K1CeYqmo9QAAAAASUVORK5CYII="
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?q=Affiliated+Bank,+National+Association&stick=H4sIAAAAAAAAAONgFuLVT9c3NEypKDTIqqgoV0LlaslkJ1vpJ5UWZ-alFhfrZxYXl6YWWRVnpqSWJ1YWL2JVdUxLy8zJTCxJTVFwSszL1lHwSyzJzM9LzFFwLC7OT84E83awMgIAlq3MZWkAAAA&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQMSgAMBZ6BAgMEAE",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLVT9c3NEypKDTIqqgoV0LlaslkJ1vpJ5UWZ-alFhfrZxYXl6YWWRVnpqSWJ1YWL2JVdUxLy8zJTCxJTVFwSszL1lHwSyzJzM9LzFFwLC7OT84E83awMgIAlq3MZWkAAAA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Affiliated Bank | Banking Services | Personal and Business ...",
+      "link": "https://www.affiliatedbank.com/",
+      "displayed_link": "www.affiliatedbank.com",
+      "snippet": "Affiliated Bank is your friendly neighborhood bank offering convenient banking services in Arlington, Round Rock, Garland and Bedford Texas. Why bank ...",
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Online Banking Log In",
+            "link": "https://www.affiliatedbank.com/banking-login/",
+            "snippet": "Log in or sign up to view your online banking options ..."
+          },
+          {
+            "title": "Contact Information",
+            "link": "https://www.affiliatedbank.com/contact-us/contact-us/",
+            "snippet": "Lost or Stolen Debit Cards: Please contact Affiliated Bank ..."
+          },
+          {
+            "title": "Locations",
+            "link": "https://www.affiliatedbank.com/about-us/locations-hours/",
+            "snippet": "Find our local Affiliated Bank locations and times. Convenient ..."
+          },
+          {
+            "title": "Mortgage",
+            "link": "https://www.affiliatedbank.com/mortgage/",
+            "snippet": "Talk to one of our qualified mortgage lenders about home ..."
+          },
+          {
+            "title": "Our History",
+            "link": "https://www.affiliatedbank.com/about-us/history/",
+            "snippet": "Learn more about the history behind your favorite, friendly ..."
+          },
+          {
+            "title": "Loan Payment",
+            "link": "https://www.affiliatedbank.com/loan-payment/",
+            "snippet": "To make a one-time payment to your Affiliated Bank loan, just ..."
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jgTgn3BZrbIJ:https://www.affiliatedbank.com/+&cd=1&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.affiliatedbank.com/+affiliated+bank&tbo=1&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQHzAAegQIChAI"
+    },
+    {
+      "position": 2,
+      "title": "Affiliated Bank Reviews and Rates - Texas - Deposit Accounts",
+      "link": "https://www.depositaccounts.com/banks/affiliated-bank.html",
+      "displayed_link": "www.depositaccounts.com › banks › affiliated-bank",
+      "date": "Jan 9, 2020",
+      "snippet": "Affiliated Bank is headquartered in Bedford and is the 71st largest bank in the state of Texas. It is also the 847th largest bank in the nation.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sxHRO_ZCqQUJ:https://www.depositaccounts.com/banks/affiliated-bank.html+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Affiliated Bank FSB - Company Profile and News - Bloomberg ...",
+      "link": "https://www.bloomberg.com/profile/company/453780Z:US",
+      "displayed_link": "www.bloomberg.com › profile › company",
+      "snippet": "Company profile page for Affiliated Bank FSB including stock price, company news, press releases, executives, board members, and contact information.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CZWJUYqeFhYJ:https://www.bloomberg.com/profile/company/453780Z:US+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Affiliated Bank - Home | Facebook",
+      "link": "https://www.facebook.com/affiliatedbank/",
+      "displayed_link": "www.facebook.com › Places › Arlington, Texas › Loan Service",
+      "snippet": "Affiliated Bank - 2326 W Pleasant Ridge, Arlington, Texas 76015 - Rated 4.7 based on 10 Reviews \"Great trusting bank! Very friendly employees! And my...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.7,
+            "votes": 10
+          },
+          "extensions": [
+            "Rating: 4.7",
+            "10 votes"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ZsafqQGvre8J:https://www.facebook.com/affiliatedbank/+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Working at Affiliated Bank: Employee Reviews | Indeed.com",
+      "link": "https://www.indeed.com/cmp/Affiliated-Bank/reviews",
+      "displayed_link": "www.indeed.com › cmp › Affiliated-Bank › reviews",
+      "snippet": "I enjoyed my time with Affiliated Bank. They were respectful and open to change. They treated customers as the priority they should be and realized that their ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.8,
+            "reviews": 18
+          },
+          "extensions": [
+            "Rating: 3.8",
+            "18 reviews"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:u0QrkiYphDoJ:https://www.indeed.com/cmp/Affiliated-Bank/reviews+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Affiliated Bank Reviews and Ratings - Bankrate.com",
+      "link": "https://www.bankrate.com/banks/affiliated-bank/965789/",
+      "displayed_link": "www.bankrate.com › banks › affiliated-bank",
+      "snippet": "Read honest Affiliated Bank reviews and check out their rating. See if Affiliated Bank is a good bank for you and open an account.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4
+          },
+          "extensions": [
+            "Rating: 4",
+            "Review by Bankrate"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EqmZLSNN4nEJ:https://www.bankrate.com/banks/affiliated-bank/965789/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Affiliated Bank - 1750 Round Rock Ave (Round Rock, TX)",
+      "link": "https://www.branchspot.com/tx/round-rock/affiliated-bank/1750-round-rock-ave/",
+      "displayed_link": "www.branchspot.com › Banks & Credit Unions › Texas › Round Rock",
+      "snippet": "Affiliated Bank Branch Location at 1750 Round Rock Ave, Round Rock, TX 78681 - Hours of Operation, Phone Number, Routing Numbers, Address, Directions ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XaJaLjTQKSgJ:https://www.branchspot.com/tx/round-rock/affiliated-bank/1750-round-rock-ave/+&cd=16&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "affiliated bank cd rates",
+      "link": "https://www.google.com/search?q=affiliated+bank+cd+rates&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ1QIoAHoECBAQAQ"
+    },
+    {
+      "query": "affiliated bank officers",
+      "link": "https://www.google.com/search?q=affiliated+bank+officers&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ1QIoAXoECBAQAg"
+    },
+    {
+      "query": "affiliated bank reviews",
+      "link": "https://www.google.com/search?q=affiliated+bank+reviews&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ1QIoAnoECBAQAw"
+    },
+    {
+      "query": "affiliated bank routing number",
+      "link": "https://www.google.com/search?q=affiliated+bank+routing+number&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ1QIoA3oECBAQBA"
+    },
+    {
+      "query": "affiliated bank na",
+      "link": "https://www.google.com/search?q=affiliated+bank+na&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ1QIoBHoECBAQBQ"
+    },
+    {
+      "query": "affiliated bank contact",
+      "link": "https://www.google.com/search?q=affiliated+bank+contact&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ1QIoBXoECBAQBg"
+    },
+    {
+      "query": "affiliated bank careers",
+      "link": "https://www.google.com/search?q=affiliated+bank+careers&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ1QIoBnoECBAQBw"
+    },
+    {
+      "query": "affiliated bank meaning",
+      "link": "https://www.google.com/search?q=affiliated+bank+meaning&sa=X&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ1QIoB3oECBAQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=affiliated+bank&ei=l3EmXsSnNNTB8gK5k4q4AQ&start=10&sa=N&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ8NMDegQIDxA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=affiliated+bank&ei=l3EmXsSnNNTB8gK5k4q4AQ&start=10&sa=N&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ8tMDegQIDxAt",
+      "3": "https://www.google.com/search?q=affiliated+bank&ei=l3EmXsSnNNTB8gK5k4q4AQ&start=20&sa=N&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ8tMDegQIDxAv",
+      "4": "https://www.google.com/search?q=affiliated+bank&ei=l3EmXsSnNNTB8gK5k4q4AQ&start=30&sa=N&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ8tMDegQIDxAx",
+      "5": "https://www.google.com/search?q=affiliated+bank&ei=l3EmXsSnNNTB8gK5k4q4AQ&start=40&sa=N&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ8tMDegQIDxAz",
+      "6": "https://www.google.com/search?q=affiliated+bank&ei=l3EmXsSnNNTB8gK5k4q4AQ&start=50&sa=N&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ8tMDegQIDxA1",
+      "7": "https://www.google.com/search?q=affiliated+bank&ei=l3EmXsSnNNTB8gK5k4q4AQ&start=60&sa=N&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ8tMDegQIDxA3",
+      "8": "https://www.google.com/search?q=affiliated+bank&ei=l3EmXsSnNNTB8gK5k4q4AQ&start=70&sa=N&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ8tMDegQIDxA5",
+      "9": "https://www.google.com/search?q=affiliated+bank&ei=l3EmXsSnNNTB8gK5k4q4AQ&start=80&sa=N&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ8tMDegQIDxA7",
+      "10": "https://www.google.com/search?q=affiliated+bank&ei=l3EmXsSnNNTB8gK5k4q4AQ&start=90&sa=N&ved=2ahUKEwiEz63W4ZPnAhXUoFwKHbmJAhcQ8tMDegQIDxA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+bank&start=10&token=8185d25b9e7ea1bc",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+bank&start=10&token=8185d25b9e7ea1bc",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+bank&start=10&token=8185d25b9e7ea1bc",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+bank&start=20&token=758258fb066886d5",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+bank&start=30&token=23bbdb478f56e807",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+bank&start=40&token=515a6851112e6004",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+bank&start=50&token=dff3d9df0ceb7971",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+bank&start=60&token=cfcdec6fc4a056d0",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+bank&start=70&token=4b41cdca31a71e15",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+bank&start=80&token=51a2ea6b794a83df",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+bank&start=90&token=4d09ba13ba51075f"
+    }
+  }
+}

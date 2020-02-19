@@ -1,0 +1,297 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 16:42:24 UTC",
+    "processed_at": "2020-01-21 16:42:24 UTC",
+    "google_url": "https://www.google.com/search?q=best+buy+travel+router&oq=best+buy+travel+router&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.95
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best buy travel router",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 40100000,
+    "time_taken_displayed": 0.44,
+    "query_displayed": "best buy travel router"
+  },
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "TP-Link - AC750 Dual-Band Wi-Fi Router - Silver/White",
+      "price": "$39.99",
+      "extracted_price": 39.99,
+      "link": "https://www.bestbuy.com/site/tp-link-ac750-dual-band-wi-fi-router-silver-white/5844810.p?skuId=5844810&ref=212&loc=1",
+      "source": "Best Buy",
+      "rating": 4.5,
+      "reviews": 496,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 2,
+      "title": "Google Wifi | Mesh Wi-Fi Router | Stay well connected",
+      "price": "$99.00",
+      "extracted_price": 99,
+      "link": "https://store.google.com/us/product/google_wifi_first_gen?hl=en-US",
+      "source": "Google Store",
+      "rating": 4.8,
+      "reviews": 9000,
+      "thumbnail": "data:image/webp;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 3,
+      "title": "Ac750 Wireless Travel Router, Size: 3.30x4.40x4.40, Multicolor",
+      "price": "$34.99",
+      "extracted_price": 34.99,
+      "link": "https://www.walmart.com/ip/AC750-Wireless-Travel-Router/381365375?wmlspartner=wlpa&selectedSellerId=0",
+      "source": "Walmart",
+      "rating": 4.5,
+      "reviews": 496,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 4,
+      "title": "NETGEAR - 5-Port 10/100/1000 Mbps Gigabit Unmanaged Switch - White",
+      "price": "$24.99",
+      "extracted_price": 24.99,
+      "link": "https://www.bestbuy.com/site/netgear-5-port-10-100-1000-mbps-gigabit-unmanaged-switch-white/6840341.p?skuId=6840341&ref=212&loc=1&extStoreId=462",
+      "source": "Best Buy",
+      "rating": 4.7,
+      "reviews": 7000,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAAYCAMAAADpjKKEAAAAD1BMVEUHAQwKBSQLAQwKAgoHAQghWpwwAAAABXRSTlMdBypGbBAxa/0AAAGMSURBVEiJ5ZbRYsMgCEWv4P9/8wBB0Wqabe36MNJGMcoBiqYonxL8HzKIJrLoUCWut3rEjCAT04aG7NrLxCJjNsPCBRq4+4LcwLPQZtndG+BqTNNKsGQSeeNPuIq9Wpk09+0h9WZaQHrfU0JB0kJBV3xETUmkXIVMlZlVoT8Q8d57kmfh4nL2TZNmFWFeE9Q+oH71oKWr5LbMhjDbomXRkIeB++JkYlQKF2myR3HzL+VeHvkedyLDYo5fAd0TT98jd83lT2KGx9yyfXLzaMM7vA4sa620M7iR2ZyXnVW1yqsUvBSd6GnmEb12yDm2JLXB7+iRbVThQi5hy1BN5Kugjx6sIyNkTDHruaEuyPaKmDnIlpNnZJrbjU8DvmSblnW/2DVnKR3csu1kL7OgxnZ6KbXZdDIpPPbzNPfELnutPExcJuUC8+JhdyOOrHtHxBXpjnCx8jJnxvEZOVn3U/equ0a5HadPP4XSMRynU9tp/W2MFUG5l98Bu7I9S8mZLsD8F2Hzn+ENgg3oU/IF+6II9gD1ngUAAAAASUVORK5CYII=",
+      "extensions": [
+        "Pick up today"
+      ]
+    }
+  ],
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "What is the best travel router?",
+      "snippet": "The Best Travel Routers for Your Next VacationHooToo Wireless Travel Router. ... TP-Link N300 Nano Travel Router. ... TP-Link N150 Wireless 3G/4G Portable Router. ... RAVPower Filehub Plus Travel Router [No Longer Available] ... GL.iNet GL AR300M Mini Travel Router. ... TRENDnet TEW-817DTR Travel Router. ... 1 comment Write a Comment.Oct 2, 2018",
+      "title": "The Best Travel Routers for Your Next Vacation - MakeUseOf",
+      "link": "https://www.makeuseof.com/tag/best-portable-wifi-travel-routers/",
+      "displayed_link": "www.makeuseof.com › tag › best-portable-wifi-travel-routers"
+    },
+    {
+      "question": "How does a travel router work?",
+      "snippet": "In router mode, you connect the travel router to a DSL or cable modem and it becomes a fully functional wireless router. In WAP (Wireless Access Point) mode, the travel router shares a wired broadband connection wirelessly with one or more clients. ... Speed Some wireless routers deliver more throughput than others.May 5, 2014",
+      "title": "6 new travel routers reviewed | TechHive",
+      "link": "https://www.techhive.com/article/2150741/tested-6-new-travel-routers-that-can-deploy-a-secure-wi-fi-network-almost-anywhere.html",
+      "displayed_link": "www.techhive.com › article › tested-6-new-travel-routers-that-can-deplo..."
+    },
+    {
+      "question": "How do you get WiFi when traveling?",
+      "snippet": "Internet Access when Traveling: How To Get Online On The GoUse Your Mobile Provider.Buy a SIM Card for your trip.Use a Mobile Hotspot.Use a specialist roaming SIM.Just use WiFi for Internet Access.Sep 14, 2019",
+      "title": "Internet Access when Traveling: How To Get Online On The Go ...",
+      "link": "https://www.findingtheuniverse.com/how-to-get-online-when-travelling-away/",
+      "displayed_link": "www.findingtheuniverse.com › how-to-get-online-when-travelling-away"
+    },
+    {
+      "question": "What is the best wireless WiFi router for home use?",
+      "snippet": "Best wireless routers 2019: the best routers for your home networkNetgear Orbi AC2200 RBK23. ... Samsung Connect Home. ... TP-Link Archer C5400 v2. ... Netgear Orbi Pro. ... TP-Link Deco M9. ... D-Link Covr-C1203. ... Eero Home Wi-Fi System. Mesh wi-fi for the power user. ... Amplifi HD. Bringing style to mesh networking.More items...",
+      "title": "Best wireless routers 2019: the best routers available today ...",
+      "link": "https://www.techradar.com/news/networking/routers-storage/best-router-9-top-wireless-routers-on-test-1090523",
+      "displayed_link": "www.techradar.com › news › networking › best-router-9-top-wireless-ro..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Travel Routers - Best Buy",
+      "link": "https://www.bestbuy.com/site/shop/travel-routers",
+      "displayed_link": "www.bestbuy.com › ... › Wireless Routers Directory",
+      "snippet": "The NETGEAR AC1750 Smart WiFi 5 Router with external antennas delivers extremely fast WiFi. With AC1750 WiFi, Gigabit Ethernet speeds, and high-powered ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MSIrTjHrayUJ:https://www.bestbuy.com/site/shop/travel-routers+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Mini 300Mbps Wireless N Travel Router - Best Buy",
+      "link": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=Mini+300Mbps+Wireless+N+Travel+Router",
+      "displayed_link": "www.bestbuy.com › site › searchpage › st=Mini+300Mbps+Wireless+...",
+      "date": "Items 1 6 of 6",
+      "snippet": "Shop for Mini 300Mbps Wireless N Travel Router at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:DX08G6jZnSMJ:https://www.bestbuy.com/site/searchpage.jsp%3Fid%3Dpcat17071%26st%3DMini%2B300Mbps%2BWireless%2BN%2BTravel%2BRouter+&cd=2&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "TP-Link Wireless N150 Nano Travel Router Blue TL ... - Best Buy",
+      "link": "https://www.bestbuy.com/site/tp-link-wireless-n150-nano-travel-router-blue/6191638.p?skuId=6191638",
+      "displayed_link": "www.bestbuy.com › ... › Routers › Wireless Routers",
+      "snippet": "Shop TP-Link Wireless N150 Nano Travel Router Blue at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up. Price Match ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.8,
+            "reviews": 12
+          },
+          "extensions": [
+            "Rating: 3.8",
+            "12 reviews"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zW9D6MQWsLAJ:https://www.bestbuy.com/site/tp-link-wireless-n150-nano-travel-router-blue/6191638.p%3FskuId%3D6191638+&cd=3&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Netgear 802.11g Wireless Travel Router WGR101 - Best Buy",
+      "link": "https://www.bestbuy.com/site/netgear-802-11g-wireless-travel-router/6682985.p?skuId=6682985",
+      "displayed_link": "www.bestbuy.com › ... › Routers › Wireless Routers",
+      "snippet": "Shop Netgear 802.11g Wireless Travel Router at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up. Price Match Guarantee.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:tKjmoY6ylnQJ:https://www.bestbuy.com/site/netgear-802-11g-wireless-travel-router/6682985.p%3FskuId%3D6682985+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "TP-Link - AC750 Dual-Band Wi-Fi Router - Silver ... - Best Buy",
+      "link": "https://www.bestbuy.com/site/tp-link-ac750-dual-band-wi-fi-router-silver-white/5844810.p?skuId=5844810",
+      "displayed_link": "www.bestbuy.com › ... › Routers › Wireless Routers",
+      "snippet": "Stay connected wherever you go with this TP-LINK wireless travel router. It provides Wi-Fi access with router, hotspot, range extender, client and access point ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.4,
+            "reviews": 12,
+            "": 39.99
+          },
+          "extensions": [
+            "Rating: 4.4",
+            "12 reviews",
+            "$39.99",
+            "In stock"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HBf4UGlqhm4J:https://www.bestbuy.com/site/tp-link-ac750-dual-band-wi-fi-router-silver-white/5844810.p%3FskuId%3D5844810+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Linksys Wireless-G Travel Router with ... - Best Buy",
+      "link": "https://www.bestbuy.com/site/linksys-wireless-g-travel-router-with-speedbooster/7442804.p?skuId=7442804",
+      "displayed_link": "www.bestbuy.com › ... › Routers › Wireless Routers",
+      "snippet": "Shop Linksys Wireless-G Travel Router with SpeedBooster at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up. Price Match ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nj9GjyZLM3wJ:https://www.bestbuy.com/site/linksys-wireless-g-travel-router-with-speedbooster/7442804.p%3FskuId%3D7442804+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "NETGEAR Trek N300 Travel Router and Range ... - Best Buy",
+      "link": "https://www.bestbuy.com/site/netgear-trek-n300-travel-router-and-range-extender-black/9062019.p?skuId=9062019",
+      "displayed_link": "www.bestbuy.com › ... › Wi-Fi & Networking › Wi-Fi Extenders",
+      "snippet": "Shop NETGEAR Trek N300 Travel Router and Range Extender Black at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.7,
+            "reviews": 24
+          },
+          "extensions": [
+            "Rating: 3.7",
+            "24 reviews"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Q-nWurfERGkJ:https://www.bestbuy.com/site/netgear-trek-n300-travel-router-and-range-extender-black/9062019.p%3FskuId%3D9062019+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Portable Routers - Best Buy",
+      "link": "https://www.bestbuy.com/site/shop/portable-routers",
+      "displayed_link": "www.bestbuy.com › ... › Wireless Routers Directory",
+      "snippet": "Influencer & Vlogger · Family Photography · Travel Photography · Action ... Browse the top-ranked list of Portable Routers below along with associated reviews and ... The NETGEAR AC1750 Smart WiFi 5 Router with external antennas delivers ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qpaGO1nrbNwJ:https://www.bestbuy.com/site/shop/portable-routers+&cd=16&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Top Travel Routers for Stronger Internet while Traveling ...",
+      "link": "https://independenttravelcats.com/internet-while-traveling-a-review-of-netgear-trek-travel-router/",
+      "displayed_link": "independenttravelcats.com › ... › Travel Products & Services",
+      "date": "Jump to Do you Need a Travel Router?",
+      "snippet": "Overall, we have found travel routers to be a benefit to our ... A Travel Router is a compact little device that solves common ... then you must buy a wireless mobile router because its signal range ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HjFpfkp8JrkJ:https://independenttravelcats.com/internet-while-traveling-a-review-of-netgear-trek-travel-router/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "The 6 Best Wireless Travel Routers of 2020 - Lifewire",
+      "link": "https://www.lifewire.com/top-travel-wireless-routers-2377742",
+      "displayed_link": "www.lifewire.com › Buy › Networking",
+      "date": "Oct 4, 2019",
+      "snippet": "We tested top routers from HooToo, TP-Link, and more to see which connects ... Best Overall: HooToo TripMate Titan at Amazon, “A great choice for a travel wireless router...does double duty as a portable ... Buy on Amazon.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:joy9gYz22QYJ:https://www.lifewire.com/top-travel-wireless-routers-2377742+&cd=18&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.lifewire.com/top-travel-wireless-routers-2377742+best+buy+travel+router&tbo=1&sa=X&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQHzARegQIBhAL"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "travel router walmart",
+      "link": "https://www.google.com/search?q=travel+router+walmart&sa=X&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ1QIoAHoECAsQAQ"
+    },
+    {
+      "query": "best travel router 2019",
+      "link": "https://www.google.com/search?q=best+travel+router+2019&sa=X&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ1QIoAXoECAsQAg"
+    },
+    {
+      "query": "tp link travel router",
+      "link": "https://www.google.com/search?q=tp+link+travel+router&sa=X&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ1QIoAnoECAsQAw"
+    },
+    {
+      "query": "best travel router 2018",
+      "link": "https://www.google.com/search?q=best+travel+router+2018&sa=X&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ1QIoA3oECAsQBA"
+    },
+    {
+      "query": "best travel router for hotels",
+      "link": "https://www.google.com/search?q=best+travel+router+for+hotels&sa=X&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ1QIoBHoECAsQBQ"
+    },
+    {
+      "query": "tl wr902ac best buy",
+      "link": "https://www.google.com/search?q=tl+wr902ac+best+buy&sa=X&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ1QIoBXoECAsQBg"
+    },
+    {
+      "query": "ac750 wireless travel router",
+      "link": "https://www.google.com/search?q=ac750+wireless+travel+router&sa=X&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ1QIoBnoECAsQBw"
+    },
+    {
+      "query": "travel router uk",
+      "link": "https://www.google.com/search?q=travel+router+uk&sa=X&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ1QIoB3oECAsQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+buy+travel+router&ei=8SknXqKDHPK3mAWGk4-wDA&start=10&sa=N&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ8NMDegQIDRB1",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+buy+travel+router&ei=8SknXqKDHPK3mAWGk4-wDA&start=10&sa=N&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ8tMDegQIDRBj",
+      "3": "https://www.google.com/search?q=best+buy+travel+router&ei=8SknXqKDHPK3mAWGk4-wDA&start=20&sa=N&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ8tMDegQIDRBl",
+      "4": "https://www.google.com/search?q=best+buy+travel+router&ei=8SknXqKDHPK3mAWGk4-wDA&start=30&sa=N&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ8tMDegQIDRBn",
+      "5": "https://www.google.com/search?q=best+buy+travel+router&ei=8SknXqKDHPK3mAWGk4-wDA&start=40&sa=N&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ8tMDegQIDRBp",
+      "6": "https://www.google.com/search?q=best+buy+travel+router&ei=8SknXqKDHPK3mAWGk4-wDA&start=50&sa=N&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ8tMDegQIDRBr",
+      "7": "https://www.google.com/search?q=best+buy+travel+router&ei=8SknXqKDHPK3mAWGk4-wDA&start=60&sa=N&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ8tMDegQIDRBt",
+      "8": "https://www.google.com/search?q=best+buy+travel+router&ei=8SknXqKDHPK3mAWGk4-wDA&start=70&sa=N&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ8tMDegQIDRBv",
+      "9": "https://www.google.com/search?q=best+buy+travel+router&ei=8SknXqKDHPK3mAWGk4-wDA&start=80&sa=N&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ8tMDegQIDRBx",
+      "10": "https://www.google.com/search?q=best+buy+travel+router&ei=8SknXqKDHPK3mAWGk4-wDA&start=90&sa=N&ved=2ahUKEwjiv4K-kZXnAhXyG6YKHYbJA8YQ8tMDegQIDRBz"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+buy+travel+router&start=10&token=1aad0c7158c95ed8",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+buy+travel+router&start=10&token=1aad0c7158c95ed8",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+buy+travel+router&start=10&token=1aad0c7158c95ed8",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+buy+travel+router&start=20&token=b6b1c16b4d9aec3f",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+buy+travel+router&start=30&token=41e53e23e8b65646",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+buy+travel+router&start=40&token=28e1ec68b3ca1634",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+buy+travel+router&start=50&token=889bb961645fce3f",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+buy+travel+router&start=60&token=039987e396ad979e",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+buy+travel+router&start=70&token=f3b811f8e19b59f7",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+buy+travel+router&start=80&token=b5a3accfcaa98fc8",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+buy+travel+router&start=90&token=35fb29d4d2f90151"
+    }
+  }
+}

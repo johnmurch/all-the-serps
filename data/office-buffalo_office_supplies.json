@@ -1,0 +1,269 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 23:05:12 UTC",
+    "processed_at": "2020-01-21 23:05:12 UTC",
+    "google_url": "https://www.google.com/search?q=buffalo+office+supplies&oq=buffalo+office+supplies&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 3.47
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "buffalo office supplies",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 51400000,
+    "time_taken_displayed": 0.6,
+    "query_displayed": "buffalo office supplies"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Office Supplies | In Stock. Ships Today | ULINE.com‎",
+      "link": "https://www.uline.com/Cls_40/Office-Furniture-and-Supplies",
+      "displayed_link": "www.uline.com/Office-Supplies",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwj3q62G55XnAhULvsAKHSEWB9YYABAAGgJpbQ&sig=AOD64_0LslBu3EGUHaekvDyE3l91ptL2Ew&q=&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ0Qx6BAgPEAE&adurl=",
+      "description": "Huge Catalog! Over 36,000 Products. Same Day Shipping From 11 Locations. Fast Delivery. 11 Locations."
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Office Supplies | Order Online At Office Depot® | OfficeDepot.com‎",
+      "link": "https://www.officedepot.com/a/browse/office-supplies/N=5+1676/",
+      "displayed_link": "www.officedepot.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwj3q62G55XnAhULvsAKHSEWB9YYABABGgJpbQ&sig=AOD64_3Gm2m9SuB-b93tqu6DkUn32dFJWQ&q=&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ0Qx6BAgQEAE&adurl=",
+      "description": "Shop For Office Supplies Online At OfficeDepot.com & Save Today! Buy Online, Pick Up In Store. Store Locator. Download App. Live Chat Available. Check Order Status.",
+      "deal": [
+        "20% off Regular Priced Items",
+        "Valid Jan 19",
+        "Jan 25"
+      ],
+      "2642_delaware_ave_buffalo_ny_open_today_8": [
+        "00 AM – 9"
+      ]
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=buffalo+office+supplies&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=42915460,-78857090,4604&tbm=lcl&sa=X&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 42.91546,
+      "longitude": -78.85709,
+      "altitude": 4604
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=buffalo+office+supplies&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=42915460,-78857090,4604&tbm=lcl&sa=X&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQjGp6BAgLEEA",
+    "places": [
+      {
+        "position": 1,
+        "title": "Buffalo Office Supply Corporation.",
+        "place_id": "14779675188689196717",
+        "lsig": "AB86z5XJRFH4qmOWHCJAAWH2-70s",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XJRFH4qmOWHCJAAWH2-70s&ludocid=14779675188689196717&q=buffalo+office+supplies&tbm=lcl&token=761c3c8a56bd11e7",
+        "rating": 0,
+        "type": "Office supply store",
+        "hours": "Closed ⋅ Opens 8:30AM Wed · (716) 512-3638",
+        "address": "Buffalo, NY",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 42.8754537,
+          "longitude": -78.85625449999999
+        }
+      },
+      {
+        "position": 2,
+        "title": "MidCity Office Furniture",
+        "place_id": "7109911124339719355",
+        "lsig": "AB86z5Vhz83WF5T0hnU-WfG6bTDG",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Vhz83WF5T0hnU-WfG6bTDG&ludocid=7109911124339719355&q=buffalo+office+supplies&tbm=lcl&token=21b231b1cc991094",
+        "rating": 5,
+        "reviews": 7,
+        "type": "Office furniture store",
+        "address": "Buffalo, NY",
+        "phone": "In Tri-Main Center",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 42.9346782,
+          "longitude": -78.8423608
+        }
+      },
+      {
+        "position": 3,
+        "title": "OfficeMax",
+        "place_id": "10942874838483702761",
+        "lsig": "AB86z5VjSYDFfaevtf-xcgqAw2W_",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VjSYDFfaevtf-xcgqAw2W_&ludocid=10942874838483702761&q=buffalo+office+supplies&tbm=lcl&token=74c33ab3b2b5a85c",
+        "rating": 4,
+        "reviews": 93,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "Buffalo, NY",
+        "phone": "In Delaware Consumer Square",
+        "description": "Mainstay for office supplies & more",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 42.9554677,
+          "longitude": -78.8718193
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Top 10 Best Office Supplies in Buffalo, NY - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=Office+Supplies&find_loc=Buffalo%2C+NY",
+      "displayed_link": "www.yelp.com › search › find_loc=Buffalo,+NY",
+      "snippet": "Reviews on Office Supplies in Buffalo, NY - Office Max, OfficeMax, Office ... I just bought a few office supplies and while I am tending to pay for them with my ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:a4KuKUcgg1gJ:https://www.yelp.com/search%3Ffind_desc%3DOffice%2BSupplies%26find_loc%3DBuffalo%252C%2BNY+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Buffalo Business Products | Office-Supplies, Equipment ...",
+      "link": "http://www.gainesvillecofc.com/list/member/buffalo-business-products-1294",
+      "displayed_link": "www.gainesvillecofc.com › list › member › buffalo-business-products...",
+      "snippet": "Buffalo Business Products, Office-Supplies, Equipment & Furniture, Copiers. 950 East Hwy 82 Gainesville, TX 76240. (940) 665-8000.",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:yVXJX0GppQ8J:www.gainesvillecofc.com/list/member/buffalo-business-products-1294+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Eaton Office Supply - Home Page",
+      "link": "http://www.eatonofficesupply.com/",
+      "displayed_link": "www.eatonofficesupply.com",
+      "snippet": "Eaton Office Supply is the only locally and family owned office supplies and solutiosn company in Western New York. Our total commitment to professional, fast ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:-D09bP9zyloJ:www.eatonofficesupply.com/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Buffalo Office Supply Buffalo NY, 14210 – Manta.com",
+      "link": "https://www.manta.com/c/mttwxvg/buffalo-office-supply",
+      "displayed_link": "www.manta.com › mttwxvg › buffalo-office-supply",
+      "snippet": "Get information, directions, products, services, phone numbers, and reviews on Buffalo Office Supply in Buffalo, NY. Discover more Furniture companies in ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:k3bkZL27PUMJ:https://www.manta.com/c/mttwxvg/buffalo-office-supply+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Office Depot Stores in Buffalo,NY - Visit Today",
+      "link": "https://www.officedepot.com/storelocator/ny/buffalo/",
+      "displayed_link": "www.officedepot.com › storelocator › buffalo",
+      "snippet": "Shop at an Office Depot store in Buffalo,NY. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FnlF5PMb5FUJ:https://www.officedepot.com/storelocator/ny/buffalo/+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Office Max in BUFFALO,NY - 2642 DELAWARE AVENUE",
+      "link": "https://www.officedepot.com/storelocator/ny/buffalo/officemax-6502/",
+      "displayed_link": "www.officedepot.com › storelocator › buffalo › officemax-6502",
+      "snippet": "Shop at the Office Max Store in BUFFALO,NY. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kIKoejMFZ-EJ:https://www.officedepot.com/storelocator/ny/buffalo/officemax-6502/+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "MidCity Office Furniture | Buffalo Office Furniture Interior Design",
+      "link": "https://www.midcityoffice.com/",
+      "displayed_link": "www.midcityoffice.com",
+      "snippet": "Welcome. We are MidCity Office Furniture, a Woman-Owned Business Enterprise (WBE) located in Buffalo, NY.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EsLq_Pztop8J:https://www.midcityoffice.com/+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Best 30 Office Supplies in Buffalo, NY with Reviews - YP.com",
+      "link": "https://www.yellowpages.com/buffalo-ny/office-supplies",
+      "displayed_link": "www.yellowpages.com › Buffalo, NY",
+      "date": "109 results",
+      "snippet": "Office Supplies in Buffalo on YP.com. See reviews, photos, directions, phone numbers and more for the best Office Equipment & Supplies in Buffalo, ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qRwVkugbGKYJ:https://www.yellowpages.com/buffalo-ny/office-supplies+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Buffalo Office Supplies - City of Graham, Texas",
+      "link": "https://grahamtexas.net/businesses/buffalo-office-supplies/",
+      "displayed_link": "grahamtexas.net › businesses › buffalo-office-supplies",
+      "snippet": "Buffalo Office Supplies. 513 Elm St., Graham, TX 76450. Phone: 940-549-9554 / 800-6. Request Info. Name*. Email*. Topics. Topics, Visit Graham, Move to ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:fllOzvGOSlEJ:https://grahamtexas.net/businesses/buffalo-office-supplies/+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Best 20 Office Supplies in Buffalo, NY by Superpages",
+      "link": "https://www.superpages.com/yellowpages/c-office+supplies/s-ny/t-buffalo/",
+      "displayed_link": "www.superpages.com › Buffalo, NY",
+      "date": "Results 1 20 of 94",
+      "snippet": "Find the Best Buffalo, NY Office Supplies on Superpages. We have multiple consumer reviews, photos and opening hours.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PSqHc3kUVtwJ:https://www.superpages.com/yellowpages/c-office%2Bsupplies/s-ny/t-buffalo/+&cd=13&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office depot",
+      "link": "https://www.google.com/search?q=office+depot&sa=X&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ1QIoAHoECA4QAQ"
+    },
+    {
+      "query": "eaton office supply",
+      "link": "https://www.google.com/search?q=eaton+office+supply&sa=X&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ1QIoAXoECA4QAg"
+    },
+    {
+      "query": "office supply store near me",
+      "link": "https://www.google.com/search?q=office+supply+store+near+me&sa=X&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ1QIoAnoECA4QAw"
+    },
+    {
+      "query": "officemax",
+      "link": "https://www.google.com/search?q=officemax&sa=X&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ1QIoA3oECA4QBA"
+    },
+    {
+      "query": "office supplies buffalo ny",
+      "link": "https://www.google.com/search?q=office+supplies+buffalo+ny&sa=X&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ1QIoBHoECA4QBQ"
+    },
+    {
+      "query": "office depot buffalo",
+      "link": "https://www.google.com/search?q=office+depot+buffalo&sa=X&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ1QIoBXoECA4QBg"
+    },
+    {
+      "query": "officemax buffalo ny locations",
+      "link": "https://www.google.com/search?q=officemax+buffalo+ny+locations&sa=X&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ1QIoBnoECA4QBw"
+    },
+    {
+      "query": "greenwood office outfitters",
+      "link": "https://www.google.com/search?q=greenwood+office+outfitters&sa=X&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ1QIoB3oECA4QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=buffalo+office+supplies&ei=qoMnXoefA5WE9PwP2Jm3gAY&start=10&sa=N&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ8NMDegQIDBBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=buffalo+office+supplies&ei=qoMnXoefA5WE9PwP2Jm3gAY&start=10&sa=N&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ8tMDegQIDBAu",
+      "3": "https://www.google.com/search?q=buffalo+office+supplies&ei=qoMnXoefA5WE9PwP2Jm3gAY&start=20&sa=N&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ8tMDegQIDBAw",
+      "4": "https://www.google.com/search?q=buffalo+office+supplies&ei=qoMnXoefA5WE9PwP2Jm3gAY&start=30&sa=N&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ8tMDegQIDBAy",
+      "5": "https://www.google.com/search?q=buffalo+office+supplies&ei=qoMnXoefA5WE9PwP2Jm3gAY&start=40&sa=N&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ8tMDegQIDBA0",
+      "6": "https://www.google.com/search?q=buffalo+office+supplies&ei=qoMnXoefA5WE9PwP2Jm3gAY&start=50&sa=N&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ8tMDegQIDBA2",
+      "7": "https://www.google.com/search?q=buffalo+office+supplies&ei=qoMnXoefA5WE9PwP2Jm3gAY&start=60&sa=N&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ8tMDegQIDBA4",
+      "8": "https://www.google.com/search?q=buffalo+office+supplies&ei=qoMnXoefA5WE9PwP2Jm3gAY&start=70&sa=N&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ8tMDegQIDBA6",
+      "9": "https://www.google.com/search?q=buffalo+office+supplies&ei=qoMnXoefA5WE9PwP2Jm3gAY&start=80&sa=N&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ8tMDegQIDBA8",
+      "10": "https://www.google.com/search?q=buffalo+office+supplies&ei=qoMnXoefA5WE9PwP2Jm3gAY&start=90&sa=N&ved=2ahUKEwiHnKaG55XnAhUVAp0JHdjMDWAQ8tMDegQIDBA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=buffalo+office+supplies&start=10&token=ae733cc8fc1b3228",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=buffalo+office+supplies&start=10&token=ae733cc8fc1b3228",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=buffalo+office+supplies&start=10&token=ae733cc8fc1b3228",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=buffalo+office+supplies&start=20&token=4fe4a6f47412ce85",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=buffalo+office+supplies&start=30&token=b59db5ed0680fc08",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=buffalo+office+supplies&start=40&token=73c3dd7378037e5a",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=buffalo+office+supplies&start=50&token=766474a81b898fca",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=buffalo+office+supplies&start=60&token=0aea0bb78136d095",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=buffalo+office+supplies&start=70&token=c4132caf09ffae5d",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=buffalo+office+supplies&start=80&token=13c16fe7303ab914",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=buffalo+office+supplies&start=90&token=c2789acc6ada34b4"
+    }
+  }
+}

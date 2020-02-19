@@ -1,0 +1,251 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 20:39:02 UTC",
+    "processed_at": "2020-01-21 20:39:02 UTC",
+    "google_url": "https://www.google.com/search?q=job+service+nd&oq=job+service+nd&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 4.85
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "job service nd",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 781000000,
+    "time_taken_displayed": 0.53,
+    "query_displayed": "job service nd"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=job+service+nd&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=47548849,-101030682,82950&tbm=lcl&sa=X&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQtgN6BAgHEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 47.548849,
+      "longitude": -101.030682,
+      "altitude": 82950
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=job+service+nd&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=47548849,-101030682,82950&tbm=lcl&sa=X&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQjGp6BAgHECw",
+    "places": [
+      {
+        "position": 1,
+        "title": "Job Service North Dakota",
+        "place_id": "8919106738505570314",
+        "lsig": "AB86z5V4DzDbUTjb7fL36QQkjKDr",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5V4DzDbUTjb7fL36QQkjKDr&ludocid=8919106738505570314&q=job+service+nd&tbm=lcl&token=930c7626122bc505",
+        "rating": "A",
+        "links": {
+          "website": "http://www.jobsnd.com/",
+          "directions": "https://www.google.com/maps/dir//Job+Service+North+Dakota,+1000+E+Divide+Ave,+Bismarck,+ND+58506/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x52d783aa0d73161d:0x7bc70852be6ad80a?sa=X"
+        },
+        "address": "Bismarck, ND",
+        "hours": "Open now",
+        "gps_coordinates": {
+          "latitude": 46.823955999999995,
+          "longitude": -100.777209
+        }
+      },
+      {
+        "position": 2,
+        "title": "Job Service North Dakota",
+        "place_id": "7744721583085446227",
+        "lsig": "AB86z5XIdi3WN4dKqLIMOLB1rkpd",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XIdi3WN4dKqLIMOLB1rkpd&ludocid=7744721583085446227&q=job+service+nd&tbm=lcl&token=a13ff290def10d7b",
+        "rating": "B",
+        "links": {
+          "directions": "https://www.google.com/maps/dir//Job+Service+North+Dakota,+3416+N+Broadway,+Minot,+ND+58703/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x52df29da12215bf5:0x6b7ac73f1c1be453?sa=X"
+        },
+        "address": "Minot, ND",
+        "hours": "Open ⋅ Closes 5PM",
+        "gps_coordinates": {
+          "latitude": 48.273742,
+          "longitude": -101.2946187
+        }
+      },
+      {
+        "position": 3,
+        "title": "Job Service North Dakota - Bismarck Workforce Center",
+        "place_id": "5965256093938039090",
+        "lsig": "AB86z5UUYkuD-BnKYfOlHewCGn6C",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UUYkuD-BnKYfOlHewCGn6C&ludocid=5965256093938039090&q=job+service+nd&tbm=lcl&token=b451d80039a788da",
+        "rating": "C",
+        "links": {
+          "website": "http://jobsnd.com/",
+          "directions": "https://www.google.com/maps/dir//Job+Service+North+Dakota+-+Bismarck+Workforce+Center,+1601+E+Century+Ave,+Bismarck,+ND+58503/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x52d7824f399c0b71:0x52c8d8cfe9693932?sa=X"
+        },
+        "address": "Bismarck, ND",
+        "hours": "Open ⋅ Closes 5PM",
+        "gps_coordinates": {
+          "latitude": 46.8371753,
+          "longitude": -100.7667456
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Job Service North Dakota: Home",
+      "link": "https://www.jobsnd.com/",
+      "displayed_link": "https://www.jobsnd.com",
+      "snippet": "Veteran Services. Job Service North Dakota Veterans' Employment Team. Services for Veterans. two construction workers smile at a worksite ...",
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Begin Your Job Search",
+            "link": "https://www.jobsnd.com/job-seeker/begin-your-job-search",
+            "snippet": "We provide services and resources to guide you in your ..."
+          },
+          {
+            "title": "Job Seeker",
+            "link": "https://www.jobsnd.com/job-seeker",
+            "snippet": "Job Seeker \"How To\" Quick Reference Guide. Quick Tips on ..."
+          },
+          {
+            "title": "Unemployment for Individuals",
+            "link": "https://www.jobsnd.com/unemployment-individuals/resources-unemployment-individuals",
+            "snippet": "What is UI ICE? - File a Claim - After my Claim is Filed - ..."
+          },
+          {
+            "title": "Contact",
+            "link": "https://www.jobsnd.com/contact",
+            "snippet": "Unemployment Insurance Tax & Field Services. How to contact ..."
+          },
+          {
+            "title": "What is UI ICE?",
+            "link": "https://www.jobsnd.com/unemployment-individuals/what-ui-ice",
+            "snippet": "UI ICE is Job Service North Dakota's Unemployment Insurance ..."
+          },
+          {
+            "title": "Unemployment for Business",
+            "link": "https://www.jobsnd.com/unemployment-business-tax",
+            "snippet": "Click here to enter North Dakota's Unemployment Insurance ..."
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7xDQzOW4-F8J:https://www.jobsnd.com/+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "UI ICE: Login - ND.gov",
+      "link": "https://apps.nd.gov/jsnd/uiiaclaims/login.htm",
+      "displayed_link": "https://apps.nd.gov › jsnd › uiiaclaims › login",
+      "snippet": "Login. You are about to enter Job Service North Dakota's Unemployment Insurance Internet Claims Entry System (UI ICE). Before you can use UI ICE, you must log into the North Dakota Secure System (Click on the links below for more information).",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2XQFmJ0LMbkJ:https://apps.nd.gov/jsnd/uiiaclaims/login.htm+&cd=8&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://apps.nd.gov/jsnd/uiiaclaims/login.htm+job+service+nd&tbo=1&sa=X&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQHzAHegQIBBAG"
+    },
+    {
+      "position": 3,
+      "title": "ND Workforce Connection",
+      "link": "https://www.ndworkforceconnection.com/",
+      "displayed_link": "https://www.ndworkforceconnection.com",
+      "snippet": "The free Job Service ND mobile app is now available on Apple and Android devices. Simply search Job Service ND in the App Store to download. Enter a keyword and/or city or ZIP code and radius to search for jobs in your area.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:T5KY9UhtyswJ:https://www.ndworkforceconnection.com/+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Job Service North Dakota - Home | Facebook",
+      "link": "https://www.facebook.com/JobServiceND/",
+      "displayed_link": "https://www.facebook.com › ... › Employment Agency",
+      "snippet": "Government Organization in Bismarck, North Dakota. ... Job Service ND Bismarck. ... UI ICE Overview: How to File for Unemployment Insurance in Nor...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rikA-VqD4W4J:https://www.facebook.com/JobServiceND/+&cd=13&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.facebook.com/JobServiceND/+job+service+nd&tbo=1&sa=X&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQHzAMegQIAhAH"
+    },
+    {
+      "position": 5,
+      "title": "Job Service Nd Jobs, Employment in Bismarck, ND | Indeed.com",
+      "link": "https://www.indeed.com/q-Job-Service-Nd-l-Bismarck,-ND-jobs.html",
+      "displayed_link": "https://www.indeed.com › q-Job-Service-Nd-l-Bismarck,-ND-jobs",
+      "snippet": "481 Job Service Nd jobs available in Bismarck, ND on Indeed.com. Apply to Customer Service Representative, Crew Member, Service Technician III and more!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hXJvJ7ohLcMJ:https://www.indeed.com/q-Job-Service-Nd-l-Bismarck,-ND-jobs.html+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Job Service North Dakota | LinkedIn",
+      "link": "https://www.linkedin.com/company/job-service-north-dakota",
+      "displayed_link": "https://www.linkedin.com › company › job-service-north-dakota",
+      "snippet": "Learn about working at Job Service North Dakota. Join LinkedIn today for free. See who you know at Job Service North Dakota, leverage your professional ...",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.linkedin.com/company/job-service-north-dakota+job+service+nd&tbo=1&sa=X&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQHzAOegQIBRAF"
+    },
+    {
+      "position": 7,
+      "title": "Job Service North Dakota - Williston in Williston, ND - (701 ...",
+      "link": "https://local.willistonherald.com/williston-nd/services/employment-services/job-service-north-dakota-williston-701-774-7900",
+      "displayed_link": "https://local.willistonherald.com › services › employment-services › job-ser...",
+      "snippet": "(701) 774-7900 - 422 1st Ave W Williston, ND 58801. Services - Employment Services.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:bhU8M4nSNtwJ:https://local.willistonherald.com/williston-nd/services/employment-services/job-service-north-dakota-williston-701-774-7900+&cd=16&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "nd jobs gov",
+      "link": "https://www.google.com/search?q=nd+jobs+gov&sa=X&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ1QIoAHoECAkQAQ"
+    },
+    {
+      "query": "job service dickinson nd",
+      "link": "https://www.google.com/search?q=job+service+dickinson+nd&sa=X&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ1QIoAXoECAkQAg"
+    },
+    {
+      "query": "jobs nd minot",
+      "link": "https://www.google.com/search?q=jobs+nd+minot&sa=X&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ1QIoAnoECAkQAw"
+    },
+    {
+      "query": "job service north dakota login",
+      "link": "https://www.google.com/search?q=job+service+north+dakota+login&sa=X&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ1QIoA3oECAkQBA"
+    },
+    {
+      "query": "williston nd job service",
+      "link": "https://www.google.com/search?q=williston+nd+job+service&sa=X&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ1QIoBHoECAkQBQ"
+    },
+    {
+      "query": "nd workforce connection",
+      "link": "https://www.google.com/search?q=nd+workforce+connection&sa=X&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ1QIoBXoECAkQBg"
+    },
+    {
+      "query": "job services",
+      "link": "https://www.google.com/search?q=job+services&sa=X&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ1QIoBnoECAkQBw"
+    },
+    {
+      "query": "nd job service ui easy",
+      "link": "https://www.google.com/search?q=nd+job+service+ui+easy&sa=X&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ1QIoB3oECAkQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=job+service+nd&ei=aGEnXt-tFs2Or7wPoqK0iA4&start=10&sa=N&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ8NMDegQIChBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=job+service+nd&ei=aGEnXt-tFs2Or7wPoqK0iA4&start=10&sa=N&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ8tMDegQIChAu",
+      "3": "https://www.google.com/search?q=job+service+nd&ei=aGEnXt-tFs2Or7wPoqK0iA4&start=20&sa=N&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ8tMDegQIChAw",
+      "4": "https://www.google.com/search?q=job+service+nd&ei=aGEnXt-tFs2Or7wPoqK0iA4&start=30&sa=N&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ8tMDegQIChAy",
+      "5": "https://www.google.com/search?q=job+service+nd&ei=aGEnXt-tFs2Or7wPoqK0iA4&start=40&sa=N&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ8tMDegQIChA0",
+      "6": "https://www.google.com/search?q=job+service+nd&ei=aGEnXt-tFs2Or7wPoqK0iA4&start=50&sa=N&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ8tMDegQIChA2",
+      "7": "https://www.google.com/search?q=job+service+nd&ei=aGEnXt-tFs2Or7wPoqK0iA4&start=60&sa=N&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ8tMDegQIChA4",
+      "8": "https://www.google.com/search?q=job+service+nd&ei=aGEnXt-tFs2Or7wPoqK0iA4&start=70&sa=N&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ8tMDegQIChA6",
+      "9": "https://www.google.com/search?q=job+service+nd&ei=aGEnXt-tFs2Or7wPoqK0iA4&start=80&sa=N&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ8tMDegQIChA8",
+      "10": "https://www.google.com/search?q=job+service+nd&ei=aGEnXt-tFs2Or7wPoqK0iA4&start=90&sa=N&ved=2ahUKEwjfgcuwxpXnAhVNx4sBHSIRDeEQ8tMDegQIChA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+service+nd&start=10&token=7551773a24057d4b",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+service+nd&start=10&token=7551773a24057d4b",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+service+nd&start=10&token=7551773a24057d4b",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+service+nd&start=20&token=8f20690749bb74f0",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+service+nd&start=30&token=eb0679be0d4b6b5f",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+service+nd&start=40&token=3756516529ac2c69",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+service+nd&start=50&token=d71826afa6122b5c",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+service+nd&start=60&token=cede8926c5543d72",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+service+nd&start=70&token=12d844278cc47d8c",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+service+nd&start=80&token=b818186f360ff983",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+service+nd&start=90&token=4f404238ae644820"
+    }
+  }
+}

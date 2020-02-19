@@ -1,0 +1,222 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 14:29:39 UTC",
+    "processed_at": "2020-01-21 14:29:39 UTC",
+    "google_url": "https://www.google.com/search?q=affiliate+form&oq=affiliate+form&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.14
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "affiliate form",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 615000000,
+    "time_taken_displayed": 0.47,
+    "query_displayed": "affiliate form"
+  },
+  "knowledge_graph": {},
+  "inline_images": [
+    {
+      "link": "/search?q=affiliate+form&tbm=isch&source=iu&ictx=1&fir=UMvIGCHPGNOgzM%253A%252CCySgDVfkgYV8SM%252C_&vet=1&usg=AI4_-kQKPnszQXrNF22-WhyK1qfx3HYdtA&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q9QEwA3oECAoQJQ#imgrc=UMvIGCHPGNOgzM:",
+      "thumbnail": "data:image/png;base64,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"
+    },
+    {
+      "link": "/search?q=affiliate+form&tbm=isch&source=iu&ictx=1&fir=aLXuLZPEp52zwM%253A%252Ch0ydsZ2yko4UwM%252C_&vet=1&usg=AI4_-kR6TeWDZrc0a52KrKMIIlSmp0u5Lw&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q9QEwBHoECAoQJw#imgrc=aLXuLZPEp52zwM:",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAACCCAMAAAAnvvUXAAAAmVBMVEX////39/f29vb7+/vo6OjHx8fr6+tCQkLy8vLX19fu7u7j4+PIxsTExcba2trQ0tO2t7myt73JzM/Pzcy9vb4VFRUwMDAaGhpqamqEf3uLhYGurq+oqqmbmZmhoJ6fn6LV2t+CgoOzsq2LjZCEhoyUl5z38u2TjIrk4NqfmJOwqqTj29rZ0NF1dHQoJychISFMS0tjYF0AAAAqXFkZAAADgklEQVRoge1Zi3LaOhC1ZUmVrGesBdrIj4YELiS3Sbn//3FXLqQJDTi27Ek7U84MQsD4sNrV7h7ZSXLBebCUG0zbmUiTJP/xXcaGsnyx1760VVPrullty6pa+qYpffV1kCnGSqKIdS4lRN+AcsQQRwqih5rzAhR/6R8DVtmlh7EsSHDOxWhjsg70J0HpWfSPWIY6ELO2EWAuz3Ge05yOYVnb0pflrS+vprIrHhk779z+9SE7H+g0HcyStZNfKQcsaf/WXpLFb5BbsJXfegl3toqOUxq2So4pZeGF82hbjtIv2rsTZeMUkZ4Ga8+11NxRKISz/evSLyyFV6Hwegre1T6WJfm57/bz31sxp2CZpgegnOEkRwnDeLDceGXKTXV3v6obBzdjauY+edocGmPL2xyMyQDJ9TmaIZHuKN+DFzb0gmOsq0Ia50ojC4mlkuBAaUMGKhrkCBcbDQK41P6rVM45psjAeJ3asm1b6ZISz3hxQ2dXeweTsExjy4XlwvJ7Wfqk3bvZ+JzVnX3p3XaVHk6ZeFS1Wzf/VM1t3VyP6CNJ697DckaRhG6P2o5/2n1dNS87ZukIZZfqO6V7TrOcFbHHLEyIXAsh9Gm/UKEFfsACi07vZyxPWR5w+ucgTBhDNIwj+14frJXQRvMcnOIGtI47CqyL5RWUVhvwYKS6H3/Mj8c0p/I/SakmYi+BRIrSPPpe1EZtV/XNytnt3baw197G0aCsPQGHAYUhiSwQLzHqJXzOlIaLCrqw/OUsXd3vI2xJp25Ra6U5cYSCBGlsqR2P+QdUAEgLGw5WCg6Fgig7J7ltFFxkpeLhzOkKFU+TJUF5UIpb+TGFWSMQ9o7BNKdcGBrETiRLaCLOSmeV1taoyG40ETKW4aC2UJBkI2KeobCiEgoCS7Bjnpe02blvsh+gADtxkDqh12fxjzQ2V2VTVw1v6tt7WzfLVRxNEMxBNadpGFGrn6NZAugp9GcUDgoJoPFbCOjtp3CaaHGCBAvxwZFn3vCCI0OUMw//RtMQ4B6wF07Zqe65HxwxWGmGHOIy5GJoIdobDIQQrcOn/vE5/D11VoRIi1DvmNZhGkKmo9rSs2XsJ+JJ4hF7CjmCnn96hW+RLHw2f5wtnp4enxaL+ePnWJbF493GaKIK8TCbx7PMv+9233a7759383iW/xaL2QGL2S6ShSnyCiaS5YI3+B82GjpZcEQeUAAAAABJRU5ErkJggg=="
+    },
+    {
+      "link": "/search?q=affiliate+form&tbm=isch&source=iu&ictx=1&fir=duohAvqiZQnJQM%253A%252CgeeKbKBxj-8lFM%252C_&vet=1&usg=AI4_-kTKq58dnkkBFAeUbNOmu4TtKO3nsQ&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q9QEwBXoECAoQKQ#imgrc=duohAvqiZQnJQM:",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGkAAACCCAMAAABy3xZJAAAAbFBMVEX////5+fn09PTx8fH8/Pzn5+fs7Ozd3d3k5OTg4ODZ2dnPz8/CwsLU1NTFxcXKysq7u7urq6uioqJ/f3+bm5uKioqVlZWzs7NwcHB5eXlVVVVlZWVFRUVgYGA8PDxMTEz8urr/2dn/oKD/7Oxm4ho4AAAESUlEQVRoge2aiZKbOBCGdd9CB0KyM5s93/8dV8L2xJBh4sUws0nxVZmjhfkLRKu7BQAcHHw6AjFGMbztIkDvGglBZBMV1DM7DLb70lUtRetZg1WFMIQRgghjAF6sgxChasBPKakYTDzReAra5N6fEwhn1g/nMuTs80tS4LdCh5xSzOf+KaWgv+rSw/wSYj9kf8LAynjK2cScSz4FB37HYhiyMuE0wB+fbxHEgeVSUaU4VZxJLoF0gPdDEBxr/ocCRDNQGxgViqOnLupNGL+s1fanPlgF3J/PvsQdOe7ewZSiYQ11GgGkYAmCKEx03qMTaQa5r9GnfPUZBXPq+64Pw2kHJeC0NZ3rfGc07rxw2nvnuz2UDn4OjnHv4DEIngHmhguPJ5tOCaEp1eDPvyZ2OCswIHj7nI8rdTaVHIuv1cvOSqCdkZDvSqQdlJZoNRNErXC6ANrmveHCBn4pam+LsVS70oq3Wj1uX29gzGD9sW8GVstExp4rDA8OfgjBU7eZetH9wPfowxgc7oRJ4O9/pnYIGYSYElafbIyorcKYISZQe/QnPvWog3VWhxgLmA9HhDoHlXBcG+WsVU5pb1VnuOSdtGuUlmhjUUVc1oxeBqdxhaZpwtOuTEZuq+nulGeVDv5XtNg69um8Y9HbGcq7vKsUhhJy6jzNKcQS/OvRK9xknhFMkcp32nQ9VsY5bvVr5NtcaZGPU5qnJo+wSgjU3KSOppBtkv68C6SMYkwFu0taDh7lA5+ItwLE+6x8AfJLeu5/Z2U/wZYuYIJhvf8Qkh1eadxAgkmMhRSU4ba1n9KvyKLnvtOyjiXPRWS5ZaXS0rUuPoYr3ekjlRbAyy0rlZZve/VjAmokbmn6unNPwZgveCuSXCJGBeWUvn3Ewdw/9yuTZv55N0VMx4SJsXFJX6nbK5Wmu+SbEuMpFB+sL6EUjdkV5zdXErxW1t7YznSdsVRckVKuVJpxf02ycV3esfKaSPVPWLunrWcTp82yYQqNZb0vsPU0lWLSgsZIvH22vvB0H3MDBz8Pz76ae4DPvsRfg9uw0oZReNvYg2JZzdQgxlRCaNtcB04ethnkFt7ldt3JMkj9MKTTS10Ow3noIzzbL7H0p/48nPsNZz20sk5r7VxnLe+01RZp5KmrFsud3n1+ZWWcPtiNY9w7ONgOMebc6BqbRl63LrUDYeJmkuOnv9csvYYxXf9XixDaIhrE5NpCwZvJtBHtS+jkQ0q+pBDSEIcih8RDs3R9STEVY6MKMQWnY4ix89H7lAcE6j9ciVm7kFPksauN9UAVU4w5pHkcuMbZFmk5uHzOTkYjubwerNttcg+i0YApbaXOpeIBY3lzKU7HQqfVOm2FxmpoJoSlEJyrGne5FNJQpY3mgmosRK1mlBYScEq5pcWq58aVGgG18U5x7rzx3juruCnGM69bg6eGFmWrpWizSVic9OD3Bd9RLR0cvMu/4ZAxUBjYcUEAAAAASUVORK5CYII="
+    },
+    {
+      "link": "/search?q=affiliate+form&tbm=isch&source=iu&ictx=1&fir=gdBADkUwgRAE_M%253A%252CHDAzV5f6gB85gM%252C_&vet=1&usg=AI4_-kSMDlw9uyGN-0-U7UEJtWj1T2FUzw&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q9QEwBnoECAoQKw#imgrc=gdBADkUwgRAE_M:",
+      "thumbnail": "data:image/png;base64,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"
+    },
+    {
+      "link": "/search?q=affiliate+form&tbm=isch&source=iu&ictx=1&fir=-nPzpoc-RRrK8M%253A%252CN2WrE6QZFEAtLM%252C_&vet=1&usg=AI4_-kQJtTcSy9F4StSE9I3zXhFjeu8QNg&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q9QEwB3oECAoQLQ#imgrc=-nPzpoc-RRrK8M:",
+      "thumbnail": "data:image/png;base64,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"
+    },
+    {
+      "link": "/search?q=affiliate+form&tbm=isch&source=iu&ictx=1&fir=0WrmYoPYMFyFjM%253A%252CCySgDVfkgYV8SM%252C_&vet=1&usg=AI4_-kRCVPZg_golgrpu2wbs60IQM4I2Pw&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q9QEwCHoECAoQLw#imgrc=0WrmYoPYMFyFjM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVbBgotu7hJQWRAX6TypnTTpFvl8eiJasPO35M174gtBTaNZ04Gk0s_Jw38Yv&s"
+    },
+    {
+      "link": "/search?q=affiliate+form&tbm=isch&source=iu&ictx=1&fir=WBJeVUlhxjOIFM%253A%252CN2WrE6QZFEAtLM%252C_&vet=1&usg=AI4_-kRtku60zKKNsIQFk_uuQyMPuQxWVA&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q9QEwCXoECAoQMQ#imgrc=WBJeVUlhxjOIFM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSghIggtvaQcuAaU-BP5rZpzl8pknLScWWqmWtaKkItXeMfNFkp5CjoTfyibPdG7g&s"
+    },
+    {
+      "link": "/search?q=affiliate+form&tbm=isch&source=iu&ictx=1&fir=jxOo6xUrLKQfdM%253A%252CCnLxHSZbMFTsYM%252C_&vet=1&usg=AI4_-kQ_IuFxT3iibkHN2G1M_aUnK4oRfA&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q9QEwCnoECAoQMw#imgrc=jxOo6xUrLKQfdM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEdRDifNgw3M8AE4TVzqrZzsUqB0d-X_Ls25gvPHnAYwYbvMHoIpCkm0lY8Uxp&s"
+    },
+    {
+      "link": "/search?q=affiliate+form&tbm=isch&source=iu&ictx=1&fir=gg1YXG7UBr6zOM%253A%252CU1FdU9IO0Z8MkM%252C_&vet=1&usg=AI4_-kR7p2jlJYcVR50d7kCogYruobiXQg&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q9QEwC3oECAoQNQ#imgrc=gg1YXG7UBr6zOM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGtW972uQXjsjKOjIkEAvBI07d8WD5sV5drKpkF2CTVkbHZuIf6MphHU3nQ3ImJg&s"
+    },
+    {
+      "link": "/search?q=affiliate+form&tbm=isch&source=iu&ictx=1&fir=3ALPgBDlniacQM%253A%252CD9aYJv2CXtw1rM%252C_&vet=1&usg=AI4_-kSIraRRPSAqB0sB4_vSnqYyrFAK1A&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q9QEwDHoECAoQNw#imgrc=3ALPgBDlniacQM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTts0Ch3JPbZ8B_qUW7mOBKZo0Qa6CPgHxOGY5jImgv5ao0PCNhN1haGJe_j4jgUA&s"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Affiliate Signup Form Template | JotForm",
+      "link": "https://www.jotform.com/form-templates/affiliate-signup-form",
+      "displayed_link": "www.jotform.com › Form Templates › Signup Forms",
+      "snippet": "Through the Affiliate Registration Form, you can track the referrer and send their commissions to their PayPal account once there is a sale by simply collecting ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:geeKbKBxj-8J:https://www.jotform.com/form-templates/affiliate-signup-form+&cd=1&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.jotform.com/form-templates/affiliate-signup-form+affiliate+form&tbo=1&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8QHzAAegQIBRAL"
+    },
+    {
+      "position": 2,
+      "title": "Creating an affiliate registration form - Affiliate Forms For Ninja Forms - AffiliateWP",
+      "link": "https://docs.affiliatewp.com/article/809-creating-an-affiliate-registration-form-affiliate-forms-for-ninja-forms",
+      "displayed_link": "docs.affiliatewp.com › Pro Add-ons",
+      "date": "Apr 17, 2019",
+      "snippet": "Note: This article relates to the Affiliate Forms For Ninja Forms pro add-on. The Affiliate Forms for Ninja Forms pro add-on requires the free 3rd-party Ninja Forms plugin. ... Add the form fields for affiliate registration.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:oeVNIjmgX5AJ:https://docs.affiliatewp.com/article/809-creating-an-affiliate-registration-form-affiliate-forms-for-ninja-forms+&cd=2&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Affiliate Forms For Ninja Forms - AffiliateWP",
+      "link": "https://affiliatewp.com/add-ons/pro/affiliate-forms-for-ninja-forms/",
+      "displayed_link": "affiliatewp.com › add-ons › pro › affiliate-forms-for-ninja-forms",
+      "snippet": "Affiliate Forms For Ninja Forms makes it exceptionally easy to create an affiliate registration form using the flexibility of the free Ninja Forms plugin.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CySgDVfkgYUJ:https://affiliatewp.com/add-ons/pro/affiliate-forms-for-ninja-forms/+&cd=3&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://affiliatewp.com/add-ons/pro/affiliate-forms-for-ninja-forms/+affiliate+form&tbo=1&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8QHzACegQICRAJ"
+    },
+    {
+      "position": 4,
+      "title": "Creating Affiliate Registration Forms | Itthinx Documentation",
+      "link": "http://docs.itthinx.com/document/affiliates-pro/setup/settings/integrations/formidable/creating-affiliate-registration-forms/",
+      "displayed_link": "docs.itthinx.com › setup › settings › integrations › formidable › creati...",
+      "snippet": "Our affiliate marketing platform incorporates a customizable registration form for your affiliates. But the additional flexibility gained by using Formidable Forms ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:N2WrE6QZFEAJ:docs.itthinx.com/document/affiliates-pro/setup/settings/integrations/formidable/creating-affiliate-registration-forms/+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Creating Affiliate Registration Forms | Itthinx Documentation",
+      "link": "http://docs.itthinx.com/document/affiliates-pro/setup/settings/integrations/ninja-forms/creating-affiliate-registration-forms/",
+      "displayed_link": "docs.itthinx.com › setup › settings › integrations › ninja-forms › creat...",
+      "snippet": "Our integration works with and without the Ninja Forms User Management add-on. Here we are going to learn how to create an affiliate registration form with ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:JCdbEOiTVl8J:docs.itthinx.com/document/affiliates-pro/setup/settings/integrations/ninja-forms/creating-affiliate-registration-forms/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Become an Affiliate - Ninja Forms",
+      "link": "https://ninjaforms.com/affiliate-signup/",
+      "displayed_link": "ninjaforms.com › affiliate-signup",
+      "snippet": "We will pay you a 20% commission on every sale you generate using your referral link. All you have to do is recommend Ninja Forms using your affiliate link on ...",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "individual_add_on": 3.8,
+            "": 25.8
+          },
+          "extensions": [
+            "Individual Add-On‎: ‎$3.80",
+            "$25.80"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:29I7GcoFTtcJ:https://ninjaforms.com/affiliate-signup/+&cd=16&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://ninjaforms.com/affiliate-signup/+affiliate+form&tbo=1&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8QHzAPegQIARAJ"
+    },
+    {
+      "position": 7,
+      "title": "Free Affiliate Signup Form Template | 123FormBuilder",
+      "link": "https://www.123formbuilder.com/free-form-templates/Affiliate-Signup-Form-3431898/",
+      "displayed_link": "www.123formbuilder.com › Form Templates › E-commerce forms",
+      "snippet": "Modify this affiliate signup form template and add it to your website in seconds. No coding required! Add multiple recipients, use file uploads, add third-party ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:W7FuLJMF2QAJ:https://www.123formbuilder.com/free-form-templates/Affiliate-Signup-Form-3431898/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Affiliate Application Form - Strategic Network Solutions",
+      "link": "https://stntsol.com/affiliate_application",
+      "displayed_link": "stntsol.com › affiliate_application",
+      "snippet": "If you have a website, newsletter or other means of promotion, you can help us promote our services and in turn be guaranteed a generous $12.00 commission ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:P7ld9lnLIc4J:https://stntsol.com/affiliate_application+&cd=18&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Affiliate Signup Form - Social Media Examiner",
+      "link": "https://events.socialmediaexaminer.com/amember/aff/signup",
+      "displayed_link": "events.socialmediaexaminer.com › amember › aff › signup",
+      "snippet": "Please complete this form to become an affiliate. IMPORTANT: If you have previously attended our event, simply login above to simplify the completion of this ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wXp-_vSE2lIJ:https://events.socialmediaexaminer.com/amember/aff/signup+&cd=19&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "affiliate registration form sample",
+      "link": "https://www.google.com/search?q=affiliate+registration+form+sample&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q1QIoAHoECAsQAQ"
+    },
+    {
+      "query": "affiliatewp affiliate forms for gravity forms",
+      "link": "https://www.google.com/search?q=affiliatewp+affiliate+forms+for+gravity+forms&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q1QIoAXoECAsQAg"
+    },
+    {
+      "query": "affiliate application sample",
+      "link": "https://www.google.com/search?q=affiliate+application+sample&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q1QIoAnoECAsQAw"
+    },
+    {
+      "query": "affiliate forms for ninja forms",
+      "link": "https://www.google.com/search?q=affiliate+forms+for+ninja+forms&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q1QIoA3oECAsQBA"
+    },
+    {
+      "query": "ninja forms affiliate",
+      "link": "https://www.google.com/search?q=ninja+forms+affiliate&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q1QIoBHoECAsQBQ"
+    },
+    {
+      "query": "ninjas forms",
+      "link": "https://www.google.com/search?q=ninjas+forms&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q1QIoBXoECAsQBg"
+    },
+    {
+      "query": "affiliatewp affiliate forms for ninja forms premium addon",
+      "link": "https://www.google.com/search?q=affiliatewp+affiliate+forms+for+ninja+forms+premium+addon&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q1QIoBnoECAsQBw"
+    },
+    {
+      "query": "affiliatewp custom registration form",
+      "link": "https://www.google.com/search?q=affiliatewp+custom+registration+form&sa=X&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q1QIoB3oECAsQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=affiliate+form&ei=1QonXqzUBJP40gSRy4j4Bw&start=10&sa=N&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q8NMDegQIDBBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=affiliate+form&ei=1QonXqzUBJP40gSRy4j4Bw&start=10&sa=N&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q8tMDegQIDBAu",
+      "3": "https://www.google.com/search?q=affiliate+form&ei=1QonXqzUBJP40gSRy4j4Bw&start=20&sa=N&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q8tMDegQIDBAw",
+      "4": "https://www.google.com/search?q=affiliate+form&ei=1QonXqzUBJP40gSRy4j4Bw&start=30&sa=N&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q8tMDegQIDBAy",
+      "5": "https://www.google.com/search?q=affiliate+form&ei=1QonXqzUBJP40gSRy4j4Bw&start=40&sa=N&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q8tMDegQIDBA0",
+      "6": "https://www.google.com/search?q=affiliate+form&ei=1QonXqzUBJP40gSRy4j4Bw&start=50&sa=N&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q8tMDegQIDBA2",
+      "7": "https://www.google.com/search?q=affiliate+form&ei=1QonXqzUBJP40gSRy4j4Bw&start=60&sa=N&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q8tMDegQIDBA4",
+      "8": "https://www.google.com/search?q=affiliate+form&ei=1QonXqzUBJP40gSRy4j4Bw&start=70&sa=N&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q8tMDegQIDBA6",
+      "9": "https://www.google.com/search?q=affiliate+form&ei=1QonXqzUBJP40gSRy4j4Bw&start=80&sa=N&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q8tMDegQIDBA8",
+      "10": "https://www.google.com/search?q=affiliate+form&ei=1QonXqzUBJP40gSRy4j4Bw&start=90&sa=N&ved=2ahUKEwjskqfo85TnAhUTvJQKHZElAn8Q8tMDegQIDBA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+form&start=10&token=85d2baf1562daad8",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+form&start=10&token=85d2baf1562daad8",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+form&start=10&token=85d2baf1562daad8",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+form&start=20&token=3695fe699eb985c5",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+form&start=30&token=81d901f120a242e3",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+form&start=40&token=3815722c41cee394",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+form&start=50&token=76c5e9fa0162ff31",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+form&start=60&token=0f4199eb859e5041",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+form&start=70&token=12cf2e0e4c2b0984",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+form&start=80&token=796607fb8759f784",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+form&start=90&token=0be357b56cc682d3"
+    }
+  }
+}

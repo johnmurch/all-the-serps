@@ -1,0 +1,267 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 15:02:06 UTC",
+    "processed_at": "2020-01-21 15:02:06 UTC",
+    "google_url": "https://www.google.com/search?q=what%E2%80%99s+an+affiliate+program&oq=what%E2%80%99s+an+affiliate+program&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 3.37
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what’s an affiliate program",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 571000000,
+    "time_taken_displayed": 0.6,
+    "query_displayed": "what’s an affiliate program"
+  },
+  "knowledge_graph": {
+    "title": "Affiliate marketing",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "description": "Affiliate marketing is a type of performance-based marketing in which a business rewards one or more affiliates for each visitor or customer brought by the affiliate's own marketing efforts.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Affiliate_marketing"
+    },
+    "affiliate_marketing_books": [
+      {
+        "name": "The Complete Guide to...",
+        "link": "https://www.google.com/search?q=The+Complete+Guide+to+Affiliate+Marketing+on+the+Web:+How+to+Use+and+Profit+from+Affiliate+Marketing+Programs+Bruce+C.+Brown&stick=H4sIAAAAAAAAAG2OvwrCMBjEKSIouCg-wIejg_FPXbqpgy6Cg-KcJl9qaJKvpKlF8GkcfQIfz7i7HXe_467XGfWZZfNVmlZyMmAFWyzzah0edz8dlyJjgqwll0lqXcu9rN_JMHrGoAiaHMuJyvrVfZ5vCDuylcGAsG-0RAgEG6W00TxaR-5LDNoVQA5ChK-YZ3Cg9oddagTuJJw8KR1AebJ_qzEvPLc1bH0j4t4sivjr002-Dzyk-8cAAAA&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQxA0wG3oECA0QBQ",
+        "source": "common",
+        "image": "data:image/png;base64,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"
+      },
+      {
+        "name": "Affiliate Marketing: Learn H...",
+        "link": "https://www.google.com/search?q=Affiliate+Marketing:+Learn+How+to+Make+%2410,000+and+Each+Month+on+Autopilot.+Michael+Ezeanaka&stick=H4sIAAAAAAAAAA3IMQrCMBQAUIoUdHBQPMBHnERMqnWwW4eCg72ByzdJ25D0_9JGCh7H0RN4PPvGN5-tF6IV8pymnd4uRS2SpK6vvr2kp_3GqUwoblumTPNII_Z6-Ear6bw3Klgm8WR2wyd-5FVlvcVgoMTemWCpzuBusCe48QiBp3cGdok8SCkBSUOBqoGSKTTABPkrcGc9hyOUVjVoPBRvg4QOf3H0B183bQaoAAAA&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQxA0wG3oECA0QBw",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Affiliate Program Manage...",
+        "link": "https://www.google.com/search?q=Affiliate+Program+Management:+An+Hour+a+Day&stick=H4sIAAAAAAAAAONgFuLUz9U3MDYxKUhR4tFP1zc0SspNKi7Ky9ISyU620k_Oz83Nz7NKyS_PK08sSilexSgIFMvJSU0uyczP00_Kz88uXsSq7ZiWlpmTmViSqhBQlJ9elJir4JuYl5iempuaV2Kl4Jin4JFfWqSQqOCSWLmDlREA7lzmK3YAAAA&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQxA0wG3oECA0QCQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Affiliate Marketing: Launch...",
+        "link": "https://www.google.com/search?q=Affiliate+Marketing:+Launch+a+Six+Figure+Business+with+Clickbank+Products,+Affiliate+Links,+Amazon+Affiliate+Program,+and+Internet+Marketing+(Online+Business)+Noah+Gray&stick=H4sIAAAAAAAAAE3NTUoDQRCGYYYQ0IULxQMUrlQCbUhWs1NBEaIGPEGl_6bo7qrQ3cOox8kqeAKP57gxbl8-vudocnaskrpZLJdbc3GivJrPvXPaLbp6fR50q7SkJNwaGXjAbMpXczq2GK2uJKw2IqHspvvm1jmKhNXCM-ZgK7FvYYU96w4Q3ugdHsj32cJdX4htKTBQ7eA-kg4b5ADrLKbXtczgcLUiDr8h4afwvz5ufcY0A2QDT1xtZlsPMFy-chyRP-sKXgQ7eMz48T1tfgDUM8D99QAAAA&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQxA0wG3oECA0QCw",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Performance Partnerships: The Che...",
+        "link": "https://www.google.com/search?q=Performance+Partnerships:+The+Checkered+Past,+Changing+Present+%26+Exciting+Future+of+Affiliate+Marketing&stick=H4sIAAAAAAAAABXJPwrCMBSAcYoUdHBQPMDDwUGEtNipm4huQgcvENOXNOZfeUmp53H0BB7POn6_bz5bL5hjxbGq-na7ZIqVpXw6ZQsp9hsjaiaCc8HXbRj9yKmNn2w1mbUokg6ePUIw8Z2rBkkGctwLhIZT8kix032s4d4hnDsUBgnb6cV0mJp7pb2ChjCiT7CDy0vo9KfrkAZCCBJOUmqreUK4cTL4v988-wEL2Ik4swAAAA&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQxA0wG3oECA0QDQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      }
+    ],
+    "affiliate_marketing_books_link": "https://www.google.com/search?q=Affiliate+marketing+books&stick=H4sIAAAAAAAAAONgFuLUz9U3MDYxKUhRQjC1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKAsVyclKTSzLz8_ST8vOzixexSjqmpWXmZCaWpCrkJhZlp5Zk5qUrgOV2sDICAHuziaJhAAAA&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQMSgAMBt6BAgNEAE",
+    "affiliate_marketing_books_stick": "H4sIAAAAAAAAAONgFuLUz9U3MDYxKUhRQjC1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKAsVyclKTSzLz8_ST8vOzixexSjqmpWXmZCaWpCrkJhZlp5Zk5qUrgOV2sDICAHuziaJhAAAA"
+  },
+  "related_questions": [
+    {
+      "question": "What is an affiliate program and how does it work?",
+      "snippet": "Simply put, affiliate programs, also called associate programs, are arrangements in which an online merchant Web site pays affiliate Web sites a commission to send them traffic. These affiliate Web sites post links to the merchant site and are paid according to a particular agreement.",
+      "title": "What Are Affiliate Programs? - How Affiliate Programs Work ...",
+      "link": "https://money.howstuffworks.com/affiliate-program1.htm",
+      "displayed_link": "money.howstuffworks.com › affiliate-program1"
+    },
+    {
+      "question": "What does an affiliate program mean?",
+      "snippet": "An affiliate program is an automated electronic program that involves a Web advertiser and recruited webmasters. The webmasters, as affiliates, place the company's advertisements on their individually owned websites. The ads in affiliate programs are linked to company websites and are referred to as affiliate links.",
+      "title": "What is Affiliate Program? - Definition from Techopedia",
+      "link": "https://www.techopedia.com/definition/1398/affiliate-program",
+      "displayed_link": "www.techopedia.com › definition › affiliate-program"
+    },
+    {
+      "question": "How do affiliate marketing programs work?",
+      "snippet": "Essentially affiliate marketing involves a merchant paying a commission to other online entities, known as affiliates, for referring new business to the merchant's website. Affiliate marketing is performance-based, which means affiliates only get paid when their promotional efforts actually result in a transaction.Nov 5, 2014",
+      "title": "How Does Affiliate Marketing Work? | Acceleration Partners",
+      "link": "https://www.accelerationpartners.com/blog/affiliate-marketing-101-part-i",
+      "displayed_link": "www.accelerationpartners.com › blog › affiliate-marketing-101-part-i"
+    },
+    {
+      "question": "Which affiliate program is the best?",
+      "snippet": "Whatever the reason, here's a list of top beginner affiliate programs for those of you just getting started:DreamHost Affiliate Program. ... Amazon Associates. ... eBay Partner Network. ... Target Affiliates. ... AliExpress Affiliate Program.",
+      "title": "The 67+ Best Affiliate Programs of 2019 (Highest Paying)",
+      "link": "https://www.forexreferral.com/best-affiliate-programs",
+      "displayed_link": "www.forexreferral.com › best-affiliate-programs"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "What Are Affiliate Programs? - How Affiliate Programs Work ...",
+      "link": "https://money.howstuffworks.com/affiliate-program1.htm",
+      "displayed_link": "money.howstuffworks.com › Money › Business › Marketing",
+      "snippet": "Simply put, affiliate programs, also called associate programs, are arrangements in which an online merchant Web site pays affiliate Web sites a commission to send them traffic. These affiliate Web sites post links to the merchant site and are paid according to a particular agreement.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ymf04lT08g4J:https://money.howstuffworks.com/affiliate-program1.htm+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "How Does an Affiliate Program Work? | Practical Ecommerce",
+      "link": "https://www.practicalecommerce.com/affiliate-intro",
+      "displayed_link": "www.practicalecommerce.com › affiliate-intro",
+      "snippet": "As you are probably aware, what is called an “affiliate program” or “associate program” is a relationship in which a merchant pays you (the “affiliate”) for links ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:56cEc4RINe4J:https://www.practicalecommerce.com/affiliate-intro+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Affiliate Marketing Made Simple: A Step-by-Step Guide",
+      "link": "https://neilpatel.com/what-is-affiliate-marketing/",
+      "displayed_link": "neilpatel.com › what-is-affiliate-marketing",
+      "snippet": "The best definition of what affiliate marketing is can be found on Pat Flynn's Smart ... Their Amazon Associates affiliate program lets you promote any item that is ...",
+      "rich_snippet": {
+        "bottom": {
+          "questions": [
+            "What is affiliate marketing?",
+            "How much money can you make as an affiliate marketer?",
+            "What are some of the most popular affilaite networks?",
+            "Is affiliate marketing a pyramid scheme?"
+          ]
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Affiliate Marketing in 2020: What It Is + How Beginners Can Start",
+      "link": "https://www.bigcommerce.com/blog/affiliate-marketing/",
+      "displayed_link": "www.bigcommerce.com › blog › affiliate-marketing",
+      "snippet": "What Affiliate Marketing Strategies Should You Employ in 2020? Benefits To Joining the BigCommerce Affiliate Program; Join The BigCommerce Affiliate ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How Does Affiliate ...",
+            "link": "https://www.bigcommerce.com/blog/affiliate-marketing/#how-does-affiliate-marketing-work"
+          },
+          {
+            "title": "Why Be an Affiliate Marketer?",
+            "link": "https://www.bigcommerce.com/blog/affiliate-marketing/#why-be-an-affiliate-marketer"
+          },
+          {
+            "title": "Tips to Help You Become A ...",
+            "link": "https://www.bigcommerce.com/blog/affiliate-marketing/#tips-to-help-you-become-a-successful-affiliate-marketer"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:u3DLER_kwN8J:https://www.bigcommerce.com/blog/affiliate-marketing/+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "What Is an Affiliate Program? - Lifewire",
+      "link": "https://www.lifewire.com/affiliate-program-basics-3466242",
+      "displayed_link": "www.lifewire.com › How To › Web Design & Dev › Basics",
+      "date": "Nov 26, 2018",
+      "snippet": "Joining an affiliate program is a way to earn money from your website. You'll need to regularly post good content and promote your site for ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VT1Z9dGvifwJ:https://www.lifewire.com/affiliate-program-basics-3466242+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "What Are the Best Affiliate Programs for Beginners? - Oberlo",
+      "link": "https://www.oberlo.com/blog/affiliate-programs",
+      "displayed_link": "www.oberlo.com › blog › affiliate-programs",
+      "date": "Nov 1, 2019",
+      "snippet": "In general, affiliate programs are pretty simple. All they do is ... as a newcomer. But first, you need to know what they are and how they work.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zS8jLGUw_igJ:https://www.oberlo.com/blog/affiliate-programs+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "What is Affiliate Program? - Definition from Techopedia",
+      "link": "https://www.techopedia.com/definition/1398/affiliate-program",
+      "displayed_link": "www.techopedia.com › definition › affiliate-program",
+      "snippet": "An affiliate program is an automated electronic program that involves a Web advertiser and recruited webmasters. The webmasters, as affiliates, place the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:UkcXA5NmGNIJ:https://www.techopedia.com/definition/1398/affiliate-program+&cd=16&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.techopedia.com/definition/1398/affiliate-program+what%E2%80%99s+an+affiliate+program&tbo=1&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQHzAPegQICRAJ"
+    },
+    {
+      "position": 8,
+      "title": "Affiliate marketing - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Affiliate_marketing",
+      "displayed_link": "en.wikipedia.org › wiki › Affiliate_marketing",
+      "snippet": "Affiliate marketing is a type of performance-based marketing in which a business rewards one ... Amazon was not the first merchant to offer an affiliate program, but its program was the first to become widely known ... Merchants initially were uninformed about adware, what impact it had, and how it could damage their brands.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Rsi_AOJNSuIJ:https://en.wikipedia.org/wiki/Affiliate_marketing+&cd=17&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Affiliate_marketing+what%E2%80%99s+an+affiliate+program&tbo=1&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQHzAQegQICBAJ"
+    },
+    {
+      "position": 9,
+      "title": "How to Start an Affiliate Program That's Actually Successful",
+      "link": "https://www.crazyegg.com/blog/how-to-start-an-affiliate-program/",
+      "displayed_link": "www.crazyegg.com › Blog › Marketing",
+      "date": "Feb 5, 2018",
+      "snippet": "Learn how to start an affiliate program and earn more money! Before set it up, it's good to analyze what your competitors are doing and stablish ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zT5b4t3CchkJ:https://www.crazyegg.com/blog/how-to-start-an-affiliate-program/+&cd=18&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.crazyegg.com/blog/how-to-start-an-affiliate-program/+what%E2%80%99s+an+affiliate+program&tbo=1&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQHzARegQIBRAL"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "how to start affiliate marketing",
+      "link": "https://www.google.com/search?q=how+to+start+affiliate+marketing&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ1QIoAHoECBYQAQ"
+    },
+    {
+      "query": "affiliate marketing for beginners",
+      "link": "https://www.google.com/search?q=affiliate+marketing+for+beginners&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ1QIoAXoECBYQAg"
+    },
+    {
+      "query": "what is affiliate program in e-commerce",
+      "link": "https://www.google.com/search?q=what+is+affiliate+program+in+e-commerce&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ1QIoAnoECBYQAw"
+    },
+    {
+      "query": "amazon affiliate program",
+      "link": "https://www.google.com/search?q=amazon+affiliate+program&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ1QIoA3oECBYQBA"
+    },
+    {
+      "query": "affiliate marketing examples",
+      "link": "https://www.google.com/search?q=affiliate+marketing+examples&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ1QIoBHoECBYQBQ"
+    },
+    {
+      "query": "what is affiliate marketing and how does it work",
+      "link": "https://www.google.com/search?q=what+is+affiliate+marketing+and+how+does+it+work&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ1QIoBXoECBYQBg"
+    },
+    {
+      "query": "affiliate marketing pdf",
+      "link": "https://www.google.com/search?q=affiliate+marketing+pdf&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ1QIoBnoECBYQBw"
+    },
+    {
+      "query": "free affiliate programs",
+      "link": "https://www.google.com/search?q=free+affiliate+programs&sa=X&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ1QIoB3oECBYQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what%E2%80%99s+an+affiliate+program&ei=cBInXrnYGa3YhwObxLDYDA&start=10&sa=N&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ8NMDegQIFRBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what%E2%80%99s+an+affiliate+program&ei=cBInXrnYGa3YhwObxLDYDA&start=10&sa=N&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ8tMDegQIFRAv",
+      "3": "https://www.google.com/search?q=what%E2%80%99s+an+affiliate+program&ei=cBInXrnYGa3YhwObxLDYDA&start=20&sa=N&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ8tMDegQIFRAx",
+      "4": "https://www.google.com/search?q=what%E2%80%99s+an+affiliate+program&ei=cBInXrnYGa3YhwObxLDYDA&start=30&sa=N&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ8tMDegQIFRAz",
+      "5": "https://www.google.com/search?q=what%E2%80%99s+an+affiliate+program&ei=cBInXrnYGa3YhwObxLDYDA&start=40&sa=N&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ8tMDegQIFRA1",
+      "6": "https://www.google.com/search?q=what%E2%80%99s+an+affiliate+program&ei=cBInXrnYGa3YhwObxLDYDA&start=50&sa=N&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ8tMDegQIFRA3",
+      "7": "https://www.google.com/search?q=what%E2%80%99s+an+affiliate+program&ei=cBInXrnYGa3YhwObxLDYDA&start=60&sa=N&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ8tMDegQIFRA5",
+      "8": "https://www.google.com/search?q=what%E2%80%99s+an+affiliate+program&ei=cBInXrnYGa3YhwObxLDYDA&start=70&sa=N&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ8tMDegQIFRA7",
+      "9": "https://www.google.com/search?q=what%E2%80%99s+an+affiliate+program&ei=cBInXrnYGa3YhwObxLDYDA&start=80&sa=N&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ8tMDegQIFRA9",
+      "10": "https://www.google.com/search?q=what%E2%80%99s+an+affiliate+program&ei=cBInXrnYGa3YhwObxLDYDA&start=90&sa=N&ved=2ahUKEwi50O-I-5TnAhUt7GEKHRsiDMsQ8tMDegQIFRA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what%E2%80%99s+an+affiliate+program&start=10&token=7397269e66b8e4f1",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what%E2%80%99s+an+affiliate+program&start=10&token=7397269e66b8e4f1",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what%E2%80%99s+an+affiliate+program&start=10&token=7397269e66b8e4f1",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what%E2%80%99s+an+affiliate+program&start=20&token=0777cf6c248570ac",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what%E2%80%99s+an+affiliate+program&start=30&token=857dafc5abc0c0c5",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what%E2%80%99s+an+affiliate+program&start=40&token=619a685ab25c5397",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what%E2%80%99s+an+affiliate+program&start=50&token=6df689310bbfd2c2",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what%E2%80%99s+an+affiliate+program&start=60&token=c08db159e4ff8349",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what%E2%80%99s+an+affiliate+program&start=70&token=d448261f39e0b771",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what%E2%80%99s+an+affiliate+program&start=80&token=915f90f098bc4929",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what%E2%80%99s+an+affiliate+program&start=90&token=fb8897b27839bbe1"
+    }
+  }
+}

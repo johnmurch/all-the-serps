@@ -1,0 +1,317 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 19:43:49 UTC",
+    "processed_at": "2020-01-20 19:43:49 UTC",
+    "google_url": "https://www.google.com/search?q=what+is+oracle+software&oq=what+is+oracle+software&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 4.89
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what is oracle software",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 185000000,
+    "time_taken_displayed": 0.64,
+    "query_displayed": "what is oracle software"
+  },
+  "knowledge_graph": {
+    "title": "Oracle Database",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "description": "Oracle Database is a proprietary multi-model database management system produced and marketed by Oracle Corporation.\nIt is a database commonly used for running online transaction processing, data warehousing and mixed database workloads.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Oracle_Database"
+    },
+    "stable_release": "19c / 13 February 2019; 11 months ago",
+    "developed_by": "Oracle Corporation",
+    "license": "Proprietary",
+    "written_in": "Assembly language, C, C++",
+    "people_also_search_for": [
+      {
+        "name": "PostgreSQL",
+        "link": "https://www.google.com/search?q=PostgreSQL&stick=H4sIAAAAAAAAAONgFuLUz9U3MCwrt6xS4gAxTSvzyrX4nPNzc_PzgjNTUssTK4sXsXIF5BeXpBelBgf67GBlBABReoZwNwAAAA&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQxA0wI3oECBMQBQ",
+        "source": "common",
+        "image": "data:image/png;base64,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"
+      },
+      {
+        "name": "MySQL",
+        "link": "https://www.google.com/search?q=MySQL&stick=H4sIAAAAAAAAAONgFuLUz9U3MCwrt6xS4gAxTSqNs7X4nPNzc_PzgjNTUssTK4sXsbL6VgYH-uxgZQQAiRIYIzIAAAA&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQxA0wI3oECBMQBw",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAkFBMVEX////ihgAAXIfrrnXihADx9vjon0oAYYtqk60AWob9+PGLqr367eLhfgD45tPlkSXtt4Q/fp5umbLG1t/12b6bs8OkvMx9orgASXzi6+8AVYPS3+YAZY0AUIBTiaWcuMmuxNHrq2fvwJFPgaC6ztgwdZgUbJLrrm/mljXwxJropFv23sn007XyzafooVLnmz5eWF3FAAACHElEQVRYhe2W23aiMBRAT1ICAUWFIBhQQbmoZbD//3eTS0GccWlX06cZ9gM5QLI9IYcgwMTExMT/DCsT/iOigMdOQoi5KKkAwrqpK2NTo2aWBaVpVnwvUhKSws0MTSUHJh18Z2gq8j63jeH6NX3AHDPRuk8JaGJmwn1AUrOlC4YozJ90ewmLh5AbPaV4VNX7wkwU9iWUbQ1EbA072p8EawNTw4Owr0Wyd+KnnZ+RNyEpR6f1tyucEWDF7ZSU7NtJiZUf0sjidWry1vVFXWxyNi5wNlQHr/7aH7y5ZgjlRX0UCxeOuzbY/XyrWYrT+8r3rpavWMLc1iE6Afi+p+/PdrdnRJymxoX+gW3t0DvRAZ0WGjijayva1rYugJDXjw7ZTeQUuJZR5oqIAuF63jzj8G61fb8l0mFkrUYigIoMIgxbtQtTnEvRbKP3Gtm+o+Mr0WhqLuSumBHHLomlyJ2pG2vRzpe+hSz00X1RBC7mkOAQ7kRYtosoin6dxeCviAgkYvDW5VqExyJFhw5K1EaLFyKeNjkWny0tSv4UHZWoA29pdR1agYXmD0RYbr8UO6lYyDil8lntqSBwZvBmS87Ij2BlIftwRYJWxZKP6NIdh0qgVB0DWYoVFZsMKRKJFF3eFEeZQCSjlS2SA2iP6vqpXbSXB7O8J7lNbczBt1+N/KSoA0ktV/IR3vxlDpqKhpIk/oG/QhMTExMT/zC/AWBRJJi+N35bAAAAAElFTkSuQmCC"
+      },
+      {
+        "name": "Microsoft SQL Server",
+        "link": "https://www.google.com/search?q=SQL+Server&stick=H4sIAAAAAAAAAONgFuLUz9U3MCwrt6xSgjCNDMqKtPic83Nz8_OCM1NSyxMrixexcgUH-igEpxaVpRbtYGUEAM6gAkw4AAAA&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQxA0wI3oECBMQCQ",
+        "source": "common",
+        "image": "data:image/png;base64,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"
+      },
+      {
+        "name": "IBM Db2 Family",
+        "link": "https://www.google.com/search?q=IBM+Db2+Family&stick=H4sIAAAAAAAAAONgFuLUz9U3MCwrt6xSgjCNDErKtPic83Nz8_OCM1NSyxMrixex8nk6-Sq4JBkpuCXmZuZU7mBlBAD95YNzPAAAAA&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQxA0wI3oECBMQCw",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAmVBMVEUAmiwAAAD///8AnS0AGQgKnDFqamp+fn4zMzP09PQKCgqnp6cAlyJbW1sAlRYAkQCo063KysqPj49wuHrg4OATExNRrF3j8eY6OjphYWEYGBgrKyuGhobn5+eurq7b7d5zc3MhISFSUlJCQkLt+PHC4MfL5tG3t7ednZ1KSkpktHCy2LhHqFWHxJJ8v4eSyZspoD04pUsAhgDXqUCOAAADnklEQVRYhe2Y22KiMBCGk+yqBSEBPKKComAVqtV9/4fbmYSgUmhFuNiL/W2dCSSfmWQmthCW632zpM1lD418PFHGewGSa3UHGkevcyhdjDXIbYNBuQo0bsuhNJCgqD1ojqAW63xTCKAuONRk5L0TEHXJphvQgTzk85vWzXsz8Uak/Ej2MnWnO9nkvrXQ9cIou8ndUTpUrsqUUDWMh6EPINrP5RceaGNTust99em6053MB5A50KKDB9HtStrVFnotlT/Y1IOK0Iz70EC7PDQZ25BVhPYIoqapzUR7Zn6HlmU+XCqBKB24rruVng/eAOwBLK6NK7WhS+VsS9gyyAvGgS29PngrsOFYXRmjgpAOAun4P4C+zP9rTNUdyyBcSbXJg9tay/3B5YVfPBCDolM9yPY8by69nael9hmdlefBj+cXnepBc9/2VdUsfVvJ38k23DjCNXht0UQ/gEIdyX1o/Ty04CiboVd0qgeZi8nC1N4kWi6X0WSxwDY0JzSCt4WJncrjyqBNGIZH6W3Bw48dgMWkAePJ20PqF53qQQfYGrUhG/CGYN/B4nFsGIZLfWiE1IP3hnn0tEpFa+QKaGDciR0P0sIXYAj3cEagcT3IHOY60OGDaD9E4+HKQdn4oepUH1rVUfs2hzyK5ig8XDGpbq260CqPWqOvT1eIiuL3++HH8yjPZXtbeLYta2Huq8swG5x40aoDva5/EfS7I5FfHYl0pN5/0GsgS0hxq+RDi/PcewZkpbM1KvvgxPpQfjLiiDlnSXYiVahK0EjX/ZlbU+07nFxmyv2oINWB4k8HR10QpH2xZ2w9ShibiedBM8EFjP7kCBKcx4yNOP6jwAW8X5uACP9kLBEI4kSsAXRRLjCnX2P7BoRmLdSMcPSFjNLUInJGzUApGgSdcI0y2EILOCc5r0agaQ6SytQCc6DDyr0IShKILJacMzYrNu250CCzZzKR+KmO8y0IPn2f7xru4FrITM0qOd9uv4OjbiC4VM+pB/0RFgxLVUIKPsOQHHkd1KBEWAL1wGaq1qTPUkymeBaD0ufzSCq+Wrei/RS94kt89CRo6kiN8Oi5ZtI/XaD4Ha2K8q8+IbmUVfa5VsWQzo7aC7y6kJWSioV7QdwhWVXEjSXWhNWkajNdGYETvj1HJPiQpf0fEnhQECzxtpxLrB5E1VX0s5xezPJHY3urRQ6IKXLyh3XxWby25JboZaqQia5050p6TUUup70+Ef4C/oxaRI9Ylx0AAAAASUVORK5CYII="
+      },
+      {
+        "name": "Microsoft Access",
+        "link": "https://www.google.com/search?q=Microsoft+Access&stick=H4sIAAAAAAAAAONgFuLUz9U3MCwrt6xS4gAxTS3Mq7T4nPNzc_PzgjNTUssTK4sXsQr4ZiYX5Rfnp5UoOCYnpxYX72BlBAAH0vucPQAAAA&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQxA0wI3oECBMQDQ",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAclBMVEWjNjn///+iMzaoREefJiqfKCydHSGeIiadHyOhLzLt3t6aDxXw4+Py5+ecGR6gLC/Rp6j38PDkzM3Vr7CxXmCvWFrfw8PMnZ6ZAAytU1Xp1tfFjY7Hk5TAgoP7+Pi1aGm7eHmlPUDauLmqS064cHKYAADYznr5AAADy0lEQVRYhc2YDZOqLBSAFRFUEhFNC7XUvP//L94DtK1f69W2mfc9s9tMQU9yvjmO+y+JirJ9IMdB3uY2Z2MtBoR34TgJgfMeKJWiuXJGfYOwchCUyqzJExaMEQdBqcqqvGMETuKsyQ5QGvX13eOgDDR/jAOgcvDolz43RYNuaXxSUkqlTnE6Ay2V8ZN0uYcw54QEASGcJ921EeqF2wkx4vuYBpwzEM4DiuE9wddSHQa1dVbIKE5B4kj2oskpAxrpxCHQqrLjvsEkwbj4LUiLvDPEyg+AXPfkhfgjINf19pr+XyBJ/2+gx2eOprz1OD8GuhV3fsRoq6CbEvckSKjXL0kIhWHirx0Z3SvRy+gUg0RKZvXgJcQPE+5kbkSWv5sPTS1WlZckPoXAD6h+hZjV75nTSHi0JYjZZxb+CuhKL4xDEqGBzgEX/9qWRWz3L0Bh/lxg6zpKT8oktug0zWsLkC+eK93ibJt+dJqD2Om5UiW/AqFXUZErZjgAShp93kh7yMIxNkFzHdECPix6vTTMvX4TpIKZim7wYa0fy1346iZothsZ4587/ZryA6BoVlmt8S/c+MgV7QWlFZnZmEXmuEZTbunvAp2ynGLeTjSKOgswtnOj2dlQp6KxO99iBS0DCjBm52hqfgs4o6c3OfOzBTpSu8c5z88PB4ouMDDmpFFz89sjQZQRE4rtzAGQLdM+tkIJ+9O1whbsKYhr40vwCGw8qZj6BvJSVWRlXVVNVdVlVqh4ZLYxyBq/ZgHlg1HCzDd2h4g1fqoToP2tHL0H4tFsVeC3QNb4k1W+GzTWkTX+RCYVfXfQBsb4Oou+lDTJbrtLNtXGd6Gp0/LHkCbZbRN0//Y5m/a/zkqNJ93CfSD1GMWlNX72NFTYmh3j7PYTKO3PhHZz43998xluPd0E3aK+ekAAXuoomG17PSIx5SQdRwni3r2pSpGBiLpqrxCwEHOEV+nY/N0Am75zEM4MeJLdfCP4Wyjhj1qOdWvUAr3D2NymBxhGoE5Uw7kLNSkJvbytRPGKhWXtn4AnXcmhcrQlx0r2fw762NHUp0Af67PrRRf0HqgKPnGpuWUOvogDoMcaRIqcU4rloatoU/ZSX6/tVbSAiEEXaHG5p+PyAAfZMGWvyzGGhpvehW07D4C6ASIWWnVi/nHS3ev+u4IdeCDTZ8PlQUm16LMBxOmOKcQL9LM4Zi6yZ6ixa1qTqr7KO062cAfmR2bw47BgffBzeKKlR1FnPJ1mvQWyEheivTI+wv1iWAeJrygH5wKqA/G7X4CsgGGrGv42N/0Ff5M+4/YZe1MAAAAASUVORK5CYII="
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?q=Oracle+Database&stick=H4sIAAAAAAAAAONgFuLUz9U3MCwrt6xSQjC1hLOTrfST83Nz8_OsijNTUssTK4sXsfL7FyUm56QquCSWJCYlFqfuYGUEAGMeMHRCAAAA&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQMSgAMCN6BAgTEAE",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MCwrt6xSQjC1hLOTrfST83Nz8_OsijNTUssTK4sXsfL7FyUm56QquCSWJCYlFqfuYGUEAGMeMHRCAAAA"
+  },
+  "inline_videos": [
+    {
+      "title": "Oracle SQL Tutorial 1 - Intro to Oracle Database",
+      "link": "https://www.youtube.com/watch?v=QHYuuXPdQNM",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKRgOhtiF7f9sBC9lW6Oyfl_VkCmbusExi5L6vwWANAUYb7tSUjM4yobsqMg",
+      "channel": "Caleb Curry",
+      "duration": "10:18",
+      "platform": "YouTube",
+      "date": "Jul 27, 2015"
+    },
+    {
+      "title": "0103 What is Oracle Software",
+      "link": "https://www.youtube.com/watch?v=3N5zwr0ubhQ",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8UxJ0CSeX_ifGW5PH3NUHMIvo9w-TAQY_tL9ZlxuBksyea6fBdMOkdgeBVqD35w",
+      "channel": "Akhlaq Ahmed",
+      "duration": "3:10",
+      "platform": "YouTube",
+      "date": "Mar 27, 2012"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is Oracle software used for?",
+      "snippet": "A database server also prevents unauthorized access and provides efficient solutions for failure recovery. Oracle Database is the first database designed for enterprise grid computing, the most flexible and cost effective way to manage information and applications.",
+      "title": "What is Oracle and what is it used for? - Quora",
+      "link": "https://www.quora.com/What-is-Oracle-and-what-is-it-used-for",
+      "displayed_link": "www.quora.com › What-is-Oracle-and-what-is-it-used-for"
+    },
+    {
+      "question": "What is Oracle and how does it work?",
+      "snippet": "Oracle database is a collection of physical operating system files or disks (in the simplest terms). Oracle instance is set of Oracle background processes or threads and a shared memory area, which is memory that is shared across those threads or processes running on a single computer.Dec 15, 2015",
+      "title": "How does oracle database work? - Quora",
+      "link": "https://www.quora.com/How-does-oracle-database-work",
+      "displayed_link": "www.quora.com › How-does-oracle-database-work"
+    },
+    {
+      "question": "What is Oracle programming language?",
+      "snippet": "PL/SQL is the procedural language extension to SQL. PL/SQL is a programming language like C, Java or Pascal. In the Oracle world, there is no better way to access your data from inside a program. ... PL/SQL is a feature-rich language geared toward developing database applications.Feb 1, 2010",
+      "title": "Learn Oracle - What is Oracle? - Toolbox",
+      "link": "https://it.toolbox.com/blogs/lewiscunningham/learn-oracle-what-is-oracle-082205",
+      "displayed_link": "it.toolbox.com › blogs › lewiscunningham › learn-oracle-what-is-oracle-..."
+    },
+    {
+      "question": "What is the difference between Oracle and SQL?",
+      "snippet": "Perhaps the most obvious difference between the two RDBMS is the language they use. ... The main difference between the two languages is how they handle variables, stored procedures, and built-in functions. PL/SQL in Oracle can also group procedures together into packages, which can't be done in MS SQL Server.Mar 13, 2014",
+      "title": "Microsoft SQL Server vs. Oracle: The Same, But Different?",
+      "link": "https://www.seguetech.com/microsoft-sql-server-vs-oracle-same-different/",
+      "displayed_link": "www.seguetech.com › microsoft-sql-server-vs-oracle-same-different"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Introduction to the Oracle Database - Oracle Help Center",
+      "link": "https://docs.oracle.com/cd/B19306_01/server.102/b14220/intro.htm",
+      "displayed_link": "docs.oracle.com › server.102 › intro",
+      "snippet": "With grid computing, groups of independent, modular hardware and software ... Infrastructure: the hardware and software that create a data storage and program ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BFk8d_CMC0oJ:https://docs.oracle.com/cd/B19306_01/server.102/b14220/intro.htm+&cd=1&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://docs.oracle.com/cd/B19306_01/server.102/b14220/intro.htm+what+is+oracle+software&tbo=1&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQHzAAegQIAhAJ"
+    },
+    {
+      "position": 2,
+      "title": "Oracle Software Downloads | Oracle",
+      "link": "https://www.oracle.com/downloads/",
+      "displayed_link": "www.oracle.com › downloads",
+      "snippet": "If you already have a commercial license, you should download your software from the Oracle Software Delivery Cloud, which is specifically designed for ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2DemOv9OK8AJ:https://www.oracle.com/downloads/+&cd=10&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.oracle.com/downloads/+what+is+oracle+software&tbo=1&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQHzAJegQIAxAJ"
+    },
+    {
+      "position": 3,
+      "title": "Oracle Database - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Oracle_Database",
+      "displayed_link": "en.wikipedia.org › wiki › Oracle_Database",
+      "snippet": "Oracle Database (commonly referred to as Oracle RDBMS or simply as Oracle) is a proprietary multi-model database management system produced and marketed by Oracle Corporation. It is a database commonly used for running online transaction processing (OLTP), data warehousing (DW) and mixed (OLTP & DW) database workloads.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "History",
+            "link": "https://en.wikipedia.org/wiki/Oracle_Database#History"
+          },
+          {
+            "title": "Releases and versions",
+            "link": "https://en.wikipedia.org/wiki/Oracle_Database#Releases_and_versions"
+          },
+          {
+            "title": "Market position",
+            "link": "https://en.wikipedia.org/wiki/Oracle_Database#Market_position"
+          },
+          {
+            "title": "Competition",
+            "link": "https://en.wikipedia.org/wiki/Oracle_Database#Competition"
+          }
+        ],
+        "list": [
+          {
+            "title": "Oracle Corporation",
+            "link": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+            "date": "Stable release‎: ‎19c / 13 February 2019; 11 mo..."
+          },
+          {
+            "title": "Assembly language",
+            "link": "https://en.wikipedia.org/wiki/Assembly_language",
+            "date": "License‎: ‎Proprietary"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kEpn6HwXpbQJ:https://en.wikipedia.org/wiki/Oracle_Database+&cd=11&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Oracle_Database+what+is+oracle+software&tbo=1&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQHzAKegQIBxAJ"
+    },
+    {
+      "position": 4,
+      "title": "Oracle Corporation - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "displayed_link": "en.wikipedia.org › wiki › Oracle_Corporation",
+      "date": "Jump to Development software",
+      "snippet": "... a Java-based software-development platform; Oracle ... Oracle Developer Studio - a software generation system for the ...",
+      "sitelinks": {
+        "list": [
+          {
+            "date": "Revenue‎: ‎US$39.83 billion (2018)"
+          },
+          {
+            "title": "Larry Ellison",
+            "link": "https://en.wikipedia.org/wiki/Larry_Ellison",
+            "date": "Headquarters‎: ‎Redwood City, California‎, United ..."
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lyfILgOTUFIJ:https://en.wikipedia.org/wiki/Oracle_Corporation+&cd=12&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Oracle_Corporation+what+is+oracle+software&tbo=1&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQHzALegQICRAJ"
+    },
+    {
+      "position": 5,
+      "title": "What is Oracle? - Definition from WhatIs.com - SearchOracle",
+      "link": "https://searchoracle.techtarget.com/definition/Oracle",
+      "displayed_link": "searchoracle.techtarget.com › definition › Oracle",
+      "snippet": "Like other RDBMS software, Oracle Database is built on top of SQL, a standardized programming language that database administrators, data analysts and ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NVNs4RMe8L0J:https://searchoracle.techtarget.com/definition/Oracle+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "What is Oracle and what is it used for? - Quora",
+      "link": "https://www.quora.com/What-is-Oracle-and-what-is-it-used-for",
+      "displayed_link": "www.quora.com › What-is-Oracle-and-what-is-it-used-for",
+      "snippet": "Well, Oracle itself is a multi-national software company headquartered in Redwood Shores, CA. The company has 100s if not 1000s of software and hardware ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "answers": 4
+          },
+          "extensions": [
+            "4 answers"
+          ]
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "What is Oracle Database (Oracle DB)? - Definition from ...",
+      "link": "https://www.techopedia.com/definition/8711/oracle-database",
+      "displayed_link": "www.techopedia.com › definition › oracle-database",
+      "snippet": "Oracle database (Oracle DB) is a relational database management system ... Different software versions are available, based on requirements and budget.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:xg8M5OOUZ7AJ:https://www.techopedia.com/definition/8711/oracle-database+&cd=15&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.techopedia.com/definition/8711/oracle-database+what+is+oracle+software&tbo=1&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQHzAOegQIBBAJ"
+    },
+    {
+      "position": 8,
+      "title": "Learn Oracle - What is Oracle? - IT Tool Box",
+      "link": "https://it.toolbox.com/blogs/lewiscunningham/learn-oracle-what-is-oracle-082205",
+      "displayed_link": "it.toolbox.com › blogs › lewiscunningham › learn-oracle-what-is-orac...",
+      "date": "Feb 1, 2010",
+      "snippet": "Oracle is the most widely used database and has the most advanced feature ... Oracle: Oracle is a software through wich you can access the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pg2j2EFhakUJ:https://it.toolbox.com/blogs/lewiscunningham/learn-oracle-what-is-oracle-082205+&cd=16&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [
+    {
+      "position": 1,
+      "query": "Relational database management system SoftwareView 15+ moreView 15+",
+      "results": []
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "oracle software download",
+      "link": "https://www.google.com/search?q=oracle+software+download&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ1QIoAHoECBQQAQ"
+    },
+    {
+      "query": "oracle database download",
+      "link": "https://www.google.com/search?q=oracle+database+download&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ1QIoAXoECBQQAg"
+    },
+    {
+      "query": "features of oracle",
+      "link": "https://www.google.com/search?q=features+of+oracle&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ1QIoAnoECBQQAw"
+    },
+    {
+      "query": "oracle language",
+      "link": "https://www.google.com/search?q=oracle+language&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ1QIoA3oECBQQBA"
+    },
+    {
+      "query": "oracle database tutorial",
+      "link": "https://www.google.com/search?q=oracle+database+tutorial&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ1QIoBHoECBQQBQ"
+    },
+    {
+      "query": "oracle wiki",
+      "link": "https://www.google.com/search?q=oracle+wiki&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ1QIoBXoECBQQBg"
+    },
+    {
+      "query": "what is oracle in computer",
+      "link": "https://www.google.com/search?q=what+is+oracle+in+computer&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ1QIoBnoECBQQBw"
+    },
+    {
+      "query": "oracle products",
+      "link": "https://www.google.com/search?q=oracle+products&sa=X&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ1QIoB3oECBQQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what+is+oracle+software&ei=9gImXuTIC4WJmAXW9raQDA&start=10&sa=N&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ8NMDegQIEBA-",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what+is+oracle+software&ei=9gImXuTIC4WJmAXW9raQDA&start=10&sa=N&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ8tMDegQIEBAu",
+      "3": "https://www.google.com/search?q=what+is+oracle+software&ei=9gImXuTIC4WJmAXW9raQDA&start=20&sa=N&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ8tMDegQIEBAw",
+      "4": "https://www.google.com/search?q=what+is+oracle+software&ei=9gImXuTIC4WJmAXW9raQDA&start=30&sa=N&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ8tMDegQIEBAy",
+      "5": "https://www.google.com/search?q=what+is+oracle+software&ei=9gImXuTIC4WJmAXW9raQDA&start=40&sa=N&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ8tMDegQIEBA0",
+      "6": "https://www.google.com/search?q=what+is+oracle+software&ei=9gImXuTIC4WJmAXW9raQDA&start=50&sa=N&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ8tMDegQIEBA2",
+      "7": "https://www.google.com/search?q=what+is+oracle+software&ei=9gImXuTIC4WJmAXW9raQDA&start=60&sa=N&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ8tMDegQIEBA4",
+      "8": "https://www.google.com/search?q=what+is+oracle+software&ei=9gImXuTIC4WJmAXW9raQDA&start=70&sa=N&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ8tMDegQIEBA6",
+      "9": "https://www.google.com/search?q=what+is+oracle+software&ei=9gImXuTIC4WJmAXW9raQDA&start=80&sa=N&ved=2ahUKEwjkm8SV-JLnAhWFBKYKHVa7DcIQ8tMDegQIEBA8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+oracle+software&start=10&token=1e5972f7b675b0cb",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+oracle+software&start=10&token=1e5972f7b675b0cb",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+oracle+software&start=10&token=1e5972f7b675b0cb",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+oracle+software&start=20&token=1af25dacdbc6d22e",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+oracle+software&start=30&token=cb17741d7d6710c9",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+oracle+software&start=40&token=3879586aa497087f",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+oracle+software&start=50&token=44c749ad88e3016d",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+oracle+software&start=60&token=2fcc02c1347f42e6",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+oracle+software&start=70&token=0a857836d42c4891",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+oracle+software&start=80&token=8ac03fd37a3bcb58"
+    }
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 15:58:37 UTC",
+    "processed_at": "2020-01-21 15:58:37 UTC",
+    "google_url": "https://www.google.com/search?q=best+travel+agency+near+me&oq=best+travel+agency+near+me&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 3.35
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best travel agency near me",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 3200000000,
+    "time_taken_displayed": 0.88,
+    "query_displayed": "best travel agency near me"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=best+travel+agency+near+me&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36599982,-121875991,2313&tbm=lcl&sa=X&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4QtgN6BAgLEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 36.599982,
+      "longitude": -121.875991,
+      "altitude": 2313
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=best+travel+agency+near+me&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36599982,-121875991,2313&tbm=lcl&sa=X&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4QjGp6BAgLED0",
+    "places": [
+      {
+        "position": 1,
+        "title": "Del Monte Aviation",
+        "place_id": "5476732794380572105",
+        "lsig": "AB86z5XGPqzVX6EkA5lwnD1I-tB4",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XGPqzVX6EkA5lwnD1I-tB4&ludocid=5476732794380572105&q=best+travel+agency+near+me&tbm=lcl&token=529a9567ed6a315e",
+        "rating": 4.9,
+        "reviews": 33,
+        "type": "Travel agency",
+        "address": "100 Sky Park Dr",
+        "phone": "In Monterey Regional Airport",
+        "website": "http://www.dma-mry.com/",
+        "gps_coordinates": {
+          "latitude": 36.5885781,
+          "longitude": -121.8542902
+        }
+      },
+      {
+        "position": 2,
+        "title": "Carmel Monterey Travel",
+        "place_id": "476424387178973849",
+        "lsig": "AB86z5WPbPvU0SJb9GyGpMaKWBM1",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WPbPvU0SJb9GyGpMaKWBM1&ludocid=476424387178973849&q=best+travel+agency+near+me&tbm=lcl&token=507a0d27148e4625",
+        "rating": 4.5,
+        "reviews": 2,
+        "type": "Travel agency",
+        "hours": "Closed ⋅ Opens 9AM · (831) 649-4292",
+        "address": "601 Abrego St",
+        "website": "http://www.carmelmontereytravel.com/",
+        "gps_coordinates": {
+          "latitude": 36.5965408,
+          "longitude": -121.8920471
+        }
+      },
+      {
+        "position": 3,
+        "title": "Kayak Rentals & Tours",
+        "place_id": "12102588982141790578",
+        "lsig": "AB86z5XboYK-j-gZ0F-hRp_sSjOV",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XboYK-j-gZ0F-hRp_sSjOV&ludocid=12102588982141790578&q=best+travel+agency+near+me&tbm=lcl&token=7d26f9408ea0300a",
+        "rating": 5,
+        "reviews": 2,
+        "type": "Travel agency",
+        "address": "299 Cannery Row",
+        "website": "#",
+        "gps_coordinates": {
+          "latitude": 36.61138690000001,
+          "longitude": -121.8976929
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "How much does it cost to hire a travel agent?",
+      "snippet": "Plus, the Tribune reports that “agencies might charge $25 to $30 to book a domestic flight, $50 to $80 to book a vacation to a single destination and about $100 per hour for research and planning advice.” But, you can typically expect a travel agent to cost around the same as if you'd booked it yourself.Jan 8, 2018",
+      "title": "Should You Use a Travel Agent or Book Online? - The Cheat Sheet",
+      "link": "https://www.cheatsheet.com/culture/should-you-use-a-travel-agent-or-book-online.html/",
+      "displayed_link": "www.cheatsheet.com › culture › should-you-use-a-travel-agent-or-book..."
+    },
+    {
+      "question": "Which travel agency has the best deals?",
+      "snippet": "Here are my top five:Google Flights.Kayak. ... Travelzoo. ... Airfarewatchdog. Some travelers are more spontaneous than others. ... Travelocity. Though it is similar in many ways to sites like Priceline and Expedia, I am consistently impressed with Travelocity's travel packages. ... Jun 11, 2017",
+      "title": "5 best sites for finding travel deals | Fox News",
+      "link": "https://www.foxnews.com/tech/5-best-sites-for-finding-travel-deals",
+      "displayed_link": "www.foxnews.com › tech › 5-best-sites-for-finding-travel-deals"
+    },
+    {
+      "question": "Who is the best travel agent to use?",
+      "snippet": "The top 5 online travel agents for the best holiday dealsLastminute.com. Why we rate it: This all-encompassing online travel agent has been a trusted booking service since 1998, and with over 18,000 reviews its Trustpilot score is excellent. ... Opodo. Why we rate it: Opodo is part of ODIGEO, Europe's largest online travel company. ... eDreams. ... On The Beach. ... Expedia.Sep 21, 2018",
+      "title": "The top 5 online travel agents for the best holiday deals",
+      "link": "https://www.loveexploring.com/news/77330/the-top-5-online-travel-agents-for-the-best-holiday-deals",
+      "displayed_link": "www.loveexploring.com › news › the-top-5-online-travel-agents-for-the..."
+    },
+    {
+      "question": "Does AAA offer travel agents?",
+      "snippet": "With advice on cruises, tours, maps, directions, hotels, air, car rentals, and more, the goal of AAA's travel agencies is to make your travel planning as easy as possible, so your trip is as memorable as can be. To learn more about travel agents through AAA at your regional AAA website, click \"GO.\"",
+      "title": "Travel Agents - AAA Dining Discounts, Restaurant Discounts with ...",
+      "link": "http://travel.aaa.com/travel-agents.htm",
+      "displayed_link": "travel.aaa.com › travel-agents"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Best Travel Agencies Near Me - January 2020: Find Nearby ...",
+      "link": "https://www.yelp.com/nearme/travel-agencies",
+      "displayed_link": "www.yelp.com › nearme › travel-agencies",
+      "snippet": "Best Travel Agencies Near Me. Now Voyager Travel. 47 reviews. Travel Services. Travel Darlings. 47 reviews. Travel Agents. All Inclusive Travel. 6 reviews. Travel Services. Imperial Travel Service. 6 reviews. Travel Services. China Travel Services. 21 reviews. Allara Travel. 25 reviews. Edge Of Wonder Travels Unlimited. ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TmfOPosuBHgJ:https://www.yelp.com/nearme/travel-agencies+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "The 10 Best Travel Agencies Near Me (with Free Estimates)",
+      "link": "https://www.thumbtack.com/k/travel-agency/near-me/",
+      "displayed_link": "www.thumbtack.com › Events",
+      "snippet": "Where do you even find travel agencies these days? Online – right here on this list. See profiles and customer reviews of top travel agents near you.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OhhNa0CQ8OkJ:https://www.thumbtack.com/k/travel-agency/near-me/+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Top 50 Best Travel Agencies | ConsumerAffairs",
+      "link": "https://www.consumeraffairs.com/travel/agencies.html",
+      "displayed_link": "www.consumeraffairs.com › travel › agencies",
+      "snippet": "Going on a trip? Find the best travel agencies to make planning simple by using our guide and comparing 30K+ verified customer reviews and ratings.",
+      "rich_snippet": {
+        "bottom": {
+          "questions": [
+            "How much does it cost to hire a travel agent?",
+            "How do I know if a travel agent is legit?",
+            "Does it cost to use a travel agent?",
+            "What are the different types of travel agencies?",
+            "Why use a travel agent instead of booking online?",
+            "Can a travel agent save you money?",
+            "What services do travel agencies provide?",
+            "Are you supposed to tip a travel agent?"
+          ]
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Top 10 Best Salinas CA Travel Agents | Angie's List",
+      "link": "https://www.angieslist.com/companylist/us/ca/salinas/travel-agencies.htm",
+      "displayed_link": "www.angieslist.com › Local Reviews › Travel Agents › CA › Salinas",
+      "snippet": "Join for free! Read real reviews and see ratings for Salinas, CA Travel Agents near you to help you pick the right pro Travel Agency.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5gXp5WP15xkJ:https://www.angieslist.com/companylist/us/ca/salinas/travel-agencies.htm+&cd=16&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.angieslist.com/companylist/us/ca/salinas/travel-agencies.htm+best+travel+agency+near+me&tbo=1&sa=X&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4QHzAPegQIAxAL"
+    },
+    {
+      "position": 5,
+      "title": "Local Travel Agents - Find a Top-Rated Travel Agency on ...",
+      "link": "https://www.angieslist.com/companylist/travel-agencies.htm",
+      "displayed_link": "www.angieslist.com › Local Reviews",
+      "snippet": "Use Angie's List to find highly-rated professional travel agents near you. Read real reviews on Angie's List so you can pick the right travel agency for the job the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0BYUa5ZpYxIJ:https://www.angieslist.com/companylist/travel-agencies.htm+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "7 Tips to Help You Find the Best Travel Agent - Travel + Leisure",
+      "link": "https://www.travelandleisure.com/a-list/how-to-find-a-travel-agent",
+      "displayed_link": "www.travelandleisure.com › A-List",
+      "date": "Sep 2, 2017",
+      "snippet": "7 smart tips to help you find a lifelong travel specialist.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:is0ZA4OscAEJ:https://www.travelandleisure.com/a-list/how-to-find-a-travel-agent+&cd=18&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "How to pick the best travel agencies in San Jose? - San Jose Forum ...",
+      "link": "https://www.tripadvisor.com/ShowTopic-g33020-i417-k8018101-How_to_pick_the_best_travel_agencies_in_San_Jose-San_Jose_California.html",
+      "displayed_link": "www.tripadvisor.com › ... › San Jose › San Jose Travel Forum",
+      "snippet": "Answer 1 of 12: I don't have any experience yet with travel agencies. ... from airlines, but when the airlines stopped giving travel agents commissions, many devoted to giving travelers the best advice left the profession. ... Anyway, thanks for welcoming me! ... 6 replies; Local vineyards/wineries near San Jose GOOD ONES?",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "answers": 10
+          },
+          "extensions": [
+            "10 answers"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:O5qPHXbauy0J:https://www.tripadvisor.com/ShowTopic-g33020-i417-k8018101-How_to_pick_the_best_travel_agencies_in_San_Jose-San_Jose_California.html+&cd=19&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.tripadvisor.com/ShowTopic-g33020-i417-k8018101-How_to_pick_the_best_travel_agencies_in_San_Jose-San_Jose_California.html+best+travel+agency+near+me&tbo=1&sa=X&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4QHzASegQICRAL"
+    },
+    {
+      "position": 8,
+      "title": "Travel Leaders: #1 Travel Agent Network in the USA",
+      "link": "https://www.travelleaders.com/",
+      "displayed_link": "www.travelleaders.com",
+      "snippet": "Travel Leaders travel agency network provides personalized vacation packages, travel deals ... Agents Near Me; Destination Experts; Travel Interest Specialists.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5m19xc2ZjgMJ:https://www.travelleaders.com/+&cd=20&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.travelleaders.com/+best+travel+agency+near+me&tbo=1&sa=X&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4QHzATegQICBAH"
+    },
+    {
+      "position": 9,
+      "title": "Liberty Travel: Custom Vacation Packages and Travel Deals ...",
+      "link": "https://www.libertytravel.com/",
+      "displayed_link": "www.libertytravel.com",
+      "snippet": "Every traveler is unique, and your vacation should be as well. Vacation better with Liberty Travel, an elevated travel agency experience offering tailor-made trips ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_l1zpTQ-I1gJ:https://www.libertytravel.com/+&cd=21&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "international travel agency near me",
+      "link": "https://www.google.com/search?q=international+travel+agency+near+me&sa=X&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "travel agency near me open now",
+      "link": "https://www.google.com/search?q=travel+agency+near+me+open+now&sa=X&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q1QIoAXoECA0QAg"
+    },
+    {
+      "query": "travel agents near me now",
+      "link": "https://www.google.com/search?q=travel+agents+near+me+now&sa=X&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q1QIoAnoECA0QAw"
+    },
+    {
+      "query": "travel agent near me",
+      "link": "https://www.google.com/search?q=travel+agent+near+me&sa=X&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q1QIoA3oECA0QBA"
+    },
+    {
+      "query": "travel agent near me open today",
+      "link": "https://www.google.com/search?q=travel+agent+near+me+open+today&sa=X&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "top travel agencies in the world",
+      "link": "https://www.google.com/search?q=top+travel+agencies+in+the+world&sa=X&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q1QIoBXoECA0QBg"
+    },
+    {
+      "query": "travel agency website",
+      "link": "https://www.google.com/search?q=travel+agency+website&sa=X&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q1QIoBnoECA0QBw"
+    },
+    {
+      "query": "travel agency online",
+      "link": "https://www.google.com/search?q=travel+agency+online&sa=X&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+travel+agency+near+me&ei=rh8nXpqVIOiUmwXQuJPwBg&start=10&sa=N&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q8NMDegQIEhBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+travel+agency+near+me&ei=rh8nXpqVIOiUmwXQuJPwBg&start=10&sa=N&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q8tMDegQIEhAu",
+      "3": "https://www.google.com/search?q=best+travel+agency+near+me&ei=rh8nXpqVIOiUmwXQuJPwBg&start=20&sa=N&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q8tMDegQIEhAw",
+      "4": "https://www.google.com/search?q=best+travel+agency+near+me&ei=rh8nXpqVIOiUmwXQuJPwBg&start=30&sa=N&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q8tMDegQIEhAy",
+      "5": "https://www.google.com/search?q=best+travel+agency+near+me&ei=rh8nXpqVIOiUmwXQuJPwBg&start=40&sa=N&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q8tMDegQIEhA0",
+      "6": "https://www.google.com/search?q=best+travel+agency+near+me&ei=rh8nXpqVIOiUmwXQuJPwBg&start=50&sa=N&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q8tMDegQIEhA2",
+      "7": "https://www.google.com/search?q=best+travel+agency+near+me&ei=rh8nXpqVIOiUmwXQuJPwBg&start=60&sa=N&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q8tMDegQIEhA4",
+      "8": "https://www.google.com/search?q=best+travel+agency+near+me&ei=rh8nXpqVIOiUmwXQuJPwBg&start=70&sa=N&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q8tMDegQIEhA6",
+      "9": "https://www.google.com/search?q=best+travel+agency+near+me&ei=rh8nXpqVIOiUmwXQuJPwBg&start=80&sa=N&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q8tMDegQIEhA8",
+      "10": "https://www.google.com/search?q=best+travel+agency+near+me&ei=rh8nXpqVIOiUmwXQuJPwBg&start=90&sa=N&ved=2ahUKEwiapLPZh5XnAhVoyqYKHVDcBG4Q8tMDegQIEhA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency+near+me&start=10&token=c982510847dba2ef",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency+near+me&start=10&token=c982510847dba2ef",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency+near+me&start=10&token=c982510847dba2ef",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency+near+me&start=20&token=1bad7b15deabf72d",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency+near+me&start=30&token=c9d106a5b6f9d524",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency+near+me&start=40&token=bbcd5e5a39bfaa92",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency+near+me&start=50&token=282dc95a18dacb24",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency+near+me&start=60&token=20789bd44f15defc",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency+near+me&start=70&token=9ec1a85759efac44",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency+near+me&start=80&token=f0e85ce41b22d812",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency+near+me&start=90&token=ee791110f392e056"
+    }
+  }
+}

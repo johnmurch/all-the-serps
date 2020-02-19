@@ -1,0 +1,313 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 22:00:01 UTC",
+    "processed_at": "2020-01-20 22:00:01 UTC",
+    "google_url": "https://www.google.com/search?q=solar+energy+michigan&oq=solar+energy+michigan&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.26
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "solar energy michigan",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 28700000,
+    "time_taken_displayed": 0.56,
+    "query_displayed": "solar energy michigan"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=solar+energy+michigan&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=42951741,-83869980,93990&tbm=lcl&sa=X&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8QtgN6BAgMEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 42.951741,
+      "longitude": -83.86998,
+      "altitude": 93990
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=solar+energy+michigan&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=42951741,-83869980,93990&tbm=lcl&sa=X&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8QjGp6BAgMED0",
+    "places": [
+      {
+        "position": 1,
+        "title": "Michigan Solar Energy",
+        "place_id": "5776711426183793624",
+        "lsig": "AB86z5UDFKUMXSCDn-WsXRdmbdyb",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UDFKUMXSCDn-WsXRdmbdyb&ludocid=5776711426183793624&q=solar+energy+michigan&tbm=lcl&token=0dfe5cb6e69e9ac7",
+        "rating": 0,
+        "type": "Solar energy equipment supplier",
+        "hours": "(586) 883-2991",
+        "address": "St Clair Shores, MI",
+        "website": "#",
+        "gps_coordinates": {
+          "latitude": 42.495186499999996,
+          "longitude": -82.8971382
+        }
+      },
+      {
+        "position": 2,
+        "title": "The Green Panel",
+        "place_id": "11195649397731000690",
+        "lsig": "AB86z5VomILfBBtwH0RLePWLneE4",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VomILfBBtwH0RLePWLneE4&ludocid=11195649397731000690&q=solar+energy+michigan&tbm=lcl&token=7ca3b31b1d3d6d11",
+        "rating": 4.5,
+        "reviews": 23,
+        "type": "Solar energy equipment supplier",
+        "hours": "Closes soon ⋅ 6PM · (866) 633-8553",
+        "address": "Brighton, MI",
+        "website": "https://www.thegreenpanel.com/",
+        "gps_coordinates": {
+          "latitude": 42.544222,
+          "longitude": -83.750209
+        }
+      },
+      {
+        "position": 3,
+        "title": "Michigan Solar Solutions",
+        "place_id": "1625026046970602940",
+        "lsig": "AB86z5XVxvlm2RKdVGi1ORJp24-n",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XVxvlm2RKdVGi1ORJp24-n&ludocid=1625026046970602940&q=solar+energy+michigan&tbm=lcl&token=fe02941139cc8722",
+        "rating": 5,
+        "reviews": 4,
+        "type": "Solar energy equipment supplier",
+        "hours": "Closed ⋅ Opens 9AM Tue · (989) 833-5333",
+        "address": "Riverdale, MI",
+        "website": "https://www.michigansolarsolutions.com/locations/riverdale.html",
+        "gps_coordinates": {
+          "latitude": 43.408295599999995,
+          "longitude": -84.8428235
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "see_more_about": []
+  },
+  "related_questions": [
+    {
+      "question": "Does solar power work in Michigan?",
+      "snippet": "Michigan has more sunlight per year than Germany (approximately 8.5% more according to the National Renewable Energy Laboratory), yet Germany leads the world in solar power produced for decades. Solar electric panels actually work better when they are cold. ... Solar works GREAT in Michigan...",
+      "title": "FAQ - Frequently Asked Questions - Michigan Solar Solutions",
+      "link": "https://www.michigansolarsolutions.com/education/faqs.html",
+      "displayed_link": "www.michigansolarsolutions.com › education › faqs"
+    },
+    {
+      "question": "How much does it cost to go solar in Michigan?",
+      "snippet": "The average cost of a solar panel installation in Michigan ranges from $13,558 to $18,342. On a cost per watt ($/W) basis, a solar panel installation in Michigan ranges in price from $2.71 to $3.67. How long does it take to earn back your initial investment in solar panels?Jun 8, 2019",
+      "title": "Michigan Solar Panels | 2019 Pricing & Savings | EnergySage",
+      "link": "https://www.energysage.com/solar-panels/mi/",
+      "displayed_link": "www.energysage.com › solar-panels › mi"
+    },
+    {
+      "question": "How effective are solar panels in Michigan?",
+      "snippet": "Based on the price of electricity in Michigan (an average of 0.15 per kW) and very low amounts of sun (13% less than average) compared to other states, solar power is 8% more cost effective than the rest of the nation. Our final opinion: solar panels are somewhat recommended in Michigan.",
+      "title": "Solar Power Panels in Michigan: Costs, Companies, and ROI ...",
+      "link": "https://decisiondata.org/solar-by-state/michigan/",
+      "displayed_link": "decisiondata.org › solar-by-state › michigan"
+    },
+    {
+      "question": "Does Michigan have Netmetering?",
+      "snippet": "Net metering in Michigan was a state program that allowed utility customers to develop renewable energy generation projects on-site at their home or business to meet their own energy needs and reduce their electric bill. As of the end of 2015, Michigan had approximately 2,000 net metering customers.",
+      "title": "Net metering in Michigan - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Net_metering_in_Michigan",
+      "displayed_link": "en.wikipedia.org › wiki › Net_metering_in_Michigan"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Solar power in Michigan - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Solar_power_in_Michigan",
+      "displayed_link": "en.wikipedia.org › wiki › Solar_power_in_Michigan",
+      "snippet": "Solar power in Michigan has been growing in recent years due to new technological improvements and a variety of regulatory actions and financial incentives, particularly a 30% federal tax credit, available for any size project. ... Michigan had over 167 MW of solar capacity in 2019.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Solar farms and arrays",
+            "link": "https://en.wikipedia.org/wiki/Solar_power_in_Michigan#Solar_farms_and_arrays"
+          },
+          {
+            "title": "Large-scale solar plans",
+            "link": "https://en.wikipedia.org/wiki/Solar_power_in_Michigan#Large-scale_solar_plans"
+          },
+          {
+            "title": "Solar industry",
+            "link": "https://en.wikipedia.org/wiki/Solar_power_in_Michigan#Solar_industry"
+          },
+          {
+            "title": "Government policy",
+            "link": "https://en.wikipedia.org/wiki/Solar_power_in_Michigan#Government_policy"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hJ-jK395q5cJ:https://en.wikipedia.org/wiki/Solar_power_in_Michigan+&cd=13&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Solar_power_in_Michigan+solar+energy+michigan&tbo=1&sa=X&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8QHzAMegQIAhAJ"
+    },
+    {
+      "position": 2,
+      "title": "Michigan shrinks credits for rooftop solar, clouding industry's ...",
+      "link": "https://www.bridgemi.com/michigan-environment-watch/michigan-shrinks-credits-rooftop-solar-clouding-industrys-future",
+      "displayed_link": "www.bridgemi.com › michigan-environment-watch › michigan-shrin...",
+      "date": "May 20, 2019",
+      "snippet": "In a battle over fairness and who controls Michigan's renewable energy future, utilities successfully pushed state lawmakers and regulators to ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:eXmsxJBH6jYJ:https://www.bridgemi.com/michigan-environment-watch/michigan-shrinks-credits-rooftop-solar-clouding-industrys-future+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Michigan Solar Solutions - Solar Panel Installation Company",
+      "link": "https://www.michigansolarsolutions.com/",
+      "displayed_link": "www.michigansolarsolutions.com",
+      "snippet": "Michigan Solar Solutions helps Homes, Businesses, Schools & Farms get off the grid and save money on their Energy Costs. Learn more about Design ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Residential",
+            "link": "https://www.michigansolarsolutions.com/residential.html"
+          },
+          {
+            "title": "About",
+            "link": "https://www.michigansolarsolutions.com/about.html"
+          },
+          {
+            "title": "Commercial",
+            "link": "https://www.michigansolarsolutions.com/commercial.html"
+          },
+          {
+            "title": "Off-Grid / Backup",
+            "link": "https://www.michigansolarsolutions.com/off-grid-backup.html"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XNUWxieS9vsJ:https://www.michigansolarsolutions.com/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Michigan Solar Panels | 2020 Pricing & Savings | EnergySage",
+      "link": "https://www.energysage.com/solar-panels/mi/",
+      "displayed_link": "www.energysage.com › solar-panels › mi",
+      "date": "Jun 8, 2019",
+      "snippet": "What interest is there for solar panels in Michigan and how much can they save you? Check out our list of top solar companies, incentives, and ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HqyhDi4X4KkJ:https://www.energysage.com/solar-panels/mi/+&cd=16&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.energysage.com/solar-panels/mi/+solar+energy+michigan&tbo=1&sa=X&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8QHzAPegQICBAJ"
+    },
+    {
+      "position": 5,
+      "title": "Solar Panel Cost 2020 | Current avg. solar system price by ...",
+      "link": "https://www.solarreviews.com/solar-panels/solar-panel-cost/cost-of-solar-panels-in-michigan",
+      "displayed_link": "www.solarreviews.com › Solar Panels › Solar Panel Cost",
+      "snippet": "How much do solar panels cost in the average house in Michigan in 2020? As of January 2020, the average cost of solar panels per watt in Michigan is ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Je31mM8GczoJ:https://www.solarreviews.com/solar-panels/solar-panel-cost/cost-of-solar-panels-in-michigan+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Michigan - Solar Power Rocks",
+      "link": "https://www.solarpowerrocks.com/michigan/",
+      "displayed_link": "www.solarpowerrocks.com › michigan",
+      "snippet": "If you're looking to install solar panels in Michigan, you've found the right place. Here's a guide to Michigan solar incentives, cost, payback time & more!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gsltOYj6A6oJ:https://www.solarpowerrocks.com/michigan/+&cd=18&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Solar Power Panels in Michigan: Costs, Companies, and ROI ...",
+      "link": "https://decisiondata.org/solar-by-state/michigan/",
+      "displayed_link": "decisiondata.org › solar-by-state › michigan",
+      "snippet": "Interested in solar power in Michigan? We've got you covered. We've gathered a ton of stats and tracked down any local installers we could find. Skip to key ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IXJfuLqjUE0J:https://decisiondata.org/solar-by-state/michigan/+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Solar Power in Michigan: All You Need to Know - Solar Nation",
+      "link": "https://www.solar-nation.org/michigan",
+      "displayed_link": "www.solar-nation.org › michigan",
+      "snippet": "Michigan Energy rates are slightly above average, which means more solar savings for you Homeowners in Michigan have an opportunity to save plenty of ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:i2QTRc4BCkEJ:https://www.solar-nation.org/michigan+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Solar installers say new rates are slowing demand ... - Michigan",
+      "link": "https://www.michiganradio.org/post/solar-installers-say-new-rates-are-slowing-demand-rooftop-solar",
+      "displayed_link": "www.michiganradio.org › post › solar-installers-say-new-rates-are-slo...",
+      "date": "Jun 17, 2019",
+      "snippet": "Customers could bank these credits in the summer, when solar panels often produce more electricity than a home can consume, and use the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:fe19IB6dDhgJ:https://www.michiganradio.org/post/solar-installers-say-new-rates-are-slowing-demand-rooftop-solar+&cd=21&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Michigan Solar | SEIA - SEIA | Solar Energy Industries ...",
+      "link": "https://www.seia.org/state-solar-policy/michigan-solar",
+      "displayed_link": "www.seia.org › state-solar-policy › michigan-solar",
+      "snippet": "Get facts and figures on the growth of solar energy in Michigan, including companies, projects, and policy resources.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:H7MjN9Zb9gUJ:https://www.seia.org/state-solar-policy/michigan-solar+&cd=22&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "michigan solar power grants",
+      "link": "https://www.google.com/search?q=michigan+solar+power+grants&sa=X&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q1QIoAHoECBAQAQ"
+    },
+    {
+      "query": "michigan solar incentives 2019",
+      "link": "https://www.google.com/search?q=michigan+solar+incentives+2019&sa=X&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q1QIoAXoECBAQAg"
+    },
+    {
+      "query": "michigan no cost solar program",
+      "link": "https://www.google.com/search?q=michigan+no+cost+solar+program&sa=X&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q1QIoAnoECBAQAw"
+    },
+    {
+      "query": "michigan solar incentives 2018",
+      "link": "https://www.google.com/search?q=michigan+solar+incentives+2018&sa=X&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q1QIoA3oECBAQBA"
+    },
+    {
+      "query": "solar panels",
+      "link": "https://www.google.com/search?q=solar+panels&sa=X&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q1QIoBHoECBAQBQ"
+    },
+    {
+      "query": "how much does it cost to install solar panels in michigan",
+      "link": "https://www.google.com/search?q=how+much+does+it+cost+to+install+solar+panels+in+michigan&sa=X&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q1QIoBXoECBAQBg"
+    },
+    {
+      "query": "power home solar",
+      "link": "https://www.google.com/search?q=power+home+solar&sa=X&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q1QIoBnoECBAQBw"
+    },
+    {
+      "query": "dte free solar panels",
+      "link": "https://www.google.com/search?q=dte+free+solar+panels&sa=X&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q1QIoB3oECBAQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=solar+energy+michigan&ei=4SImXt37MprD0PEP9JCE-A4&start=10&sa=N&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q8NMDegQIERA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=solar+energy+michigan&ei=4SImXt37MprD0PEP9JCE-A4&start=10&sa=N&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q8tMDegQIERAt",
+      "3": "https://www.google.com/search?q=solar+energy+michigan&ei=4SImXt37MprD0PEP9JCE-A4&start=20&sa=N&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q8tMDegQIERAv",
+      "4": "https://www.google.com/search?q=solar+energy+michigan&ei=4SImXt37MprD0PEP9JCE-A4&start=30&sa=N&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q8tMDegQIERAx",
+      "5": "https://www.google.com/search?q=solar+energy+michigan&ei=4SImXt37MprD0PEP9JCE-A4&start=40&sa=N&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q8tMDegQIERAz",
+      "6": "https://www.google.com/search?q=solar+energy+michigan&ei=4SImXt37MprD0PEP9JCE-A4&start=50&sa=N&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q8tMDegQIERA1",
+      "7": "https://www.google.com/search?q=solar+energy+michigan&ei=4SImXt37MprD0PEP9JCE-A4&start=60&sa=N&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q8tMDegQIERA3",
+      "8": "https://www.google.com/search?q=solar+energy+michigan&ei=4SImXt37MprD0PEP9JCE-A4&start=70&sa=N&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q8tMDegQIERA5",
+      "9": "https://www.google.com/search?q=solar+energy+michigan&ei=4SImXt37MprD0PEP9JCE-A4&start=80&sa=N&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q8tMDegQIERA7",
+      "10": "https://www.google.com/search?q=solar+energy+michigan&ei=4SImXt37MprD0PEP9JCE-A4&start=90&sa=N&ved=2ahUKEwid8InOlpPnAhWaITQIHXQIAe8Q8tMDegQIERA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+michigan&start=10&token=9760b2955f3eca0d",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+michigan&start=10&token=9760b2955f3eca0d",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+michigan&start=10&token=9760b2955f3eca0d",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+michigan&start=20&token=a746985405e395ea",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+michigan&start=30&token=ea712a823c129a69",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+michigan&start=40&token=d9d9419954b9e1d4",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+michigan&start=50&token=f7de5b953c8fa4bb",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+michigan&start=60&token=283ecd5bb5de8b7e",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+michigan&start=70&token=97e9767bbaa4eb26",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+michigan&start=80&token=4cfc38f435ee6702",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+michigan&start=90&token=71081e10ceecaf81"
+    }
+  }
+}

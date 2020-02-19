@@ -1,0 +1,880 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 16:59:05 UTC",
+    "processed_at": "2020-01-21 16:59:05 UTC",
+    "google_url": "https://www.google.com/search?q=best+travel+umbrella+stroller&oq=best+travel+umbrella+stroller&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 1.73
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best travel umbrella stroller",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 13000000,
+    "time_taken_displayed": 0.6,
+    "query_displayed": "best travel umbrella stroller"
+  },
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Maxi-Cosi Lara Ultra Compact Stroller, Nomad Grey",
+      "price": "$199.99",
+      "extracted_price": 199.99,
+      "link": "https://www.maxicosi.com/us-en/lara-ultra-compact-stroller-cv364-mc-us-en.html",
+      "source": "Maxi-Cosi",
+      "rating": 4.3,
+      "reviews": 175,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 2,
+      "title": "UPPAbaby MINU TravelSafe Travel Bag",
+      "price": "$89.99",
+      "extracted_price": 89.99,
+      "link": "https://www.amazon.com/UPPAbaby-MINU-TravelSafe-Travel-Bag/dp/B07FV4N8X2?source=ps-sl-shoppingads-lpcontext&psc=1",
+      "source": "Amazon.com",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 3,
+      "title": "The Clutch Lightweight Travel Stroller By Delta Children",
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "link": "https://www.deltachildren.com/products/ultimate-fold-n-go-compact-travel-stroller?variant=19259650375798",
+      "source": "Delta Children",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 4,
+      "title": "Summer 3Dmini Convenience Stroller - Blue",
+      "price": "$44.99",
+      "extracted_price": 44.99,
+      "link": "https://www.target.com/p/summer-3dmini-convenience-stroller-blue/-/A-52838020",
+      "source": "Target",
+      "rating": 3.9,
+      "reviews": 383,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": [
+        "Pick up by Mon"
+      ]
+    },
+    {
+      "position": 5,
+      "title": "Kolcraft Cloud Umbrella Stroller, Black",
+      "price": "$26.88",
+      "extracted_price": 26.88,
+      "link": "https://www.walmart.com/ip/Kolcraft-Cloud-Umbrella-Stroller-Black/38542557?wl13=2002&selectedSellerId=0",
+      "source": "Walmart",
+      "rating": 4.2,
+      "reviews": 1000,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": [
+        "Pick up today"
+      ]
+    },
+    {
+      "position": 6,
+      "title": "The Traveler (XLC) Best Compact Travel Stroller for Airplanes Classic Black",
+      "price": "$175.00",
+      "extracted_price": 175,
+      "link": "https://zoestrollers.com/products/zoe-traveler-stroller?variant=31006172971042&currency=USD",
+      "source": "ZOE Strollers",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 7,
+      "title": "ZOE XLC BEST Travel Stroller - London Navy",
+      "price": "$175.00",
+      "extracted_price": 175,
+      "link": "https://www.zoestrollers.com/p/zoe-xlc",
+      "source": "ZOE Strollers",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=best+travel+umbrella+stroller&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36626049,-121853895,6025&tbm=lcl&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 36.626049,
+      "longitude": -121.853895,
+      "altitude": 6025
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=best+travel+umbrella+stroller&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36626049,-121853895,6025&tbm=lcl&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQjGp6BAgLEEc",
+    "places": [
+      {
+        "position": 1,
+        "title": "Target",
+        "place_id": "10342399555550118050",
+        "lsig": "AB86z5X-5DrczFCXzeFXY3MLyVPc",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5X-5DrczFCXzeFXY3MLyVPc&ludocid=10342399555550118050&q=best+travel+umbrella+stroller&tbm=lcl&token=969b322e7541a1ab",
+        "rating": 4.1,
+        "reviews": 347,
+        "price": "$$",
+        "type": "Baby store",
+        "address": "Sand City, CA",
+        "phone": "In Edgewater Shopping Center",
+        "description": "Their website mentions umbrella stroller and travel",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.6212167,
+          "longitude": -121.8431139
+        }
+      },
+      {
+        "position": 2,
+        "title": "Target",
+        "place_id": "144661473355142648",
+        "lsig": "AB86z5VE8IOyIOUgOoqVPndzDij3",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VE8IOyIOUgOoqVPndzDij3&ludocid=144661473355142648&q=best+travel+umbrella+stroller&tbm=lcl&token=581fa217f585f330",
+        "rating": 4.2,
+        "reviews": 246,
+        "price": "$$",
+        "type": "Baby store",
+        "address": "Marina, CA",
+        "phone": "In Marina Shopping Center",
+        "description": "Their website mentions umbrella stroller and travel",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.6678066,
+          "longitude": -121.81079779999999
+        }
+      },
+      {
+        "position": 3,
+        "title": "Macy's",
+        "place_id": "3977665676463366009",
+        "lsig": "AB86z5XRdfo37r8FHaC1LbTJFO9y",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XRdfo37r8FHaC1LbTJFO9y&ludocid=3977665676463366009&q=best+travel+umbrella+stroller&tbm=lcl&token=fb4da1ef808ec23a",
+        "rating": 4.2,
+        "reviews": 668,
+        "price": "$$",
+        "type": "Clothing store",
+        "address": "Monterey, CA",
+        "phone": "In Del Monte Shopping Center",
+        "description": "Their website mentions umbrella stroller travel",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.584291799999995,
+          "longitude": -121.8969939
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "inline_products": [
+    {
+      "position": 1,
+      "title": "Summer Infant 3D Flip Convenience Stroller",
+      "link": "https://www.google.com/search?q=summer+infant+3d+flip+convenience+stroller&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2Li4zNc0oTxJIsrRMMzCySE5NTDUxtEg2mcHEeImFQ-2JocKB9CV_O1gZF7FqFZfm5qYWKWTmpSXmlSgYpyik5WQWKCTn55Wl5mWm5iWnKhSXFOXn5KQWfWBlBAAi84mYZAAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQoYACMA56BAgOEAU",
+      "price": 64,
+      "rating": 4.5,
+      "reviews": 1007,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=summer+infant+3d+flip+convenience+stroller&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2Li4zNc0oTxJIsrRMMzCySE5NTDUxtEg2mcHEeImFQ-2JocKB9CV_O1gZF7FqFZfm5qYWKWTmpSXmlSgYpyik5WQWKCTn55Wl5mWm5iWnKhSXFOXn5KQWfWBlBAAi84mYZAAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQvIMEMA56BAgOEAQ",
+      "editorial_reviews": [
+        {
+          "title": "Summer Infant 3D Lite Convenience Stroller Review: More Bang, Less Buck",
+          "link": "https://www.experiencedmommy.com/summer-infant-3dlite-convenience-stroller-review-bang-buck/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEX/////AAD/SDj/fnX/7u3/FgD/d27/wLz/sq3/5+b/vbj/npf/b2b/Lxn/+Pf/xsL/k4z/0M3/4N7/jof/IQD/TkD/NSH/29j/pJ//aV7/KA3/XVH/t7P/1dL/hX3/iYH/qqX/yscCwWS2AAAAiklEQVQYlWWP6RKCMAyEsz1ogZZDqaCCx/u/pE2Kzqj58+3uNJkt0f94VX8HDfSu2mCE0RbfAb2IAWN5anEQEexRqCI6EXaKDJdOk/gZWnast0qCBTXORNXFMPJcEyWsA7YZNwlwz1vAQj1a9hs80VjlBh5rObG9i8IxNJpP8GAYZ/bgifDzb+75AieBBI2jIoddAAAAAElFTkSuQmCC",
+          "source": "Experienced Mommy",
+          "description": "Umbrella style prams are a roll of the dice in this department but the Summer Infant 3D Lite Umbrella Stroller is…"
+        },
+        {
+          "title": "The Best Compact Travel Strollers for 2019: Which One is Best",
+          "link": "https://www.lucieslist.com/gear-guides/best-travel-strollers/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAOVBMVEVHcEzWMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj6xxBoVAAAAEnRSTlMAQYt3m7YZqMgHKjNs9E1H31dwWi7CAAAAfUlEQVQYlXVP0RLDIAiLCIJWa8v/f+zUXrvtbuMBSIAAwB8L2ze2yuedZwa0o/BN7BHJAH5mkoACiLBn5EtPm0oHu1a3q0eXrjd3XwSX6eOALgCp+hotAx8jHpAgcTLuNiu7jn3VEtDo49JklNPSe6guGs841r8tb6H8ePsFz7sDoZT/wmMAAAAASUVORK5CYII=",
+          "source": "Lucie's List"
+        }
+      ],
+      "specifications": {
+        "stroller_weight": "12 lb",
+        "seating_capacity": "Single"
+      }
+    },
+    {
+      "position": 2,
+      "title": "gb Pockit+",
+      "link": "https://www.google.com/search?q=gb+pockit%2B&stick=H4sIAAAAAAAAAOPgUuLVT9c3NMxIjrc0sUjJThIwTzRINTS2TDJLSkkySbVMmsHEeImFQ-2JocKB9CV_O1gZF7FypScpFOQnZ2eWaH9gZQQAK2BfTUQAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQoYACMA56BAgOEBQ",
+      "price": 160,
+      "rating": 4.4,
+      "reviews": 200,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=gb+pockit%2B&stick=H4sIAAAAAAAAAOPgUuLVT9c3NMxIjrc0sUjJThIwTzRINTS2TDJLSkkySbVMmsHEeImFQ-2JocKB9CV_O1gZF7FypScpFOQnZ2eWaH9gZQQAK2BfTUQAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQvIMEMA56BAgOEBM",
+      "editorial_reviews": [
+        {
+          "title": "NEW! GB Pockit+ Plus 2018/2019 Stroller Review",
+          "link": "https://www.momsstrollerreviews.com/new-2017-gb-pockit-plus-stroller-review/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEX////9CIb9AIT9AIP9AIX9AH/9AH79AIH9AHz+p8v/9fr+xNr/1Ob9Yab9JY7/1+f+lMH/3uz+wNj9WKH+nsb+ebL+i7v+f7X9MZH9GYr9AHP+s9H+rM3+zeH9PJb+mcP9SZ7+u9j/7PT+drCPlblIAAAAmElEQVQYlUWO2xKCMAxEt01pCwpUUG4q3v7/H01S0Dxk5pyZTRbGuFiXZeNMHhhnWwDJClFgEU/MXRQu+nMAXZhxKJjDgJHgj7uwE2aOxEpEt8S4XG+sN5GnJxb+/hfEv2HXHz+C9qC1VaxGn4uR7Z8thrGJualGXsMbkB/70SpJaHYqtFgpa1JBtXDD674dDWuqPc3po2y+/tYGAeoa0iAAAAAASUVORK5CYII=",
+          "source": "Mom's Stroller Reviews",
+          "description": "The GB Pockit+ Plus 2018/2019 stroller still has the smallest fold, but can also recline and turns into a travel…"
+        },
+        {
+          "title": "7 Best Compact Stroller for Travel Picks – Airplane Stroller and Travel Stroller Solutions",
+          "link": "https://pintsizepilot.com/best-lightweight-stroller-for-travel-best-travel-stroller/",
+          "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNFQ8PGjclHyU3KzcrNzc3Nys3Nzc3Nzc3NzcrNzc3Kzc3Nzc3Nys3NzcrNys3Kzc3Nzc3Nzc3Kzc3N//AABEIABAAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAACBwH/xAAjEAEAAQMCBgMAAAAAAAAAAAABAgMEEQASBUFRYaHRISIx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABgRAAIDAAAAAAAAAAAAAAAAAAARASEx/9oADAMBAAIRAxEAPwC03FyUdwGZ7cxOustq868ISQh+5Hn60avDreoqxSS5ZEnOhbcNpW9dqjKooH3c7cK5O/z4NCsHOI//2Q==",
+          "source": "Pint Size Pilot"
+        }
+      ],
+      "specifications": {
+        "stroller_weight": "13 lb",
+        "seating_capacity": "Single",
+        "extensions": [
+          "All-terrain"
+        ]
+      }
+    },
+    {
+      "position": 3,
+      "title": "UPPAbaby G-Luxe",
+      "link": "https://www.google.com/search?q=uppababy+g-luxe&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwyTy9ON63KThKwMEyxMDFONUk0M7E0MDI3mcHEeImFQ-2JocKB9CV_O1gZF7HylxYUJCYlJlUqpOvmlFakfmBlBAAlmQbdSQAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQoYACMA56BAgOECU",
+      "price": 280,
+      "rating": 4.5,
+      "reviews": 209,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=uppababy+g-luxe&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwyTy9ON63KThKwMEyxMDFONUk0M7E0MDI3mcHEeImFQ-2JocKB9CV_O1gZF7HylxYUJCYlJlUqpOvmlFakfmBlBAAlmQbdSQAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQvIMEMA56BAgOECQ",
+      "editorial_reviews": [
+        {
+          "title": "UPPAbaby G-Luxe 2018 Stroller Review",
+          "link": "https://www.momsstrollerreviews.com/uppababy-g-luxe-stroller-review/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEX////9CIb9AIT9AIP9AIX9AH/9AH79AIH9AHz+p8v/9fr+xNr/1Ob9Yab9JY7/1+f+lMH/3uz+wNj9WKH+nsb+ebL+i7v+f7X9MZH9GYr9AHP+s9H+rM3+zeH9PJb+mcP9SZ7+u9j/7PT+drCPlblIAAAAmElEQVQYlUWO2xKCMAxEt01pCwpUUG4q3v7/H01S0Dxk5pyZTRbGuFiXZeNMHhhnWwDJClFgEU/MXRQu+nMAXZhxKJjDgJHgj7uwE2aOxEpEt8S4XG+sN5GnJxb+/hfEv2HXHz+C9qC1VaxGn4uR7Z8thrGJualGXsMbkB/70SpJaHYqtFgpa1JBtXDD674dDWuqPc3po2y+/tYGAeoa0iAAAAAASUVORK5CYII=",
+          "source": "Mom's Stroller Reviews",
+          "description": "The UPPAbaby G-Luxe 2018 is a light umbrella stroller that has a deep recline, compact fold, adjustable foot rest…"
+        },
+        {
+          "title": "The 10 Best Travel Strollers to Buy 2019 See more",
+          "link": "https://littleonemag.com/best-travel-strollers/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAMAAAAM9FwAAAAAVFBMVEVHcEzLWqPQbazQbqzQbqzQbqzNY6fPaarQbqzQbazVgbXKU6DPaqrXiLnRb63OZajty9/////57vXPaqrVf7Xx2ejYi7vfocbpv9j14+7jrc7LWaImgnsoAAAADnRSTlMAFkLmvSzps1rRkXKFqgTjLO0AAABwSURBVAiZNY1HEoQwEMQGMNjeMNkJ//+fC0Wtbt0HCeAmZcS4w581Ihoipme+nIzMCIm2fH3vwVx7q2WyElGCQ87WhIug6uzlgCnOrM69aa86DKIU5lJOqTJcxhcWr+SX8e4Y5jvzCXHDHEJc9wXgBwSmB01klnHTAAAAAElFTkSuQmCC",
+          "source": "LittleOneMag"
+        }
+      ],
+      "specifications": {
+        "stroller_weight": "10 lb",
+        "seating_capacity": "Single"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Kolcraft Cloud Plus",
+      "link": "https://www.google.com/search?q=kolcraft+cloud+plus&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEzOLsnILTTLThJIMjAxT0xLNEwzTzIwSko2ncHEeImFQ-2JocKB9CV_O1gZF7EKZ-fnJBclppUoJOfkl6YoFOSUFn9gZQQAdoTb300AAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQoYACMA56BAgOEDQ",
+      "price": 68,
+      "rating": 4.3,
+      "reviews": 201,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=kolcraft+cloud+plus&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEzOLsnILTTLThJIMjAxT0xLNEwzTzIwSko2ncHEeImFQ-2JocKB9CV_O1gZF7EKZ-fnJBclppUoJOfkl6YoFOSUFn9gZQQAdoTb300AAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQvIMEMA56BAgOEDM",
+      "editorial_reviews": [
+        {
+          "title": "Kolcraft Cloud Plus Product Review for 2019",
+          "link": "https://www.mytravelingbaby.solutions/baby-stroller-reviews/kolcraft-cloud-plus/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABEVBMVEVHcExjZx9CDgp4jyn7txT9vhxOMRAVCQ5sUSoAAAcAAABEHBJdOjdhPhj5rxxiJhKWYBltfCROKyJ1ZmJiXyQAAAD9shxAIxf//wD5rxyHUBT5rxytn5mMd3H//wJdWBqLdm5YRDuCNhv/uxx9Py+kUCNSIBa2uZUAAABNJRJtdnW+4XS1w22k1UiijYbF2Z+DbF1nQCDQ6KmpuWOegm09JxlPMySXdWKpoJbXv653UzV9XkRycCGBoSuNsjV5cj59TRmqs2ux0159lyu3pZ2WpU1hSj+buVB3YVfz/eLP5ImtlIHZ0s+8yXhXPCvFSRx7gzawekOkwGPaeSaLtSz/xq1bKwB/fHG1mH3a09WphWNEqwSmAAAAK3RSTlMAwFH6Jg1xJXwYMEtxZKSGj8VAcagMGMgFYOeA6okDkI/inTnD3u/+UMr+9LkCMgAAALZJREFUGJVtj8UOwgAQRJd6Ke5aXOsUd3d3+P8PodBDIWFOOy/Z5A3Av7giouj+6uRY3lamfgNEy9WyvJobIK5UGnItgeEYrgOkWms16mmAsI9+9xQozUvxRrzvPgCGW61k4f5UwGyJESGvRjMnJn9tNbPrhSD0GAiyyd3hIdZzkjQrcW0EbAFLSToKZ5XnRx2n3aG9mCf8Ht0sOROpOVIaoAYUrXJD00eB1U08XZT4nUf/Hf3JC6LyFUyDKZhmAAAAAElFTkSuQmCC",
+          "source": "My Traveling Baby",
+          "description": "The kolcraft cloud plus lightweight stroller is a cheap alternative travel stroller."
+        },
+        {
+          "title": "The Best Compact Travel Strollers for 2019: Which One is Best",
+          "link": "https://www.lucieslist.com/gear-guides/best-travel-strollers/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAOVBMVEVHcEzWMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj6xxBoVAAAAEnRSTlMAQYt3m7YZqMgHKjNs9E1H31dwWi7CAAAAfUlEQVQYlXVP0RLDIAiLCIJWa8v/f+zUXrvtbuMBSIAAwB8L2ze2yuedZwa0o/BN7BHJAH5mkoACiLBn5EtPm0oHu1a3q0eXrjd3XwSX6eOALgCp+hotAx8jHpAgcTLuNiu7jn3VEtDo49JklNPSe6guGs841r8tb6H8ePsFz7sDoZT/wmMAAAAASUVORK5CYII=",
+          "source": "Lucie's List"
+        }
+      ],
+      "specifications": {
+        "stroller_weight": "50 lb",
+        "seating_capacity": "Single",
+        "extensions": [
+          "All-terrain"
+        ]
+      }
+    },
+    {
+      "position": 5,
+      "title": "Maclaren Quest",
+      "link": "https://www.google.com/search?q=maclaren+quest&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwyTy9MqarKTRJIS001SUw1Tk4ysTA0MjY2mcHEeImFQ-2JocKB9CV_O1gZF7Hy5SYm5yQWpeYpFJamFpd8YGUEAKtkLEtIAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQoYACMA56BAgOEEU",
+      "price": 320,
+      "rating": 4.6,
+      "reviews": 464,
+      "thumbnail": "data:image/webp;base64,UklGRqAIAABXRUJQVlA4IJQIAAAQKQCdASqEAIQAPkEejESioaESOu2YKAQEtIAJ9V+3eHPlL9L+0vLp3QehH8k+3/4P8m/zK5+eAR6//wf5c8RgAD8p/rn+y8Lj+q9Fvrj/i/RC/0vlXeGHQA/lv9O/yf3nfH1/yf6bz1/Q//c/y3wDfy7+wf7b+8e2N7E/3L9kj9kSw1ftxPpjY93xEJfKzsTP1fkP/z/ejEL+Mh9XiLwAWNpus7RWSNSIXZPA++JMSILjUP/wkyPT/NwXVEOkLe6gfuORA/r+PWTvx0R1pqFSZpwPnMHdD9b6qh/Zxl9LbnRmUkIvM0EDCNyS/s1ntjnuhQaSB/TZxteURp01Hc4pyMVP5PZ10HwpjBPAkYQqBx5qvRgqXM971yoNvzaG0gLN+bgPVF9EFfz8VqkDN+cjMo5swBET8pNL/Mxis9qRuqIb/pQFRT57pAZH1wFAovEAAP7+VdJ30P3+v4uPp2JrajSy3FghVH/5FXMuvZWMqaxVOr+vkGPMGHqf7JV+k7LzTAAsoEgWJJ5y2TkorpGEs70j8oiRYG74qR5tndMFICTebP6HaPCvO+rdsw6RCx7wa8VJv6W+zTLmUuMikIO3i6OV7NyGF/fAxD89HIk+FPLu1hi/RBfBFyASEbDF3K7k0rk7kz9hkk3cwPgzp2JnTMfv/9nIoxsLBDoTYQLn2WHfYacCWvyQ2vlDDFXbcJHncahVNviQq7qTcVAnh8k+fG30uB9ynKOO6nhjzVUX0ChLaPNUvrt+tPUx6cT6Ugnm2p3bNmjsM4lLdXbGNGRFEGncIQoPKxhbnQwfLTZXRXJAYAu7AnmqMQ2afaukJr52MOaw8RZCocyuPYoUqi3T3LZmhbO+goC4M2rSkqP1pxD71oARXcy/4pNuW8J36LLtCPYB9+Rmc3fiRnAsjTQBR+NHcaWIoCQUMMmKKOGyLkkxJWw5rXH+adUQbfu2Wxrwx5Wyb1cpiuEnXhvaBDRlghYbNfhXOMmloED45PX4e6ht+gxjOUWglBq78V0J+WkTNUHuAAFtpQemtvCl7Aw0Kqj9f6/RoAZ5xT+tQq++1oI3bHJOZaZ1f4R4fqsblAjnnPPhp17yFOj6a70dpputnskS+5w0GY/VWiASTYzTmcMd4qxVSSaxEwDZhTk4RkDwXmZad0TNNVQINKYazNTqNQmCgW5HrWZtqh73Bs6r/HAobQQBvP3+rs10Vqvwr788lm//CnRKzygC4Mvw0ygyubnZX/DX4Ygi2Aa1pJvPWwP1+cHfcTwoyrl66c716N4TBBw2X+b+D56/HKrRdNimALi+qXtKCGWU5P2V6PAZqvegNmoQQOHVzP6lE0I2L8SDpVy3XDUch4s235D0FPgzPzlk+k8i7w/xcXRL8QavZ9YhvS0ZzsCfGKxiegu9QlgZKojK7Kvfra5NQQMNwPW4FQYfotAvKPe4N4d2pGRFTjSuBD3DQg9Jzh1A/NJ6fJxO3dlHEdyHVtu0osHtr3BVXDfbPM3gfbmP3xZQooAA93mZFb8hDcqApL1BGb5MVs4VY419i/1ONJnf5uHMBit793sjnZqamE0lcHHcEPbjygErwar1HUcQLBo8ibvweuQBUWQKU0VOOJvxZPwSe+G320c/Lp/4pTmxV9US+QdhQYiFAoAI20wBvYObSFKxuGyfH9nwInkY7z4Mtc03LKg/ckQtkTA/YWtGZmmIpD5z5uKMfvOVrpTFZTEO78/9Tmyhoz2AJlKkuOlRcPYsxho39TIg0K3Krs78fZEPjvixoxbP7luaXmSwkwpoLlW9KLgf1nqYvvu82A07Bi4wINh1aCYRJX594TJJgqk9fIMhUMoC/yX4a290NUWT/OsqFB2Yv8GSc8VHdeGPwt6htC/Z4H+BmzrNWzrYO4v8wjCbt/nq08ZbVZAVepHPA/+f3yF/3ggavt6/8PPqvFBk9qz0W4T7IHyVK+QtTYewV862B550LyLIxN8yv26hKKc+z6u/Co27sLnChznebDrOpJgEsCM67GVR7w2+T2HcMR9QurIUD8Uw9CWv66AVnU9ItLrxUrMQ9J/VyJld3B8blxSV1Xjlzl4Wf1vslMVJrAKbjn7QhnlGaWYsHQz+FzHi3jPkfB++K0yLC3BsQ3TERyOHdqFnMIdWvgSbUIlvX7C2qzkOAly2FmKIvnpxMy6RoR6fuyJ/IOHmgtHw/5u0GC13pIxeoQZMhEpovhxfuDiZBD3aB4AFvJxsF0sy74FFtdWw6gHKAwe/aGr+5XEko+Sg/mEV5X388qkXzfA7GFP4uvR9rseX8RdFgfp5qvJKriltWmri3f/mjIJVs1/FcBNSz1rDwNG3hRSCzHA6V9leQSXsA/tr9Eu1/zdX2ZX3Ql5LZal+aF3hsPinoqQudoFbVAdIcwgSlSvmqdf+l3LUq3W0EfAHS42Hcdpqnek46u8jZ/wLXAHDQz3IftF2ZfL9ihTxSzJrClgXIubehuiGbR99ceVTURdq9G//pjeWJQrcypB0Mi5QcmIufDVkBLJG65qhwDTvdtikeGjBJmZNW9rv3Js051vo7wBmR5zKvnOosTeXHB6FwE/SdGVoTsNAG9J2fOIHhFIrsc0eKimiDdGUHSvA/nAU7kVt0fhnpBS1Pk9vPFy362W5vlm350LIsu+dWMuWcqub2EGbd8pIif1gBHjYR0xeyytWAXFyNQHdFffm8tr48yvPqONFLgg9KmvfkYLufc//w3wjBXeSYqNhF3p7C0rnIBceJuR9XrvZ30jvSN9PPEIBUsmOUDzCD/xDtp+Dco18Hk8HNv+rcmlkGA+KFBvmrQNIN+Bm3sx/STme52tNP9jD49/9nqg7KKY9WxIhZaAfP476hl0/Nq0BiFKRWrdm/ew8qGgAC0TXEdNYoJgGX/RAk4h2KuUDZFKaeP7NX2Dt8M+xX5cbEAAAAAA=",
+      "thumbnail_link": "https://www.google.com/search?q=maclaren+quest&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwyTy9MqarKTRJIS001SUw1Tk4ysTA0MjY2mcHEeImFQ-2JocKB9CV_O1gZF7Hy5SYm5yQWpeYpFJamFpd8YGUEAKtkLEtIAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQvIMEMA56BAgOEEQ",
+      "editorial_reviews": [
+        {
+          "title": "Maclaren Quest 2016 Umbrella Stroller Review",
+          "link": "https://www.momsstrollerreviews.com/new-maclaren-quest-2016-umbrella-stroller-review/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEX////9CIb9AIT9AIP9AIX9AH/9AH79AIH9AHz+p8v/9fr+xNr/1Ob9Yab9JY7/1+f+lMH/3uz+wNj9WKH+nsb+ebL+i7v+f7X9MZH9GYr9AHP+s9H+rM3+zeH9PJb+mcP9SZ7+u9j/7PT+drCPlblIAAAAmElEQVQYlUWO2xKCMAxEt01pCwpUUG4q3v7/H01S0Dxk5pyZTRbGuFiXZeNMHhhnWwDJClFgEU/MXRQu+nMAXZhxKJjDgJHgj7uwE2aOxEpEt8S4XG+sN5GnJxb+/hfEv2HXHz+C9qC1VaxGn4uR7Z8thrGJualGXsMbkB/70SpJaHYqtFgpa1JBtXDD674dDWuqPc3po2y+/tYGAeoa0iAAAAAASUVORK5CYII=",
+          "source": "Mom's Stroller Reviews",
+          "description": "The new Maclaren Quest 2016 is probably the BEST Umbrella Stroller on today's market. It's lightweight at only 12.3…"
+        },
+        {
+          "title": "Best Lightweight Mini Compact Travel Strollers 2019 | Babyzen Yoyo+, UPPAbaby Minu, Maclaren Quest",
+          "link": "https://www.youtube.com/watch?v=1YMc4Ke6OOU",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAG1BMVEVHcEz/AAD/AAD/AAD/AAD/AAD/q6v/////yMiuFFsmAAAABXRSTlMAIEMOabpobmQAAAA/SURBVBiVY2AgCjAzMwIBMzOEx8KKBFiAAqwogIGBEVWAkYEJTLNxQAWYYALs7GwEBBBaMAzFsBbTYRhOJwQAmSUDAbfK/BsAAAAASUVORK5CYII=",
+          "source": "YouTube"
+        }
+      ],
+      "specifications": {
+        "stroller_weight": "12.3 lb",
+        "seating_capacity": "Single"
+      }
+    },
+    {
+      "position": 6,
+      "title": "UPPAbaby G-Lite",
+      "link": "https://www.google.com/search?q=uppababy+g-lite&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwyzzC1rEoxTxJIS0pOMU81Tko2NDYxNkpKnsHEeImFQ-2JocKB9CV_O1gZF7HylxYUJCYlJlUqpOvmZJakfmBlBADHvYWhSQAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQoYACMA56BAgOEFQ",
+      "price": 150,
+      "rating": 4.7,
+      "reviews": 92,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=uppababy+g-lite&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwyzzC1rEoxTxJIS0pOMU81Tko2NDYxNkpKnsHEeImFQ-2JocKB9CV_O1gZF7HylxYUJCYlJlUqpOvmZJakfmBlBADHvYWhSQAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQvIMEMA56BAgOEFM",
+      "editorial_reviews": [
+        {
+          "title": "Best Travel Strollers 2019 • guide to the smallest + lightest stroller for travel",
+          "link": "https://www.flyingwithababy.com/best-stroller-for-travel-what-are-their-pros-and-cons-for-flying/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAhFBMVEX////7//9xytj/8+vW7u33/f/x+frk8/PL6Oj3yaT3vIr4/f3o9/n0w6TQmn/lo3P+++75wkr+68L91We2YShRqK32ggCzmo75rm33nwD5aQD5fAn9tADhXQDUwLfsYwDwhEv7gTn8yK/k/P+Dz9yZ2eO34upcw9PY49//+fP17+n97uMcxkWdAAAAcklEQVQYlWNgIBIwoguwsDKysSO4bBysnFwM3EgaeBh5+fgR2gQEhYRFRMXE4QLMEpJS0jKyckhmyitIKyrBtbAALVVW5mZg44EKMKkwqaoxqaupMTExQYxg0dbQ1GTW0mRm1oAIAFnM2iCCWZtYn6EAAIx2BcMiSxvuAAAAAElFTkSuQmCC",
+          "source": "Flying With A Baby"
+        },
+        {
+          "title": "The Best Compact Travel Strollers for 2019: Which One is Best",
+          "link": "https://www.lucieslist.com/gear-guides/best-travel-strollers/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAOVBMVEVHcEzWMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj6xxBoVAAAAEnRSTlMAQYt3m7YZqMgHKjNs9E1H31dwWi7CAAAAfUlEQVQYlXVP0RLDIAiLCIJWa8v/f+zUXrvtbuMBSIAAwB8L2ze2yuedZwa0o/BN7BHJAH5mkoACiLBn5EtPm0oHu1a3q0eXrjd3XwSX6eOALgCp+hotAx8jHpAgcTLuNiu7jn3VEtDo49JklNPSe6guGs841r8tb6H8ePsFz7sDoZT/wmMAAAAASUVORK5CYII=",
+          "source": "Lucie's List"
+        },
+        {
+          "title": "Our Guide to choosing the Best Travel Stroller 2018 - Family Travel Blog - Travel with Kids",
+          "link": "https://www.wheressharon.com/x-featured-discussions/guide-best-travel-stroller/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA/1BMVEWU3OeU3ecjf+CV4OuHxs+AdnWItbucxcaZ19+AvMWGu8GVzdab4OqY4utyeXqdvL9VbW6KV0TEpZOj19yffIiVAABKYH9fm7x7vMx0nKCUr7FTNipbJx5cHxG4v7qDrbGlt8CuAAqDHz8af+cAT5vTACRddnlnGQZMCQC5hmqahXB3NTyKFTUAcsrIACOIPktUKBl+SjB9XEJYSjI3SoyBYmV9k5lWAABuPzKHalIwZ6FCg65KWmcuGCIATHonWaA1cJ8AaMRglqUWc9XpCCxfKU0nUZD/G0HgFDpUjaobYbKdMmJ9HikGXJ26Gj5HSkZkj5VeUlo4VX/vAB+YY3TkK2gGAAAAz0lEQVQYlUWO2VYCMQxAkxRkBiguIDIoohSUxbqxSgXBQQu4C///LTRzXPp2b5KeC+CeQAAUiBiLbzFjwkPhJ1NpKTPbPN/Z3Ut72dx+/qAQFFkcHpWOyyenFVLV2hmL4LzeaLYuNJG+vOIvROb65rbtmKjTZSF7/cHdkFmZAHxPmvv6aPzAPMEyTIePoR5XZh2i0IALelIhPc/sXKvpQnLV0q2+WPv6NvEjBqOI3u3845P7o24T6pr9SgqAHyML36u1/GdnwBeAfxidOfwVG6VIFfjq5PZeAAAAAElFTkSuQmCC",
+          "source": "Where's Sharon?"
+        }
+      ],
+      "specifications": {
+        "stroller_weight": "11 lb",
+        "seating_capacity": "Single"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Chicco Bravo",
+      "link": "https://www.google.com/search?q=chicco+bravo&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwzLTZKKcsySRIwNzG0NLc0NjdLNrcwMzFPncHEeImFQ-2JocKB9CV_O1gZF7HyJGdkJifnKyQVJZblf2BlBADb_PC5RgAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQoYACMA56BAgOEGE",
+      "price": 230,
+      "rating": 4.7,
+      "reviews": 2254,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=chicco+bravo&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwzLTZKKcsySRIwNzG0NLc0NjdLNrcwMzFPncHEeImFQ-2JocKB9CV_O1gZF7HyJGdkJifnKyQVJZblf2BlBADb_PC5RgAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQvIMEMA56BAgOEGA",
+      "editorial_reviews": [
+        {
+          "title": "NEW! Chicco Bravo Trio Travel System Review",
+          "link": "https://www.momsstrollerreviews.com/new-chicco-bravo-trio-travel-system-review/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEX////9CIb9AIT9AIP9AIX9AH/9AH79AIH9AHz+p8v/9fr+xNr/1Ob9Yab9JY7/1+f+lMH/3uz+wNj9WKH+nsb+ebL+i7v+f7X9MZH9GYr9AHP+s9H+rM3+zeH9PJb+mcP9SZ7+u9j/7PT+drCPlblIAAAAmElEQVQYlUWO2xKCMAxEt01pCwpUUG4q3v7/H01S0Dxk5pyZTRbGuFiXZeNMHhhnWwDJClFgEU/MXRQu+nMAXZhxKJjDgJHgj7uwE2aOxEpEt8S4XG+sN5GnJxb+/hfEv2HXHz+C9qC1VaxGn4uR7Z8thrGJualGXsMbkB/70SpJaHYqtFgpa1JBtXDD674dDWuqPc3po2y+/tYGAeoa0iAAAAAASUVORK5CYII=",
+          "source": "Mom's Stroller Reviews",
+          "description": "The Chicco Bravo Trio Travel System is one of the most popular budget-friendly travel systems on today's market."
+        },
+        {
+          "title": "Best Stroller Travel System 2019 – TOP 9 Stroller Travel Systems",
+          "link": "https://www.youtube.com/watch?v=vyXE1eSKzUU",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAG1BMVEVHcEz/AAD/AAD/AAD/AAD/AAD/q6v/////yMiuFFsmAAAABXRSTlMAIEMOabpobmQAAAA/SURBVBiVY2AgCjAzMwIBMzOEx8KKBFiAAqwogIGBEVWAkYEJTLNxQAWYYALs7GwEBBBaMAzFsBbTYRhOJwQAmSUDAbfK/BsAAAAASUVORK5CYII=",
+          "source": "YouTube"
+        }
+      ],
+      "specifications": {
+        "stroller_weight": "23 lb",
+        "seating_capacity": "Single",
+        "extensions": [
+          "Travel System"
+        ]
+      }
+    },
+    {
+      "position": 8,
+      "title": "Joovy Groove Ultralight",
+      "link": "https://www.google.com/search?q=joovy+groove+ultralight&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2zEmyzEvOSRIwTzNKSkw2NDaxNE80S7JInsHEeImFQ-2JocKB9CV_O1gZF7GKZ-Xnl1UqpBcBqVSF0pySosSczPSMkg-sjADrV1ADUQAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQoYACMA56BAgOEHI",
+      "price": 120,
+      "rating": 4.4,
+      "reviews": 172,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=joovy+groove+ultralight&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2zEmyzEvOSRIwTzNKSkw2NDaxNE80S7JInsHEeImFQ-2JocKB9CV_O1gZF7GKZ-Xnl1UqpBcBqVSF0pySosSczPSMkg-sjADrV1ADUQAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQvIMEMA56BAgOEHE",
+      "editorial_reviews": [
+        {
+          "title": "Joovy Groove Ultralight 2017/2018 Umbrella Stroller Review",
+          "link": "https://www.momsstrollerreviews.com/new-joovy-groove-ultralight-2017-umbrella-stroller-review/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEX////9CIb9AIT9AIP9AIX9AH/9AH79AIH9AHz+p8v/9fr+xNr/1Ob9Yab9JY7/1+f+lMH/3uz+wNj9WKH+nsb+ebL+i7v+f7X9MZH9GYr9AHP+s9H+rM3+zeH9PJb+mcP9SZ7+u9j/7PT+drCPlblIAAAAmElEQVQYlUWO2xKCMAxEt01pCwpUUG4q3v7/H01S0Dxk5pyZTRbGuFiXZeNMHhhnWwDJClFgEU/MXRQu+nMAXZhxKJjDgJHgj7uwE2aOxEpEt8S4XG+sN5GnJxb+/hfEv2HXHz+C9qC1VaxGn4uR7Z8thrGJualGXsMbkB/70SpJaHYqtFgpa1JBtXDD674dDWuqPc3po2y+/tYGAeoa0iAAAAAASUVORK5CYII=",
+          "source": "Mom's Stroller Reviews",
+          "description": "Groove Ultralight 2017/2018 is a new lightweight umbrella stroller from Joovy. It weighs only 15 lbs and has near…"
+        },
+        {
+          "title": "The 10 Best Travel Strollers of 2019",
+          "link": "https://www.tripsavvy.com/best-travel-strollers-4154155",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAOVBMVEXlvyLlvhvpyVPkuwH////lvyPkvRPlvyPlvyPlvhj8+Or+/Pby3p3nxD3itgDrz2rv14j268X58NbqmMwjAAAACnRSTlP3////////7vXpn8YXKgAAAH5JREFUGJU1zlkWgCAIBVAQ0Jyr/S82BuOnxz0gQS1WVSsCFBFB2mNsQo2XAe3OWj3lANzMbZgldCDN72oKjQxsgAnp8RGFPDTdNGzkzj/ESgAmTU+ArwhpbsvOvBRnpw0vfXTGWcm21DvP82NHvD/g4v0PKsl7AahwWcH5lA+MtwZwtduEOgAAAABJRU5ErkJggg==",
+          "source": "TripSavvy"
+        }
+      ],
+      "specifications": {
+        "stroller_weight": "15 lb",
+        "seating_capacity": "Single",
+        "extensions": [
+          "Bassinet"
+        ]
+      }
+    },
+    {
+      "position": 9,
+      "title": "Maclaren Volo",
+      "link": "https://www.google.com/search?q=maclaren+volo++&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwyTy8vzzawSBJIS7UwMjFKTk1ONTezTDU2mMHEeImFQ-2JocKB9CV_O1gZF7Hy5yYm5yQWpeYplOXn5CsofGBlBADAx0_8SQAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQoYACMA56BQgOEIMB",
+      "price": 180,
+      "rating": 4.6,
+      "reviews": 360,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=maclaren+volo++&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwyTy8vzzawSBJIS7UwMjFKTk1ONTezTDU2mMHEeImFQ-2JocKB9CV_O1gZF7Hy5yYm5yQWpeYplOXn5CsofGBlBADAx0_8SQAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQvIMEMA56BQgOEIIB",
+      "editorial_reviews": [
+        {
+          "title": "Maclaren Volo Review",
+          "link": "https://www.buggybaby.co.uk/blog/2014/07/maclaren-volo-review/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAXVBMVEX/////VAD/dzP/vaL/zLb/4NP/tI7/vJr/1sP/RQD/+PL/xKn/0bz/08D/8uv/fT//ilL/jVr/6d7/wKb/WAD/kWL/XQD/g0f/fDf/28f/TQD/yKz/sZL/5dn/n3YM5spoAAAAYElEQVQYlZ2P0Q5AMAxFb8ewYmMYxvz/Z0ok6971qeekt8kFfk9VA7pphTtjuB8w2izYTXMF+BLxiljADlho3YQ57AcF6sr5qSKtseT9Bb3c6RJB37tkVBbu22x4/pZ6AZljAzptIcPTAAAAAElFTkSuQmCC",
+          "source": "BuggyBaby",
+          "description": "The Maclaren Volo is a lightweight travel stroller suitable from 6 months. With a quick easy umbrella fold, it is a…"
+        },
+        {
+          "title": "10 Best Travel Strollers for Babies & Toddlers (2019)",
+          "link": "https://www.roadaffair.com/best-travel-strollers/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAASFBMVEUeiNj////J4vX7/f5OoeDP5fbx9/zU6Peaye3Z6viLweoljNk2ldzC3/RZp+KEvumt0/BzteYwkdujzu+52vN4uOfn8vuQxOubZJr1AAAAc0lEQVQYlY2PSRLDIAwEp42BYJY4ZOH/Pw0B+5KT56CSpqSeknRJ6806TNjiHFPm0DINP/pyN1CG4fIOD2kZ9XeiAFWxY9LBBKvUF7Yj5AntZXDvM/XTaeCqNBkVTLQQWnan4VV6KGbGajdNKh67XnvsX1+P/ALp1VUbTgAAAABJRU5ErkJggg==",
+          "source": "Road Affair"
+        }
+      ],
+      "specifications": {
+        "stroller_weight": "10 lb",
+        "seating_capacity": "Single"
+      }
+    },
+    {
+      "position": 10,
+      "title": "Cybex Eezy S Twist",
+      "link": "https://www.google.com/search?q=cybex+eezy+s+twist&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEzPKIvPiU8qShIwTEq2ME81MDWyTDNJNUlNmsHEeImFQ-2JocKB9CV_O1gZF7EKJVcmpVYopKZWVSoUK5SUZxaXfGBlBAAj41WBTAAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQoYACMA56BQgOEJIB",
+      "price": 220,
+      "rating": 4.4,
+      "reviews": 105,
+      "thumbnail": "data:image/webp;base64,UklGRsYKAABXRUJQVlA4ILoKAAAwLgCdASqEAIQAPkUgjUUioiES+Z2QKAREtIAJ9A+1fjr5y+Tby97T8lPqzzI/kf2t/H/lD+XvPzwCPyD+k/4f8nfzG5F+0voEezH1T/UfmRzKfM97gH8n/o3+o5BDz32AP5r/af/H/gPYA/1f8h+WHtl+iP+l/kfgF/lv9O/2f9t/yf/s/wHzPevf9svY1/XQwTzkXbtTuC77yx4HTDBrq5u688XwOI23c9nsg0Bf/dfyi2FKW35babHjefDBRYzANtrMb/yOyRmsYvMjf8qeuo1+Vnx+Cwfx2vh4stRMVzLfCIX97tbG87652jbi0m44uI76up4dTMIOjceNx5LWWDvTtFhCSFnZomppfTFkef871VQ8QHs0hY5w4mn5fIiHsFfNTn5PHeO+h8b1z3W2oOc4RWbYu/iB0832ftih5FmAf1hlgX8pTT/M8W3qKrO70gzv6NiPZiKgJHilWi430SKBnP3N+BvWankV2KSadEEykYvkxUsRbYAA/v4UohGvGvNlz3AKqxeg6I1jCJUKecA8Mt/J1WImY5C1WGinziKWvJnto0QFNbjjIXYD4AzDl1KKa5X4lS7ehwk5dRUwcgO1cwxqQHfZgWiTW/4V6WBytYr7lIggfF485eMP/xxx4ZXH7Hh2LuiObDEz9fxf33QhyJQeDwU93X39fFm4vL/2Eb8IG3w2e2ioZKVnNmIZXd+pkv82v0NMgWYvRGSzeumNp3dGjGDrfa+u4lBfRRPG3Oi2tTQ3CrGrISn/3wqEk5G9/ayKjPYYsGcm1JbxP3AyOvrXOnM9Mkm6aH3/LEWLQa+YGXms66h+gfXL8e41JOfGFB2hkk8ypKIJrt7SIgMuzI4AsK2yoOIbgoV33Jo1FBoAQBXV0rI1vyTjA6a77GQ/v8wPzgz7knqpHjqYx71ScHWTiHdfUngBxSnBF92JP2gW/wbNtZLTOxmyVxg0m1ktvCQ8Jyg/Udnb9RTucBZ1x5WCWPeGnmNVMLfduKRR1JSagUTS6RbxmqIFmd2pGbbCQKAKSpqkM3WtWgIpIASf6EYndKtE6aFhKv/Qp2l7lH/8EoKXtmuRNUXYdCOVf/oKjAZ/VD9uWKV06XtZ7Bldk86AA1pb31WjoKzAtrdWia2ICzNOjOOCDS2ziptdWuqgWzvtvYpoytO32aAZz0EfDPpAN1wWkjSostbrIStZR+/5xaYrpkxn0XK1maPxgJtRb12YnphZl9uzWKjAwk63bCkqWjoTPyxrICkpHSGDwi0AbOythL+EmGUwjKOm9aw86nG1fawp4yL47PCADV9gVUuTYQ43WSHwE5TRjv6YBvEC/XR/+rL3R4WgQcebRcLtGhz/s1ZfQHStxcAl2MmZ4l+j0Kh+OVXdgxM6/nO8gOpLZub5pXJuTOKL+Bypk4FUoJ+G6wlQCZwGlYPKWJUn0AtL0hHRWlLaLy1ZX3/vGmlqJZ3jkXNSTRqHruPjAGVAqKDtMif4o3j96YqWqw84E3wEMFodz/fWBpXJBkmOuiq2eJ6Pc4qL90xbJHcPWZqCLF4wKDSbyNrrc27M4oBXqtpHVDr5EEQfmutoVOHAOEOLajQ9I4uW+smU/7aNIBIW5mx42UcklnKDdInPpvI9yVPJSDmezIV0W0W7C7RV/PKq/isCJ1BoHn0FF+qu/wCmofkUTKHXwyzsyN+pGERbFypEmShIe0WDE6nS3SuojRiif/Gn4uGkcm5sZliHN5aTkqffgJg74jZKCh64VAXPfmvKFEOjVat4LwbljycMjdZLJFKb0lUHE+VCp/5By2NpvU3cG/TC/SX7YKxjVrKxB6teSuWQAD+OVLGycff49oEi9fbQSlj4+ynM5BUeDSMZgUWYupivWtbZvOSZhnccrX3BSsYoaFiso8ALjxP70EWTIlQlXdZK1qfRDozKLgTBhfsB78UVvoypmQeEIAx9jtQHxd/AIu3mPMPbxH5R1L7YlpU7nOfccLKSQy+FQqSTlvpwjvsb1RG+Fur6WWtoIb0TT23cgI1c/C2UEo5ArOklSLaykzFH7mghz/xw0Zb7/5Nza+gn88o14YdX/OIJLStSbrzaUUTkNBTqvSFweNDXsKVJFa0JTQZdGd53y7CFK/DMm/0an/eBcmJKgjnpdOogC3h+jB8rPkkRypSz9XC1GfUlZIWud3rBnSWDTwUkAc1u7fAy8m4SiEa0TaZXjBuSiWu6Tb5DAtU3Si3tX8OuK/B5BNo7eTl1uzH4zBFIWS0ZRbpJDj3Qtn1pgqF8/12FzWMMaHNRl6vRn3QMRdZF3yQVg0uRKsvicKVQFMK6sSt69f4QqgGTf3YVkoBYy6v+fMSrzHh6tbQ3m8A7VTv/inFmagz26OrOd5Qu4eCDRABOnPJ2ifoa9UNaPS3/nN+ykQ/Tv/0mi96LlNElUiIYjwZLGj15MGEpMoLfX8VgpOTo2IfVPxDhLv0wpihInXmWEOvq9tz4jDrkWCxVYW/ciDm+sy/1WY0L75amI/NWyhPbQdWJD5IMxCODi1lkSgP6syZ26/iY9XeSbz4DhdGhhB6G+SwSXPr1Ef4i0wPV7xAEfHowM7iZxCx7jvyoS6iy0DUfPEvPXLT//s5clDS3tDiwCK89/Fi2kfuUkxYZfjbbPtmjmDKcTObRA+f7VjSZQGxdG7Zrv/+huJrKH8dPciDTcIZ5P7qMhL9EUh8BLcHAjIn47dTkENjtRcUG42ye5wmJlzSmNo4wf/BXSiilwIwef61SBPzFtPJrl/boSUZxA4Be/bHzub727TzIYQn9+HXC95udSYAiEMxLz8LXZv+dZvF6cWBi6K/L1althYB8yc9TH/OOp8Teb1kWALtxhZNCw52cBLr4OchV9Z/0IceHptbhSRTQKqQgB2K7/5+NDbsGCmrH5gQf5Wecq5VdzVPGnuzXw/UyMxcqEDKUMlMhOdocy4GfYx33eWqVU3qmJGtGlkv8wIvH/bQDMerO/4FwC2AoKzw47zkfz9oPm4d1+fv5la9cyPcAAbMnyjIX+GF45ADISDS/Cg2VjHVZMUALMLEfWgJEX0G3WT57jANvSbGvfQzYJw/yOS1xHsF377ERNKe+E63DLh57f+GJaDMmvRP5ahSb7UHJUcLMtRLqTbCg9wMD4NZdsbpHm1xm21KJhLQ9zAb1kl1Zk/LpE88L+Bvq/PP+LRZ0bOTlLOqG0DgkifcL/Ev3P0uoDVMWu+SKr5eXsevvAUfe42l8vyV5gX77n5EHwdqq/f3n8HRkGuK1XNEH6QJ+VV7ak5JEvdaa17e2Nac8wQLXtaQzSlEOqRYZDII4qseEjbPxt/1Zzi6XOxL/sRx7/HnqHkNj8NJRTq12NXvdi8BXU5ODWzH8bjfOocSVXvDbQ1nCqCBBZ6ySSjc8025BLM7edOq8jwlyN3tSYic70MiF/Qc9vqoKSmffinhefEezUUa/+NSr8EiBIOWXmgPGhhE1U1S74vpPwoopnfYGAsFGugM6P/Cfly6g6SjmvLR6klqUe6poH/uan127wTYTKfnkzTqQDd/9lyyynQkdgXOYwiZmQP/NSQ/p0A2S2E+MWYU4trgQVf4zBA7i7JKWQAAnEJ9lv/dat1xrgKhohIEgSQTBzihe0ABaSRAcmDTaHM2k7kfYMNlnjYPpquhZ8gWERnAwAAAA",
+      "thumbnail_link": "https://www.google.com/search?q=cybex+eezy+s+twist&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEzPKIvPiU8qShIwTEq2ME81MDWyTDNJNUlNmsHEeImFQ-2JocKB9CV_O1gZF7EKJVcmpVYopKZWVSoUK5SUZxaXfGBlBAAj41WBTAAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQvIMEMA56BQgOEJEB",
+      "editorial_reviews": [
+        {
+          "title": "Cybex Eezy S Twist 2018 Stroller Review",
+          "link": "https://www.momsstrollerreviews.com/cybex-eezy-s-twist-stroller-review/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEX////9CIb9AIT9AIP9AIX9AH/9AH79AIH9AHz+p8v/9fr+xNr/1Ob9Yab9JY7/1+f+lMH/3uz+wNj9WKH+nsb+ebL+i7v+f7X9MZH9GYr9AHP+s9H+rM3+zeH9PJb+mcP9SZ7+u9j/7PT+drCPlblIAAAAmElEQVQYlUWO2xKCMAxEt01pCwpUUG4q3v7/H01S0Dxk5pyZTRbGuFiXZeNMHhhnWwDJClFgEU/MXRQu+nMAXZhxKJjDgJHgj7uwE2aOxEpEt8S4XG+sN5GnJxb+/hfEv2HXHz+C9qC1VaxGn4uR7Z8thrGJualGXsMbkB/70SpJaHYqtFgpa1JBtXDD674dDWuqPc3po2y+/tYGAeoa0iAAAAAASUVORK5CYII=",
+          "source": "Mom's Stroller Reviews",
+          "description": "While you can convert Eezy S Twist into a travel system, it works only with Cybex and GB infant car seats which I…"
+        },
+        {
+          "title": "The best 14 travel prams for 2019",
+          "link": "https://mumsgrapevine.com.au/2018/11/best-travel-prams/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEVzhLT///9yg7Nyg7T+/v5xgrNtf7FpfLB2h7aHl7/z9fmGlb/99/ttgLJ5i7n/+fuXpsjEyN3/6fH05u/h1uW6wNj/3+qir87/8/bR2eips9DIzuGwutTu8Pbo6evv7uygYtC4AAAAhUlEQVQYlU3OWRbDIAgFUAGn0sbYQdPBtPvfZY2YgQ+P7x4UlFIKPZqTUVsRsT1fhh0wjPF6O7bY+yPlyR0gPV+a4y4maNAA703cB7SuUpztMC/5y8DFytglj7UFfoHap1zvOdeDidoeIDUXg20xLzk5S32qQFh3NZMAUYehg8e1I/YnDf6vWQSqLf7eIQAAAABJRU5ErkJggg==",
+          "source": "Mum's Grapevine"
+        }
+      ],
+      "specifications": {
+        "seating_capacity": "Single"
+      }
+    },
+    {
+      "position": 11,
+      "title": "Graco Breaze Click Connect",
+      "link": "https://www.google.com/search?q=graco+breaze+click+connect&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEyyMIzPKUquShIwNjcySUkzTjQ1NTY3SUpJmsHEeImFQ-2JocKB9CV_O1gZF7FKpRclJucrJBWlJlalKiTnZCZnKyTn5-WlJpd8YGUEAPYYik9UAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQoYACMA56BQgOEJ8B",
+      "price": 100,
+      "rating": 4.5,
+      "reviews": 426,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=graco+breaze+click+connect&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEyyMIzPKUquShIwNjcySUkzTjQ1NTY3SUpJmsHEeImFQ-2JocKB9CV_O1gZF7FKpRclJucrJBWlJlalKiTnZCZnKyTn5-WlJpd8YGUEAPYYik9UAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQvIMEMA56BQgOEJ4B",
+      "editorial_reviews": [
+        {
+          "title": "Graco Breaze Click Connect Lightweight Umbrella Stroller Review",
+          "link": "https://www.momsstrollerreviews.com/graco-breaze-click-connect-lightweight-umbrella-stroller-review/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEX////9CIb9AIT9AIP9AIX9AH/9AH79AIH9AHz+p8v/9fr+xNr/1Ob9Yab9JY7/1+f+lMH/3uz+wNj9WKH+nsb+ebL+i7v+f7X9MZH9GYr9AHP+s9H+rM3+zeH9PJb+mcP9SZ7+u9j/7PT+drCPlblIAAAAmElEQVQYlUWO2xKCMAxEt01pCwpUUG4q3v7/H01S0Dxk5pyZTRbGuFiXZeNMHhhnWwDJClFgEU/MXRQu+nMAXZhxKJjDgJHgj7uwE2aOxEpEt8S4XG+sN5GnJxb+/hfEv2HXHz+C9qC1VaxGn4uR7Z8thrGJualGXsMbkB/70SpJaHYqtFgpa1JBtXDD674dDWuqPc3po2y+/tYGAeoa0iAAAAAASUVORK5CYII=",
+          "source": "Mom's Stroller Reviews",
+          "description": "Graco Breaze Click Connect is an umbrella stroller that takes an infant car seat. This sturdy umbrella stroller…"
+        },
+        {
+          "title": "The 10 Best Travel Strollers to Buy 2019 See more",
+          "link": "https://littleonemag.com/best-travel-strollers/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAMAAAAM9FwAAAAAVFBMVEVHcEzLWqPQbazQbqzQbqzQbqzNY6fPaarQbqzQbazVgbXKU6DPaqrXiLnRb63OZajty9/////57vXPaqrVf7Xx2ejYi7vfocbpv9j14+7jrc7LWaImgnsoAAAADnRSTlMAFkLmvSzps1rRkXKFqgTjLO0AAABwSURBVAiZNY1HEoQwEMQGMNjeMNkJ//+fC0Wtbt0HCeAmZcS4w581Ihoipme+nIzMCIm2fH3vwVx7q2WyElGCQ87WhIug6uzlgCnOrM69aa86DKIU5lJOqTJcxhcWr+SX8e4Y5jvzCXHDHEJc9wXgBwSmB01klnHTAAAAAElFTkSuQmCC",
+          "source": "LittleOneMag"
+        }
+      ],
+      "specifications": {
+        "stroller_weight": "50 lb",
+        "seating_capacity": "Single"
+      }
+    },
+    {
+      "position": 12,
+      "title": "Maclaren Techno XT",
+      "link": "https://www.google.com/search?q=maclaren+techno+xt&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEyqSCtOy8krThJIszRIMjE0Nk9JNk5JSko1mMHEeImFQ-2JocKB9CV_O1gZF7EK5SYm5yQWpeYplKQmZ-TlK1SUfGBlBACTs6PtTAAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQoYACMA56BQgOEK4B",
+      "price": 280,
+      "rating": 4.6,
+      "reviews": 256,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=maclaren+techno+xt&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEyqSCtOy8krThJIszRIMjE0Nk9JNk5JSko1mMHEeImFQ-2JocKB9CV_O1gZF7EK5SYm5yQWpeYplKQmZ-TlK1SUfGBlBACTs6PtTAAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQvIMEMA56BQgOEK0B",
+      "editorial_reviews": [
+        {
+          "title": "Maclaren Techno XT Review",
+          "link": "https://www.buggybaby.co.uk/blog/2014/06/maclaren-techno-xt/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAXVBMVEX/////VAD/dzP/vaL/zLb/4NP/tI7/vJr/1sP/RQD/+PL/xKn/0bz/08D/8uv/fT//ilL/jVr/6d7/wKb/WAD/kWL/XQD/g0f/fDf/28f/TQD/yKz/sZL/5dn/n3YM5spoAAAAYElEQVQYlZ2P0Q5AMAxFb8ewYmMYxvz/Z0ok6971qeekt8kFfk9VA7pphTtjuB8w2izYTXMF+BLxiljADlho3YQ57AcF6sr5qSKtseT9Bb3c6RJB37tkVBbu22x4/pZ6AZljAzptIcPTAAAAAElFTkSuQmCC",
+          "source": "BuggyBaby",
+          "description": "We found that the Maclaren Techno XT to be great around town, kerb popping and for travel."
+        },
+        {
+          "title": "Best Travel Strollers 2019 • guide to the smallest + lightest stroller for travel",
+          "link": "https://www.flyingwithababy.com/best-stroller-for-travel-what-are-their-pros-and-cons-for-flying/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAhFBMVEX////7//9xytj/8+vW7u33/f/x+frk8/PL6Oj3yaT3vIr4/f3o9/n0w6TQmn/lo3P+++75wkr+68L91We2YShRqK32ggCzmo75rm33nwD5aQD5fAn9tADhXQDUwLfsYwDwhEv7gTn8yK/k/P+Dz9yZ2eO34upcw9PY49//+fP17+n97uMcxkWdAAAAcklEQVQYlWNgIBIwoguwsDKysSO4bBysnFwM3EgaeBh5+fgR2gQEhYRFRMXE4QLMEpJS0jKyckhmyitIKyrBtbAALVVW5mZg44EKMKkwqaoxqaupMTExQYxg0dbQ1GTW0mRm1oAIAFnM2iCCWZtYn6EAAIx2BcMiSxvuAAAAAElFTkSuQmCC",
+          "source": "Flying With A Baby"
+        }
+      ],
+      "specifications": {
+        "stroller_weight": "14.6 lb",
+        "seating_capacity": "Single"
+      }
+    },
+    {
+      "position": 13,
+      "title": "Maclaren Triumph",
+      "link": "https://www.google.com/search?q=maclaren+triumph&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEyyMLdMy4k3SRKwTDYyTrYwMks1SU0xMDAzmsHEeImFQ-2JocKB9CV_O1gZF7EK5CYm5yQWpeYplBRlluYWZHxgZQQAk5e7K0oAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQoYACMA56BQgOEL0B",
+      "rating": 4.5,
+      "reviews": 248,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=maclaren+triumph&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEyyMLdMy4k3SRKwTDYyTrYwMks1SU0xMDAzmsHEeImFQ-2JocKB9CV_O1gZF7EK5CYm5yQWpeYplBRlluYWZHxgZQQAk5e7K0oAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQvIMEMA56BQgOELwB",
+      "editorial_reviews": [
+        {
+          "title": "Maclaren Triumph Review",
+          "link": "https://www.babygearlab.com/reviews/getting-around/umbrella-stroller/maclaren-triumph",
+          "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ9OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NysyNzc3NzcrLjc3NzU3Ky03Nzc3Nzc3Nys1NS03LDc3Nys3Lf/AABEIABAAEAMBEQACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAADBQcC/8QAIxAAAgECBQUBAAAAAAAAAAAAAQMCABEEITFRcRIiMkFhBf/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EAB0RAAIBBAMAAAAAAAAAAAAAAAABAgMREiETIjH/2gAMAwEAAhEDEQA/ALIWtRMyZ1Sib8HiiclSEu3htjGS0HQ4M7ibX8R8pjDxdxX+6cbYLwSiY6zkTqNhV01FbZFXN6RvAwXdYjNpZA5Ag5DY+qhs0Ssf/9k=",
+          "source": "BabyGearLab",
+          "description": "The Triumph is a well constructed, lightweight, umbrella stroller."
+        },
+        {
+          "title": "The Best Compact Travel Strollers for 2019: Which One is Best",
+          "link": "https://www.lucieslist.com/gear-guides/best-travel-strollers/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAOVBMVEVHcEzWMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj7WMj6xxBoVAAAAEnRSTlMAQYt3m7YZqMgHKjNs9E1H31dwWi7CAAAAfUlEQVQYlXVP0RLDIAiLCIJWa8v/f+zUXrvtbuMBSIAAwB8L2ze2yuedZwa0o/BN7BHJAH5mkoACiLBn5EtPm0oHu1a3q0eXrjd3XwSX6eOALgCp+hotAx8jHpAgcTLuNiu7jn3VEtDo49JklNPSe6guGs841r8tb6H8ePsFz7sDoZT/wmMAAAAASUVORK5CYII=",
+          "source": "Lucie's List"
+        }
+      ],
+      "specifications": {
+        "stroller_weight": "10.8 lb",
+        "seating_capacity": "Single"
+      }
+    },
+    {
+      "position": 14,
+      "title": "Kolcraft Cloud Umbrella Stroller",
+      "link": "https://www.google.com/search?q=kolcraft+cloud+umbrella+stroller&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEyqLM8uMY43TRJINTc1NDE1SDE3SzSyMDAymMHEeImFQ-2JocKB9CV_O1gZF7EqZOfnJBclppUoJOfkl6YolOYmFaXm5CQqFJcU5efkpBZ9YGUEADHTlklaAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQoYACMA56BQgOEMwB",
+      "price": 27,
+      "rating": 4.2,
+      "reviews": 1332,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=kolcraft+cloud+umbrella+stroller&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEyqLM8uMY43TRJINTc1NDE1SDE3SzSyMDAymMHEeImFQ-2JocKB9CV_O1gZF7EqZOfnJBclppUoJOfkl6YolOYmFaXm5CQqFJcU5efkpBZ9YGUEADHTlklaAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQvIMEMA56BQgOEMsB",
+      "editorial_reviews": [
+        {
+          "title": "Kolcraft Cloud Umbrella Stroller {Review}",
+          "link": "https://momandmore.com/2014/06/kolcraft-cloud-umbrella-stroller.html",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAz1BMVEX////6+/vq9PWw297f6+zl8vRAu8Tk9PWYzdLH6+7J4+V8xcq23+HZ7u/Z6usamaF9vMFXsbiSur5Fq7NarLRwvMKZwsaMwsZvsbZXp60ulZ2rzdC519q70dOAsLTB2NrS4eNsp63f29mis7N5eXeSk5KJiIdXWVeanJzx8fHswtPl4+RISkdpa2mFi4ZfaWLoi7b35+3rs8zrpMTgcqbu1uDWfKTgnbvYSpDPVZHaZp7Rn7XYkLHBRIG+NnvPf6TDY5DBV4rluc25D27Yx88gcOM5AAAAt0lEQVQYlVXOaReBUBAG4Bmyi2zJkpTCzRoK1e0K//83ya1zZL7Nc95ZAAAR/qtQBBDyUCpDpQq1eqMpptBqF6pSp9vr9wYZyENlNBTHE0lKYTrtq5I802RFSUFQ56gTQ1MX+m/xxrQsXOZeMFZra20CEPLt7CSx3Zn7QwI8cXTghCicz87F5eBd4ebeL37gByEf8TybUrxGyCjjidiOTixiMbiPMAUnfDKAl0Hom2Rnv/fJhiT1ASRXE9j1tv+sAAAAAElFTkSuQmCC",
+          "source": "Mom and More",
+          "description": "So what did I think of the Kolcraft Cloud Umbrella Stroller? It is honestly the perfect little stroller for kids up…"
+        },
+        {
+          "title": "The 10 Best Travel Strollers of 2019",
+          "link": "https://www.verywellfamily.com/best-travel-strollers-4177015",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAVFBMVEUKOD8AJCrFdeylsLEAKTLLd/EANToJOD////8ANDOAVadqUo+8xMXM09OPYLU2SV1SaW2xa9kADBjt8PDe4uN3h4tCRmolQ0+sa9KDkZRpfYGQjajMIMiHAAAAAXRSTlPQxjUKsgAAAJJJREFUGJVdz0cWwjAMBFAXlZGd3oH73xMFwoJ4YWv+YvQcgv6dcMsuSpH8jedtZhqoaZuo0raZrHbFHICBViCTMHcWZPB5clWrzL0EjTPmCWhLPNJhZ2kGnsCLN+Z6guzADJQ0pmTnWo0LvMZj6r5AD4e+pOSVH1AClmlnHk0vWPMgVssmF6iRj2KiP/j/3C2/AVJOCDXxEVqvAAAAAElFTkSuQmCC",
+          "source": "Verywell Family"
+        }
+      ],
+      "specifications": {
+        "stroller_weight": "11.4 lb",
+        "seating_capacity": "Single",
+        "extensions": [
+          "All-terrain"
+        ]
+      }
+    },
+    {
+      "position": 15,
+      "title": "Maclaren Mark II",
+      "link": "https://www.google.com/search?q=maclaren+mark+ii&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEyyMM_NSc8tThIwTTIwM0i2MLAwTEpMNU4zn8HEeImFQ-2JocKB9CV_O1gZF7EK5CYm5yQWpeYp5CYWZStkZn5gZQQAI40vc0oAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQoYACMA56BQgOEN0B",
+      "price": 120,
+      "rating": 4.5,
+      "reviews": 71,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=maclaren+mark+ii&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEyyMM_NSc8tThIwTTIwM0i2MLAwTEpMNU4zn8HEeImFQ-2JocKB9CV_O1gZF7EK5CYm5yQWpeYp5CYWZStkZn5gZQQAI40vc0oAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQvIMEMA56BQgOENwB",
+      "editorial_reviews": [
+        {
+          "title": "Review: Maclaren Mark II Recline",
+          "link": "https://www.todaysparent.com/product-reviews/strollers/umbrella-strollers/maclaren-mark-ii-recline-stroller/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAXVBMVEVHcEz///9MusIjsLk8tb1IvcU/uMCE1dtXvcVUwslJuMC96+3X+/wusrtKuMAvsLoztLxixMyK19tHuMFYw8uY3uMusrsztL1WvsVcvcUUqrQWq7UpsboPqrQbrbd11vUbAAAAGnRSTlMAC73+3SnsQ7tifC4f85SGrhdP0ls5bvOcrXxyk5IAAABwSURBVBiVrY/JDoMwDEQnZGMHsbUdx/n/zyyQS88V72L5aWRrgAdIhXDYZG0YAZGBHPjyTqtP1jc0RLLPCbVGtLQwaMhoTBGSzyuXOEet85S0+hEk87VjI/c70Za/nSPXHt5x9rdYVEQ7TBQZ/6vyBRARB63nLIFuAAAAAElFTkSuQmCC",
+          "source": "Today's Parent",
+          "description": "The Maclaren Mark II Recline is a lightweight umbrella stroller featuring a compact fold, a sturdy frame…"
+        },
+        {
+          "title": "Our Guide to choosing the Best Travel Stroller 2018 - Family Travel Blog - Travel with Kids",
+          "link": "https://www.wheressharon.com/x-featured-discussions/guide-best-travel-stroller/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA/1BMVEWU3OeU3ecjf+CV4OuHxs+AdnWItbucxcaZ19+AvMWGu8GVzdab4OqY4utyeXqdvL9VbW6KV0TEpZOj19yffIiVAABKYH9fm7x7vMx0nKCUr7FTNipbJx5cHxG4v7qDrbGlt8CuAAqDHz8af+cAT5vTACRddnlnGQZMCQC5hmqahXB3NTyKFTUAcsrIACOIPktUKBl+SjB9XEJYSjI3SoyBYmV9k5lWAABuPzKHalIwZ6FCg65KWmcuGCIATHonWaA1cJ8AaMRglqUWc9XpCCxfKU0nUZD/G0HgFDpUjaobYbKdMmJ9HikGXJ26Gj5HSkZkj5VeUlo4VX/vAB+YY3TkK2gGAAAAz0lEQVQYlUWO2VYCMQxAkxRkBiguIDIoohSUxbqxSgXBQQu4C///LTRzXPp2b5KeC+CeQAAUiBiLbzFjwkPhJ1NpKTPbPN/Z3Ut72dx+/qAQFFkcHpWOyyenFVLV2hmL4LzeaLYuNJG+vOIvROb65rbtmKjTZSF7/cHdkFmZAHxPmvv6aPzAPMEyTIePoR5XZh2i0IALelIhPc/sXKvpQnLV0q2+WPv6NvEjBqOI3u3845P7o24T6pr9SgqAHyML36u1/GdnwBeAfxidOfwVG6VIFfjq5PZeAAAAAElFTkSuQmCC",
+          "source": "Where's Sharon?"
+        }
+      ],
+      "specifications": {
+        "seating_capacity": "Single"
+      }
+    },
+    {
+      "position": 16,
+      "title": "UPPAbaby G-Link Double",
+      "link": "https://www.google.com/search?q=uppababy+g-link+double&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEzOrjQ3TrIoShIwT7KwMLcwTDKyNEuySDVJncHEeImFQ-2JocKB9CV_O1gZF7GKlRYUJCYlJlUqpOvmZOZlK6TklyblpH5gZQQAQ_BIuVAAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQoYACMA56BQgOEOoB",
+      "price": 280,
+      "rating": 4.5,
+      "reviews": 52,
+      "thumbnail": "data:image/webp;base64,UklGRrAOAABXRUJQVlA4IKQOAACQPQCdASqEAIQAPlUkjkUjoiEVKnYsOAVEtIQ4AMuv3v+oXi/4sfYPt/67mUPrZ1Efln3U/Xf279zPZnwL+R3zD7B35P/Tf89+VnEYWq9Aj3g+z/7nwiP8z0f+vn/L9wP9SP9p6xf63wvPuP+99gD+lf37/qf4/2J/+n/T+fT6R/8v+i+Ar+a/2z/o9hf92fZ3/btFdhppnkaJ4kzbga/rtPeJhWm5/Zrnh0UaORnrAn1cXs7ht3+q0rYxLTKMiNaIJ3Oiz7kl9CdnWwKYhVoNKWETlRmdWGdcNy7y8Ej7KUVmhEDbtl+MLHSn/BYqNk65Kk5irtdZ5RgaMitAMgg3JJ9J2mxi8rsmJHy59mkFOchUxzY+rrQnQBdit6d2qY3MezIZ9r1I1F0sjTwomsyRRepLgLPk3Br1d1p1GxbK0tE0Mnb9B+jhjbhTDnVWmeJB28z9Ca0uV8u15dvYdsW21MQcyyS3qE+v5UyqUcnQ4O9RGY0S1ns9VwSVJa03HJA+RHke4R9BdAjCoXIOFZDX/8OTWwCG7sqiMkcQIMlYkz/Rww4qq8ngXKTM6XwgE6AtuZ6DQ5NKWXUJ6fvKCG9UeQx16m+02Sycnb7SmwBKSUBgq7R2ij0jk5XQPVSHegko6z8SiBTaX5Xj9iTQ8SmrLglF1AAA/uCDGKqnGDwqXl+4qg5msw4f8aKzaotPw9HLeK+W/ziQy7WPre6dlE5HK+YxQgrTEiGEgGo/KjRjCAtKX3Y8OR9l6sYSzhRrCAmEj0jP4vV4jlXckD2331g2dMdEkUgwZz3U4YY/4v4bpoI40PrO0jAEenfsrHa//BlqHvbwMS9InIt2hTDUHP7u7/bJOFkM2JlL0kPuS4LmnCLDIgTPlq4Efh+W9yvJswvWnlywbZV6UGbNfBTja2yNF06MaXt7UCMbytUJscn3eFAie+pD5jeS0kbcLXF4YdS2yW0l1OHzqaBCDawU58i5EPqQlcwb8MCfiDpyV7lH9Z6V+ZJ8PZUgK7ocj9Ajzbkcyvva4G63KbsiOSawX2UfjTOq8rVmETvUlE6zsk8tWhOye/GFREphHEMzHy/JPUL6upDvpJyt/tsrRRYmv8GMv6yO2e1R5BTzTk4DZMULd8PUqHX6UpE7Cgf6RPIyC2BPd7uG4PPPxHwU7Kk+xDJlE8I5nqBkTtlhv6380EqiThB23jsamsJiX/gz88aeUj6MYBlSpSaRYdo4P1bIFEwsoUsiGU7/KZi7ugeGZWnFB4Fd/re7K4OTT3zdK8Q7JUEyQM3EldwmWfWne2vH7VjPm4YQw+7ADo9H7FVKd4Gy4nQModv3cJROaOWygy5ftgC+Bw808lx0y7CimQ78yT8KVLVBMs+I7RVUBkhOCXrhsch67wVQitIBv8h6pJTm6L19UIWFAic1zFVNVbWWw5VyznmObZhoauNMrmbTL2oFYTp8zM/1wRqX0RgVVZNekgmzCLcd53vsuy33H2F8UZ6tkjCpJdw5xqloE5TA3U6L/L4w0a+wHtL2WmH8FOmQoCQbG989l2FKCyxit0F+iTi9eXBqQ6moPo4M5mZ7SMgLkxJvGlubaOi17yokTm3plSTwk1B1k34llb6r6UqHpt3vKnOWCL5ess5vMfzu6Yklac3mLqn3lFGG39JPybI+hmHUb+Sy/57/T3s35YahP0o6trHSny/MTSPj4EMjBpmkCZp+P1i+5EtO27Ei6VQ8zdbecypUIOeQdeq7o3QgYexQGKbaTcC9jsrIp0tV9gdCzQA3FouWC3Bxb82Ew+1tsDiprQx9uQMIVnpjPjSVdk9mHWBhRDxuY9ZGWmX1qmNYaPPTNHPFt0yiyW/hRZ38XyiCpgaFYx20jKRWgO8D3WrczzhF3FK3S8Rxd4obfPEtKU2fiAvNsJI9ilaYt8dPFkYcfOojhgkU5XqEPY78V4Z73xPb195EOPFje0uzR4iURidYyHrujR3igbYp6UYTfTNmLXQe9beaD2UazXyDR3aS/sdOyZP1MeT5+3z41fW4wTr5peGABp9t3Snd/F6hIM59Cvq1Sf5i8+NuDBWCuOZDGa98+B9VGfMw/0Ig+mSMLyNgZWq72zf4mFtW7891V8TF2sm4LAj7lKfG4rwCkhB+dv76XuD1cmiWbAV3VntRpssCUrms3Q2deqvvtzZAwp7jg2GeXdul9t0dLTvFI/iIPbyAhuvEZRe4YtXku4GPVBx6Ib03Wfi3LzL0l4kBYDE4NkCuweXCErB+VSDxAWU00/U2fRE3Lxv+icL1kzMf2w262Gw0ZszKyALIcuHq9lkk4I+TR9aELH9AVr2wQJWMeqwXq9oXgCQAaR4PL8hQ/vCmL1Rvl7WAHOC0tBiTqZQmRM6jLHJQCOhU2mX7TF8q5WPx/SSSJcRmepPVNXmhhHQme6wNgMfF6Zg1VzovOUQThw2qvGK53jpCVzy+uKLpaUAJ1YROjKRtRGcIHVP7UklU3BnWaHGdgt9g1wejxhBmfAFllqN24R99rwkBBeXdNmlDocBzIHZO9iTLi2m0PYRM+bC5/hpSKrpyBsMk9Vc5A3WTzzfFjBA4WckxRYHtTbfDpxqvCbCDj+alb3z445nLpGOjOqvAJRvEJzdIBZ3Q4kA3S4qMvZQgIVj/lmatj3VKnubnzisVwaVl2qVcXnL/8YJ4AZ5ax9Lt7J4iYmWtQma3YaipOk5MSLASYNV1ka3kwM+UJxOPa7ocxjSw3ROA29IixQo+LMldaZ03BpbaOIGMTC1dNB4hdw6QW+QLYxcWgUaakjflzWG0CknxSkuRhw9cYJ813Yrit8oeyadY5QZg3WRjJqvms3AlHe9UKEpvyHs/1EQa2Q7Cmz8EByfmD0guEjASwgVv7Uh+51dKDrH8t7MepfUog+/tu1gZo5H1uBy8RmqvIn7ITlc0NXAtdXiW6r/O+KSdl/BzIjAwJd1v3iGFDdmfU3Fhlzk+E+tuo72F1i8SgmdvVwy1dWvktDzq+/GafPDPktf87foZR+IrxG3IXo2V58mmjLr430B+Yd4eT9lhIbD34MhP1U24RLV0cw8q/AP3dwNp+4bSzk/VvAqCAfmh/2dou5ZBSd7iw4nADD4BPjR9IMoel7XBOuHcvF6lyAnMZE9JBoFLBG0XjmD9xS5pKhwBf9h+SDE59QNBTcoKHjd3llQE3QDnePHd7cHBI6h1i65It91ACGogMOjQASHDZayHAlIbDb9r76yQy4mjRv/HO5YcmXfBuR+kvgHpW8EZuliLKzn9ahbVN8tKSeMggTl/+ZTupsV6lyTk+H+KDLM6KcUqr4R8K3xtKDah+BAxpONmg8k7cd1k8DvvLPDSqIc15id9OuVX3IqX+GXVEwLFs4uq8mN7J3sQcFKlHCjrQaw9FRbVsKsXxuXT3BYcPt3lQCt+nP81Kddtj78DIQ0wsiYXXoqfL/EAzco4XBfF7+kC8yfeO2ATx/Lfsz2G0W19LWqPnymMgOHxDF0B7F/XE48xTHHFaLwatv9HICfaZj16LsmQ+W1Pe9jpcv/Yyct0P9r68yvqw/fqrLAy69jiWror9oc2sx8+qN08kbck6ub0wp9t/m0IS61bAjU75+KIvCxsAc4jQ3q7xe3524a933J78k2eMH5VEPFog3s2LEB8VDmF2GncP5//z8MHBH/Rt/KsENTDV3ROWqJgSsLRt5uDZsfMY9EchXHmkZ0yRVpcqOnAqr+hyNr7SkbYOFcdtjVY7t2r//0e2q3+gMd+nswIyImw98v4dgupM0TxjCLRK+EGuDyZR7fMozeY7JLulD8VOvCL2yLrPjJtEWTdWG48N5+rATUxmnEsHxOXgO0KSNS21ez0gsWxdMgo6e0VbF2kIZg4uT9NFEexxJF+Io5U/9laGJRNAQtG0OjHwaJ/TCpmWdzCxqDKj0kLPad0TSxgc9ATRkqgIQOZ3uCUqwxnIL1WBlnh5jal1vqGDDRRiJM6oY49jXDX9H9uLFmIv1ADHB3/Zy327CpL7rxzQTESbxsts0qWqpBzbCIJUKkuDig6CDjnZqmFeRfl/2y/+crIaKOxxut5x+n+LG33wnw3cOXEKHx9ilv+jYSHof9N+U9ZBY0AWxAO0RrLkAdNj3u1hllaZ5BisXOqNy+V5YPZifWo0l2ck1DKskkBIddwLIC0H07/BsK0Ike+IJyryGb/yfUPlAyosMgc8ifTxUSc5CmgcPKCwwmz+IJGn+Nn9B18LmlJdUDkzvDF15Trbw0gCXYluzyOCUaFdvMSkDPd0O2NAsZL5VxyFtMq0bNObQ9vLcs64AH89hYfDIhSpQr20pAZWtN7yHwUImC0N1nng0bsirzfnELzPUOOEgKX9UhXBmW9xf/gEGJoev5cSTQM7wXsYaRQ0uqaleeynhOYh3Wntr2YrdRQ2HkZkxhjOgSCAS731VlzljzOqig4orU/+ifv3E//OaTJvmZzYpYaF39Ecx116hgnz0pj5t8KDAFtSj+p86hk6fnvzyhwEccD/BQo2inzopKCj5skpwinu/rMbjWR5OQr1AegQhY7X0JeCQkUuTUamaC5numtG68alu08opqOFKxsx7zHpRzxDdcQdki9SA7GU4TjPnlADZ+3FzfB056UhQIuZ0Dw/zD+AwrtnDAqNf2xNEcPQDFv9vxY89m8/TpxLRdY+gZXV8uB7s9ZzJOEUkWuyK0m1jFIhTcoCsmaLrZP+t9JOIFtuZtPWslPuzkA3reAkyqGClPNFXih6f+F5uPQyHl/SjjDPyUcn+5kiFGCaXXDrPutMtLVpsZl+FHskrD8BC515rYOtf2qZxZFEhiEf1MeKA51hQP4ca8gKu4ZE/Dh7/6/xLxomEMqYSzO8iWAUY630Fb/2XM3FtPBV7BMeV2YAyu9cd6hZ7k0bGRWBqcLa8Mbol4wG7+aX4LKMOm/pxK1gGoZvqYgSuBhcmJoe8NXuxjQVtc0f0srLyrX8bOyHb69bB9Ro1ezCBKjPmULaVaCwz5gAAAA",
+      "thumbnail_link": "https://www.google.com/search?q=uppababy+g-link+double&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEzOrjQ3TrIoShIwT7KwMLcwTDKyNEuySDVJncHEeImFQ-2JocKB9CV_O1gZF7GKlRYUJCYlJlUqpOvmZOZlK6TklyblpH5gZQQAQ_BIuVAAAAA&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQvIMEMA56BQgOEOkB",
+      "editorial_reviews": [
+        {
+          "title": "UPPAbaby G-Link Review",
+          "link": "https://www.babygearlab.com/reviews/getting-around/double-umbrella-stroller/uppababy-g-link",
+          "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ9OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NysyNzc3NzcrLjc3NzU3Ky03Nzc3Nzc3Nys1NS03LDc3Nys3Lf/AABEIABAAEAMBEQACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAADBQcC/8QAIxAAAgECBQUBAAAAAAAAAAAAAQMCABEEITFRcRIiMkFhBf/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//EAB0RAAIBBAMAAAAAAAAAAAAAAAABAgMREiETIjH/2gAMAwEAAhEDEQA/ALIWtRMyZ1Sib8HiiclSEu3htjGS0HQ4M7ibX8R8pjDxdxX+6cbYLwSiY6zkTqNhV01FbZFXN6RvAwXdYjNpZA5Ag5DY+qhs0Ssf/9k=",
+          "source": "BabyGearLab",
+          "description": "The UPPAbaby G-Link earned a 4 of 9 rank for lightweight double strollers."
+        },
+        {
+          "title": "Best Travel Strollers 2020 | Single & Doubles | Lightweight & Compact",
+          "link": "https://travelmadmum.com/best-travel-strollers/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA5UlEQVQ4jdXRS0sCUBAF4E/NntATjIqCoEUQRLWr394/KKpVC2lXGGhYVEikaZsjggrWrgYud2bunDNn5vLXrTipoJB7FqdYRBNvyZfwiNqkDnM4xntIdrGGBpbHqCn3nVLuD7RxhipaAR6ih01sYyf1+1hCo08gMj+xjq/4RTzhCgvJr+ISB6gNL+kO97jFCp5RwVHGvA5pO6c8TPCCKWzgBueYQR0XBksvZQ+tklGrp+ABXcxHyWveK2nQRGPcP3cyRidxFXsGC2/jJA3KhRH4eNtK524I6ol7P8QTBdO/AfwT+wa9djLEgGQhTgAAAABJRU5ErkJggg==",
+          "source": "Travel Mad Mum"
+        }
+      ],
+      "specifications": {
+        "stroller_weight": "25.4 lb",
+        "seating_capacity": "Double"
+      }
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the best umbrella stroller for travel?",
+      "snippet": "10 Best Umbrella Strollers for Travel 2019UPPABaby G Luxe. ... UPPABaby MINU. ... Maclaren Mark II. ... BabyJogger City Tour. ... Graco Breaze Click Connect. ... Babyzen Yoyo. ... JOOVY New Groove Ultra Lightweight Stroller. ... Chicco Liteway. The 3-D style fold of this lightweight stroller from Chico makes it a cinch to close up and keep moving, and comes with a carrying handle, too.More items...•Aug 6, 2019",
+      "title": "10 Best Umbrella Strollers for Travel 2019 | Family Vacation Critic",
+      "link": "https://www.familyvacationcritic.com/best-bendable-twistable-umbrella-strollers-for-travel/art/",
+      "displayed_link": "www.familyvacationcritic.com › art"
+    },
+    {
+      "question": "Can you bring umbrella stroller on plane?",
+      "snippet": "Small and lightweight, an umbrella stroller takes up little space but still provides parents with reliable transportation for an infant or toddler. Airlines allows you bring this stroller on board provided it meets the TSA requirements, or you may check it in with your baggage.",
+      "title": "How to Take an Umbrella Stroller on a Plane | Getaway USA",
+      "link": "https://getawaytips.azcentral.com/umbrella-stroller-plane-2400.html",
+      "displayed_link": "getawaytips.azcentral.com › umbrella-stroller-plane-2400"
+    },
+    {
+      "question": "Which stroller is best for travel?",
+      "snippet": "Best Travel Strollersborn free LIVA Compact Fold Stroller. ... Bugaboo Fox Complete Stroller. ... Baby Trend Expedition Jogger Travel System. ... gb Pockit+ Lightweight Baby Stroller. ... Doona Infant Car Seat with Base Marine/Navy Blue. ... Baby Jogger City Tour stroller, Onyx. ... Babyzen YOYO+ Stroller - Black. ... Mountain Buggy Nano Stroller.More items...•Sep 2, 2019",
+      "title": "Best Travel Strollers | Fatherly",
+      "link": "https://www.fatherly.com/gear/best-compact-strollers-small-apartments-travel/",
+      "displayed_link": "www.fatherly.com › gear › best-compact-strollers-small-apartments-travel"
+    },
+    {
+      "question": "When can you start using an umbrella stroller?",
+      "snippet": "Age range: If the lightweight stroller reclines fully, it is safe for a newborn. Most umbrella strollers do not fully recline or have suspension features, so it is best to wait until baby is at least 4 to 6 months old before using.",
+      "title": "Amazon.com Baby Stroller Guide",
+      "link": "https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000071131",
+      "displayed_link": "www.amazon.com › feature"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "11 Best Travel Strollers of 2020 - Babylist",
+      "link": "https://www.babylist.com/hello-baby/best-travel-strollers",
+      "displayed_link": "www.babylist.com › hello-baby › best-travel-strollers",
+      "date": "Jan 9, 2020",
+      "snippet": "Because of their lighter weight and compact fold, travel strollers are more ... Umbrella strollers are good for when you occasionally need a ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "GB Pockit Stroller",
+            "link": "https://www.babylist.com/gp/gb-pockit-stroller/12407"
+          },
+          {
+            "title": "Babyzen YOYO+ 6+ Stroller",
+            "link": "https://www.babylist.com/gp/babyzen-yoyo-6-stroller/13188"
+          },
+          {
+            "title": "Baby Jogger City Tour 2 ...",
+            "link": "https://www.babylist.com/gp/baby-jogger-city-tour-2-single-stroller/15019"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mrgn2o6jAkQJ:https://www.babylist.com/hello-baby/best-travel-strollers+&cd=1&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.babylist.com/hello-baby/best-travel-strollers+best+travel+umbrella+stroller&tbo=1&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQHzAAegQIARAJ"
+    },
+    {
+      "position": 2,
+      "title": "The Best Compact Travel Strollers for 2019: Which One is Best",
+      "link": "https://www.lucieslist.com/gear-guides/best-travel-strollers/",
+      "displayed_link": "www.lucieslist.com › gear-guides › best-travel-strollers",
+      "date": "Sep 1, 2019",
+      "snippet": "An in-depth review of the best travel strollers out there, including umbrellas, tri-folds, and square folds, featuring our favorites in each price ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QPiMQslc2JkJ:https://www.lucieslist.com/gear-guides/best-travel-strollers/+&cd=2&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "10 Best Umbrella Strollers for Travel 2019 | Family Vacation ...",
+      "link": "https://www.familyvacationcritic.com/best-bendable-twistable-umbrella-strollers-for-travel/art/",
+      "displayed_link": "www.familyvacationcritic.com › art",
+      "date": "Oct 8, 2019",
+      "snippet": "10 Best Umbrella Strollers for Travel 2019. Chicco Mini Bravo. Chicco no longer makes a classic umbrella stroller, but the Chicco Mini Bravo is as close as you can get to it. gb Pockit Stroller. UPPABaby G Luxe. UPPABaby MINU. Maclaren Mark II. BabyJogger City Tour. Graco Breaze Click Connect. Babyzen Yoyo.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MSo9-pNwc_oJ:https://www.familyvacationcritic.com/best-bendable-twistable-umbrella-strollers-for-travel/art/+&cd=3&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "The 10 Best Travel Strollers of 2020 - Verywell Family",
+      "link": "https://www.verywellfamily.com/best-travel-strollers-4177015",
+      "displayed_link": "www.verywellfamily.com › ... › Babies › Gear and Products",
+      "date": "Oct 9, 2019",
+      "snippet": "Read reviews and buy the best travel strollers from top brands including 3D ... Best for Infants: Jovial Portable Folding Baby Stroller at Amazon.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JEdoRW9manMJ:https://www.verywellfamily.com/best-travel-strollers-4177015+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "2020 Guide To The Best Umbrella Stroller For Travel ...",
+      "link": "https://www.chasingthedonkey.com/travel-reviews/best-umbrella-stroller-for-travel-reviews/",
+      "displayed_link": "www.chasingthedonkey.com › travel-reviews › best-umbrella-stroller-...",
+      "snippet": "Best Umbrella Stroller For Travel (Updated For 2020) Chicco C6 Lightweight Compact Stroller. Summer Infant Travel Stroller 3D Lite. Inglesina USA Net Travel Umbrella Stroller. Cosatto Supa Stroller. Maclaren Triumph Travel Stroller. Peg-Perego Pliko Mini Stroller. Silver Cross Zest Travel Stroller. UPPAbaby G-LUXE ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best Umbrella Stroller ...",
+            "link": "https://www.chasingthedonkey.com/travel-reviews/best-umbrella-stroller-for-travel-reviews/#2020_Best_Umbrella_Stroller_For_Travel_Comparison_Chart"
+          },
+          {
+            "title": "Inglesina USA Net Travel ...",
+            "link": "https://www.chasingthedonkey.com/travel-reviews/best-umbrella-stroller-for-travel-reviews/#Inglesina_USA_Net_Travel_Umbrella_Stroller"
+          },
+          {
+            "title": "JOOVY New Groove ...",
+            "link": "https://www.chasingthedonkey.com/travel-reviews/best-umbrella-stroller-for-travel-reviews/#JOOVY_New_Groove_Ultralight_Umbrella_Stroller"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1YMU9Sh1p14J:https://www.chasingthedonkey.com/travel-reviews/best-umbrella-stroller-for-travel-reviews/+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Best Travel Strollers and Lightweight Strollers | Fatherly",
+      "link": "https://www.fatherly.com/gear/best-compact-strollers-small-apartments-travel/",
+      "displayed_link": "www.fatherly.com › Gear",
+      "date": "Dec 31, 2019",
+      "snippet": "Looking for the best travel stroller for your baby? You'll want a ... Now, we're not talking about the best umbrella strollers here. While fine for ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Icehy4vOiCoJ:https://www.fatherly.com/gear/best-compact-strollers-small-apartments-travel/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "The Best Umbrella Strollers | Fatherly",
+      "link": "https://www.fatherly.com/gear/best-umbrella-strollers/",
+      "displayed_link": "www.fatherly.com › Gear",
+      "date": "Sep 5, 2019",
+      "snippet": "Umbrella strollers are lightweight, easy to fold, and ideal for travel. ... The best umbrella strollers are light and compact, and they still have the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1Z01Vk0TmDUJ:https://www.fatherly.com/gear/best-umbrella-strollers/+&cd=19&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.fatherly.com/gear/best-umbrella-strollers/+best+travel+umbrella+stroller&tbo=1&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQHzASegQIAhAL"
+    },
+    {
+      "position": 8,
+      "title": "Best Lightweight Umbrella Strollers 2019 - What to Expect",
+      "link": "https://www.whattoexpect.com/baby-products/strollers/best-lightweight-umbrella-strollers/",
+      "displayed_link": "www.whattoexpect.com › Products › Strollers",
+      "date": "Sep 17, 2019",
+      "snippet": "Umbrella strollers are portable, smaller than other models and great for traveling. Check out our picks for the best lightweight umbrella strollers ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Fw9ghCOEqywJ:https://www.whattoexpect.com/baby-products/strollers/best-lightweight-umbrella-strollers/+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Best Travel Strollers 2020 • guide to the smallest + lightest ...",
+      "link": "https://www.flyingwithababy.com/best-stroller-for-travel-what-are-their-pros-and-cons-for-flying/",
+      "displayed_link": "www.flyingwithababy.com › Reviews",
+      "snippet": "The following pushchairs are some of the best travel strollers available, with a strong emphasis on being light and portable as well as being a practical foldable ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:g9fm65pXZIQJ:https://www.flyingwithababy.com/best-stroller-for-travel-what-are-their-pros-and-cons-for-flying/+&cd=21&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "The 10 Best Travel Strollers of 2020 - TripSavvy",
+      "link": "https://www.tripsavvy.com/best-travel-strollers-4154155",
+      "displayed_link": "www.tripsavvy.com › Trip Planning › Tech & Gear › Accessories",
+      "date": "Nov 11, 2019",
+      "snippet": "We've rounded up the best travel strollers for you from Mountain Buggy, ... Best Fully Reclining: Jovial Portable Folding Baby Stroller at Amazon.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:aaBltXY5i1YJ:https://www.tripsavvy.com/best-travel-strollers-4154155+&cd=22&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "best travel stroller 2018",
+      "link": "https://www.google.com/search?q=best+travel+stroller+2018&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "best travel stroller 2019",
+      "link": "https://www.google.com/search?q=best+travel+stroller+2019&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "best travel stroller system",
+      "link": "https://www.google.com/search?q=best+travel+stroller+system&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "travel stroller for 3 month old",
+      "link": "https://www.google.com/search?q=travel+stroller+for+3+month+old&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "best umbrella stroller 2019",
+      "link": "https://www.google.com/search?q=best+umbrella+stroller+2019&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "best compact stroller",
+      "link": "https://www.google.com/search?q=best+compact+stroller&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "best lightweight stroller",
+      "link": "https://www.google.com/search?q=best+lightweight+stroller&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "besrey airplane stroller",
+      "link": "https://www.google.com/search?q=besrey+airplane+stroller&sa=X&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+travel+umbrella+stroller&ei=2S0nXqWsMunD0PEPx8-JiA4&start=10&sa=N&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ8NMDegUIDxCPAQ",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+travel+umbrella+stroller&ei=2S0nXqWsMunD0PEPx8-JiA4&start=10&sa=N&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ8tMDegQIDxB9",
+      "3": "https://www.google.com/search?q=best+travel+umbrella+stroller&ei=2S0nXqWsMunD0PEPx8-JiA4&start=20&sa=N&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ8tMDegQIDxB_",
+      "4": "https://www.google.com/search?q=best+travel+umbrella+stroller&ei=2S0nXqWsMunD0PEPx8-JiA4&start=30&sa=N&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ8tMDegUIDxCBAQ",
+      "5": "https://www.google.com/search?q=best+travel+umbrella+stroller&ei=2S0nXqWsMunD0PEPx8-JiA4&start=40&sa=N&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ8tMDegUIDxCDAQ",
+      "6": "https://www.google.com/search?q=best+travel+umbrella+stroller&ei=2S0nXqWsMunD0PEPx8-JiA4&start=50&sa=N&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ8tMDegUIDxCFAQ",
+      "7": "https://www.google.com/search?q=best+travel+umbrella+stroller&ei=2S0nXqWsMunD0PEPx8-JiA4&start=60&sa=N&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ8tMDegUIDxCHAQ",
+      "8": "https://www.google.com/search?q=best+travel+umbrella+stroller&ei=2S0nXqWsMunD0PEPx8-JiA4&start=70&sa=N&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ8tMDegUIDxCJAQ",
+      "9": "https://www.google.com/search?q=best+travel+umbrella+stroller&ei=2S0nXqWsMunD0PEPx8-JiA4&start=80&sa=N&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ8tMDegUIDxCLAQ",
+      "10": "https://www.google.com/search?q=best+travel+umbrella+stroller&ei=2S0nXqWsMunD0PEPx8-JiA4&start=90&sa=N&ved=2ahUKEwjl_IOblZXnAhXpITQIHcdnAuEQ8tMDegUIDxCNAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+umbrella+stroller&start=10&token=f7b001f473a4f523",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+umbrella+stroller&start=10&token=f7b001f473a4f523",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+umbrella+stroller&start=10&token=f7b001f473a4f523",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+umbrella+stroller&start=20&token=b219d8f0956cadf1",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+umbrella+stroller&start=30&token=3041fabfbb76a3cf",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+umbrella+stroller&start=40&token=623c3e0ee2be4ea9",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+umbrella+stroller&start=50&token=88218f7f2cac843a",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+umbrella+stroller&start=60&token=78cfaf560e7b4798",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+umbrella+stroller&start=70&token=b5bf73891e48d115",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+umbrella+stroller&start=80&token=e218afc4a25a6e71",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+umbrella+stroller&start=90&token=2f3762950d22849b"
+    }
+  }
+}

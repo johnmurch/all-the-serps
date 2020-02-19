@@ -1,0 +1,305 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 20:43:12 UTC",
+    "processed_at": "2020-01-21 20:43:12 UTC",
+    "google_url": "https://www.google.com/search?q=job+agencies+near+me&oq=job+agencies+near+me&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.26
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "job agencies near me",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 3930000000,
+    "time_taken_displayed": 0.61,
+    "query_displayed": "job agencies near me"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Become A DoorDash® Driver | Make Money On Your Schedule‎",
+      "link": "https://www.doordash.com/dasher/signup/",
+      "displayed_link": "www.doordash.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwih5Yqnx5XnAhVEdmAKHRYBCCIYABAAGgJ0bQ&sig=AOD64_389z5RuT4_G2-ISbhcVFhh-jZUHQ&q=&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ0Qx6BAgQEAE&adurl=",
+      "description": "Every Completed Delivery Puts Money in Your Pockets. No Strings Attached. Sign Up Now! Fast Approval Process. Get Paid Same Day. Bikes & Scooters Accepted. Earn All Tips. Work When You Want. Be Your Own Boss. Use Any Car to Deliver. Easy Signup.",
+      "sitelinks": [
+        {
+          "title": "Why Become a Dasher?",
+          "link": "https://help.doordash.com/dashers/s/article/Why-use-DoorDash"
+        },
+        {
+          "title": "Become a Delivery Driver",
+          "link": "https://www.doordash.com/dasher/driving-opportunities/monterey-ca/delivery-driver/"
+        }
+      ]
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=job+agencies+near+me&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36600159,-121877048,2608&tbm=lcl&sa=X&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQtgN6BAgLEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 36.600159,
+      "longitude": -121.877048,
+      "altitude": 2608
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=job+agencies+near+me&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36600159,-121877048,2608&tbm=lcl&sa=X&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQjGp6BAgLEDw",
+    "places": [
+      {
+        "position": 1,
+        "title": "Express Employment Professionals",
+        "place_id": "1205367565729456779",
+        "lsig": "AB86z5VHCgwhrShCKoCG1mIM4DjS",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VHCgwhrShCKoCG1mIM4DjS&ludocid=1205367565729456779&q=job+agencies+near+me&tbm=lcl&token=a23fe276d1b8728e",
+        "rating": 5,
+        "reviews": 1,
+        "type": "Employment agency",
+        "hours": "Open ⋅ Closes 5PM · (831) 920-1857",
+        "address": "209 Pearl St",
+        "website": "http://www.expresspros.com/MontereyCountyCA/?utm_source=gmb&utm_medium=organic&utm_campaign=Qiigo",
+        "gps_coordinates": {
+          "latitude": 36.597982,
+          "longitude": -121.8936562
+        }
+      },
+      {
+        "position": 2,
+        "title": "Mica & Associates",
+        "place_id": "6479067187259197909",
+        "lsig": "AB86z5UCKXqLk-AhaEFZOFdy2cKF",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UCKXqLk-AhaEFZOFdy2cKF&ludocid=6479067187259197909&q=job+agencies+near+me&tbm=lcl&token=f9ec6234e47e3464",
+        "rating": 0,
+        "type": "Employment agency",
+        "hours": "(831) 646-1617",
+        "address": "201 Hoffman Ave # 7",
+        "website": "#",
+        "gps_coordinates": {
+          "latitude": 36.61375,
+          "longitude": -121.900895
+        }
+      },
+      {
+        "position": 3,
+        "title": "Universal Staffing Inc",
+        "place_id": "17540357851488968088",
+        "lsig": "AB86z5UMp6RnPfcZVNiqGUHM_wbZ",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UMp6RnPfcZVNiqGUHM_wbZ&ludocid=17540357851488968088&q=job+agencies+near+me&tbm=lcl&token=0995e524a5251982",
+        "rating": 3.6,
+        "reviews": 8,
+        "type": "Employment agency",
+        "address": "2511 Garden Rd A-106",
+        "phone": "In Garden Place Professional Center",
+        "website": "http://www.universalstaffing.com/",
+        "gps_coordinates": {
+          "latitude": 36.586569,
+          "longitude": -121.853202
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "How do you get a job at a temp agency?",
+      "snippet": "At a staffing agency, companies pay the agency to find employees for them. Job seekers can apply to specific jobs through the staffing agency, or can simply contact the staffing agency looking for a job. The agency interviews the job seekers and places them in appropriate positions.",
+      "title": "How to Get a Job Through a Staffing Agency - The Balance Careers",
+      "link": "https://www.thebalancecareers.com/getting-a-job-through-a-staffing-agency-2063929",
+      "displayed_link": "www.thebalancecareers.com › getting-a-job-through-a-staffing-agency-..."
+    },
+    {
+      "question": "How many staffing agencies are in the US?",
+      "snippet": "In the U.S., there are about 20,000 staffing and recruiting companies, which altogether operate around 39,000 offices.",
+      "title": "Staffing Industry Statistics - American Staffing Association",
+      "link": "https://americanstaffing.net/staffing-research-data/fact-sheets-analysis-staffing-industry-trends/staffing-industry-statistics/",
+      "displayed_link": "americanstaffing.net › fact-sheets-analysis-staffing-industry-trends › staf..."
+    },
+    {
+      "question": "What does the company Adecco do?",
+      "snippet": "The Adecco Group provides services covering temporary staffing, permanent placement, career transition and talent development as well as business process outsourcing and consulting. As for staffing, The Adecco Group covers many sectors, including office, industrial, technical, financial and legal, amongst others.",
+      "title": "The Adecco Group - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/The_Adecco_Group",
+      "displayed_link": "en.wikipedia.org › wiki › The_Adecco_Group"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "THE BEST 10 Employment Agencies near Monterey, CA ...",
+      "link": "https://www.yelp.com/search?cflt=employmentagencies&find_loc=Monterey%2C+CA+93940",
+      "displayed_link": "www.yelp.com › ... › Professional Services › Employment Agencies",
+      "snippet": "Universal Staffing. 1.9 mi. 17 reviews. Express Employment Professionals. 0.5 mi. Employment Agencies. Robert Half. 3.8 mi. 5 reviews. Kelly Services. 0.5 mi. Employment Agencies. M. W. McDonald & Associates. 4.4 mi. County of Monterey. 0.6 mi. Halo Specialized Home Care. 1.4 mi. Peninsula Sports, Inc. 2.0 mi.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_XjVisx0u6QJ:https://www.yelp.com/search%3Fcflt%3Demploymentagencies%26find_loc%3DMonterey%252C%2BCA%2B93940+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Robert Half Monterey, CA | Monterey Staffing Agencies ...",
+      "link": "https://www.roberthalf.com/locations/ca-monterey/4-lower-ragsdale-drive",
+      "displayed_link": "www.roberthalf.com › Locations › Ca-monterey",
+      "snippet": "Recruiters at our Monterey, CA office understand the local job market and can help candidates and hiring managers with their employment needs. Robert Half ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wxAYlYq2fS0J:https://www.roberthalf.com/locations/ca-monterey/4-lower-ragsdale-drive+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Universal Staffing",
+      "link": "http://www.universalstaffing.com/",
+      "displayed_link": "www.universalstaffing.com",
+      "snippet": "What separates US from other staffing services? Experience! Since 1995 we have focused on forming lasting relationships with companies, the community, and ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:oi51vSQQciwJ:www.universalstaffing.com/+&cd=6&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:www.universalstaffing.com/+job+agencies+near+me&tbo=1&sa=X&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQHzAFegQIAhAH"
+    },
+    {
+      "position": 4,
+      "title": "Best 17 Temporary Employment Agencies in Monterey, CA ...",
+      "link": "https://www.yellowpages.com/monterey-ca/temporary-employment-agencies",
+      "displayed_link": "www.yellowpages.com › Monterey, CA",
+      "date": "17 results",
+      "snippet": "Temporary Employment Agencies in Monterey on YP.com. See reviews, photos ... the registration form. Company has not contacted me after my…",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dImuPgMEbtMJ:https://www.yellowpages.com/monterey-ca/temporary-employment-agencies+&cd=13&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.yellowpages.com/monterey-ca/temporary-employment-agencies+job+agencies+near+me&tbo=1&sa=X&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQHzAMegQIARAL"
+    },
+    {
+      "position": 5,
+      "title": "Adecco: Permanent Staffing & Temp Agencies for Job Seekers",
+      "link": "https://www.adeccousa.com/",
+      "displayed_link": "www.adeccousa.com",
+      "snippet": "Looking for a job? Adecco staffing agency is looking for candidates like you for permanent and temporary staffing job opportunities, submit your resume now. ... close you are to us. Maybe you can stop by. Find your nearest branch. ... Always professional, courteous and didn't give me unrealistic expectations. Jason Baldwin.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "View All Jobs",
+            "link": "https://www.adeccousa.com/jobs/job-search/"
+          },
+          {
+            "title": "How to Apply",
+            "link": "https://www.adeccousa.com/working-with-a-staffing-agency/"
+          },
+          {
+            "title": "Contact a Branch",
+            "link": "https://www.adeccousa.com/locations/"
+          },
+          {
+            "title": "Industries",
+            "link": "https://www.adeccousa.com/industries/"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Nqy3bNjhRtMJ:https://www.adeccousa.com/+&cd=14&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.adeccousa.com/+job+agencies+near+me&tbo=1&sa=X&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQHzANegQIChAH"
+    },
+    {
+      "position": 6,
+      "title": "Home - Express Jobs In Monterey County, California",
+      "link": "https://expresspros.com/MontereyCountyCA/",
+      "displayed_link": "expresspros.com › MontereyCountyCA",
+      "snippet": "Administrative, Commercial, or Professional work, Monterey County, CA ... a wide range of positions, including Professional, Light Industrial, and Office Services.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wHaEQTWY6uwJ:https://expresspros.com/MontereyCountyCA/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Jobs in Salinas, CA - Employment & Temp Agency | Spherion",
+      "link": "https://www.spherion.com/job-seekers/our-locations/california/salinas_45/",
+      "displayed_link": "www.spherion.com › Job Seekers › Our Locations › California › Salinas",
+      "snippet": "Welcome to Spherion in Salinas, California! If you're searching for a job or considering a career move, we would love to help you achieve your work goals.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6ihzNOI4H4oJ:https://www.spherion.com/job-seekers/our-locations/california/salinas_45/+&cd=16&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.spherion.com/job-seekers/our-locations/california/salinas_45/+job+agencies+near+me&tbo=1&sa=X&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQHzAPegQICRAL"
+    },
+    {
+      "position": 8,
+      "title": "Staffing Agency & Workforce Solutions | Kelly US",
+      "link": "https://www.kellyservices.us/",
+      "displayed_link": "www.kellyservices.us",
+      "snippet": "20 Connecting workers and companies every 20 seconds Find a job that works for me. We're here to show you the way. We help job seekers and employers ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BbFbdo1JqNAJ:https://www.kellyservices.us/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Full Steam Staffing: Home",
+      "link": "https://www.fullsteamstaffing.com/",
+      "displayed_link": "www.fullsteamstaffing.com",
+      "snippet": "I want to thank Full Steam Staffing for allowing me to be all I can be as a part of your agency, I was hired on as a sanitation worker, you applauded me for my ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:izZFUEXrfWgJ:https://www.fullsteamstaffing.com/+&cd=18&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Find Jobs Near You | Manpower Employment Agency",
+      "link": "https://www.mnpwr.com/our_locations.phtml",
+      "displayed_link": "www.mnpwr.com › our_locations",
+      "snippet": "Let Manpower employment agency help you find full-time jobs, part-time jobs, and career opportunities in your area. Our recruiters can help you find a job today!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:45oiElHVAyIJ:https://www.mnpwr.com/our_locations.phtml+&cd=19&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "universal staffing services hartford ct",
+      "link": "https://www.google.com/search?q=universal+staffing+services+hartford+ct&sa=X&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ1QIoAHoECA4QAQ"
+    },
+    {
+      "query": "employment agencies",
+      "link": "https://www.google.com/search?q=employment+agencies&sa=X&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ1QIoAXoECA4QAg"
+    },
+    {
+      "query": "temp job agencies near me",
+      "link": "https://www.google.com/search?q=temp+job+agencies+near+me&sa=X&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ1QIoAnoECA4QAw"
+    },
+    {
+      "query": "kelly services",
+      "link": "https://www.google.com/search?q=kelly+services&sa=X&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ1QIoA3oECA4QBA"
+    },
+    {
+      "query": "temp agency monterey ca",
+      "link": "https://www.google.com/search?q=temp+agency+monterey+ca&sa=X&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ1QIoBHoECA4QBQ"
+    },
+    {
+      "query": "universal staffing solutions",
+      "link": "https://www.google.com/search?q=universal+staffing+solutions&sa=X&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ1QIoBXoECA4QBg"
+    },
+    {
+      "query": "universal staffing pelham al",
+      "link": "https://www.google.com/search?q=universal+staffing+pelham+al&sa=X&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ1QIoBnoECA4QBw"
+    },
+    {
+      "query": "express employment professionals monterey ca",
+      "link": "https://www.google.com/search?q=express+employment+professionals+monterey+ca&sa=X&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ1QIoB3oECA4QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=job+agencies+near+me&ei=YGInXp7RLMPywQOL4ZWYBQ&start=10&sa=N&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ8NMDegQIDxBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=job+agencies+near+me&ei=YGInXp7RLMPywQOL4ZWYBQ&start=10&sa=N&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ8tMDegQIDxAv",
+      "3": "https://www.google.com/search?q=job+agencies+near+me&ei=YGInXp7RLMPywQOL4ZWYBQ&start=20&sa=N&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ8tMDegQIDxAx",
+      "4": "https://www.google.com/search?q=job+agencies+near+me&ei=YGInXp7RLMPywQOL4ZWYBQ&start=30&sa=N&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ8tMDegQIDxAz",
+      "5": "https://www.google.com/search?q=job+agencies+near+me&ei=YGInXp7RLMPywQOL4ZWYBQ&start=40&sa=N&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ8tMDegQIDxA1",
+      "6": "https://www.google.com/search?q=job+agencies+near+me&ei=YGInXp7RLMPywQOL4ZWYBQ&start=50&sa=N&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ8tMDegQIDxA3",
+      "7": "https://www.google.com/search?q=job+agencies+near+me&ei=YGInXp7RLMPywQOL4ZWYBQ&start=60&sa=N&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ8tMDegQIDxA5",
+      "8": "https://www.google.com/search?q=job+agencies+near+me&ei=YGInXp7RLMPywQOL4ZWYBQ&start=70&sa=N&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ8tMDegQIDxA7",
+      "9": "https://www.google.com/search?q=job+agencies+near+me&ei=YGInXp7RLMPywQOL4ZWYBQ&start=80&sa=N&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ8tMDegQIDxA9",
+      "10": "https://www.google.com/search?q=job+agencies+near+me&ei=YGInXp7RLMPywQOL4ZWYBQ&start=90&sa=N&ved=2ahUKEwiegYKnx5XnAhVDeXAKHYtwBVMQ8tMDegQIDxA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+agencies+near+me&start=10&token=eaa0ff8ee3fce0b6",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+agencies+near+me&start=10&token=eaa0ff8ee3fce0b6",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+agencies+near+me&start=10&token=eaa0ff8ee3fce0b6",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+agencies+near+me&start=20&token=dc0a3331e96945e6",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+agencies+near+me&start=30&token=f64f021c435f3d77",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+agencies+near+me&start=40&token=1159cd33172eebd8",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+agencies+near+me&start=50&token=218afe7b36cc467d",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+agencies+near+me&start=60&token=ea9ec2b0585f6b60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+agencies+near+me&start=70&token=49923c21f0700db9",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+agencies+near+me&start=80&token=c6515ee5f0ba56d2",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=job+agencies+near+me&start=90&token=fcf54c9e5e045793"
+    }
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 17:07:49 UTC",
+    "processed_at": "2020-01-21 17:07:49 UTC",
+    "google_url": "https://www.google.com/search?q=best+travel+espresso+maker&oq=best+travel+espresso+maker&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.29
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best travel espresso maker",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 17700000,
+    "time_taken_displayed": 0.73,
+    "query_displayed": "best travel espresso maker"
+  },
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Handpresso Outdoor Set Black, One Size",
+      "price": "$169.99",
+      "extracted_price": 169.99,
+      "link": "https://www.backcountry.com/handpresso-outdoor-set?CMP_SKU=HDP0001&MER=0406&skid=HDP0001-BK-ONESIZ&mr:trackingCode=823CC4E1-EF71-E411-9BFE-BC305BF82376&mr:referralID=NA",
+      "source": "Backcountry.com",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 2,
+      "title": "Palmpress Coffee Press",
+      "price": "$39.00",
+      "extracted_price": 39,
+      "link": "https://www.grove.co/catalog/product/coffee-press?offer=g-pla-st&utm_content=palmpress&v=4436",
+      "source": "Grove Collaborative",
+      "rating": 4.2,
+      "reviews": 6,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 3,
+      "title": "Collar Espresso Maker",
+      "price": "$43.98",
+      "extracted_price": 43.98,
+      "link": "https://huckberry.com/store/stelton/category/p/56219-collar-espresso-maker",
+      "source": "Huckberry",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=best+travel+espresso+maker&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36638726,-121849925,7447&tbm=lcl&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQtgN6BAgMEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 36.638726,
+      "longitude": -121.849925,
+      "altitude": 7447
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=best+travel+espresso+maker&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36638726,-121849925,7447&tbm=lcl&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQjGp6BAgMEEc",
+    "places": [
+      {
+        "position": 1,
+        "title": "Williams-Sonoma",
+        "place_id": "6264042163775237754",
+        "lsig": "AB86z5WjkyjFxsCIEIDZyqO5wLAk",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WjkyjFxsCIEIDZyqO5wLAk&ludocid=6264042163775237754&q=best+travel+espresso+maker&tbm=lcl&token=65d67319982f97bb",
+        "rating": 4.2,
+        "reviews": 35,
+        "price": "$$$",
+        "type": "Kitchen supply store",
+        "address": "Monterey, CA",
+        "phone": "In Del Monte Shopping Center",
+        "description": "Their website mentions espresso makers",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.5843367,
+          "longitude": -121.89872749999999
+        }
+      },
+      {
+        "position": 2,
+        "title": "Best Buy",
+        "place_id": "11274011661004216532",
+        "lsig": "AB86z5XtxJ03pMgQvKCRLWnzN8qQ",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XtxJ03pMgQvKCRLWnzN8qQ&ludocid=11274011661004216532&q=best+travel+espresso+maker&tbm=lcl&token=11c57f5ca8c7ad25",
+        "rating": 4.2,
+        "reviews": 719,
+        "price": "$$",
+        "type": "Electronics store",
+        "address": "Marina, CA",
+        "phone": "In The Dunes On Monterey Bay-Retail Center",
+        "description": "Their website mentions espresso maker",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.665817,
+          "longitude": -121.813633
+        }
+      },
+      {
+        "position": 3,
+        "title": "Walmart Supercenter",
+        "place_id": "2328118895496853137",
+        "lsig": "AB86z5XylnOxg4w4lcHQdmiuD177",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XylnOxg4w4lcHQdmiuD177&ludocid=2328118895496853137&q=best+travel+espresso+maker&tbm=lcl&token=3688571049a5df19",
+        "rating": 3.9,
+        "reviews": 1781,
+        "price": "$",
+        "type": "Grocery store",
+        "hours": "Open ⋅ Closes 11PM · (831) 883-9138",
+        "address": "Marina, CA",
+        "description": "Their website mentions travel espresso machine",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.6931162,
+          "longitude": -121.8011228
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "see_more_about": [
+      {
+        "title": null
+      }
+    ]
+  },
+  "inline_products": [
+    {
+      "position": 1,
+      "title": "Wacaco Nanopresso",
+      "link": "https://www.google.com/search?q=wacaco+nanopresso&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw3yKrMqkoxTBKwMLOwsDQzTjE0MTM3SzQxncHEeImFo-ZBZG9Su-rPDlbGRayC5YnJicn5CnmJefkFRanFxfkfWBkBuAZbX0sAAAA&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQoYACMBB6BAgNEAU",
+      "price": 60,
+      "rating": 4.6,
+      "reviews": 2442,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRNqjwrkv7WmOdF1W6aZU8jtc7QyVqdWT46Azwi9vX_94jmQJnpaZofr2XgNPFTxeFgqYhovz1yTVgTVap3829o70J6b24RREGufp-7naGu1UYL8PLP-a44",
+      "thumbnail_link": "https://www.google.com/search?q=wacaco+nanopresso&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw3yKrMqkoxTBKwMLOwsDQzTjE0MTM3SzQxncHEeImFo-ZBZG9Su-rPDlbGRayC5YnJicn5CnmJefkFRanFxfkfWBkBuAZbX0sAAAA&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQvIMEMBB6BAgNEAQ",
+      "editorial_reviews": [
+        {
+          "title": "Wacaco Nanopresso Espresso Maker review: makes a perfect cup on the go",
+          "link": "https://www.businessinsider.com/wacaco-nanopresso-handheld-espresso-maker-review",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAATlBMVEX///8uLi4REREbGxsoKCigoKCdnZ2QkJBeXl7JyckxMTFwcHAfHx/Pz8+rq6ukpKTW1tbf399VVVV9fX2Dg4P5+fkWFhZKSkrk5OTAwMBH6dIoAAAAZ0lEQVQYlY3PSQ6AIAwF0FJEZhAH1PtfVMAosKOLpnlJ01+AgZo5527JE58LEMwl0kTJC1MIckXXQGoStx529BWiUgbFUYFqLYyx/UqIZw9gSAPWSp2DfFCCqesHxxjzdzoC3o28+gB/uwL0HD3nSQAAAABJRU5ErkJggg==",
+          "source": "Business Insider",
+          "description": "That was before I started using a Nanopresso Portable Espresso Maker from Wacaco."
+        },
+        {
+          "title": "Top 10 Portable Espresso Makers of 2019 | Video Review",
+          "link": "https://wiki.ezvid.com/best-portable-espresso-makers",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEU7WZg5V5c8Wpg4VpZXcae0wNhfeKtnfq+qt9KSo8aisM7z9fnM1OT///8/XZqKnMFHY5/h5e93jLfa4OtMZ6H3+PtvhbO4w9qvu9XI0OKEl75Ra6N9kbvS2efo6/O+yN0Cqn3oAAAAjklEQVQYlY1PyRaDIAxMCIssUhDqgqj//5dF7fPaziHLvJksAL/B7kQIjJ2NfwmhA8qSUXWtAsZdlABzP1DQSZ5abSXl9DaIpsNGoLKFxiScD268iJwmMNOwc+XyvWCOfClrrPpytCHV6o17J5bhJpDvu2Bo7PZ1gF/6SlT77jm2HGvTHSM+jL8C++PRhg9VKQZCjYY71AAAAABJRU5ErkJggg==",
+          "source": "Ezvid Wiki - Ezvid Inc"
+        }
+      ],
+      "specifications": {
+        "pod_compatible": "Yes",
+        "automation": "Semi Automatic",
+        "extensions": [
+          "Pump",
+          "Red",
+          "Nespresso"
+        ]
+      }
+    },
+    {
+      "position": 2,
+      "title": "Handpresso Wild Hybrid",
+      "link": "https://www.google.com/search?q=handpresso+wild+hybrid&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwyK0m2LEqqShKwNDY2S01KTEpMNDJNtUxMnMHEeImFo-ZBZG9Su-rPDlbGRaxiGYl5KQVFqcXF-QrlmTkpChmVSUWZKR9YGQE6_yg1UAAAAA&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQoYACMBB6BAgNEBc",
+      "price": 55,
+      "rating": 4.3,
+      "reviews": 77,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDmnIKFXYgUCXYb8j82e-7n-aKmttMF9KEZDCUQMcbN4_UutUkvDt6SthFPgE7B9Q38oIKukHHdKV11c_R79fzLqGMFkYDN4ED32V3v09zuR4QC0sAjY9Y",
+      "thumbnail_link": "https://www.google.com/search?q=handpresso+wild+hybrid&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwyK0m2LEqqShKwNDY2S01KTEpMNDJNtUxMnMHEeImFo-ZBZG9Su-rPDlbGRaxiGYl5KQVFqcXF-QrlmTkpChmVSUWZKR9YGQE6_yg1UAAAAA&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQvIMEMBB6BAgNEBY",
+      "editorial_reviews": [
+        {
+          "title": "The Handpresso Review – Is it perfect or just portable?",
+          "link": "https://www.homegrounds.co/handpresso-review/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAY1BMVEVHcExKlJFGpqJFrKZLko9FrahuAABInppFrahFrKdFrahFrahFrahJnJdFrahLkI1FrKdFrqlEsKtUX19Ho59YTU1Lk49NhYJNioZSbm1MjYpWXV1Kko9Sb25FrahIn5tJmJRW+snOAAAAHnRSTlMAV/1I25MPB4FX0ikSY77ybe+jIMM2i3iPf8pUs6DgtC5lAAAAhUlEQVQYlV2O1xKEIAxFA9KLbVy3B/7/KxcJ7qh5ILmHlAsAoOESfaBsugY6SdnVd+u3VNkq5/E47fz27eUihHh9IgTaMok1MhbX9Gh9BikS02eAA9c7cCglciXvDUzlXChgflYwIhYLPeKSbxXYMm6K5l/S4Pedf39M5JTy8D56VkpR8QOWogic1YOcLQAAAABJRU5ErkJggg==",
+          "source": "HomeGrounds",
+          "description": "It can also provide you with a good, strong shot of something very much like espresso -- which is rare when it…"
+        },
+        {
+          "title": "10 Best Travel Coffee Makers (2019)",
+          "link": "https://www.roadaffair.com/best-travel-coffee-makers/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAASFBMVEUeiNj////J4vX7/f5OoeDP5fbx9/zU6Peaye3Z6viLweoljNk2ldzC3/RZp+KEvumt0/BzteYwkdujzu+52vN4uOfn8vuQxOubZJr1AAAAc0lEQVQYlY2PSRLDIAwEp42BYJY4ZOH/Pw0B+5KT56CSpqSeknRJ6806TNjiHFPm0DINP/pyN1CG4fIOD2kZ9XeiAFWxY9LBBKvUF7Yj5AntZXDvM/XTaeCqNBkVTLQQWnan4VV6KGbGajdNKh67XnvsX1+P/ALp1VUbTgAAAABJRU5ErkJggg==",
+          "source": "Road Affair"
+        }
+      ],
+      "specifications": {
+        "pod_compatible": "Yes",
+        "automation": "Manual",
+        "extensions": [
+          "Pump",
+          "Black, Silver",
+          "Gifts for Mothers"
+        ]
+      }
+    },
+    {
+      "position": 3,
+      "title": "Wacaco Minipresso NS",
+      "link": "https://www.google.com/search?q=wacaco+minipresso+ns&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2LDBNMa0oShIwMjAxMjdOSjNPM7AwsUgznsHEeImFo-ZBZG9Su-rPDlbGRawi5YnJicn5CrmZeZkFRanFxfkKecUfWBkBOcN_yk4AAAA&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQoYACMBB6BAgNECk",
+      "price": 45,
+      "rating": 4.4,
+      "reviews": 941,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSsCblOzz3rpqS1d55iiu-bICEVVi4oj88fzsdX8RYOu5VnRyz3qmQd9jg8QH5_LQ8EMTYetDqkth_lGw0Sl-UjY8RCZ2gMwtrr4OZXYNpLd0fozCa-foNn",
+      "thumbnail_link": "https://www.google.com/search?q=wacaco+minipresso+ns&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2LDBNMa0oShIwMjAxMjdOSjNPM7AwsUgznsHEeImFo-ZBZG9Su-rPDlbGRawi5YnJicn5CrmZeZkFRanFxfkKecUfWBkBOcN_yk4AAAA&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQvIMEMBB6BAgNECg",
+      "editorial_reviews": [
+        {
+          "title": "Wacaco Minipresso NS Review – The First Portable Pod Machine in South Africa",
+          "link": "https://www.fortressofsolitude.co.za/wacaco-minipresso-ns-review/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAY1BMVEUAAAADAwMEBAQFBQX///8BAQEGBgYCAgK3t7empqb39/eHh4dtbW1YWFgTExMaGhqTk5PExMR2dna9vb3a2toVFRXy8vJeXl5AQEBjY2MgICChoaGZmZlMTExycnJRUVEyMjLnhVgYAAAApUlEQVQYlTVPBxLDMAgTUON4Zbgrnen/X1nokH0c+CQZgQNFURYithIIjqCRmQkUEO0EcMAP4XNBE+alH0dvIWq6vN99cIBAWHA8fechdYCBc/Yhp8UkAtR9WnHJ2T1VFSjeDSaq/gtDzRjX23wvfUkukf8KRsbDWW18ol/btraxvV72ULVMd2y1lbGsly/TF/zBTIU4chSLSwJSsFhOjZbeMpCEN9wRBeQ09uX4AAAAAElFTkSuQmCC",
+          "source": "Fortress of Solitude",
+          "description": "Some time back, fortress of solitude featured the Wacaco Minipresso portable espresso maker, which was an extremely…"
+        },
+        {
+          "title": "Battle of the Handheld Espresso Makers: Handpresso Wild Hybrid vs Wacaco Minipresso GR",
+          "link": "https://ineedcoffee.com/battle-handheld-espresso-makers-handpresso-wild-hybrid-vs-wacaco-minipresso-gr/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAWlBMVEX///+Xl5fx8fHJycmnp6fIyMivr6+8vLzQ0NDU1NStra319fXj4+OIiIi3t7fc3Nzf3998fHwAAABSUlKPj491dXXq6upqamq6urqUlJR/f39iYmL5+fmdnZ1n1yrFAAAAmklEQVQYlW2PwRKDIAxEI5CEoBK1grXF///NgnY8uceXZDMP4CE5BqLgarg/wWsMXgWjW9Pc5jkRoxXVKfsOQBkp2a7TEsPQAPZ4JOvYTRSlAWtojkigGwxOTsDjm9EvKyzbDXAH/yn53qhPDgYK5ioNaUTJxkExV2mWGWUwDP0JgOi7NwDlDwA+rp5Ui2LCcdlJNat+RPqg/gMQHAdicXrRnQAAAABJRU5ErkJggg==",
+          "source": "INeedCoffee"
+        }
+      ],
+      "specifications": {
+        "pod_compatible": "Yes",
+        "automation": "Semi Automatic",
+        "extensions": [
+          "Pump",
+          "Nespresso"
+        ]
+      }
+    },
+    {
+      "position": 4,
+      "title": "Wacaco Minipresso GR",
+      "link": "https://www.google.com/search?q=wacaco+minipresso+gr&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwzLDRJMzE2SBIwMTNJTDY0s7BMMrFINTQwn8HEeImFo-ZBZG9Su-rPDlbGRawi5YnJicn5CrmZeZkFRanFxfkK6UUfWBkBGLyg4U4AAAA&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQoYACMBB6BAgNEDo",
+      "price": 50,
+      "rating": 4.3,
+      "reviews": 710,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTQKmw7aztni7VnIRhIuZNxF9QgXvSWAbTNNaoNUiTta-NHmvflxthbz-gLazf0H2L_ZFi7FP07Bv6VeyGXOKYh5FGA3y8LpwFlleWGWLff1LYpjjwFmZs6cw",
+      "thumbnail_link": "https://www.google.com/search?q=wacaco+minipresso+gr&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwzLDRJMzE2SBIwMTNJTDY0s7BMMrFINTQwn8HEeImFo-ZBZG9Su-rPDlbGRawi5YnJicn5CrmZeZkFRanFxfkK6UUfWBkBGLyg4U4AAAA&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQvIMEMBB6BAgNEDk",
+      "editorial_reviews": [
+        {
+          "title": "Minipresso GR and Minipresso Kit Review",
+          "link": "http://pebbleshoo.com/minipresso-gr-review/",
+          "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHAQEIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIABAAEAMBEQACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAEBgP/xAAmEAABAgQFBAMAAAAAAAAAAAABAgMEBhEhAAUTMUEHEmHwIjKB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwUBAgT/xAAhEQACAgEDBQEAAAAAAAAAAAABAwARAgQFIUJxobHwFP/aAAwDAQACEQMRAD8AXGZXAQUpdQW26tLhgTrJc+yrbWvQXpsb70xGW4UasQ6tuOQsg1N46KyFU0dQmX2Qo6Yda0UE2uDf3nBkjUkWJRqlk0JNZ5NmWOdN5tQ2tD0UtbiG2gO/kgE+Nj+Yx6Db8/0HNo4u+8aajWrCAFnmq8QEfGuQ8gyfBOQ/etLwCFNj4KQrileCkW84dLaMgGDqH3uK3krJwn//2Q==",
+          "source": "pebbleshoo.com",
+          "description": "With this I can pull shots of espresso as I want, at home or on the road, anywhere I can boil water, which is…"
+        },
+        {
+          "title": "12 Best Travel Coffee Makers (2018 Update) – Reviews and Buyer's Guide",
+          "link": "https://www.drippedcoffee.com/best-travel-coffee-makers/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAyVBMVEVHcEzizKjm07XQs4zq2brTuJHi0LLl07SwjmP76cr048X+7M/k1LTl07X+6crhyJ+ASi7/68zZv5bq0aXSs4T96srhzq/Kq4LIqIDexp3MrYPLtZDYvZXLqX7JqX3/9N7Mq4DOr4THpnrFo3f048dYKB5gLSM4AADdwZjv2a9LGBKRdmHs3L797tauimj55b7TvJ9SIRmuln3iy6f56M5DDgh3SDu/nnaxknRpOS2chG7ZxKK4lW7/7sX/8MgoAAC6nHx6Wku6ooi0ojczAAAAHXRSTlMAQLoZ04hs+yRzpJPq47HzD9TV0/4mt+DFpXJjpMJy5JsAAADTSURBVBiVJc/XdoJAFAXQERDQWNMTvVOZQi+CLjVN//+jnInn7eyHWxCyCafBbBZ4E3TPpIiupzw/defixfVRkWs9DNmgdffwD81vq5SSrc6asYPYNN3xqNrLn4E3J6s6hUpK+QwY3pefVtKaH1SbUwx4FD9aePoRbJ9VFqi/cjD+ZljILwpA0WbrptaGs/3BjhAfxnd7limHigLmZ+O5Q/so5ZhiDEBIskaLhJAdwzZiZ2GB1hYKJgRntvfu9mlSElL2JSmTwL+/G3rzKJq/hrErN0QKGl/WjVXJAAAAAElFTkSuQmCC",
+          "source": "Dripped Coffee"
+        }
+      ],
+      "specifications": {
+        "automation": "Semi Automatic",
+        "drive_type": "Pump"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Flair Espresso Maker Plus",
+      "link": "https://www.google.com/search?q=flair+espresso+maker+plus&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEzLKUsrTzJPTxJINDYzMjJINjJOtbBITjY2m8HEeImFo-ZBZG9Su-rPDlbGRaySaTmJmUUKqcUFRanFxfkKuYnZqUUKBTmlxR9YGQEy7-0HUwAAAA&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQoYACMBB6BAgNEEk",
+      "price": 170,
+      "rating": 4.7,
+      "reviews": 59,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRApUzYVz8JNpw-uu6PTZJ0njNnditbilSuQuaNYXp_tYNE-RJLBq3dH1RWL6FfkSjEQvh9768VcIhk33kcNoXFXgO_Z2qg8royZFKr_NJWu-vptj5VUKRD",
+      "thumbnail_link": "https://www.google.com/search?q=flair+espresso+maker+plus&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEzLKUsrTzJPTxJINDYzMjJINjJOtbBITjY2m8HEeImFo-ZBZG9Su-rPDlbGRaySaTmJmUUKqcUFRanFxfkKuYnZqUUKBTmlxR9YGQEy7-0HUwAAAA&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQvIMEMBB6BAgNEEg",
+      "editorial_reviews": [
+        {
+          "title": "Flair Espresso Maker Review – Yay or Nay?",
+          "link": "https://www.homegrounds.co/flair-espresso-maker/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAY1BMVEVHcExKlJFGpqJFrKZLko9FrahuAABInppFrahFrKdFrahFrahFrahJnJdFrahLkI1FrKdFrqlEsKtUX19Ho59YTU1Lk49NhYJNioZSbm1MjYpWXV1Kko9Sb25FrahIn5tJmJRW+snOAAAAHnRSTlMAV/1I25MPB4FX0ikSY77ybe+jIMM2i3iPf8pUs6DgtC5lAAAAhUlEQVQYlV2O1xKEIAxFA9KLbVy3B/7/KxcJ7qh5ILmHlAsAoOESfaBsugY6SdnVd+u3VNkq5/E47fz27eUihHh9IgTaMok1MhbX9Gh9BikS02eAA9c7cCglciXvDUzlXChgflYwIhYLPeKSbxXYMm6K5l/S4Pedf39M5JTy8D56VkpR8QOWogic1YOcLQAAAABJRU5ErkJggg==",
+          "source": "HomeGrounds",
+          "description": "The MiniPresso is a portable lever espresso machine."
+        },
+        {
+          "title": "10 Best Portable Espresso Maker 2019",
+          "link": "https://myespressolab.com/best-portable-espresso-maker/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAaVBMVEVHcEzM0dLM0NLM0dKfqa28wsTN0NPM0dOfqa3Fysy7wcTO0dPM0dPM0NLHzM6Bj5K1vMCttLegq6+hqrHMyMrMjY6hq6+5wMTP09TM0NLN09Wgq6+yur3Fys3Mt7nMcnPMLzDMgoTMoqPKwyy3AAAAGXRSTlMAtMyTsRQnxP7lZXxNqdsK9z7IKsfl2+7je9X2uQAAAINJREFUGJV1jdkSwiAMRW9pgViwndaVAG7//5GGDow+6Jm85OYkAYQO2G/VkMACvWm97mBkrP4KcL503n1u6FY/6W3jeLJKLBUqfHsy04Aut+D+CIHOcOkrmMTwOXFdeYVLPADXlLk6vC7yxnBK9c5Y3s56UbuNaZxLsMZINAhEMYryBq2tCpBiowipAAAAAElFTkSuQmCC",
+          "source": "EspressoLab"
+        }
+      ],
+      "specifications": {
+        "with_grinder": "Yes",
+        "automation": "Manual",
+        "extensions": [
+          "Black, Chrome"
+        ]
+      }
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the best portable espresso maker?",
+      "snippet": "10 Best Portable Espresso MakerHandpresso Wild Hybrid. ... Bialetti Moka Express 3-Cup Espresso Maker. ... Wacaco Minipresso GR, Portable Espresso Machine. ... STARESSO Portable Espresso Machine. ... Flair Espresso Maker. ... Upgraded Portable Electric Espresso Maker. ... New Portable Hand Held Espresso Maker. ... Portable Coffee Maker Barsetto Espresso Coffee Machine. CHECK PRICE →More items...•Feb 18, 2019",
+      "title": "10 Best Portable Espresso Maker 2019 - EspressoLab",
+      "link": "https://myespressolab.com/best-portable-espresso-maker/",
+      "displayed_link": "myespressolab.com › best-portable-espresso-maker"
+    },
+    {
+      "question": "What is the best travel coffee maker?",
+      "snippet": "Due to its versatility and ability to make strong, espresso-style coffee on-the-go, the Aeropress is our top pick for best travel coffee maker....The Aeropress. ... The Minipresso GR Hand Espresso Machine. ... The Nomad Portable Espresso Maker. ... The Presto Single Cup Coffee Maker. ... The Handpresso. ... The Bodum Travel Press.More items...•Jun 18, 2019",
+      "title": "Best Travel Coffee Makers (Portable / Camping Coffee Makers)",
+      "link": "https://www.homegrounds.co/travel-coffee-makers-for-nomads/",
+      "displayed_link": "www.homegrounds.co › travel-coffee-makers-for-nomads"
+    },
+    {
+      "question": "How do you make espresso on the go?",
+      "snippet": "Here's how you make your espresso with this device.Step 1: Grind your coffee. ... Step 2: Fill the lower chamber with water. ... Step 3: Fill the coffee basket with the grounds. ... Step 4: Screw the pot together. ... Step 5: Place the pot on low heat. ... Step 6: Remove the Moka pot from heat. ... Step 7: Clean the pot.May 4, 2019",
+      "title": "How to Make Espresso (Without an Espresso Machine)",
+      "link": "https://www.drippedcoffee.com/make-espresso-without-espresso-machine/",
+      "displayed_link": "www.drippedcoffee.com › make-espresso-without-espresso-machine"
+    },
+    {
+      "question": "How do I use Minipresso GR?",
+      "snippet": "1:494:27Suggested clip · 35 secondsWacaco MiniPresso GR Review - YouTubeYouTubeStart of suggested clipEnd of suggested clip",
+      "title": "Wacaco MiniPresso GR Review - YouTube",
+      "link": "https://www.youtube.com/watch?v=34oA0REW_AY",
+      "displayed_link": "www.youtube.com › watch"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "10 Best Portable Espresso Makers (Made for Travel)",
+    "link": "https://www.homegrounds.co/best-portable-espresso-maker/",
+    "snippet": "The 10 Best Portable Espresso Makers for 2020Handpresso Wild Hybrid – The Workhorse. ... Handpresso Auto – Best Self-heating Espresso Maker. ... Wacaco Nanopresso – Most Customizable Portable Espresso Machine. ... Wacaco Minip​​res​​so – Best Value. ... AeroPress – Most Portable. ... DeLonghi EMK6 Alicia Electric Moka Pot – Easiest to Use.More items...",
+    "list": [
+      "Handpresso Wild Hybrid – The Workhorse. ... ",
+      "Handpresso Auto – Best Self-heating Espresso Maker. ... ",
+      "Wacaco Nanopresso – Most Customizable Portable Espresso Machine. ... ",
+      "Wacaco Minip​​res​​so – Best Value. ... ",
+      "AeroPress – Most Portable. ... ",
+      "DeLonghi EMK6 Alicia Electric Moka Pot – Easiest to Use."
+    ],
+    "thumbnail": "data:image/jpeg;base64,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"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "10 Best Portable Espresso Makers (Made for Travel)",
+      "link": "https://www.homegrounds.co/best-portable-espresso-maker/",
+      "displayed_link": "www.homegrounds.co › best-portable-espresso-maker",
+      "snippet": "The 10 Best Portable Espresso Makers for 2020. Handpresso Wild Hybrid – The Workhorse. Handpresso Auto – Best Self-heating Espresso Maker. Wacaco Nanopresso – Most Customizable Portable Espresso Machine. Wacaco Minip​​res​​so – Best Value. AeroPress – Most Portable. DeLonghi EMK6 Alicia Electric Moka Pot – Easiest to ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How To Choose the Right ...",
+            "link": "https://www.homegrounds.co/best-portable-espresso-maker/#How_To_Choose_the_Right_Portable_Espresso_gadget"
+          },
+          {
+            "title": "The 10 Best Portable ...",
+            "link": "https://www.homegrounds.co/best-portable-espresso-maker/#The_10_Best_Portable_Espresso_Makers_for_2020"
+          },
+          {
+            "title": "Handpresso Auto – Best ...",
+            "link": "https://www.homegrounds.co/best-portable-espresso-maker/#2_Handpresso_Auto_-_Best_Self-heating_Espresso_Maker"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:aLaJl-L2ZdkJ:https://www.homegrounds.co/best-portable-espresso-maker/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "6 Best Portable Espresso Makers WIRED Recommends (2020 ...",
+      "link": "https://www.wired.com/story/best-portable-espresso-makers/",
+      "displayed_link": "www.wired.com › story › best-portable-espresso-makers",
+      "date": "Aug 29, 2019",
+      "snippet": "... shot after shot to find you the best handheld espresso makers for the road, ... But if you travel by vehicle and have access to a 12V socket (a ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ggLHt3aoOvYJ:https://www.wired.com/story/best-portable-espresso-makers/+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "10 Best Portable Espresso Maker 2019 - EspressoLab",
+      "link": "https://myespressolab.com/best-portable-espresso-maker/",
+      "displayed_link": "myespressolab.com › best-portable-espresso-maker",
+      "date": "Dec 21, 2019",
+      "snippet": "Wacaco Minipresso GR, Portable Espresso Machine, Compatible Ground Coffee, Small Travel Coffee Maker, Manually Operated from Piston ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Bialetti Moka Express 3 ...",
+            "link": "https://myespressolab.com/best-portable-espresso-maker/#ftoc-heading-4"
+          },
+          {
+            "title": "Flair Espresso Maker",
+            "link": "https://myespressolab.com/best-portable-espresso-maker/#ftoc-heading-7"
+          },
+          {
+            "title": "Upgraded Portable ...",
+            "link": "https://myespressolab.com/best-portable-espresso-maker/#ftoc-heading-8"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5,
+            "votes": 2
+          },
+          "extensions": [
+            "Rating: 5",
+            "2 votes"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BRW7XWFXhcgJ:https://myespressolab.com/best-portable-espresso-maker/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "The Best Travel Espresso Makers For Shots On The Go ...",
+      "link": "https://www.javapresse.com/blogs/espresso/best-travel-espresso-makers",
+      "displayed_link": "www.javapresse.com › blogs › espresso › best-travel-espresso-makers",
+      "snippet": "Heading on a trip and want to buy the best travel espresso maker for coffee on-the-go? Here's a breakdown of the best options out there.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4SDwgHh0UH8J:https://www.javapresse.com/blogs/espresso/best-travel-espresso-makers+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Best Portable Espresso Makers 2020 - Top Picks & Reviews",
+      "link": "https://coffee-channel.com/best-portable-espresso-makers/",
+      "displayed_link": "coffee-channel.com › best-portable-espresso-makers",
+      "date": "Jump to Wacaco Minipresso Espresso Maker – Best for Travel",
+      "snippet": "5 Best Portable Espresso Makers. Flair Manual-Press Portable Espresso Maker – Best Overall. Check Latest Price on Amazon. Wacaco Minipresso Espresso Maker – Best for Travel. Litchi Handheld Portable Espresso Maker – Best Value. Handpresso Wild Hybrid Portable Espresso-Maker. Homgeek Mini & Portable Espresso Maker.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best Portable Espresso ...",
+            "link": "https://coffee-channel.com/best-portable-espresso-makers/#5_Best_Portable_Espresso_Makers"
+          },
+          {
+            "title": "Flair Manual-Press ...",
+            "link": "https://coffee-channel.com/best-portable-espresso-makers/#1_Flair_Manual-Press_Portable_Espresso_Maker_8211_Best_Overall"
+          },
+          {
+            "title": "Litchi Handheld Portable ...",
+            "link": "https://coffee-channel.com/best-portable-espresso-makers/#3_Litchi_Handheld_Portable_Espresso_Maker_8211_Best_Value"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:K1uRgAL2xA4J:https://coffee-channel.com/best-portable-espresso-makers/+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Top 10 Portable Espresso Makers of 2019 | Video Review",
+      "link": "https://wiki.ezvid.com/best-portable-espresso-makers",
+      "displayed_link": "wiki.ezvid.com › Wiki Reviews › Coffee & Tea",
+      "snippet": "Currently, the best portable espresso maker is the Wacaco Nanopresso. ... The variety of shapes, materials ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "sep": 27
+          },
+          "extensions": [
+            "Sep 27, 2019"
+          ]
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Wacaco Minipresso GR, Portable Espresso Machine ...",
+      "link": "https://www.amazon.com/Minipresso-Portable-Espresso-Compatible-Manually/dp/B00VTA9F6U",
+      "displayed_link": "www.amazon.com › Minipresso-Portable-Espresso-Compatible-Manu...",
+      "snippet": "Shop WACACO at the Amazon Coffee, Tea, & Espresso store. ... GR, Portable Espresso Machine, Compatible Ground Coffee, Small Travel Coffee Maker ... Minipresso GR is your best choice to enjoy up to 50 ml of authentic espresso at home, ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.1,
+            "reviews": 723
+          },
+          "extensions": [
+            "Rating: 4.1",
+            "723 reviews"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CFhJNsl3Kc4J:https://www.amazon.com/Minipresso-Portable-Espresso-Compatible-Manually/dp/B00VTA9F6U+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "TOP-5 best portable espresso makers in 2020 from $50 to $160",
+      "link": "https://gadgets-reviews.com/review/1154-best-portable-espresso-makers.html",
+      "displayed_link": "gadgets-reviews.com › review › 1154-best-portable-espresso-makers",
+      "date": "Dec 6, 2019",
+      "snippet": "If you are a big espresso or coffee lover and you either like to camp/travel a lot or are looking for a cheap and time efficient method of getting ...",
+      "sitelinks": {
+        "list": [
+          {
+            "date": "Wacaco Minipresso‎: ‎Weight: 15.5 ounces; One ..."
+          },
+          {
+            "date": "Flair‎: ‎Weight: 5 pounds; Is easily compressible ..."
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "Product‎: ‎Features",
+            "Wacaco Minipresso‎: ‎Weight: 15.5 ounces; One ...",
+            "WACACO Nanopresso‎: ‎Weight: 1.05 pounds; ...",
+            "Flair‎: ‎Weight: 5 pounds; Is easily compressible ..."
+          ],
+          "detected_extensions": {
+            "wacaco_minipresso_weight_ounces_one": 15.5,
+            "wacaco_nanopresso_weight_pounds": 1.05,
+            "flair_weight_pounds_is_easily_compressible": 5
+          }
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sS2aGEgqfoAJ:https://gadgets-reviews.com/review/1154-best-portable-espresso-makers.html+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "The Best Portable Espresso Makers For Delicious Coffee ...",
+      "link": "https://www.reviewgeek.com/10960/the-best-portable-espresso-makers-for-delicious-coffee-away-from-home/",
+      "displayed_link": "www.reviewgeek.com › the-best-portable-espresso-makers-for-delicio...",
+      "date": "Jan 22, 2019",
+      "snippet": "In need of an espresso fix wherever you go? We've got you covered with a bunch of great portable espresso machines that mean you won't ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Zv5vVsFOTbkJ:https://www.reviewgeek.com/10960/the-best-portable-espresso-makers-for-delicious-coffee-away-from-home/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "5 Best Portable Espresso Maker Reviews - Updated 2020 (A ...",
+      "link": "https://www.village-bakery.com/best-portable-espresso-makers/",
+      "displayed_link": "www.village-bakery.com › best-portable-espresso-makers",
+      "date": "Aug 4, 2018",
+      "snippet": "This feature makes the WACACO MiniPresso GR Espresso Maker the best travel espresso maker. You can make up to 50ml of coffee in a ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WJwGt0pKSHQJ:https://www.village-bakery.com/best-portable-espresso-makers/+&cd=16&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "best portable espresso maker that heats water",
+      "link": "https://www.google.com/search?q=best+portable+espresso+maker+that+heats+water&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ1QIoAHoECBAQAQ"
+    },
+    {
+      "query": "litchi portable espresso maker",
+      "link": "https://www.google.com/search?q=litchi+portable+espresso+maker&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ1QIoAXoECBAQAg"
+    },
+    {
+      "query": "best portable espresso maker reddit",
+      "link": "https://www.google.com/search?q=best+portable+espresso+maker+reddit&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ1QIoAnoECBAQAw"
+    },
+    {
+      "query": "best electric portable espresso maker",
+      "link": "https://www.google.com/search?q=best+electric+portable+espresso+maker&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ1QIoA3oECBAQBA"
+    },
+    {
+      "query": "wacaco nanopresso portable espresso maker",
+      "link": "https://www.google.com/search?q=wacaco+nanopresso+portable+espresso+maker&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ1QIoBHoECBAQBQ"
+    },
+    {
+      "query": "best camping espresso maker",
+      "link": "https://www.google.com/search?q=best+camping+espresso+maker&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ1QIoBXoECBAQBg"
+    },
+    {
+      "query": "best espresso machine",
+      "link": "https://www.google.com/search?q=best+espresso+machine&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ1QIoBnoECBAQBw"
+    },
+    {
+      "query": "mini espresso machine reviews",
+      "link": "https://www.google.com/search?q=mini+espresso+machine+reviews&sa=X&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ1QIoB3oECBAQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+travel+espresso+maker&ei=5i8nXrmMIfrP0PEPmbOGiAE&start=10&sa=N&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ8NMDegQIEhBg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+travel+espresso+maker&ei=5i8nXrmMIfrP0PEPmbOGiAE&start=10&sa=N&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ8tMDegQIEhBO",
+      "3": "https://www.google.com/search?q=best+travel+espresso+maker&ei=5i8nXrmMIfrP0PEPmbOGiAE&start=20&sa=N&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ8tMDegQIEhBQ",
+      "4": "https://www.google.com/search?q=best+travel+espresso+maker&ei=5i8nXrmMIfrP0PEPmbOGiAE&start=30&sa=N&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ8tMDegQIEhBS",
+      "5": "https://www.google.com/search?q=best+travel+espresso+maker&ei=5i8nXrmMIfrP0PEPmbOGiAE&start=40&sa=N&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ8tMDegQIEhBU",
+      "6": "https://www.google.com/search?q=best+travel+espresso+maker&ei=5i8nXrmMIfrP0PEPmbOGiAE&start=50&sa=N&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ8tMDegQIEhBW",
+      "7": "https://www.google.com/search?q=best+travel+espresso+maker&ei=5i8nXrmMIfrP0PEPmbOGiAE&start=60&sa=N&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ8tMDegQIEhBY",
+      "8": "https://www.google.com/search?q=best+travel+espresso+maker&ei=5i8nXrmMIfrP0PEPmbOGiAE&start=70&sa=N&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ8tMDegQIEhBa",
+      "9": "https://www.google.com/search?q=best+travel+espresso+maker&ei=5i8nXrmMIfrP0PEPmbOGiAE&start=80&sa=N&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ8tMDegQIEhBc",
+      "10": "https://www.google.com/search?q=best+travel+espresso+maker&ei=5i8nXrmMIfrP0PEPmbOGiAE&start=90&sa=N&ved=2ahUKEwi5l56Vl5XnAhX6JzQIHZmZAREQ8tMDegQIEhBe"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+espresso+maker&start=10&token=aa825e89e364d247",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+espresso+maker&start=10&token=aa825e89e364d247",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+espresso+maker&start=10&token=aa825e89e364d247",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+espresso+maker&start=20&token=fcd89e742bfd0724",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+espresso+maker&start=30&token=f8d09ee5074029aa",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+espresso+maker&start=40&token=f616d8cae73e7057",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+espresso+maker&start=50&token=5248422c3b17d76e",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+espresso+maker&start=60&token=2b6d40f0ce1f3630",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+espresso+maker&start=70&token=2adc5fd94c5bc728",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+espresso+maker&start=80&token=50b300b101a32ff3",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+espresso+maker&start=90&token=08caf735cb67efb1"
+    }
+  }
+}

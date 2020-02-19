@@ -1,0 +1,344 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:09:39 UTC",
+    "processed_at": "2020-01-21 22:09:39 UTC",
+    "google_url": "https://www.google.com/search?q=office+supply+store+near+me&oq=office+supply+store+near+me&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.83
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supply store near me",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 3090000000,
+    "time_taken_displayed": 0.7,
+    "query_displayed": "office supply store near me"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supply+store+near+me&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=33499696,-112059369,1989&tbm=lcl&sa=X&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQtgN6BAgNEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 33.499696,
+      "longitude": -112.059369,
+      "altitude": 1989
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supply+store+near+me&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=33499696,-112059369,1989&tbm=lcl&sa=X&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQjGp6BAgNEFE",
+    "places": [
+      {
+        "position": 1,
+        "title": "OfficeMaxWhy this ad?",
+        "place_id": "10927301218174319837",
+        "lsig": "AB86z5WagE0X50L1paDbcjODEqQb",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WagE0X50L1paDbcjODEqQb&ludocid=10927301218174319837&q=office+supply+store+near+me&tbm=lcl&token=27da9f242256f7da",
+        "rating": 3.9,
+        "reviews": 114,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 8PM · (602) 852-0055",
+        "address": "4519 E Thomas Rd",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 33.476929,
+          "longitude": -111.984201
+        }
+      },
+      {
+        "position": 2,
+        "title": "Staples",
+        "place_id": "7102669896249623070",
+        "lsig": "AB86z5WQ-0mHz2zu8IMBPivUZnYm",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WQ-0mHz2zu8IMBPivUZnYm&ludocid=7102669896249623070&q=office+supply+store+near+me&tbm=lcl&token=3ef648ab20307096",
+        "rating": 3.9,
+        "reviews": 84,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "1801 E Camelback Rd Ste 102",
+        "phone": "In Camelback Colonnade",
+        "description": "Brand-name electronics & office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 33.508080299999996,
+          "longitude": -112.04315009999999
+        }
+      },
+      {
+        "position": 3,
+        "title": "Allegiance Office Equipment",
+        "place_id": "16961066444487621196",
+        "lsig": "AB86z5WRG1L-1_BnYZekaxHX8Vpx",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WRG1L-1_BnYZekaxHX8Vpx&ludocid=16961066444487621196&q=office+supply+store+near+me&tbm=lcl&token=fc0b2e847715b77f",
+        "rating": 0,
+        "type": "Office supply store",
+        "address": "(602) 308-1844",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 33.5114334,
+          "longitude": -112.06850270000001
+        }
+      },
+      {
+        "position": 4,
+        "title": "Staples",
+        "place_id": "8090959018448664068",
+        "lsig": "AB86z5Wa884O9V3Jf4nnuP6lfE8i",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Wa884O9V3Jf4nnuP6lfE8i&ludocid=8090959018448664068&q=office+supply+store+near+me&tbm=lcl&token=46df069b4134149c",
+        "rating": 3.7,
+        "reviews": 145,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (602) 248-8122",
+        "address": "106 W Osborn Rd",
+        "description": "Brand-name electronics & office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 33.48796,
+          "longitude": -112.07558900000001
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "Is Office Depot the same as OfficeMax?",
+      "snippet": "OfficeMax. OfficeMax is an American office supplies retailer founded in 1988. It is now a subsidiary of Office Depot, Inc., which is headquartered in Boca Raton, Florida. ... On February 20, 2013, an all-stock merger between Office Depot and OfficeMax was announced.",
+      "title": "OfficeMax - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/OfficeMax",
+      "displayed_link": "en.wikipedia.org › wiki › OfficeMax"
+    },
+    {
+      "question": "How many Office Depot stores are there?",
+      "snippet": "1,378December 2017",
+      "link": "/search?q=How+many+Office+Depot+stores+are+there%3F&sa=X&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQzmd6BAgQEBM"
+    },
+    {
+      "question": "Do staples still have stores?",
+      "snippet": "The US owner of Staples has sold the UK arm, which employs 1,100 people across 106 stores, to Hilco for a \"nominal\" sum. Hilco said it was planning to phase out Staples-branded shops over the coming months. Staples also has online and business-to-business operations.Nov 17, 2016",
+      "title": "Staples brand to disappear from UK High Streets - BBC News",
+      "link": "https://www.bbc.co.uk/news/business-38013806",
+      "displayed_link": "www.bbc.co.uk › news › business-38013806"
+    },
+    {
+      "question": "What staples sell?",
+      "snippet": "In addition to selling office supplies, business machines, and tech services, Staples also offers a copy and print center for photocopies, digital printing, faxing, custom business cards, custom rubber stamps, promotional products, binding, lamination, folding, cutting and engraved products.",
+      "title": "Staples Inc. - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Staples_Inc.",
+      "displayed_link": "en.wikipedia.org › wiki › Staples_Inc"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Office Max in PHOENIX,AZ - 4519 E. THOMAS ROAD",
+      "link": "https://www.officedepot.com/storelocator/az/phoenix/officemax-6277/",
+      "displayed_link": "www.officedepot.com › storelocator › phoenix › officemax-6277",
+      "snippet": "Shop at the Office Max Store in PHOENIX,AZ. ... Today's Hours 8AM-8PM ... paper, ink and toner, to the latest tech, cleaning & breakroom supplies and more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:aCYxadpGs4UJ:https://www.officedepot.com/storelocator/az/phoenix/officemax-6277/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Office Depot Stores in Phoenix,AZ - Visit Today",
+      "link": "https://www.officedepot.com/storelocator/az/phoenix/",
+      "displayed_link": "www.officedepot.com › storelocator › phoenix",
+      "snippet": "Shop at an Office Depot store in Phoenix,AZ. Enjoy low prices on products ranging ... Phoenix, Arizona Store Locations. 12841 NORTH TATUM VILLAGE FAIR ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "245 e bell road suite 14",
+            "link": "https://www.officedepot.com/storelocator/az/phoenix/officemax-6319/"
+          },
+          {
+            "title": "4519 e. thomas road",
+            "link": "https://www.officedepot.com/storelocator/az/phoenix/officemax-6277/"
+          },
+          {
+            "title": "OfficeMax phoenix, AZ Store ...",
+            "link": "https://www.officedepot.com/storelocator/az/phoenix/officemax-6452/"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BRBi89W4KqYJ:https://www.officedepot.com/storelocator/az/phoenix/+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Staples® E Camelback Rd, Phoenix, 85016 | Store Details",
+      "link": "https://stores.staples.com/az/phoenix/1801-e-camelback-rd",
+      "displayed_link": "stores.staples.com › AZ › Phoenix",
+      "snippet": "Visit this Phoenix Staples® for office supplies & furniture, school supplies, ... Print Local Information ... 3. In-Store Services Available at Staples, E Camelback Rd.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ugLPMwHoV0wJ:https://stores.staples.com/az/phoenix/1801-e-camelback-rd+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Staples® Official Online Store",
+      "link": "https://www.staples.com/",
+      "displayed_link": "www.staples.com",
+      "snippet": "Shop Staples for business essentials, printers, ink, computers, office furniture, printing services, promotional products and more. Solutions for Worklife.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Supplies",
+            "link": "https://www.staples.com/Office-Supplies/cat_SC1"
+          },
+          {
+            "title": "Printing & Marketing Services",
+            "link": "https://www.staples.com/services/printing/"
+          },
+          {
+            "title": "Small Office & Home Office ...",
+            "link": "https://www.staples.com/Small-Office-Home-Office-Furniture-Collections/cat_CL208484"
+          },
+          {
+            "title": "Pens",
+            "link": "https://www.staples.com/Pens/cat_CL110001"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CNR1OwZWsigJ:https://www.staples.com/+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Swift Office Solutions: Office Supplies Phoenix, AZ",
+      "link": "https://officesuppliesphoenix.com/",
+      "displayed_link": "officesuppliesphoenix.com",
+      "snippet": "Swift Office Solutions is Phoenix, Arizona's preferred office supplies company since 1991.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "About",
+            "link": "https://officesuppliesphoenix.com/about-office-supplies-phoenix/"
+          },
+          {
+            "title": "Technology",
+            "link": "http://technology.officesuppliesphoenix.com/"
+          },
+          {
+            "title": "HP/HPe Products",
+            "link": "https://officesuppliesphoenix.com/hp-products/"
+          },
+          {
+            "title": "News",
+            "link": "https://officesuppliesphoenix.com/news/"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hkVITJ2tKuYJ:https://officesuppliesphoenix.com/+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Top 10 Best Office Supplies in Phoenix, AZ - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=Office+Supplies&find_loc=Phoenix%2C+AZ",
+      "displayed_link": "www.yelp.com › search › find_desc=Office+Supplies",
+      "snippet": "Reviews on Office Supplies in Phoenix, AZ - Staples, Office Max, Officemax, ... here, but the two ladies in this store who helped me, truly went above and beyond. ... “In the daunting world of big box corporations, it's nice to find a local business ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:eBTLZZSOBkUJ:https://www.yelp.com/search%3Ffind_desc%3DOffice%2BSupplies%26find_loc%3DPhoenix%252C%2BAZ+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Office Supplies - Walmart",
+      "link": "https://www.walmart.com/cp/office-supplies/1229749",
+      "displayed_link": "www.walmart.com › office-supplies",
+      "snippet": "Shop for Office supplies and products at Walmart.com. Shop for paper, ink, toner, printers, pens, staplers, and more. Save money. Live better."
+    },
+    {
+      "position": 8,
+      "title": "OfficeSupply.com",
+      "link": "https://www.officesupply.com/",
+      "displayed_link": "www.officesupply.com",
+      "snippet": "Shop office supplies for business, school & home! Paper, ink, toner, binders, pens, electronics, cleaning, crafts and snacks with fast, free shipping!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:A6b5UtOZuigJ:https://www.officesupply.com/+&cd=19&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.officesupply.com/+office+supply+store+near+me&tbo=1&sa=X&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQHzASegQICBAH"
+    },
+    {
+      "position": 9,
+      "title": "Best 30 Office Supply Stores in Phoenix, AZ with Reviews - YP ...",
+      "link": "https://www.yellowpages.com/phoenix-az/office-supply-stores",
+      "displayed_link": "www.yellowpages.com › Phoenix, AZ",
+      "date": "264 results",
+      "snippet": "Office Supply Stores in Phoenix on YP.com. ... From Business: Jerry's Office Furniture serves the Phoenix, AZ area with ... View all 16 Locations.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jQO0ixVrSMcJ:https://www.yellowpages.com/phoenix-az/office-supply-stores+&cd=20&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.yellowpages.com/phoenix-az/office-supply-stores+office+supply+store+near+me&tbo=1&sa=X&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQHzATegQIChAL"
+    },
+    {
+      "position": 10,
+      "title": "Office Supply Inc - Office Supplies and Office Products at ...",
+      "link": "https://www.officesupplyinc.com/index.html",
+      "displayed_link": "www.officesupplyinc.com",
+      "snippet": "Office Supply Inc - America's Discount Office Supply Store ... Save on over 70,000 Office Supply Items and Business Products at low factory direct prices!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3Daxj4zvrfsJ:https://www.officesupplyinc.com/index.html+&cd=21&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ1QIoAHoECA8QAQ"
+    },
+    {
+      "query": "office depot near me",
+      "link": "https://www.google.com/search?q=office+depot+near+me&sa=X&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ1QIoAXoECA8QAg"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ1QIoAnoECA8QAw"
+    },
+    {
+      "query": "officemax near me",
+      "link": "https://www.google.com/search?q=officemax+near+me&sa=X&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ1QIoA3oECA8QBA"
+    },
+    {
+      "query": "office supply stores near me",
+      "link": "https://www.google.com/search?q=office+supply+stores+near+me&sa=X&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ1QIoBHoECA8QBQ"
+    },
+    {
+      "query": "office depot locations phoenix",
+      "link": "https://www.google.com/search?q=office+depot+locations+phoenix&sa=X&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ1QIoBXoECA8QBg"
+    },
+    {
+      "query": "staples near me now",
+      "link": "https://www.google.com/search?q=staples+near+me+now&sa=X&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ1QIoBnoECA8QBw"
+    },
+    {
+      "query": "office supplies online",
+      "link": "https://www.google.com/search?q=office+supplies+online&sa=X&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ1QIoB3oECA8QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supply+store+near+me&ei=pXYnXoU1wsX6BKm0rbgE&start=10&sa=N&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ8NMDegQIERBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supply+store+near+me&ei=pXYnXoU1wsX6BKm0rbgE&start=10&sa=N&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ8tMDegQIERAu",
+      "3": "https://www.google.com/search?q=office+supply+store+near+me&ei=pXYnXoU1wsX6BKm0rbgE&start=20&sa=N&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ8tMDegQIERAw",
+      "4": "https://www.google.com/search?q=office+supply+store+near+me&ei=pXYnXoU1wsX6BKm0rbgE&start=30&sa=N&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ8tMDegQIERAy",
+      "5": "https://www.google.com/search?q=office+supply+store+near+me&ei=pXYnXoU1wsX6BKm0rbgE&start=40&sa=N&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ8tMDegQIERA0",
+      "6": "https://www.google.com/search?q=office+supply+store+near+me&ei=pXYnXoU1wsX6BKm0rbgE&start=50&sa=N&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ8tMDegQIERA2",
+      "7": "https://www.google.com/search?q=office+supply+store+near+me&ei=pXYnXoU1wsX6BKm0rbgE&start=60&sa=N&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ8tMDegQIERA4",
+      "8": "https://www.google.com/search?q=office+supply+store+near+me&ei=pXYnXoU1wsX6BKm0rbgE&start=70&sa=N&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ8tMDegQIERA6",
+      "9": "https://www.google.com/search?q=office+supply+store+near+me&ei=pXYnXoU1wsX6BKm0rbgE&start=80&sa=N&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ8tMDegQIERA8",
+      "10": "https://www.google.com/search?q=office+supply+store+near+me&ei=pXYnXoU1wsX6BKm0rbgE&start=90&sa=N&ved=2ahUKEwjFm_3Q2pXnAhXCop4KHSlaC0cQ8tMDegQIERA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+me&start=10&token=c5fe39b20b3132cc",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+me&start=10&token=c5fe39b20b3132cc",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+me&start=10&token=c5fe39b20b3132cc",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+me&start=20&token=e3d98d0a875ea058",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+me&start=30&token=5a565fefd84742c7",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+me&start=40&token=d681f295673c8c74",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+me&start=50&token=540a09fe20e8e23e",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+me&start=60&token=ae5620b5b6b2f4dd",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+me&start=70&token=4e5909bd2498e0c5",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+me&start=80&token=46fe87b4e8e73ce4",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+me&start=90&token=030eddd887deb8b0"
+    }
+  }
+}

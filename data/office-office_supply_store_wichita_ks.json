@@ -1,0 +1,323 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:55:15 UTC",
+    "processed_at": "2020-01-21 22:55:15 UTC",
+    "google_url": "https://www.google.com/search?q=office+supply+store+wichita+ks&oq=office+supply+store+wichita+ks&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.58
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supply store wichita ks",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 4220000,
+    "time_taken_displayed": 0.48,
+    "query_displayed": "office supply store wichita ks"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "bottom",
+      "title": "Office Supplies | In Stock. Ships Today‎",
+      "link": "https://www.uline.com/Cls_40/Office-Furniture-and-Supplies",
+      "displayed_link": "www.uline.com/Office-Supplies",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiWvpDp5JXnAhVKE48KHXKNAikYABAAGgJzYg&sig=AOD64_1sccg9vMTk31qXn5Tw-LMBxm1s5A&q=&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ0Qx6BAgOEAE&adurl=",
+      "description": "Huge Catalog! Over 36,000 Products. Same Day Shipping From 11 Locations. Fast Delivery. 11 Locations.",
+      "sitelinks": [
+        {
+          "title": "Office Furniture",
+          "link": "https://www.uline.com/Grp_270/Office-Furniture?pricode=WA3671&Sitelink=office_furniture"
+        },
+        {
+          "title": "File Folders",
+          "link": "https://www.uline.com/Grp_53/File-Folders?pricode=WA3671&Sitelink=file_folders"
+        },
+        {
+          "title": "File Cabinets",
+          "link": "https://www.uline.com/Grp_159/File-Cabinets-and-Mailroom?pricode=WA3671&Sitelink=file_cabinets"
+        },
+        {
+          "title": "Office Envelopes",
+          "link": "https://www.uline.com/Grp_32/Paper-Office-Envelopes?pricode=WA3671&Sitelink=office_envelopes"
+        },
+        {
+          "title": "Breakroom Supplies",
+          "link": "https://www.uline.com/Grp_114/Breakroom-Supplies?pricode=WA3671&Sitelink=breakroom_supplies"
+        },
+        {
+          "title": "Pens",
+          "link": "https://www.uline.com/Grp_409/Pens?pricode=WA3671&Sitelink=pens"
+        }
+      ]
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supply+store+wichita+ks&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=37706677,-97328692,8551&tbm=lcl&sa=X&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 37.706677,
+      "longitude": -97.328692,
+      "altitude": 8551
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supply+store+wichita+ks&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=37706677,-97328692,8551&tbm=lcl&sa=X&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQjGp6BAgLEEo",
+    "places": [
+      {
+        "position": 1,
+        "title": "Office Depot",
+        "place_id": "7963960289116723138",
+        "lsig": "AB86z5XacKPGnWgwsP0TvFSDIeAR",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XacKPGnWgwsP0TvFSDIeAR&ludocid=7963960289116723138&q=office+supply+store+wichita+ks&tbm=lcl&token=7951116287e2a44e",
+        "rating": 3.8,
+        "reviews": 73,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "Wichita, KS",
+        "phone": "In Eastgate Plaza",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 37.6780171,
+          "longitude": -97.2399506
+        }
+      },
+      {
+        "position": 2,
+        "title": "Office Depot",
+        "place_id": "12348941520419136947",
+        "lsig": "AB86z5WVCjPETohih9hEr0AuOR8T",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WVCjPETohih9hEr0AuOR8T&ludocid=12348941520419136947&q=office+supply+store+wichita+ks&tbm=lcl&token=4099f6cdedecfb41",
+        "rating": 3.9,
+        "reviews": 138,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "Wichita, KS",
+        "phone": "In Westgate Market Sq",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 37.6751751,
+          "longitude": -97.41743459999999
+        }
+      },
+      {
+        "position": 3,
+        "title": "Office Depot",
+        "place_id": "13000437523496662697",
+        "lsig": "AB86z5X3e4s9hO_zI-dz07Ake_pj",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5X3e4s9hO_zI-dz07Ake_pj&ludocid=13000437523496662697&q=office+supply+store+wichita+ks&tbm=lcl&token=d5d84abbbb000f75",
+        "rating": 4.2,
+        "reviews": 71,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (316) 631-1451",
+        "address": "Wichita, KS",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 37.738179699999996,
+          "longitude": -97.2469969
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Top 10 Best Office Supplies in Wichita, KS - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=office+supplies&find_loc=Wichita%2C+KS",
+      "displayed_link": "www.yelp.com › search › find_loc=Wichita,+KS",
+      "snippet": "Officemax. 4.8 mi. $$ Office Equipment. Convenience Paper Supply. 1.8 mi. Office Equipment. Midwest Single Source Inc. 0.4 mi. Office Equipment. Superior Rubber Stamp & Seal. 1.3 mi. Office Equipment. Scott Rice Office Interiors. 0.6 mi. Office Equipment. Western Imaging. 0.5 mi. Superior Computer Supply. 3.8 mi. Royal ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OtR2dBbGLQUJ:https://www.yelp.com/search%3Ffind_desc%3Doffice%2Bsupplies%26find_loc%3DWichita%252C%2BKS+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Office Depot in WICHITA,KS - 613 S DUGAN ROAD SUITE 100",
+      "link": "https://www.officedepot.com/storelocator/ks/wichita/office-depot-2157/",
+      "displayed_link": "www.officedepot.com › storelocator › ks › wichita › office-depot-2157",
+      "snippet": "Office Depot wichita, KS Store #2157 When you shop at my Office Depot® in Wichita you'll enjoy low prices on office supplies and products, including everything from paper, ink and toner, to the latest technology, cleaning and breakroom supplies and more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3ewAYYhcEy8J:https://www.officedepot.com/storelocator/ks/wichita/office-depot-2157/+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Office Depot in WICHITA,KS - 8147 EAST KELLOG",
+      "link": "https://www.officedepot.com/storelocator/ks/wichita/office-depot-6061/",
+      "displayed_link": "www.officedepot.com › storelocator › ks › wichita › office-depot-6061",
+      "snippet": "Shop at the Office Depot Store in WICHITA,KS. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JdqjvSRY460J:https://www.officedepot.com/storelocator/ks/wichita/office-depot-6061/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Superior Office Supplies Wichita Kansas Office Furniture ...",
+      "link": "https://www.superiorofficeks.com/",
+      "displayed_link": "www.superiorofficeks.com",
+      "snippet": "Superior Office offers a full line of office products including office supplies, office furniture, cleaning supplies, and mailroom supplies.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Products",
+            "link": "https://www.superiorofficeks.com/office-supply-catalogs.php"
+          },
+          {
+            "title": "Warehouses",
+            "link": "https://www.superiorofficeks.com/office-supply-warehouses.php"
+          },
+          {
+            "title": "About",
+            "link": "https://www.superiorofficeks.com/about-superior-office.php"
+          },
+          {
+            "title": "Contact",
+            "link": "https://www.superiorofficeks.com/contact-superior-office.php"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:q-dThc2b058J:https://www.superiorofficeks.com/+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Staples Office Supplies Locations & Hours Near Wichita, KS ...",
+      "link": "https://www.yellowpages.com/wichita-ks/staples-office-supplies",
+      "displayed_link": "www.yellowpages.com › Wichita, KS",
+      "date": "98 results",
+      "snippet": "Staples Office Supplies in Wichita, KS. Staples. Office Equipment & SuppliesCopying & Duplicating ServiceOffice Furniture & Equipment. Staples. Anderson Office Supply. Laforges Office Supply. Laforges Office Supply. Keefe Printing & Office Supply. Merrifield Office Supply. Bolen Office Supply Inc.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:bOmWVHyhK-kJ:https://www.yellowpages.com/wichita-ks/staples-office-supplies+&cd=8&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.yellowpages.com/wichita-ks/staples-office-supplies+office+supply+store+wichita+ks&tbo=1&sa=X&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQHzAHegQIAxAL"
+    },
+    {
+      "position": 6,
+      "title": "Best 30 Staples Office Supply Store in Wichita, KS with ...",
+      "link": "https://www.yellowpages.com/wichita-ks/staples-office-supply-store",
+      "displayed_link": "www.yellowpages.com › Wichita, KS",
+      "date": "46 results",
+      "snippet": "Staples Office Supply Store in Wichita on YP.com. See reviews, photos, directions, phone numbers and more for the best Office Equipment & Supplies ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:S9ffWgUK8CcJ:https://www.yellowpages.com/wichita-ks/staples-office-supply-store+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Office Supply Stores in Wichita, KS | CityOf.com",
+      "link": "https://www.cityof.com/ks/wichita/office-supplies",
+      "displayed_link": "www.cityof.com › ks › wichita › office-supplies",
+      "snippet": "Find office supply retailers in Wichita, KS for low prices and a wide selection of office supplies & business products such as paper, furniture, technology, ink ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:xWTzvCQ7H30J:https://www.cityof.com/ks/wichita/office-supplies+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Officemax 2414 N Maize Rd Wichita, KS Office Supplies ...",
+      "link": "https://www.mapquest.com/us/kansas/officemax-42597628",
+      "displayed_link": "www.mapquest.com › kansas › officemax-42597628",
+      "snippet": "Get directions, reviews and information for Officemax in Wichita, KS.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:RB7at0wTYYUJ:https://www.mapquest.com/us/kansas/officemax-42597628+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Midwest Single Source | Wichita, KS | Topeka, KS|Lawrence, KS",
+      "link": "https://www.midwestsinglesource.com/",
+      "displayed_link": "www.midwestsinglesource.com",
+      "snippet": "We offer a wide variety of products and services including custom printing, office supplies, janitorial and breakroom supplies, shredding services, mailroom ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Contact Us",
+            "link": "https://www.midwestsinglesource.com/companyinfo/contactus.html"
+          },
+          {
+            "title": "Locations & Hours",
+            "link": "https://www.midwestsinglesource.com/companyinfo/locations.html"
+          },
+          {
+            "title": "Executive Management Team",
+            "link": "https://www.midwestsinglesource.com/companyinfo/meet-our-team/executive-management-team.html"
+          },
+          {
+            "title": "Sales",
+            "link": "https://www.midwestsinglesource.com/companyinfo/meet-our-team/sales.html"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GBqZaOkRlpwJ:https://www.midwestsinglesource.com/+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Office Plus of Kansas: Home",
+      "link": "https://officeplusks.com/",
+      "displayed_link": "officeplusks.com",
+      "snippet": "Browse through our impressive selection today and make Office Plus your one stop shop. With multiple locations in Kansas, we provide all the support your ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LAcG1Gc8uPkJ:https://officeplusks.com/+&cd=13&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "officemax wichita ks",
+      "link": "https://www.google.com/search?q=officemax+wichita+ks&sa=X&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ1QIoAHoECAwQAQ"
+    },
+    {
+      "query": "staples wichita ks",
+      "link": "https://www.google.com/search?q=staples+wichita+ks&sa=X&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ1QIoAXoECAwQAg"
+    },
+    {
+      "query": "office depot",
+      "link": "https://www.google.com/search?q=office+depot&sa=X&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ1QIoAnoECAwQAw"
+    },
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ1QIoA3oECAwQBA"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ1QIoBHoECAwQBQ"
+    },
+    {
+      "query": "office supplies online",
+      "link": "https://www.google.com/search?q=office+supplies+online&sa=X&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ1QIoBXoECAwQBg"
+    },
+    {
+      "query": "office supply store near me",
+      "link": "https://www.google.com/search?q=office+supply+store+near+me&sa=X&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ1QIoBnoECAwQBw"
+    },
+    {
+      "query": "office depo9t",
+      "link": "https://www.google.com/search?q=office+depo9t&sa=X&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ1QIoB3oECAwQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supply+store+wichita+ks&ei=U4EnXrnkNuiG4-EP8oyCwAo&start=10&sa=N&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ8NMDegQIDRBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supply+store+wichita+ks&ei=U4EnXrnkNuiG4-EP8oyCwAo&start=10&sa=N&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ8tMDegQIDRAu",
+      "3": "https://www.google.com/search?q=office+supply+store+wichita+ks&ei=U4EnXrnkNuiG4-EP8oyCwAo&start=20&sa=N&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ8tMDegQIDRAw",
+      "4": "https://www.google.com/search?q=office+supply+store+wichita+ks&ei=U4EnXrnkNuiG4-EP8oyCwAo&start=30&sa=N&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ8tMDegQIDRAy",
+      "5": "https://www.google.com/search?q=office+supply+store+wichita+ks&ei=U4EnXrnkNuiG4-EP8oyCwAo&start=40&sa=N&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ8tMDegQIDRA0",
+      "6": "https://www.google.com/search?q=office+supply+store+wichita+ks&ei=U4EnXrnkNuiG4-EP8oyCwAo&start=50&sa=N&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ8tMDegQIDRA2",
+      "7": "https://www.google.com/search?q=office+supply+store+wichita+ks&ei=U4EnXrnkNuiG4-EP8oyCwAo&start=60&sa=N&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ8tMDegQIDRA4",
+      "8": "https://www.google.com/search?q=office+supply+store+wichita+ks&ei=U4EnXrnkNuiG4-EP8oyCwAo&start=70&sa=N&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ8tMDegQIDRA6",
+      "9": "https://www.google.com/search?q=office+supply+store+wichita+ks&ei=U4EnXrnkNuiG4-EP8oyCwAo&start=80&sa=N&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ8tMDegQIDRA8",
+      "10": "https://www.google.com/search?q=office+supply+store+wichita+ks&ei=U4EnXrnkNuiG4-EP8oyCwAo&start=90&sa=N&ved=2ahUKEwj52Ynp5JXnAhVowzgGHXKGAKgQ8tMDegQIDRA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+wichita+ks&start=10&token=572e4759ba490c79",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+wichita+ks&start=10&token=572e4759ba490c79",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+wichita+ks&start=10&token=572e4759ba490c79",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+wichita+ks&start=20&token=700c8e0099fc57e6",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+wichita+ks&start=30&token=1bfb01614502f01f",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+wichita+ks&start=40&token=3dfca2540a90faf6",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+wichita+ks&start=50&token=00e81f3be4198dc8",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+wichita+ks&start=60&token=66d50da6e0898af5",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+wichita+ks&start=70&token=54d6dec7a7c520c7",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+wichita+ks&start=80&token=f964c8318ce4c1fc",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+wichita+ks&start=90&token=43e33783a105a358"
+    }
+  }
+}

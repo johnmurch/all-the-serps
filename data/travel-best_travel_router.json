@@ -1,0 +1,618 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 16:06:19 UTC",
+    "processed_at": "2020-01-21 16:06:19 UTC",
+    "google_url": "https://www.google.com/search?q=best+travel+router&oq=best+travel+router&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 3.74
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best travel router",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 72400000,
+    "time_taken_displayed": 0.56,
+    "query_displayed": "best travel router"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Best Travel Router For Hotels‬ | The Best WiFi For Travellers‎",
+      "link": "https://www.skyroam.com/solis-x-new",
+      "displayed_link": "www.skyroam.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwix3cS2iZXnAhUNdmAKHd7QDcMYABAAGgJ0bQ&sig=AOD64_2hLy6rIytfK5RMBdrm51cc6oxypg&q=&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ0Qx6BAgSEAE&adurl=",
+      "description": "Buy Skyroam Solis Today To Access The Best Mobile Networks in 130+ Countries",
+      "sitelinks": [
+        {
+          "title": "WiFi Hotspot Pricing",
+          "link": "https://www.skyroam.com/wifi-pricing"
+        },
+        {
+          "title": "New, $6/5€ per GB GoData",
+          "link": "https://www.skyroam.com/godata-local"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Google Wifi | Mesh Wi-Fi Router | Stay well connected",
+      "price": "$99.00",
+      "extracted_price": 99,
+      "link": "https://store.google.com/us/product/google_wifi_first_gen?hl=en-US",
+      "source": "Google Store",
+      "rating": 4.8,
+      "reviews": 9000,
+      "thumbnail": "data:image/webp;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 2,
+      "title": "TP LINK TP-LINK TL-POE150S PoE injector output connectors: 1",
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "link": "https://www.dell.com/en-us/work/shop/accessories/apd/a8859047",
+      "source": "Dell",
+      "rating": 4.8,
+      "reviews": 161,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 3,
+      "title": "Skyroam Solis Lite: 4G LTE Global WiFi Hotspot",
+      "price": "$119.99",
+      "extracted_price": 119.99,
+      "link": "https://www.skyroam.com/solis-lite",
+      "source": "Skyroam",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    }
+  ],
+  "knowledge_graph": {
+    "see_more_about": [
+      {
+        "title": null
+      }
+    ]
+  },
+  "inline_products": [
+    {
+      "position": 1,
+      "title": "GL.iNet GL-MT300N-V2 Mini Travel Router, Repeater Bridge, 300Mbps High Performan",
+      "link": "https://www.google.com/search?q=gl.inet+gl-mt300n-v2+mini+travel+router,+repeater+bridge,+300mbps+high+performan&stick=H4sIAAAAAAAAAOPgUuLVT9c3NMyozCi3LDI0TRJINkozNzYxNrBMTTM2S7Y0ncHEeImFY5_HsTurv8y37WBlXMQakJ6jl5mXWqKQnqObW2JsYJCnW2akkJuZl6lQUpRYlpqjUJRfWpJapKNQlFqQmghkKSQVZaakp-ooABXnJhUUK2RkpmcoFKQWpeUX5SbmfWBlBwDy9CLYigAAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQoYACMAV6BAgMEAU",
+      "price": 20,
+      "rating": 4.4,
+      "reviews": 16,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=gl.inet+gl-mt300n-v2+mini+travel+router,+repeater+bridge,+300mbps+high+performan&stick=H4sIAAAAAAAAAOPgUuLVT9c3NMyozCi3LDI0TRJINkozNzYxNrBMTTM2S7Y0ncHEeImFY5_HsTurv8y37WBlXMQakJ6jl5mXWqKQnqObW2JsYJCnW2akkJuZl6lQUpRYlpqjUJRfWpJapKNQlFqQmghkKSQVZaakp-ooABXnJhUUK2RkpmcoFKQWpeUX5SbmfWBlBwDy9CLYigAAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQvIMEMAV6BAgMEAQ",
+      "editorial_reviews": [
+        {
+          "title": "Mini review of GL.iNet Slate (GL-AR750S-Ext)",
+          "link": "https://medium.com/@mccob/mini-review-of-gl-inet-slate-gl-ar750s-ext-8284e2bfac62",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAXVBMVEUSEA4AAAD///8IBAAMCgd/fn48OzpQT07MzMz6+vpKSkno6OhHRkWLioqCgYF8fHtqaWnf3982NTSRkZEvLi2dnZ21tbWXl5enp6fNzcxwb29iYmF3d3YWFBIoJybeSVZOAAAAe0lEQVQYlY2OSRaDMAxDIzk1CQRoGVo63v+YOKHTEm1kfw9Pzu2QB5DdzJde2643gmPXaiE4kRU8yFA2HYZcYiQfG5BkKxNC5OEN6rnhubr8gaXPR/yCtCDy+gO4Bcy84/NUlBwRjbFxOYefdFA8Uaum1xZVxNtIJPsOrfXlA+0ssO7AAAAAAElFTkSuQmCC",
+          "source": "Medium",
+          "description": "So, it's a good performance."
+        },
+        {
+          "title": "Top 10 Best Travel Routers 2019 Review",
+          "link": "https://www.bestnetworkinghardware.com/best-travel-routers-review/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABs0lEQVR4AWL4//8/RRjO8Iucx+noO0MWUDo16FYABMGP6ZfUcRnWtm27jVPbtm3bttuH2t3eFPcY9pLz7NxiLjCyVd87pKnHyqXyxtCs8APd0rnyxiu4qSeA3QEDrAwBDrT1s1Rc/OrjLZwqVmOSu6+Lamcpp2KKMA9PH1BYXMe1mUP5qotvXTywsOEEYHXxrY+3cqk6TMkYpNr2FeoY3KIr0RPtn9wQ2unlA+GMkRw6+9TFw4YTwDUzx/JVvARj9KaedXRO8P5B1Du2S32smzqUrcKGEyA+uAgQjKX7zf0boWHGfn71jIKj2689gxp7OAGShNcBUmLMPVjZuiKcA2vuWHHDCQxMCz629kXAIU4ApY15QwggAFbfOP9DhgBJ+nWVJ1AZAfICAj1pAlY6hCADZnveQf7bQIwzVONGJonhLIlS9gr5mFg44Xd+4S3XHoGNPdJl1INIwKyEgHckEhgTe1bGiFY9GSFBYUwLh1IkiJUbY407E7syBSFxKTszEoiE/YdrgCEayDmtaJwCI9uu8TKMuZSVfSa4BpGgzvomBR/INhLGzrqDotp01ZR8pn/1L0JN9d9XNyx0AAAAAElFTkSuQmCC",
+          "source": "Networking Hardware Guide"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "TP-LINK AC750",
+      "link": "https://www.google.com/search?q=tp-link+ac750&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2S8mOT0nPSOK3TLMwNkq2MDVLsTAwTkubwcR4iYVjn8exO6u_zLftYGVcxMpbUqCbk5mXrZCYbG5q8IGVHQD5_7f4RgAAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQoYACMAV6BAgMEA8",
+      "price": 35,
+      "rating": 4.5,
+      "reviews": 496,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=tp-link+ac750&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2S8mOT0nPSOK3TLMwNkq2MDVLsTAwTkubwcR4iYVjn8exO6u_zLftYGVcxMpbUqCbk5mXrZCYbG5q8IGVHQD5_7f4RgAAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQvIMEMAV6BAgMEA4",
+      "editorial_reviews": [
+        {
+          "title": "Review of the TP-LINK TL-WR902AC AC750 Wireless Travel Router",
+          "link": "https://nerdtechy.com/tp-link-tl-wr902ac-ac750-travel-router-review",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAATlBMVEXi4+Xh4uTu7/Hg4ePe3+Hk5efn6Oro6evt7vCWl5iJiovT1Na5uryqqqywsLLY2dqPkJGBgYKjpKVUVFSYmZrDxMb6+/5vb3C2t7men6Dv+ui8AAAAg0lEQVQYlYWOWQ7CMAwFHTtekmZrKVDuf1GSUBB/tWTrafRkDcD1OJp3rJtJtBMWYFZhBrCUkbiW2sIa28aA+bYoL02rtsK+N8oWvXRAuCfrPzCne8QOPIZkNEB5hOxO4CYwiWmXf8D1GX8NK4d5PFbz9ko61IiG3XCkaQr8Nf+k63kDsx4E6VINZMcAAAAASUVORK5CYII=",
+          "source": "Nerd Techy",
+          "description": "What you really need is a portable travel router."
+        },
+        {
+          "title": "Guide to the Best Portable Mini Travel WiFi Router in 2019-2020",
+          "link": "https://nerdtechy.com/best-travel-router",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAATlBMVEXi4+Xh4uTu7/Hg4ePe3+Hk5efn6Oro6evt7vCWl5iJiovT1Na5uryqqqywsLLY2dqPkJGBgYKjpKVUVFSYmZrDxMb6+/5vb3C2t7men6Dv+ui8AAAAg0lEQVQYlYWOWQ7CMAwFHTtekmZrKVDuf1GSUBB/tWTrafRkDcD1OJp3rJtJtBMWYFZhBrCUkbiW2sIa28aA+bYoL02rtsK+N8oWvXRAuCfrPzCne8QOPIZkNEB5hOxO4CYwiWmXf8D1GX8NK4d5PFbz9ko61IiG3XCkaQr8Nf+k63kDsx4E6VINZMcAAAAASUVORK5CYII=",
+          "source": "Nerd Techy"
+        }
+      ],
+      "specifications": {
+        "connectivity": "Wireless",
+        "dual_band": "Yes",
+        "extensions": [
+          "WEP, WPA, WPA2",
+          "Mesh Network",
+          "1 Port",
+          "December 2016",
+          "Manageable"
+        ]
+      }
+    },
+    {
+      "position": 3,
+      "title": "HooToo HT-TM02 TripMate Nano",
+      "link": "https://www.google.com/search?q=hootoo+ht-tm02+tripmate+nano&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwqN09ONiwqSRIwSk42SjNMTklOTEs2SDVNmsHEeImFY5_HsTurv8y37WBlXMQqk5GfX5Kfr5BRoluSa2CkUFKUWZCbWJKqkJeYl_-BlR0AQFv0qFYAAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQoYACMAV6BAgMECM",
+      "price": 32,
+      "rating": 4.6,
+      "reviews": 5,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=hootoo+ht-tm02+tripmate+nano&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwqN09ONiwqSRIwSk42SjNMTklOTEs2SDVNmsHEeImFY5_HsTurv8y37WBlXMQqk5GfX5Kfr5BRoluSa2CkUFKUWZCbWJKqkJeYl_-BlR0AQFv0qFYAAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQvIMEMAV6BAgMECI",
+      "editorial_reviews": [
+        {
+          "title": "HooToo TripMate Titan Review",
+          "link": "https://www.digitaltrends.com/gadget-reviews/hootoo-tripmate-titan-review/",
+          "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgBBgkIBwgBCgkLAQoDDQwBARsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5Oi0BCgoKAQwBGg8PGjclEyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3K//AABEIABAAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAEBQP/xAAiEAACAgIBAwUAAAAAAAAAAAABAwIGBAUHABExCBIXQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAG/8QAHBEAAQMFAAAAAAAAAAAAAAAAAQIGBwARISIj/9oADAMBAAIRAxEAPwDTUa3I5tzFrWm6yUbwvCmys1gkQBPk9L2WA7grIatqrjFcbgzChOzVogTAPnpGn2kfTWucZR5LPfklW2Hx5bPb37fR/Opm12eVzflNYxl3kqV1ZmwXZbOSIAnx0ns+1Pw40oGpMQKiMEHpX//Z",
+          "source": "Digital Trends",
+          "description": "The HooToo TripMate Titan is primarily a travel router that you can use to create your own private Wi-Fi network to…"
+        },
+        {
+          "title": "7 Best Portable WiFi Routers for Travelers.",
+          "link": "https://mashtips.com/portable-wifi-routers/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACKUlEQVQ4jZ1TPWtUQRQ9d96befP2I09ctxGEsKYIRIgia9zgIqbRVkQh+gssLP0FVmJpK8ZGbLU2xCJIlBBisaWIgijJIrjJ7pv3NXcswtNkoyA55Z05d+6cew5hDMNKu0UOFx2our9OcCNHeFeL1z8drO9D4c0uJiqoWUmrYTb6rJJeAgCZPqMzEZ6Mq3qBGKb5Y/X5+MMoxNm7mTx35dDBGPqNbnfrePfeQbI3u/g/5BKDaL7Tb3TvAIA/rLRbMGlN2c03qb5wihy/cIQGE90MzXovD84vp1X90kj/9h5d3oq2lte2m92ZYaXdEjrN5nIdrAFALpz0rZ1XvjctCI8cpprkxPeC6PoJFh0m0W9uLX8FgMooWTGh7giwq3nOfCzHY4fdjPNMCXEtDY512BVPIyEXtom/+MwfBhNz0wCg2HxzAqEAgFJtABDWSZk5CQBEeJhE1ccAoK17JdneUDn7JceS8Py/icQOuzl4RJ43XSeJHc42tMkiq8OZ4UT0E+bPXQHs7RkAJFMOAHDYlnH+AACMtfAcnoHdXEKwE4MdKjmeYysgaGgpnCpFhE9aCJxmVSyJwr7NyW6oePAEglvawcvF3veMqk4Sw/hJoN7rJL8KoCeZcuuJFfZEHsSbySCav4/CQSW9JK20VzJildejDDEQa325PoxfH8lI/Ua3WxrpN45q5UNhArvaqB4eCpNR1ck0UJfGw3SgAfDvOJtKEIcmWRuP8y9Q8A7X7S/PWAAAAABJRU5ErkJggg==",
+          "source": "MashTips"
+        }
+      ],
+      "specifications": {
+        "connectivity": "Wireless",
+        "weight": "0.1 lb",
+        "extensions": [
+          "2 in wide",
+          "150 MBps",
+          "Wireless Connectivity",
+          "104°F max",
+          "Desktop"
+        ]
+      }
+    },
+    {
+      "position": 4,
+      "title": "TP-LINK M7350",
+      "link": "https://www.google.com/search?q=tp-link+m7350&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwyK8xOr8zKThKwSDY3STY1T0qyTDFLTDQ1msHEeImFY5_HsTurv8y37WBlXMTKW1Kgm5OZl62Qa25savCBlR0AC_qyjEcAAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQoYACMAV6BAgMEDg",
+      "price": 120,
+      "rating": 4.4,
+      "reviews": 377,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=tp-link+m7350&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwyK8xOr8zKThKwSDY3STY1T0qyTDFLTDQ1msHEeImFY5_HsTurv8y37WBlXMTKW1Kgm5OZl62Qa25savCBlR0AC_qyjEcAAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQvIMEMAV6BAgMEDc",
+      "editorial_reviews": [
+        {
+          "title": "TP-Link M7350 4G Mobile WiFi Hotspot Review",
+          "link": "https://www.4gltemall.com/blog/tp-link-m7350-4g-mobile-wifi-hotspot-review/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAJ1BMVEUUVtxHcEwUVtwUVtwUVtwUVtwUVtwUVtwUVtwUVtwUVtwUVtwUVtwSenXiAAAADXRSTlP+ADgosQjGRZvUGfCAWqL4vgAAAGdJREFUGJV9z1ESgCAIBNAFEUW6/3kDbWpqKr/gjS4Iehy8goKJhgF9AQMtKoigTIii0Za3ykio4ACzM2MzCoj3XaQmZMcJ6jNjQBRGppm+wN1RezR8TMnYcHS9IPZgB/S+ev3+yy/sOpQCNiGiayMAAAAASUVORK5CYII=",
+          "source": "4G LTE Mall",
+          "description": "The M7350 TP-Link is a good mobile LTE hotspot."
+        },
+        {
+          "title": "Best Mobile Wi-Fi Routers 2019: MiFi Hotspot Buying Guide",
+          "link": "https://www.techadvisor.co.uk/test-centre/internet/mobile-wifi-3656619/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEXjBhPjBRLjAg///f3jAxDtY2vzmJ3mICz++vrrS1TpOUPzlpzqSFHlGCT96uvjCRbkEB3sV2DpP0n72Nr3tbnwfoXoLzn2q7D4xcjoND760tX98fHvbnbweH/sU1ztYGh7sdvFAAAAd0lEQVQYlY2ORw7DMAwEJS7VFclxTff/fxnLAX0MvAcCHAyWVOpEaA/LqruraemV/gF2gwc8bHVi9GHEFOa4XMShhEw6wUiPtggUC26iNMAWxYuygXwvD/MURb/GmPCuy9FSayyDo3woiuf2WPdZBWyneZ+y/8sXREMEmY9ra9oAAAAASUVORK5CYII=",
+          "source": "Tech Advisor"
+        }
+      ],
+      "specifications": {
+        "connectivity": "Wireless",
+        "dual_band": "Yes",
+        "extensions": [
+          "Wireless-AC – Wireless-G",
+          "N150"
+        ]
+      }
+    },
+    {
+      "position": 5,
+      "title": "TRENDnet TEW-817DTR",
+      "link": "https://www.google.com/search?q=trendnet+tew-817dtr&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwyL0lOKzNMThIwt7AwMEyysEgxTTRITDFInsHEeImFY5_HsTurv8y37WBlXMQqXFKUmpeSl1qiUJJarmthaJ5SUvSBlR0AWrDjWk0AAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQoYACMAV6BAgMEEk",
+      "rating": 4.5,
+      "reviews": 2,
+      "thumbnail": "data:image/webp;base64,UklGRnADAABXRUJQVlA4IGQDAACQGQCdASqEAIQAPj0cjEOiIaGVKizMIAPEtIBrzO/9xXNFbxdlyjg5PkaE8WmCEQjunke4Tmb5YQnXDfq4SFrqNT2uwEpGoz8Hw0mctdEeDpXJMXugFD/jJs9mQHqSRpKoj2RlxSNZNRgVd7bHksv/iJrzWbUmdu1i4gngWT0tu/pnhcYCVd0qZ4T7SL/YZUXX9KVE2eViKXGbiWgLuVpVqNiA6JPiNyv3+QFhHQGIT6l7X7sdR3SX47VM8+9OSAhXNHaGNAQgXqQ0sY+GSAEv5IgcmAAA/v3A4W6TPGXHBNpFEzzpJBiGddLDlTQbBYshDnmyyfwDf6fjInIWDgvYL4TvKcpd98aSndSudrzYZP3ztariA++MAZWD8aSVF56D351OryAnHp6Ikd0rB1bv/TTpDdeIqxMsjhtNi8rvLkRznHT+KImTzR30/1kZyABRI67S7ykTgbk6cDSVCEa2A4b8QryMiiwqSZY3TfBPg405ORQ51Q54YelvJivXXeLMy2MXZbQCamDLhL0xEICHm51r557kz1aX6YATTnUM6lIrCLG+wLRVCgZkTNrTKI/TCYIoPB89bg+RMIsaTqx0qD5z/BsiWYZX5JRb+/Yoh+DWT6yL+yS1dEpNwfFsYKBHgKBxyt3yS+WBUSsnVUIbgZI/DaSD5bhkq3xF9pclZr8ehIeWIbIz973tfmx8GYN8J1yg22g6sP9nh9cf29LIxBOO/22Mk0kIiZZE0wXFdx7HrcxuCeNLzp8UiWAKL9wC8yYf+RT65WgcT4eXtRkgs3jGaof7W/59U4uLejzvRQanWHCEgurF215Mms82MYaB/Fx/798yzN5Xtj2frDMeJCIGqI0aD2hu+OyCIXQ5+4qe58GbexYJ9mJzN71Co64ts/tdCJViloK+r20drnwyG4aVMo2YevCQQXESmmU6f7GrNR0PDrQLYM3MHKvWyeVgBL8Patg00rbOsLCzA3Uqneww2T0ysiEmuShbAc/3j+YPA8qA4n/mBkI6Yd084TxWrGz7Ga30Ih7Yq0KMtBdiSTAioFWb5kL6bNJN2XV8o5GcAKowlesuBy7q0PGtfFtpoMvN+kZwkQ4rEnek52bWxRFr7uggUah8+UE4ESnCpYBgoWVOCfYf+dUfIXOco7k29oAA",
+      "thumbnail_link": "https://www.google.com/search?q=trendnet+tew-817dtr&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwyL0lOKzNMThIwt7AwMEyysEgxTTRITDFInsHEeImFY5_HsTurv8y37WBlXMQqXFKUmpeSl1qiUJJarmthaJ5SUvSBlR0AWrDjWk0AAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQvIMEMAV6BAgMEEg",
+      "editorial_reviews": [
+        {
+          "title": "Top 10 Mini Travel Routers of 2019 | Video Review",
+          "link": "https://wiki.ezvid.com/best-mini-travel-routers",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEU7WZg5V5c8Wpg4VpZXcae0wNhfeKtnfq+qt9KSo8aisM7z9fnM1OT///8/XZqKnMFHY5/h5e93jLfa4OtMZ6H3+PtvhbO4w9qvu9XI0OKEl75Ra6N9kbvS2efo6/O+yN0Cqn3oAAAAjklEQVQYlY1PyRaDIAxMCIssUhDqgqj//5dF7fPaziHLvJksAL/B7kQIjJ2NfwmhA8qSUXWtAsZdlABzP1DQSZ5abSXl9DaIpsNGoLKFxiScD268iJwmMNOwc+XyvWCOfClrrPpytCHV6o17J5bhJpDvu2Bo7PZ1gF/6SlT77jm2HGvTHSM+jL8C++PRhg9VKQZCjYY71AAAAABJRU5ErkJggg==",
+          "source": "Ezvid Wiki"
+        },
+        {
+          "title": "9 Best Wireless Travel Routers (Updated May 2019)",
+          "link": "https://wirelessster.com/best-wireless-travel-routers/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABs0lEQVR4AWL4//8/RRjO8Iucx+noO0MWUDo16FYABMGP6ZfUcRnWtm27jVPbtm3bttuH2t3eFPcY9pLz7NxiLjCyVd87pKnHyqXyxtCs8APd0rnyxiu4qSeA3QEDrAwBDrT1s1Rc/OrjLZwqVmOSu6+Lamcpp2KKMA9PH1BYXMe1mUP5qotvXTywsOEEYHXxrY+3cqk6TMkYpNr2FeoY3KIr0RPtn9wQ2unlA+GMkRw6+9TFw4YTwDUzx/JVvARj9KaedXRO8P5B1Du2S32smzqUrcKGEyA+uAgQjKX7zf0boWHGfn71jIKj2689gxp7OAGShNcBUmLMPVjZuiKcA2vuWHHDCQxMCz629kXAIU4ApY15QwggAFbfOP9DhgBJ+nWVJ1AZAfICAj1pAlY6hCADZnveQf7bQIwzVONGJonhLIlS9gr5mFg44Xd+4S3XHoGNPdJl1INIwKyEgHckEhgTe1bGiFY9GSFBYUwLh1IkiJUbY407E7syBSFxKTszEoiE/YdrgCEayDmtaJwCI9uu8TKMuZSVfSa4BpGgzvomBR/INhLGzrqDotp01ZR8pn/1L0JN9d9XNyx0AAAAAElFTkSuQmCC",
+          "source": "Wireless Routers"
+        },
+        {
+          "title": "The Best Wireless Travel Routers to Buy in 2019 For Ultimate Mobility",
+          "link": "https://www.technadu.com/best-wireless-travel-routers/44026/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABetWUFAAAAEHRSTlN60mCTZVOyhABxaBMZPfYb2NADXQAAAHZJREFUGJVlj40OxCAIg6syONx24/2f9sp+XY6EaL9ILfiwFpdaxee8I1tQIgo6DtCmOGtqCXBrEspNYqg+wxEKM1UzaLhD6KeGdYUpnQU1X6q35tTxrQeIMNsPghx5AEdoOgCaLjICfnsFwxXsPzq7v5d7r/8DS98KFDdtd5sAAAAASUVORK5CYII=",
+          "source": "TechNadu"
+        }
+      ],
+      "specifications": {
+        "connectivity": "Wireless",
+        "gigabit_ethernet": "Yes",
+        "extensions": [
+          "Dual Band",
+          "IPv6 Compatible",
+          "WPA2",
+          "0.3 lb",
+          "2.3 in wide",
+          "433 MBps"
+        ]
+      }
+    },
+    {
+      "position": 6,
+      "title": "Huawei E5330",
+      "link": "https://www.google.com/search?q=huawei+e5330&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwyL8m2KMw2ShJIM0pMNks0Mk5OSjEwTDRKmsHEeImFY5_HsTurv8y37WBlXMTKk1GaWJ6aqZBqamxs8IGVHQDBd4L9RgAAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQoYACMAV6BAgMEFw",
+      "price": 43,
+      "rating": 4.3,
+      "reviews": 376,
+      "thumbnail": "data:image/webp;base64,UklGRuoFAABXRUJQVlA4IN4FAADQIwCdASqEAIQAPj0ajEQiIaMT+NVwMAPEtJ2pRqytNf/9SgOW4QEP03EHtVf3fhWrqPV5mm9Q+u0Rkf9L1Lf9rzf/Sv/e9w39bv+L/Y+E2/Xc0FdVPYWPZZuETxcanpt9TazCnzgFzCcHO3m4NkacYTmaZ8jXAoWRa/DClQwkYm1QQFDzbKSIu2UpiDQZZejQgwCyUXa3qgqKjpHJzsDq7mvoDnvPj3jzgDwYkO5mZNqQonGgbdtxw1cnnHGnTchIo7LPbjkFOS/ETK0cmw9/CDd9oc3pTJ+e/zPw96xkee9YOrw63Gjkz+ZJKPpS8wWydIjoRaypoMolPzPJ99yOPRkvNHY34fira8FWospCa3l9bZH8n8Hi1pNoqT7IMHF5MNhsNgIAAP7+VdAA29g8LceF+RV6XH2Xraa7z/KKlbxLXP7T+yRQ5bZ5Ffuy9nTyleUdGBPij12lzXwAL2u7PfLIKFTL6luVRo5ApNb6JTqt0hSEPsFc/FJxeRs4mXCC35e8P64MHtaiQYh4MArmBhbUsdsEn70ebq1sKXiWW5gZwgLlX6Jr57FfD542DeVNK4MhE7PBo2bFwmvpGui9kDa/sVj/Zoc1/ZyB+f+54vZ0sfxN+CwRZkLl5J4pa9fAIzJC/1IT7LHLSDLwvy6/juWQzGrnWERJEq8VzZBx0R6Phkn36+ecVnLJKEdO0akC71hbk9EGJaEKly31Xk11KXmSEEMlizcA7nCzcQ98USIM5v4a/lw2P8wxvEo03mfinRvpDucZVU9dzinfHD7laE1+lZMpLml6S+m0DNl7qUAWwZzuImIoc+IA54n+gZFE6rCDpUhRBYFXyytoDE56nZrQHUvirMJydAH2TT6wEb3bpten1uRM1Fylu3B0FApW2OGXml02+DLirTKYg3dVP7cKBvvO8DzSxbyqzDYUhYNGtFvyrAd9Sc2OdN3x24svxbCvB8fON4Sox1gcjNbetemVJOMMDHxVlEf2TqK9ZfxAknwX8bfIm7wwK7OxhV8WPMNqHEcs5CEeF3L5K1C/Rela6hJ/rDNMNw3ZN2fhDDMrVkHEh4RqczOjEjU8qcgDrXW1/8BPzU2J6yrtIYbkSTKpyKPM/KgXiBgho1v7n/pkDjLHMX7etbSfk/hNR5LuHuGjR6ofvFSMGynmquu1L1nkeRtAKKRH0JBOrHq7mZIO2p0DJX8qE1JLBm+DkwkNqCgC8/dzWGELGmujVT83h8N1cPcjNk4px4Etvs+3ubx5HaMHKcJ9UssevV+rW4oHJBC+vvsot2x3MhzDQGRUkSkko9mMEC8Uu/qwxWAVdKnPv57CtNgAi2eOqHxTwJJBvpDL7gSa+nMKYiuUczfiZr9AEnfrmgFEi1xhEMAkrlnA21syWCgG8vwdORZ6ZM/B690d7QZZyziKyXHflE7pDFYg7BYnj1SUArPTpSnA4m+/0Nf94/y5YLHyid+tQ8g7BaDvnkDu2ozvNbOtK+MU/cD2NEjGo0etGzASSHj3ceOkKVRXnMDX00hP6L7K1BfhPm/1W7WPMr3T8S5rW4AClqSQv28VgxAEfIAvPdr/l3LZBQSsF7xSDISU5IbwOkw7gz2o/9u2F466nHndG5r16M4MDlNCC5yubTMgZ0BzGKoj4eD15B+4cTGsK8yGaJ7wgIJOlEFsVm3rC+HUsGAIDSMc/P+j/uOr+Vf2u1XPbqz7xTHbF+YaX7//KYk/88dhy/8StDkB3X+e6Dmkch6jVMK+E1pXWRUEpXw4Zt9LCNjzCqChAGcWJER15UeIwcaHTvY923Hxz8SbVo2cxU+h15vcbBAvF/hCVSMP64x7boNm/Nzc5iU/BXd4UhHWwYr+zV5XzKL8ILRXAFQZNot6J1S6HHf2n02jIo0woqoolyN8d4NXS08WLOLskyaCG+KSpoLK1go67fiBrG3fy1xSKl827DOuHpl6vV1uVvUCVvTg8G8arpvD9TnMEefeZXNbQ0rQAA4wKqAAAAAAAA==",
+      "thumbnail_link": "https://www.google.com/search?q=huawei+e5330&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwyL8m2KMw2ShJIM0pMNks0Mk5OSjEwTDRKmsHEeImFY5_HsTurv8y37WBlXMTKk1GaWJ6aqZBqamxs8IGVHQDBd4L9RgAAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQvIMEMAV6BAgMEFs",
+      "editorial_reviews": [
+        {
+          "title": "Huawei E5330 Review: Mobile WiFi Dongle",
+          "link": "https://3g.co.uk/reviews/huawei-e5330-mobile-review",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEXBwcFvcX+am6T7+/v9/f38/Pz9/f3s7O2Mjpjv7/Db29z+/v7x8vLt7Ozj4+PW1tbv7+/4+Pjz9PP49/cxNk+goalBRVv42spzdYOTlJ5dYHCvsrrGx8v2uZb2tI/7rX/bH4FdAAAAC3RSTlMBnZKH16bat8/PtCECL5cAAACLSURBVBiVVc3rDoIwDIbhgg7UDraV7uzh/u/SbhIiz6/mTb4UQE3Xw6QALu5EwWwb3clxh3lpem3HHqhwCPy0PfRFziWk9TchGRPmkBciTRI2gZ5Dcu2SgM4hel+4IjpsQZCktLwj7qGy91w/8Qg+MCcTX1sP8sRps1r51r881pMZRnMyAgy3PwN8AWv9Df/NEUEsAAAAAElFTkSuQmCC",
+          "source": "3G",
+          "description": "The Huawei E5330 Mobile Wi-Fi has a 1,500mAh battery, good for up to 300 hours of standby time or 5 hours of use."
+        },
+        {
+          "title": "The Best Unlocked Mobile Hotspots for Travelers in 2019",
+          "link": "https://toomanyadapters.com/best-unlocked-mifi-devices/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEVHcEw5OTkvLy8nJyc1NTUxMTEpKSkvLy9kZGQ5OTgoKCgeHh1CQkEiIiI7OzokJCQMDAweHh4pKSk2NjUAAAA6Ojk6OjkODg4JCQk3NzcGBgYfHx82NjUNDQ0FBQY4ODgkJCQ0NDMAAAACAgILfHV5AAAAIXRSTlMAkDdjfCGMKwpUgq1FoRbzvkDV9e+brpDQ2IR0+cPm7JfeV9q8AAAAnElEQVQYlW1PRxKDMAyUccc2vUOKxP//GAVSLuxBozZbAC7hovfR/eceD4hzspVpRUSMos0rC1DTlGbvEJ2f00Q1jNIGfh8GLsHKESzR0iLaDPGxEGmAG935qgRi31HFpHrvFCIAL7u9eMvklFiSpROtH1vgcdvQf23psnhmq7fBNfJ0VoZc1mCUKdWxKAyYhqkaUNkvHHdaXwd/Ab/yC17h1RmVAAAAAElFTkSuQmCC",
+          "source": "Too Many Adapters"
+        }
+      ],
+      "specifications": {
+        "connectivity": "Wireless",
+        "encryption_type": "WEP, WPA, WPA2",
+        "extensions": [
+          "June 2014",
+          "Black, White",
+          "0.3 lb",
+          "Mobile Hotspot"
+        ]
+      }
+    },
+    {
+      "position": 7,
+      "title": "Skyroam Solis",
+      "link": "https://www.google.com/search?q=skyroam+solis&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwzLChKMUxLThIwNTY2TDRNsjQ3MDdPsTQymcHEeImFY5_HsTurv8y37WBlXMTKW5xdWZSfmKtQnJ-TWfyBlR0AkiaRpUcAAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQoYACMAV6BAgMEHA",
+      "price": 150,
+      "rating": 3.8,
+      "reviews": 33,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=skyroam+solis&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwzLChKMUxLThIwNTY2TDRNsjQ3MDdPsTQymcHEeImFY5_HsTurv8y37WBlXMTKW5xdWZSfmKtQnJ-TWfyBlR0AkiaRpUcAAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQvIMEMAV6BAgMEG8",
+      "editorial_reviews": [
+        {
+          "title": "Skyroam Solis with GoData review",
+          "link": "https://erinlyyc.com/2019/01/28/skyroam-solis-godata-review/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAjVBMVEW5uqri49OvsKDCw7M7Oy+io5VnaFrk5deys6VVVkjt7uDl5tZ4eWl9fm7e389hYlRcXU9XWErLzLzt79pOTz+am42TlIZxcmSPj4PY2cmZmozW1spmZ1eDhHZsbV1UVUVDRDKJinhLTDrd38qlp5KRk37q7NfIyrU6OykoKRe6vKeJinpOTkLDw7ckJBjPCNjRAAAA10lEQVQYlQ3O25KDIBAE0AGCICDoiLok3jBEs6vJ/3/e8tAvp7q6Gm6863nfG1cNQzH83OASSgkRoOv4vZOPAkqlFCEajanGibMavJWEEAuzGRc3yRJKgVppzRbj17mCGhpFrN53jOM29wNrMqDWbftMr8pQjjXUKljN9/ZIr4ly2oDTGPr3sT9TNZ8cPHh6l+k3/h0pmpOyLRMLNtKAKcaTiQZWCRgQGdLYgVYlrAAMchhyaoPKT/EDQDPmnmAZrg9KyiUw+bAW88b3uppy894tdeGK4fsPzMUQ8uUAjFAAAAAASUVORK5CYII=",
+          "source": "TechGadgetsCanada",
+          "description": "Skyroam Solis is a wireless, portable Wi-Fi hotspot that's made for travel."
+        },
+        {
+          "title": "Best Mobile Wi-Fi Routers 2019: MiFi Hotspot Buying Guide",
+          "link": "https://www.techadvisor.co.uk/test-centre/internet/mobile-wifi-3656619/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEXjBhPjBRLjAg///f3jAxDtY2vzmJ3mICz++vrrS1TpOUPzlpzqSFHlGCT96uvjCRbkEB3sV2DpP0n72Nr3tbnwfoXoLzn2q7D4xcjoND760tX98fHvbnbweH/sU1ztYGh7sdvFAAAAd0lEQVQYlY2ORw7DMAwEJS7VFclxTff/fxnLAX0MvAcCHAyWVOpEaA/LqruraemV/gF2gwc8bHVi9GHEFOa4XMShhEw6wUiPtggUC26iNMAWxYuygXwvD/MURb/GmPCuy9FSayyDo3woiuf2WPdZBWyneZ+y/8sXREMEmY9ra9oAAAAASUVORK5CYII=",
+          "source": "Tech Advisor"
+        }
+      ],
+      "specifications": {
+        "connectivity": "Wireless",
+        "device_type": "Mobile Hotspot"
+      }
+    },
+    {
+      "position": 8,
+      "title": "GL.iNet GL-AR750S-Ext Gigabit Travel AC Router",
+      "link": "https://www.google.com/search?q=gl.inet+gl-ar750s-ext+gigabit+travel+ac+router&stick=H4sIAAAAAAAAAOPgUuLVT9c3NMyorCgrLM5NSxIwNU40TLQwNEs2MTFJMk8ymsHEeImFY5_HsTurv8y37WBlXMSql56jl5mXWqKQnqObWGRualCsm1oB5GWmJyZlliiUFCWWpeYoJCYrFOWXlqQWfWBlBwA_WRWPaAAAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQoYACMAV6BAgMEH8",
+      "price": 70,
+      "rating": 5,
+      "reviews": 1,
+      "thumbnail": "data:image/webp;base64,UklGRiwKAABXRUJQVlA4ICAKAAAwLgCdASqEAIQAPkUgjEUioiERyq5UKAREs4BqGvZYGPQA6Ufyjrw3/P+I/lL9ue2XNDiX9q/7fzX/U/yt+OeoF7H/0X2Z+oTtgLD/rT7BHs39T/2/h9ajXgXyquRWoB/m3/lept/2eaT6e/8PuGfzX+zf8z1svYr+5Pskfr5//zcl9Xjye7R1FeDDxrbAWkMFtFCfu88/fClNCr7yOmigBgLdpSPkc+Kaq8OEa8zIf0ePlQ0pgqLdw/cQBV1Ir9scR6sr3V+/a/Pt0i6bSZ4yqCk2dyiDlJZw0qkPvUjdHIoVApSzgtF5oIqoWuncXCz1VuEIRXKUbcNmntNF3To3d0je03PJFLOLzKGFzkcqR/8pEd6n710XB0ogPDrY4Us6dkrsZnSvnneQpjDGZY6UOS4B6VxcyQpzIbROPvussyA+MHK4JOXNaa9jhEjf+V87bQNmRHxCj7+LrzinVU4O98g6z/4qXJhl2VrpwEgMqwvic9L6zYfyyIAA/v5V0RTbUiQ9f/j67v9r4SyeptjL9hX6aEfNX8Zfw2wx5oXtHpwirjTR9LotsSMHLP02v336W345ti/mFO5/vv+yqfA541VIinXPG9OpgIUDdu5u6Fb99A4e2CvrlxG7020wxWaGOLc3EsCYDPZpI+E0ksd1z8RxJrXp/5BIjtk9P74DbcmOVESY65tzm408C/wR095Dz/fwgnTer+tCB9rfFMKlQnfqDINATNtuZfTDPasvkr1g+4VBVy3y/dGXnp1x3Q/FLxjKQoiQGB7lxeQO/Q36SgSQcikgxE9DpGIYSL2Fo+RXo8DTrbU70qPao/HewVHTkzuK8/pYt5uiXax8RdStzp4RoCHrl07HpD5mSg5HsJwrFgu0D2ZL1U8G8bzGcSz+O6paQUeNBfU9BKl/Z+6wLsjxQmm1Dtr/np6LSvpC3iPL0Em9yCA9+LCcUQ7S2ScToAj1jqmSEMVrWo5DjkCIqnENF2Hvm5327pl3whLRB9tObbhmVpi+9GTZIQEeHe2VdWNOdW71T2TYyIjnpHRb+RximdpLxgRDBgTgs6GWUT4Ody54x7BK40dn/F8m4Q9oplk92Y6mNcqNbEK1pkftG1GVNV+TOXUMhyqV4IHnVTcQClZ+ATa03S0pZRZaZVQJIEb4AoXyD9IyL1XsNBwbITF0PE0Y+c5WwAZKgns7duMjZlJtqkoxPIeSBXvLAnr3BoyqBTKJbzunAyU/ky7kv09UbfIea36fHwu2xRajKdZYQwjCKSnvjOhVqVCDrfY9FU7fH24ZfaJqSjK6W+gBcZBRxxd53hp9DHkZmNdvBgnGMftKTaf4OjuI/naZ4cfNcRUKDoB91Ga1MpVar1JbZlQgpROYD9G1Ir9rVajjM25sSoyX2OK3T93FPFHS48aJO06Alh+d5WWY+91bnXVN/loFdhM7VYHqAZSlqc4NwJrU03zCw2CVp68Xz2PdGLB6UP2g2eeXErA/cCA0qc+sUE+rw+9eBf2Y3uXqjvgKuVf4fQplGq8uNPMCYuPjS5wankv3xvwIRTJeN7u1GAh8KUt+aDhlHh2UJmgVEWGeTHNITs97I4e/qdHPaMRBebXFVMfTSj9bzgT9K2k+sJMm+UAfvGOOAAfbZb+hWBCdG0/NKQGkqCehpUFALTzll1GGFF649iyoEUcTo4s7btzGPk/jCT1AUl24bSnXVVtWRQ3XL6vCeMvTfiE7Fl7Vsrurhf2e+G9ZeSaWXd2BdwutGdy6IUpIppoK+TeiymVUVEC1wA+uqa8YQ3b/asOz+rUdOOB6v/nO3yKBVOZ9xYC98w7lbXT7GP7ha19Gw5bCSLD8xJ1oBQJ1Ts7UUfY1t+1WK6K1Ub4BYJ/zBx+X+/64Ylf94nXoBhK7asUV0WDK1+3vx0yAdYbVlq6gvq1fXFgf8mPCp0WoyQhcWVCjM9hHciE8IxwFL1q/FYSfrydrxr/2LpFYfLeHj7K9GUvAruiVG3GYX8awxgNKMQX8b8z1AAX6/ODfdtC3f+DLtP/627Tl0KNwsmgHS9ERUVsSDXAKdPY19MJNLIMtxtP8S2k06TA9E3+WmDoSHT44RZ+zGcfZzEEMZpi6uSNNRdO/buuq1jE8+2CKAs9eEZsbPmcB2uzVYescaKUNzfvBn57vlMEIbtU8iXeFDrHW3wzkDAIRElTbU2yD0RysL5fw3+nw7EGafBzxCNx2ES4yRdTkY6aCeM61jyoyQR7xclJhd3rMNIXM+DwIgM3fyIzfkC9lJP4IUBXzGRrvgF8MX8onhpSR8e9SMqAp/3KPEa7npLiYb97HtRqoyvuoQln2o/fN1vevsg1xq+dsp3TBnueg321JxC/FCDAEvLdPI6ZJ2igA0vVetSR0Yd0YzGGWluxH5spcAr3swVT/1MmAJ22JJhmr7tURpyhzNhFk+e35xCw2FiXo9Mcgsr+qz+Ac8NfPdcM35wNQzxS9JnohUId7A1lHcVZtTnIh9Ki4C//T9HPjeThnMdBpqA0uVeeaYRjrBGTJrQq7nTWIw536jsd/zeWA93YEE5lTDnMUMuiE2Ie8asAYqxgKcpktjKwpSOUBEjGiiSr/U/SDzQUki/02u1e1/rqm8omclbARf8CQvLgIG8e+C7eRoLq6YujW1k6OqGJ9auv/Mo1f5R2L2oyxK7q5nHpSF5+6f8XVja+dNfxY1VUncdb5eY/1xrwXV28pX1lmWc9YFU7jp/NJKaePTzBrLhCyjHpr89jwiroeCNu8Q5Jrqt5L9iCAoe6JwANDyZy/bcc16yUOB8/mb+umP6anwEJvVAs6ocpTd++9cuyp9/8I72EGu0LrgWj8I8qqryZxGiXI/kOrHNy5zyGxeU5X4lcEzOsABbBUcThcqmb1157X7c4KinLhsk6w1/yUiz3cBCy6UtGNwX64wqGZgm1DK4EQPDYhvFrIy12wz1IcmETD9KJre2Hb9HWv339pV1cRp3+/69+KhKvZeL/x1Br9EXgG1hd+/qc5TvhCqXIz5VpFBhYxR/7sqIui/z5g4TBcfjInBN5r7d5mhUaAcZUJV+7q7WCr22/5IC823gT+U6iqEwU921JdErp0r4exqKGIvTiI2x/UOM+xsZKV9EAYDrHse2/oMSXiP9dUQ27CuyiPLod+tVas93Iha+SFASTWpU5tYwnNejRbrdt6PXMn90kFKlVFyrvoK8dRihN1ymCirAbPYIBHVjKhdVCfWtPJ1kiyxTiFtlzcPBMSM42rbnXXXRYzt2cwLmZ8BUir6Gnk9x2HO/qMH7h2SjCRVFKBHQTTDEFyX65CXRXq6XxbAEWDliIsVDHhZHjHEADA1GU2dulmRHENNO8RW7T15Ck2qhX2+7jZ52YAAAGjRUSBAmOutZ/361TIhiQPV7Z7oBPX9i07yAg/8c+qVTCi8Ji2C6hSD174XX/Ptl/wKzbv9Y+5lWtfHzYwacAAAAA=",
+      "thumbnail_link": "https://www.google.com/search?q=gl.inet+gl-ar750s-ext+gigabit+travel+ac+router&stick=H4sIAAAAAAAAAOPgUuLVT9c3NMyorCgrLM5NSxIwNU40TLQwNEs2MTFJMk8ymsHEeImFY5_HsTurv8y37WBlXMSql56jl5mXWqKQnqObWGRualCsm1oB5GWmJyZlliiUFCWWpeYoJCYrFOWXlqQWfWBlBwA_WRWPaAAAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQvIMEMAV6BAgMEH4",
+      "editorial_reviews": [
+        {
+          "title": "Review: GL.iNet GL-AR750S Slate Gigabit Travel Router",
+          "link": "https://reckoner.com.au/reviews/review-gl-inet-gl-ar750s-slate-gigabit-travel-router/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAlklEQVQ4ja2SWw2AMAxFj4VZmIVZwAJasIAFLMwCFrAwC7MAH3ShIQXGsiX9uek9XR/Q6c1AAvZbZCACoQYyKKPWsmhDDeQOABhFS60Ap3TfAtC6awEE0eKX2QI4YJX4rK4BiWuta43R+kHgx/AsAJwHVt2/BXB0OKSJDodUBrq8mT3PQwtcrUyWOUpCWV82Er3K20qRA69qRv4BUyt5AAAAAElFTkSuQmCC",
+          "source": "Reckoner",
+          "description": "I travel often enough to have hotel internet be the bane of my existence."
+        },
+        {
+          "title": "Guide to the Best Portable Mini Travel WiFi Router in 2019-2020",
+          "link": "https://nerdtechy.com/best-travel-router",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAATlBMVEXi4+Xh4uTu7/Hg4ePe3+Hk5efn6Oro6evt7vCWl5iJiovT1Na5uryqqqywsLLY2dqPkJGBgYKjpKVUVFSYmZrDxMb6+/5vb3C2t7men6Dv+ui8AAAAg0lEQVQYlYWOWQ7CMAwFHTtekmZrKVDuf1GSUBB/tWTrafRkDcD1OJp3rJtJtBMWYFZhBrCUkbiW2sIa28aA+bYoL02rtsK+N8oWvXRAuCfrPzCne8QOPIZkNEB5hOxO4CYwiWmXf8D1GX8NK4d5PFbz9ko61IiG3XCkaQr8Nf+k63kDsx4E6VINZMcAAAAASUVORK5CYII=",
+          "source": "Nerd Techy"
+        }
+      ],
+      "specifications": {
+        "connectivity": "Wireless",
+        "gigabit_ethernet": "Yes",
+        "extensions": [
+          "Dual Band",
+          "3 ENET Ports",
+          "Wireless-AC – Wireless-G",
+          "N300"
+        ]
+      }
+    },
+    {
+      "position": 9,
+      "title": "HTC 5G Hub",
+      "link": "https://www.google.com/search?q=htc+5g+hub&stick=H4sIAAAAAAAAAOPgUuLVT9c3NMyoMjPMrahMSRIwTTExNjI0SDQ0M0lKSjNMmcHEeImFY5_HsTurv8y37WBlXMTKlVGSrGCarpBRmvSBlR0A43DpckQAAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQoYACMAV6BQgMEJIB",
+      "rating": 4.4,
+      "reviews": 9,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=htc+5g+hub&stick=H4sIAAAAAAAAAOPgUuLVT9c3NMyoMjPMrahMSRIwTTExNjI0SDQ0M0lKSjNMmcHEeImFY5_HsTurv8y37WBlXMTKlVGSrGCarpBRmvSBlR0A43DpckQAAAA&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQvIMEMAV6BQgMEJEB",
+      "editorial_reviews": [
+        {
+          "title": "Testing Sprint's 5G With The LG V50 ThinQ and HTC 5G Hub",
+          "link": "https://www.digitaltrends.com/mobile/test-sprint-5g-lg-v50-thinq-htc-5g-hub/",
+          "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgBBgkIBwgBCgkLAQoDDQwBARsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5Oi0BCgoKAQwBGg8PGjclEyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3K//AABEIABAAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAEBQP/xAAiEAACAgIBAwUAAAAAAAAAAAABAwIGBAUHABExCBIXQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAG/8QAHBEAAQMFAAAAAAAAAAAAAAAAAQIGBwARISIj/9oADAMBAAIRAxEAPwDTUa3I5tzFrWm6yUbwvCmys1gkQBPk9L2WA7grIatqrjFcbgzChOzVogTAPnpGn2kfTWucZR5LPfklW2Hx5bPb37fR/Opm12eVzflNYxl3kqV1ZmwXZbOSIAnx0ns+1Pw40oGpMQKiMEHpX//Z",
+          "source": "Digital Trends",
+          "description": "T-Mobile is using low-band in its 5G rollout, which can travel far distances -- more than mid-band -- at the…"
+        },
+        {
+          "title": "Best mobile hotspots for 4G LTE and 5G in 2019: portable wireless routers for traveling",
+          "link": "https://www.techradar.com/news/best-mobile-hotspots-for-3g-4g-and-5g",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGFBMVEUvbpH////L2+PmJIqdu8mXt8hWiabl7fH40NWQAAAAPElEQVQYlWNgIAswMjLiF2AEASDJApOACTDCVTIyMoGFWRnYUATYkQxhghK4BJgghjIxMDMjOQRFgDQAADTFAGtdZbnzAAAAAElFTkSuQmCC",
+          "source": "TechRadar"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How does a travel router work?",
+      "snippet": "In router mode, you connect the travel router to a DSL or cable modem and it becomes a fully functional wireless router. In WAP (Wireless Access Point) mode, the travel router shares a wired broadband connection wirelessly with one or more clients. ... Speed Some wireless routers deliver more throughput than others.May 5, 2014",
+      "title": "6 new travel routers reviewed | TechHive",
+      "link": "https://www.techhive.com/article/2150741/tested-6-new-travel-routers-that-can-deploy-a-secure-wi-fi-network-almost-anywhere.html",
+      "displayed_link": "www.techhive.com › article › tested-6-new-travel-routers-that-can-deplo..."
+    },
+    {
+      "question": "How do you get WiFi when traveling?",
+      "snippet": "Internet Access when Traveling: How To Get Online On The GoUse Your Mobile Provider.Buy a SIM Card for your trip.Use a Mobile Hotspot.Use a specialist roaming SIM.Just use WiFi for Internet Access.Sep 14, 2019",
+      "title": "Internet Access when Traveling: How To Get Online On The Go ...",
+      "link": "https://www.findingtheuniverse.com/how-to-get-online-when-travelling-away/",
+      "displayed_link": "www.findingtheuniverse.com › how-to-get-online-when-travelling-away"
+    },
+    {
+      "question": "Is there a portable wireless router?",
+      "snippet": "In this sense, the portable WiFi is a router that acts as a mobile WiFi hotspot. It needs a SIM card which supplies the internet to wireless connection device like Smartphones, tablets, personal computers. Portable WiFi establishes high-speed broadband connectivity that can be shared by up to 10 users at a time.Nov 23, 2018",
+      "title": "What is a Pocket WiFi & How to Use It? | My Webspot",
+      "link": "https://www.my-webspot.com/blog/what-is-a-pocket-wifi/",
+      "displayed_link": "www.my-webspot.com › blog › what-is-a-pocket-wifi"
+    },
+    {
+      "question": "What is the best wireless router for multiple devices?",
+      "snippet": "Top 5 Best Wi-Fi Routers For Multiple DevicesNetgear Nighthawk X8 R8500 AC5300 Router. ... Linksys WRT3200ACM AC3200 Open Source Smart Wireless Router. ... Netgear Nighthawk X4S R7800-100NAS Ultimate Gaming Router. ... D-Link DIR-885L/R AC3150 Dual-Band Wireless MU-MIMO Router. ... Asus RT-AC88U Wireless-AC3100 Dual Band Gigabit Router.",
+      "title": "5 Best Wireless Router For Multiple Devices 2019 | Multiple User Wi-Fi",
+      "link": "http://bestwirelessroutersnow.com/best-router-for-multiple-devices/",
+      "displayed_link": "bestwirelessroutersnow.com › best-router-for-multiple-devices"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "The Best Travel Routers for Internet while Traveling",
+    "link": "https://independenttravelcats.com/internet-while-traveling-a-review-of-netgear-trek-travel-router/",
+    "snippet": "The Best Travel Routers 2019TP-Link TL-WR902AC. If size if the most critical factor in your travel router choice, look no further than the TP-Link TL-WR902AC wireless travel router. ... RAVPower Filehub AC 750. ... RAVPower Filehub Tripmate Nano. ... GL. ... HooToo Filehub HT-TM05. ... Netgear Nighthawk M1.",
+    "list": [
+      "TP-Link TL-WR902AC. If size if the most critical factor in your travel router choice, look no further than the TP-Link TL-WR902AC wireless travel router. ... ",
+      "RAVPower Filehub AC 750. ... ",
+      "RAVPower Filehub Tripmate Nano. ... ",
+      "GL. ... ",
+      "HooToo Filehub HT-TM05. ... ",
+      "Netgear Nighthawk M1."
+    ],
+    "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAKAAoAMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAAAQQCAwUGB//EADsQAAIBAgEIBwYCCwAAAAAAAAABAgMRBAUSEyExUVORBkFSVZKU0hYiYXGBoUKCJDIzNDVidLHC0fD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A+4gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGMnZX3AJSUdrSGduTNdKF3pJfrP7G2wEXe4Xe4kgCbsBoALgBrUAuRnPcLWADP3pr6ExalrTTQsaqkdG9JHUvxJdYG4EJkgAAAAAA01XnWgtstvyNrNcPenKX0QGxakSABBFyWtRFvmBJGZEloIDFQitl+ZlcMJAQ2BYJatYGRDSas9hIA00XZOD2x1fQ3GiazasZLY/dZuQEgAAAAMb+80V8VVnhoxnCnKdOOqSirtLeTiKkqU85K8etGMMbSl+KwEYfKmCxH7LEU29zlZlhV6T2VIeJFHE4bJmLd8Rh6M3vcdfMqTyLkVrXQaX8tea/swOzpqXEh4kNNS4sPEjgezuQHr0VTzdX1D2byBwqvnKvqA7+mpcSHiQ01LiQ8SPPezXR/h1vOVfUTHo1kCOtQr+cq+oD0GmpcSHiQ01LiQ8SPPvozkCTu6de/wDWVfUPZjo/2K/na3qA9BpqXEh4kTpqfEh4jz3sxkDsV/OVvUPZnIHYr+cq+oD0Gmp8SHiRor5SweHV6uIpx/McyGQsiR2Rqat+JqP/ACLNDCZJwrzqOHpKW9q75sCzhqzxkZTzJRpPVHOVm/iWr60irLHUorU0Thq0q1W+yK+4FsAAAABWxivFHJrwTbujtYmN6b+ByK61sChJW65L6mDk+3PmbahoYE5z7chnvtyMRZbgJc5duRGe+LLmYr3qlpL3Ur6+tmcXvjFflQGOfLjSf1Ms6XEmLvqjHkjS3auoxWpwbfw/7XyA3Z8uJInOl25GCJAyz5duRkve2ylzNZspoCzQgr7Ds4CNk2cqgtZ2sJHNor4gbgAAAAES1pnDxElGo4SaT6rndKGUMnQxcGutgcaoV2zKvkjK2Hf6NUVWHVGf+znTp9JIyknk6lJdTVwLlxnHOcOkfdkObI0fSPuyHNgdBt31EZ0t/wBigqXSPuyHNk6LpF3bDmwLzlLeI6tb2so6LpF3ZT5snRdI+7IeJgX84nOOfoukd/4ZT5syVLpF3bDmwL6ZupnPhQ6RSf7hRj822XsPkfK1d/pNWNOPZpxt9wOhhWpTUVrs9djuxskrbChgMmwwkV1s6AAAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//2Q=="
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The Best Travel Routers for Internet while Traveling",
+      "link": "https://independenttravelcats.com/internet-while-traveling-a-review-of-netgear-trek-travel-router/",
+      "displayed_link": "independenttravelcats.com › internet-while-traveling-a-review-of-netg...",
+      "date": "Jump to Do you Need a Travel Router?",
+      "snippet": "The Best Travel Routers 2019. TP-Link TL-WR902AC. If size if the most critical factor in your travel router choice, look no further than the TP-Link TL-WR902AC wireless travel router. RAVPower Filehub AC 750. RAVPower Filehub Tripmate Nano. GL. HooToo Filehub HT-TM05. Netgear Nighthawk M1.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Basic Information on what a ...",
+            "link": "https://independenttravelcats.com/internet-while-traveling-a-review-of-netgear-trek-travel-router/#Basic-Information-on-what-a-Travel-Router-Does"
+          },
+          {
+            "title": "The Best Travel Routers 2019",
+            "link": "https://independenttravelcats.com/internet-while-traveling-a-review-of-netgear-trek-travel-router/#The-Best-Travel-Routers-2019"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HjFpfkp8JrkJ:https://independenttravelcats.com/internet-while-traveling-a-review-of-netgear-trek-travel-router/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "The 6 Best Wireless Travel Routers of 2020 - Lifewire",
+      "link": "https://www.lifewire.com/top-travel-wireless-routers-2377742",
+      "displayed_link": "www.lifewire.com › Buy › Networking",
+      "date": "Oct 4, 2019",
+      "snippet": "Best Overall: HooToo TripMate Titan at Amazon, “A great choice for a travel wireless router...does double duty as a portable battery charger.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:joy9gYz22QYJ:https://www.lifewire.com/top-travel-wireless-routers-2377742+&cd=5&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.lifewire.com/top-travel-wireless-routers-2377742+best+travel+router&tbo=1&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQHzAEegQIBhAL"
+    },
+    {
+      "position": 3,
+      "title": "Guide to the Best Portable Mini Travel WiFi Router in 2019-2020",
+      "link": "https://nerdtechy.com/best-travel-router",
+      "displayed_link": "nerdtechy.com › best-travel-router",
+      "date": "Jan 23, 2019",
+      "snippet": "Nearly all of the best portable mini travel Wi-Fi routers will operate on AC750 architecture. Because it's hard to stuff more than a couple of ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AWZs7Ig2gzcJ:https://nerdtechy.com/best-travel-router+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Best Travel Router in 2020 | Business Travel Reviews",
+      "link": "https://businesstravel.reviews/best-travel-router",
+      "displayed_link": "businesstravel.reviews › best-travel-router",
+      "snippet": "Travel routers are extremely useful for those who travel a lot, for business or personal purposes and need to be connected to the Internet at all times.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.7,
+            "votes": 87
+          },
+          "extensions": [
+            "Rating: 4.7",
+            "87 votes"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:S_GDGDCUdxoJ:https://businesstravel.reviews/best-travel-router+&cd=16&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "9 Best Wireless Travel Routers (Updated May 2019)",
+      "link": "https://wirelessster.com/best-wireless-travel-routers/",
+      "displayed_link": "wirelessster.com › Wireless Routers",
+      "snippet": "We took time to compile one of the best wireless travel router reviews. The review will highlight the respective features of the traveling routers, as well as their ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:S1iMmC8BLI8J:https://wirelessster.com/best-wireless-travel-routers/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Top 10 Mini Travel Routers of 2020 | Video Review - Ezvid Wiki",
+      "link": "https://wiki.ezvid.com/best-mini-travel-routers",
+      "displayed_link": "wiki.ezvid.com › Wiki Reviews › Computer Accessories",
+      "snippet": "Currently, the best mini travel router is the RavPower FileHub WD009. Wiki researchers have been writing ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "jan": 3
+          },
+          "extensions": [
+            "Jan 3, 2020",
+            "Uploaded by Ezvid Wiki"
+          ]
+        }
+      },
+      "related_pages_link": "https://www.google.com/search?q=related:https://wiki.ezvid.com/best-mini-travel-routers+best+travel+router&tbo=1&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQHzARegQICRAK"
+    },
+    {
+      "position": 7,
+      "title": "The Best Travel Routers For Any Situation – Review Geek",
+      "link": "https://www.reviewgeek.com/2877/the-best-travel-routers-for-any-situation/",
+      "displayed_link": "www.reviewgeek.com › the-best-travel-routers-for-any-situation",
+      "date": "Apr 4, 2018",
+      "snippet": "A travel router is great way to bring the power and features you enjoy at home or in the office with you while you're on the road. Here are our top ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:d862OqE2vP4J:https://www.reviewgeek.com/2877/the-best-travel-routers-for-any-situation/+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "travel router - Amazon.com",
+      "link": "https://www.amazon.com/travel-router/s?k=travel+router",
+      "displayed_link": "www.amazon.com › travel-router › k=travel+router",
+      "date": "Results 1 16 of 322",
+      "snippet": "TP-Link AC750 Wireless Portable Nano Travel Router - WiFi Bridge/Range Extender/Access Point/Client Modes, Mobile in ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:esVpw7RbGNkJ:https://www.amazon.com/travel-router/s%3Fk%3Dtravel%2Brouter+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "The 6 Best Travel Routers to Keep You Connected on the Go!",
+      "link": "https://shershegoes.com/best-travel-router/",
+      "displayed_link": "shershegoes.com › best-travel-router",
+      "snippet": "We might travel to get away but there's nothing more frustrating than spotty signals! We've rounded up the best travel router so you can stay connected.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kgMvFyvWh2kJ:https://shershegoes.com/best-travel-router/+&cd=21&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Our Picks for Best Travel Router WiFi Hotspot 2020 ...",
+      "link": "https://www.wirelesshack.org/our-picks-for-best-travel-router-wifi-hotspot.html",
+      "displayed_link": "www.wirelesshack.org › our-picks-for-best-travel-router-wifi-hotspot",
+      "date": "Dec 8, 2019",
+      "snippet": "Portable travel routers were introduced a few years ago and have quickly become very popular. They can do many things depending on the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:y6VJi_JO5-IJ:https://www.wirelesshack.org/our-picks-for-best-travel-router-wifi-hotspot.html+&cd=22&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "best travel router wirecutter",
+      "link": "https://www.google.com/search?q=best+travel+router+wirecutter&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ1QIoAHoECA8QAQ"
+    },
+    {
+      "query": "best travel router reddit",
+      "link": "https://www.google.com/search?q=best+travel+router+reddit&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ1QIoAXoECA8QAg"
+    },
+    {
+      "query": "travel router best buy",
+      "link": "https://www.google.com/search?q=travel+router+best+buy&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ1QIoAnoECA8QAw"
+    },
+    {
+      "query": "best travel router for cruise ship",
+      "link": "https://www.google.com/search?q=best+travel+router+for+cruise+ship&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ1QIoA3oECA8QBA"
+    },
+    {
+      "query": "tp-link n300 nano travel router",
+      "link": "https://www.google.com/search?q=tp-link+n300+nano+travel+router&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ1QIoBHoECA8QBQ"
+    },
+    {
+      "query": "travel router amazon",
+      "link": "https://www.google.com/search?q=travel+router+amazon&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ1QIoBXoECA8QBg"
+    },
+    {
+      "query": "travel router captive portal",
+      "link": "https://www.google.com/search?q=travel+router+captive+portal&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ1QIoBnoECA8QBw"
+    },
+    {
+      "query": "tp link travel router",
+      "link": "https://www.google.com/search?q=tp+link+travel+router&sa=X&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ1QIoB3oECA8QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+travel+router&ei=fiEnXpfaCsuLr7wP-s-nuAc&start=10&sa=N&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ8NMDegQIEBBm",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+travel+router&ei=fiEnXpfaCsuLr7wP-s-nuAc&start=10&sa=N&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ8tMDegQIEBBU",
+      "3": "https://www.google.com/search?q=best+travel+router&ei=fiEnXpfaCsuLr7wP-s-nuAc&start=20&sa=N&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ8tMDegQIEBBW",
+      "4": "https://www.google.com/search?q=best+travel+router&ei=fiEnXpfaCsuLr7wP-s-nuAc&start=30&sa=N&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ8tMDegQIEBBY",
+      "5": "https://www.google.com/search?q=best+travel+router&ei=fiEnXpfaCsuLr7wP-s-nuAc&start=40&sa=N&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ8tMDegQIEBBa",
+      "6": "https://www.google.com/search?q=best+travel+router&ei=fiEnXpfaCsuLr7wP-s-nuAc&start=50&sa=N&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ8tMDegQIEBBc",
+      "7": "https://www.google.com/search?q=best+travel+router&ei=fiEnXpfaCsuLr7wP-s-nuAc&start=60&sa=N&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ8tMDegQIEBBe",
+      "8": "https://www.google.com/search?q=best+travel+router&ei=fiEnXpfaCsuLr7wP-s-nuAc&start=70&sa=N&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ8tMDegQIEBBg",
+      "9": "https://www.google.com/search?q=best+travel+router&ei=fiEnXpfaCsuLr7wP-s-nuAc&start=80&sa=N&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ8tMDegQIEBBi",
+      "10": "https://www.google.com/search?q=best+travel+router&ei=fiEnXpfaCsuLr7wP-s-nuAc&start=90&sa=N&ved=2ahUKEwiXkb62iZXnAhXLxYsBHfrnCXcQ8tMDegQIEBBk"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+router&start=10&token=f290307d358dbe4e",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+router&start=10&token=f290307d358dbe4e",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+router&start=10&token=f290307d358dbe4e",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+router&start=20&token=86621c4db532b452",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+router&start=30&token=eb905391b5256db6",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+router&start=40&token=3b178c1089174256",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+router&start=50&token=2aac23ef82d86e63",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+router&start=60&token=12428f49b8c84f03",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+router&start=70&token=f266303608f5383b",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+router&start=80&token=85169833e94ee5f1",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+router&start=90&token=80c089254eab6ed0"
+    }
+  }
+}

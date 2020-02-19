@@ -1,0 +1,247 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 19:41:32 UTC",
+    "processed_at": "2020-01-20 19:41:32 UTC",
+    "google_url": "https://www.google.com/search?q=what+is+software+piracy&oq=what+is+software+piracy&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.64
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what is software piracy",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 28600000,
+    "time_taken_displayed": 0.5,
+    "query_displayed": "what is software piracy"
+  },
+  "knowledge_graph": {
+    "title": "Copyright infringement",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "description": "Copyright infringement is the use of works protected by copyright law without permission for a usage where such permission is required, thereby infringing certain exclusive rights granted to the copyright ...",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Copyright_infringement"
+    },
+    "copyright_infringement_cases": [
+      {
+        "name": "Sony Corp. of America...",
+        "link": "https://www.google.com/search?q=Sony+Corp.+of+America+v.+Universal+City+Studios,+Inc.&stick=H4sIAAAAAAAAAONgFuLQz9U3KLCojFfiBLEMSwyqUrREspOt9JPzc3Pz86xS8svzyhOLUopXMYoDxXJyUpNLMvPz9HNS0xNz4pMTi1OLF7GaBufnVSo45xcV6Cnkpyk45qYWZSYnKpTpKYTmZZalFhUn5ig4Z5ZUKgSXlKZk5hfrKHjmJevtYGUEAD8SzjeCAAAA&sa=X&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90QxA0wG3oECAwQBQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "MGM Studios, Inc. v. Gr...",
+        "link": "https://www.google.com/search?q=MGM+Studios,+Inc.+v.+Grokster,+Ltd.&stick=H4sIAAAAAAAAAONgFuLQz9U3KLCojFfiBLFMc3KzjLVEspOt9JPzc3Pz86xS8svzyhOLUopXMYoDxXJyUpNLMvPz9HNS0xNz4pMTi1OLF7Eq-7r7KgSXlKZk5hfrKHjmJesplOkpuBflZxeXpBbpKPiUpOjtYGUEAGtetg9wAAAA&sa=X&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90QxA0wG3oECAwQBw",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Rogers v. Koons",
+        "link": "https://www.google.com/search?q=Rogers+v.+Koons&stick=H4sIAAAAAAAAAONgFuLQz9U3KLCojFfiBLEsTPNM8rREspOt9JPzc3Pz86xS8svzyhOLUopXMYoDxXJyUpNLMvPz9HNS0xNz4pMTi1OLF7HyB-WnpxYVK5TpKXjn5-cV72BlBACE0OVZXAAAAA&sa=X&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90QxA0wG3oECAwQCQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Suntrust Bank v. Houghto...",
+        "link": "https://www.google.com/search?q=Suntrust+Bank+v.+Houghton+Mifflin+Co.&stick=H4sIAAAAAAAAAONgFuLQz9U3KLCojFfiBLEMM8wqc7REspOt9JPzc3Pz86xS8svzyhOLUopXMYoDxXJyUpNLMvPz9HNS0xNz4pMTi1OLF7GqBpfmlRSVFpcoOCXmZSuU6Sl45JemZ5Tk5yn4Zqal5WTmKTjn6-1gZQQA0DnJsnIAAAA&sa=X&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90QxA0wG3oECAwQCw",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Cariou v. Prince",
+        "link": "https://www.google.com/search?q=Cariou+v.+Prince&stick=H4sIAAAAAAAAAONgFuLQz9U3KLCojFfiBrEMDcyrjNLztESyk630k_Nzc_PzrFLyy_PKE4tSilcxigPFcnJSk0sy8_P0c1LTE3PikxOLU4sXsQo4JxZl5pcqlOkpBBRl5iWn7mBlBAAQoF9YXwAAAA&sa=X&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90QxA0wG3oECAwQDQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      }
+    ],
+    "copyright_infringement_cases_link": "https://www.google.com/search?q=Copyright+infringement+cases&stick=H4sIAAAAAAAAAONgFuLQz9U3KLCojFeCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMYoDxXJyUpNLMvPz9HNS0xNz4pMTi1OLF7HKOOcXVBZlpmeUKGTmpRVl5qWn5qbmlSiApXewMgIA3je5Q2gAAAA&sa=X&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90QMSgAMBt6BAgMEAE",
+    "copyright_infringement_cases_stick": "H4sIAAAAAAAAAONgFuLQz9U3KLCojFeCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMYoDxXJyUpNLMvPz9HNS0xNz4pMTi1OLF7HKOOcXVBZlpmeUKGTmpRVl5qWn5qbmlSiApXewMgIA3je5Q2gAAAA"
+  },
+  "related_questions": [
+    {
+      "question": "What is the definition of software piracy?",
+      "snippet": "A term used to describe the act of illegally using, copying or distributing software without ownership or legal rights. ... Copying that software to multiple computers or sharing it with your friend without multiple licenses is considered software piracy, which is illegal.Feb 2, 2019",
+      "title": "What is Software Piracy? - Computer Hope",
+      "link": "https://www.computerhope.com/jargon/s/softpira.htm",
+      "displayed_link": "www.computerhope.com › jargon › softpira"
+    },
+    {
+      "question": "What is software piracy explain with example?",
+      "snippet": "Software piracy is defined as illegally copying software that does not belong to you in a manner that violates the copyright. A example of software piracy is when you download a copy of Microsoft Word from a file-sharing website without paying for it.",
+      "title": "Software Piracy dictionary definition | Software Piracy defined",
+      "link": "https://www.yourdictionary.com/software-piracy",
+      "displayed_link": "www.yourdictionary.com › software-piracy"
+    },
+    {
+      "question": "What is software piracy and its types?",
+      "snippet": "The unauthorized copying of software. ... Some common types of software piracy include counterfeit software, OEM unbundling, softlifting, hard disk loading, corporate software piracy, and Internet software piracy.",
+      "title": "What is Software Piracy? Webopedia Definition",
+      "link": "https://www.webopedia.com/TERM/S/software_piracy.html",
+      "displayed_link": "www.webopedia.com › TERM › software_piracy"
+    },
+    {
+      "question": "What are the five types of software piracy?",
+      "snippet": "There are five types of software piracy. These include: softlifting, hard disk loading, renting, downloading, and software counterfeiting.",
+      "title": "The Different Types of Software Piracy | Kibin",
+      "link": "https://www.kibin.com/essay-examples/the-different-types-of-software-piracy-OHWAuwh2",
+      "displayed_link": "www.kibin.com › essay-examples › the-different-types-of-software-pira..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "What is Software Piracy? - Panda Security Mediacenter",
+      "link": "https://www.pandasecurity.com/mediacenter/panda-security/software-piracy/",
+      "displayed_link": "www.pandasecurity.com › mediacenter › software-piracy",
+      "date": "Apr 22, 2019",
+      "snippet": "Software pirating is a worldwide issue. We created a guide on what software piracy is, types or software piracy and the dangers they present.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hLVlD9HCwgYJ:https://www.pandasecurity.com/mediacenter/panda-security/software-piracy/+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "What is piracy? - Definition from WhatIs.com",
+      "link": "https://whatis.techtarget.com/definition/piracy",
+      "displayed_link": "whatis.techtarget.com › definition › piracy",
+      "snippet": "Software piracy is the illegal copying, distribution, or use of software. It is such a profitable \"business\" that it has caught the attention of organized crime groups in a number of countries. According to the Business Software Alliance (BSA), about 36% of all software in current use is stolen.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:k0CN9cRvVawJ:https://whatis.techtarget.com/definition/piracy+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "What is Software Piracy? - Computer Hope",
+      "link": "https://www.computerhope.com/jargon/s/softpira.htm",
+      "displayed_link": "www.computerhope.com › Dictionary › S - Definitions",
+      "date": "Jan 12, 2019",
+      "snippet": "Software piracy is a term used to describe the act of illegally using, copying or distributing software without ownership or legal rights. ... Copying that software to multiple computers or sharing it with your friend without multiple licenses is considered software piracy, which is illegal.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kzXUZU6U-JsJ:https://www.computerhope.com/jargon/s/softpira.htm+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Software Piracy dictionary definition | Software Piracy defined",
+      "link": "https://www.yourdictionary.com/software-piracy",
+      "displayed_link": "www.yourdictionary.com › software-piracy",
+      "snippet": "Software piracy is defined as illegally copying software that does not belong to you in a manner that violates the copyright. A example of software piracy is when you download a copy of Microsoft Word from a file-sharing website without paying for it.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6S2b40b0NJ8J:https://www.yourdictionary.com/software-piracy+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Types of Piracy | Symantec",
+      "link": "https://www.symantec.com/en/sg/about/legal/anti-piracy/types-piracy",
+      "displayed_link": "www.symantec.com › about › legal › anti-piracy › types-piracy",
+      "snippet": "There Are Five Main Types of Software Piracy. Counterfeiting This type of piracy is the illegal duplication, distribution and/or sale of copyrighted material with the ..."
+    },
+    {
+      "position": 6,
+      "title": "Piracy FAQ | PTC",
+      "link": "https://www.ptc.com/en/documents/software-piracy/faq",
+      "displayed_link": "www.ptc.com › documents › software-piracy › faq",
+      "snippet": "What is software \"piracy?\" Why is it considered a crime? Software piracy is the unauthorized use, copying or distribution of copyrighted software. It may take ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:P8oJ6RttYJEJ:https://www.ptc.com/en/documents/software-piracy/faq+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Hard facts about software piracy",
+      "link": "https://blog.redpoints.com/en/hard-facts-about-software-piracy",
+      "displayed_link": "blog.redpoints.com › hard-facts-about-software-piracy",
+      "date": "Apr 16, 2019",
+      "snippet": "Online piracy is most commonly associated with films and music. But software piracy is a widespread and often ignored side of the issue, one ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JDYDk5J-tY8J:https://blog.redpoints.com/en/hard-facts-about-software-piracy+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Consequences of Software Piracy - SIIA.net",
+      "link": "https://www.siia.net/Divisions/IP-Protection-Services/About/Consequences-of-Software-Piracy",
+      "displayed_link": "www.siia.net › Divisions › IP-Protection-Services › About › Conseque...",
+      "snippet": "The losses suffered as a result of software piracy directly affect the profitability of the software industry. Because of the money lost to pirates, publishers have ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Qr2owTaceCgJ:https://www.siia.net/Divisions/IP-Protection-Services/About/Consequences-of-Software-Piracy+&cd=16&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "What is Software Piracy? Webopedia Definition",
+      "link": "https://www.webopedia.com/TERM/S/software_piracy.html",
+      "displayed_link": "www.webopedia.com › TERM › software_piracy",
+      "snippet": "Software piracy is all but impossible to stop, although software companies are launching more and more lawsuits against major infractors. Originally, software ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2IQ7nzYz7sIJ:https://www.webopedia.com/TERM/S/software_piracy.html+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "What is Software Piracy? - Definition from Techopedia",
+      "link": "https://www.techopedia.com/definition/4361/software-piracy",
+      "displayed_link": "www.techopedia.com › definition › software-piracy",
+      "snippet": "Software piracy penalties apply to users that illegally reproduce copyrighted works and/or users who are knowingly in possession of illegally reproduced works.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QXtqqKfaRGsJ:https://www.techopedia.com/definition/4361/software-piracy+&cd=18&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.techopedia.com/definition/4361/software-piracy+what+is+software+piracy&tbo=1&sa=X&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90QHzARegQIBhAJ"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "what is software piracy how can it be controlled",
+      "link": "https://www.google.com/search?q=what+is+software+piracy+how+can+it+be+controlled&sa=X&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q1QIoAHoECA4QAQ"
+    },
+    {
+      "query": "what is software piracy brainly",
+      "link": "https://www.google.com/search?q=what+is+software+piracy+brainly&sa=X&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q1QIoAXoECA4QAg"
+    },
+    {
+      "query": "software piracy wiki",
+      "link": "https://www.google.com/search?q=software+piracy+wiki&sa=X&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q1QIoAnoECA4QAw"
+    },
+    {
+      "query": "types of software piracy",
+      "link": "https://www.google.com/search?q=types+of+software+piracy&sa=X&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q1QIoA3oECA4QBA"
+    },
+    {
+      "query": "effects of software piracy",
+      "link": "https://www.google.com/search?q=effects+of+software+piracy&sa=X&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q1QIoBHoECA4QBQ"
+    },
+    {
+      "query": "software piracy penalties",
+      "link": "https://www.google.com/search?q=software+piracy+penalties&sa=X&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q1QIoBXoECA4QBg"
+    },
+    {
+      "query": "software piracy articles",
+      "link": "https://www.google.com/search?q=software+piracy+articles&sa=X&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q1QIoBnoECA4QBw"
+    },
+    {
+      "query": "software piracy pdf",
+      "link": "https://www.google.com/search?q=software+piracy+pdf&sa=X&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q1QIoB3oECA4QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what+is+software+piracy&ei=bQImXq_3HrSM4-EPwO2f6A0&start=10&sa=N&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q8NMDegQIExBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what+is+software+piracy&ei=bQImXq_3HrSM4-EPwO2f6A0&start=10&sa=N&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q8tMDegQIExAu",
+      "3": "https://www.google.com/search?q=what+is+software+piracy&ei=bQImXq_3HrSM4-EPwO2f6A0&start=20&sa=N&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q8tMDegQIExAw",
+      "4": "https://www.google.com/search?q=what+is+software+piracy&ei=bQImXq_3HrSM4-EPwO2f6A0&start=30&sa=N&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q8tMDegQIExAy",
+      "5": "https://www.google.com/search?q=what+is+software+piracy&ei=bQImXq_3HrSM4-EPwO2f6A0&start=40&sa=N&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q8tMDegQIExA0",
+      "6": "https://www.google.com/search?q=what+is+software+piracy&ei=bQImXq_3HrSM4-EPwO2f6A0&start=50&sa=N&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q8tMDegQIExA2",
+      "7": "https://www.google.com/search?q=what+is+software+piracy&ei=bQImXq_3HrSM4-EPwO2f6A0&start=60&sa=N&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q8tMDegQIExA4",
+      "8": "https://www.google.com/search?q=what+is+software+piracy&ei=bQImXq_3HrSM4-EPwO2f6A0&start=70&sa=N&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q8tMDegQIExA6",
+      "9": "https://www.google.com/search?q=what+is+software+piracy&ei=bQImXq_3HrSM4-EPwO2f6A0&start=80&sa=N&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q8tMDegQIExA8",
+      "10": "https://www.google.com/search?q=what+is+software+piracy&ei=bQImXq_3HrSM4-EPwO2f6A0&start=90&sa=N&ved=2ahUKEwjv4a3U95LnAhU0xjgGHcD2B90Q8tMDegQIExA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+piracy&start=10&token=00c19ee5c79abc77",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+piracy&start=10&token=00c19ee5c79abc77",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+piracy&start=10&token=00c19ee5c79abc77",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+piracy&start=20&token=1c90baad4d4927fc",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+piracy&start=30&token=02b8ef21a55a75b3",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+piracy&start=40&token=ab1bb42df5802ac2",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+piracy&start=50&token=c81d169d10fe8327",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+piracy&start=60&token=275f0d6f82c5be97",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+piracy&start=70&token=cfd001b72e7a0cb3",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+piracy&start=80&token=40b08ab0b3c5850e",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+piracy&start=90&token=4f76032be6d1a2f5"
+    }
+  }
+}

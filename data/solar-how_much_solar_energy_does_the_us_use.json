@@ -1,0 +1,255 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 22:04:47 UTC",
+    "processed_at": "2020-01-20 22:04:47 UTC",
+    "google_url": "https://www.google.com/search?q=how+much+solar+energy+does+the+us+use&oq=how+much+solar+energy+does+the+us+use&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 3.29
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "how much solar energy does the us use",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 551000000,
+    "time_taken_displayed": 0.55,
+    "query_displayed": "how much solar energy does the us use"
+  },
+  "knowledge_graph": {
+    "see_more_about": [
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "How is solar energy being used in the US?",
+      "snippet": "Most of the solar power in the U.S. is photovoltaic (PV), which converts sunlight directly into electricity through panels on rooftops or in large utility-scale arrays. Photons, which make up light, hit atoms in a PV cell and knock loose electrons to generate a current.May 25, 2016",
+      "title": "America Now Has 27.2 Gigawatts of Solar Energy: What Does That ...",
+      "link": "https://insideclimatenews.org/news/24052016/solar-energy-27-gigawatts-united-states-one-million-rooftop-panels-climate-change-china-germany",
+      "displayed_link": "insideclimatenews.org › news › solar-energy-27-gigawatts-united-states-..."
+    },
+    {
+      "question": "What percent of the world uses solar energy 2018?",
+      "snippet": "At the end of 2018, worldwide solar PV power is expected to exceed 500GW capable of producing roughly 2.8 percent of the worldwide electricity demand. The EU's share in 2017 is about 26 percent of the world-wide installed capacity and can provide about 4.5 percent of its electricity demand.Dec 18, 2018",
+      "title": "Globally, new solar power plants added almost 35% to new power ...",
+      "link": "https://phys.org/news/2018-12-globally-solar-power-added-capacity.html",
+      "displayed_link": "phys.org › news › 2018-12-globally-solar-power-added-capacity"
+    },
+    {
+      "question": "How many homes in the US use solar energy?",
+      "snippet": "There are now 1.3 million solar installations across the United States, with a cumulative capacity of over 40 gigawatts. The Solar Energy Industries Association estimates that 1 megawatt of electricity can power 164 homes, so 40 gigawatts is enough capacity to power 6,560,000 U.S. households.Feb 15, 2017",
+      "title": "US solar installations nearly doubled in 2016, and broke some records",
+      "link": "https://www.cnbc.com/2017/02/14/us-solar-installations-nearly-doubled-in-2016-and-broke-some-records.html",
+      "displayed_link": "www.cnbc.com › 2017/02/14 › us-solar-installations-nearly-doubled-in-..."
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Solar power in the United States - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Solar_power_in_the_United_States",
+    "snippet": "As of the end of 2017, the United States had over 50 gigawatts (GW) of installed photovoltaic capacity. In 2018, utility scale solar power generated 66.6 terawatt-hours (TWh), 1.66% of total U.S. electricity.",
+    "thumbnail": "data:image/png;base64,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"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "America Now Has 27.2 Gigawatts of Solar Energy: What Does ...",
+      "link": "https://insideclimatenews.org/news/24052016/solar-energy-27-gigawatts-united-states-one-million-rooftop-panels-climate-change-china-germany",
+      "displayed_link": "insideclimatenews.org › news › solar-energy-27-gigawatts-united-state...",
+      "date": "May 25, 2016",
+      "snippet": "The U.S. hit 1 million solar installations at the end of February, amounting to roughly 27.2 gigawatts of solar power capacity, according to the Solar Energy Industries Association (SEIA), a trade association based in Washington, D.C. That's enough power to supply about 6 million homes.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BzNiATiDK3gJ:https://insideclimatenews.org/news/24052016/solar-energy-27-gigawatts-united-states-one-million-rooftop-panels-climate-change-china-germany+&cd=10&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://insideclimatenews.org/news/24052016/solar-energy-27-gigawatts-united-states-one-million-rooftop-panels-climate-change-china-germany+how+much+solar+energy+does+the+us+use&tbo=1&sa=X&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQHzAJegQIARAJ"
+    },
+    {
+      "position": 2,
+      "title": "Solar Energy in the United States | Department of Energy",
+      "link": "https://www.energy.gov/eere/solarpoweringamerica/solar-energy-united-states",
+      "displayed_link": "www.energy.gov › eere › solarpoweringamerica › solar-energy-unite...",
+      "snippet": "Solar power is more affordable, accessible, and prevalent in the United ... This is enough capacity to power the equivalent of 12 million average American homes1. ... PV can also be installed on rooftops with essentially no land use impacts.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:tNcjKhW0y8kJ:https://www.energy.gov/eere/solarpoweringamerica/solar-energy-united-states+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "What is U.S. electricity generation by energy source? - FAQ ...",
+      "link": "https://www.eia.gov/tools/faqs/faq.php?id=427&t=3",
+      "displayed_link": "www.eia.gov › tools › faqs › faq",
+      "date": "Oct 25, 2019",
+      "snippet": "The U.S. Energy Information Administration estimates that an additional 30 billion kWh of electricity generation was from small-scale solar photovoltaic systems in 2018.2 ... How much electricity does an American home use?",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:y43_c5fEJi0J:https://www.eia.gov/tools/faqs/faq.php%3Fid%3D427%26t%3D3+&cd=12&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.eia.gov/tools/faqs/faq.php%3Fid%3D427%26t%3D3+how+much+solar+energy+does+the+us+use&tbo=1&sa=X&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQHzALegQIAxAJ"
+    },
+    {
+      "position": 4,
+      "title": "How much of U.S. energy consumption and electricity ... - EIA",
+      "link": "https://www.eia.gov/tools/faqs/faq.php?id=92&t=4",
+      "displayed_link": "www.eia.gov › tools › faqs › faq",
+      "snippet": "How much of U.S. energy consumption and electricity generation comes from ... In 2018, renewable energy sources accounted for about 11% of total U.S. ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rbElB-CMo9QJ:https://www.eia.gov/tools/faqs/faq.php%3Fid%3D92%26t%3D4+&cd=13&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.eia.gov/tools/faqs/faq.php%3Fid%3D92%26t%3D4+how+much+solar+energy+does+the+us+use&tbo=1&sa=X&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQHzAMegQICxAJ"
+    },
+    {
+      "position": 5,
+      "title": "Solar power in the United States - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Solar_power_in_the_United_States",
+      "displayed_link": "en.wikipedia.org › wiki › Solar_power_in_the_United_States",
+      "snippet": "As of the end of 2017, the United States had over 50 gigawatts (GW) of installed photovoltaic capacity. In 2018, utility scale solar power generated 66.6 terawatt-hours (TWh), 1.66% of total U.S. electricity.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Solar potential",
+            "link": "https://en.wikipedia.org/wiki/Solar_power_in_the_United_States#Solar_potential"
+          },
+          {
+            "title": "History",
+            "link": "https://en.wikipedia.org/wiki/Solar_power_in_the_United_States#History"
+          },
+          {
+            "title": "Solar photovoltaic power",
+            "link": "https://en.wikipedia.org/wiki/Solar_power_in_the_United_States#Solar_photovoltaic_power"
+          },
+          {
+            "title": "Concentrated solar power ...",
+            "link": "https://en.wikipedia.org/wiki/Solar_power_in_the_United_States#Concentrated_solar_power_(CSP)"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:w9X_sw3wdc0J:https://en.wikipedia.org/wiki/Solar_power_in_the_United_States+&cd=14&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Solar_power_in_the_United_States+how+much+solar+energy+does+the+us+use&tbo=1&sa=X&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQHzANegQIChAJ"
+    },
+    {
+      "position": 6,
+      "title": "Renewable Energy | Center for Climate and Energy Solutions",
+      "link": "https://www.c2es.org/content/renewable-energy/",
+      "displayed_link": "www.c2es.org › content › renewable-energy",
+      "snippet": "Renewable energy is the fastest-growing energy source in the United States, ... Globally, renewables made up 24 percent of electricity generation in 2016, much of it from ... 98 percent of the renewable energy use with nearly 60 percent derived from ... energy from waves or currents and does not require dam construction.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:amJN8Tr_UtAJ:https://www.c2es.org/content/renewable-energy/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Solar rises to nearly 2% of U.S. generation in 2017 – pv ...",
+      "link": "https://pv-magazine-usa.com/2018/02/28/solar-rises-to-nearly-2-of-u-s-generation-in-2017/",
+      "displayed_link": "pv-magazine-usa.com › 2018/02/28 › solar-rises-to-nearly-2-of-u-s-g...",
+      "date": "Feb 28, 2018",
+      "snippet": "Generation from U.S. solar increased 41% last year to 1.9% of all ... Utility scale PV solar power stood out among all forms of electricity ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vxhwQ2Va2bMJ:https://pv-magazine-usa.com/2018/02/28/solar-rises-to-nearly-2-of-u-s-generation-in-2017/+&cd=16&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "U.S. Solar Market Insight | SEIA",
+      "link": "https://www.seia.org/us-solar-market-insight",
+      "displayed_link": "www.seia.org › us-solar-market-insight",
+      "date": "Dec 12, 2019",
+      "snippet": "The U.S. installed 2.6 gigawatts (GW) of solar PV capacity in Q3 2019 to reach ... Renewables and the Solar Energy Industries Association (SEIA). ... Use the images below to share some of the key takeaways on social media:.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:d0MdAKz7MscJ:https://www.seia.org/us-solar-market-insight+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "U.S. Renewable Energy Factsheet | Center for Sustainable ...",
+      "link": "http://css.umich.edu/factsheets/us-renewable-energy-factsheet",
+      "displayed_link": "css.umich.edu › factsheets › us-renewable-energy-factsheet",
+      "snippet": "Renewable energy has the potential to meet demand with a much smaller ... Wind turbines generate no emissions and use no water when producing electricity, ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:FF1BWUARLzkJ:css.umich.edu/factsheets/us-renewable-energy-factsheet+&cd=18&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "How much solar would it take to power the US? - Freeing Energy",
+      "link": "https://www.freeingenergy.com/how-much-solar-would-it-take-to-power-the-u-s/",
+      "displayed_link": "www.freeingenergy.com › how-much-solar-would-it-take-to-power-t...",
+      "date": "Jul 6, 2018",
+      "snippet": "Here are some other examples of land use in the range of tens of thousands ... “If you wanted to power the entire U.S. with solar panels, it would take a ... And how much power, really, does a solar panel or windmill produce?",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:G6nX3t5fnosJ:https://www.freeingenergy.com/how-much-solar-would-it-take-to-power-the-u-s/+&cd=19&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [
+    {
+      "position": 1,
+      "query": "Types of natural energy sources",
+      "results": []
+    },
+    {
+      "position": 2,
+      "query": "5 examples of renewable resources",
+      "results": []
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "how many homes have solar panels in the us 2018",
+      "link": "https://www.google.com/search?q=how+many+homes+have+solar+panels+in+the+us+2018&sa=X&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ1QIoAHoECBAQAQ"
+    },
+    {
+      "query": "what percent of electricity produced in the us is from solar?",
+      "link": "https://www.google.com/search?q=what+percent+of+electricity+produced+in+the+us+is+from+solar%3F&sa=X&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ1QIoAXoECBAQAg"
+    },
+    {
+      "query": "what percent of the world uses solar energy 2019",
+      "link": "https://www.google.com/search?q=what+percent+of+the+world+uses+solar+energy+2019&sa=X&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ1QIoAnoECBAQAw"
+    },
+    {
+      "query": "us electricity generation by source 2018",
+      "link": "https://www.google.com/search?q=us+electricity+generation+by+source+2018&sa=X&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ1QIoA3oECBAQBA"
+    },
+    {
+      "query": "how much solar energy does the world use",
+      "link": "https://www.google.com/search?q=how+much+solar+energy+does+the+world+use&sa=X&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ1QIoBHoECBAQBQ"
+    },
+    {
+      "query": "why doesn’t everyone use solar power?",
+      "link": "https://www.google.com/search?q=why+doesn%E2%80%99t+everyone+use+solar+power%3F&sa=X&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ1QIoBXoECBAQBg"
+    },
+    {
+      "query": "us renewable energy percentage 2018",
+      "link": "https://www.google.com/search?q=us+renewable+energy+percentage+2018&sa=X&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ1QIoBnoECBAQBw"
+    },
+    {
+      "query": "what percent of the us uses solar energy 2019",
+      "link": "https://www.google.com/search?q=what+percent+of+the+us+uses+solar+energy+2019&sa=X&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ1QIoB3oECBAQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=how+much+solar+energy+does+the+us+use&ei=ASQmXvbwHImb4-EPju21iAo&start=10&sa=N&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ8NMDegQIERA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=how+much+solar+energy+does+the+us+use&ei=ASQmXvbwHImb4-EPju21iAo&start=10&sa=N&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ8tMDegQIERAt",
+      "3": "https://www.google.com/search?q=how+much+solar+energy+does+the+us+use&ei=ASQmXvbwHImb4-EPju21iAo&start=20&sa=N&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ8tMDegQIERAv",
+      "4": "https://www.google.com/search?q=how+much+solar+energy+does+the+us+use&ei=ASQmXvbwHImb4-EPju21iAo&start=30&sa=N&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ8tMDegQIERAx",
+      "5": "https://www.google.com/search?q=how+much+solar+energy+does+the+us+use&ei=ASQmXvbwHImb4-EPju21iAo&start=40&sa=N&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ8tMDegQIERAz",
+      "6": "https://www.google.com/search?q=how+much+solar+energy+does+the+us+use&ei=ASQmXvbwHImb4-EPju21iAo&start=50&sa=N&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ8tMDegQIERA1",
+      "7": "https://www.google.com/search?q=how+much+solar+energy+does+the+us+use&ei=ASQmXvbwHImb4-EPju21iAo&start=60&sa=N&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ8tMDegQIERA3",
+      "8": "https://www.google.com/search?q=how+much+solar+energy+does+the+us+use&ei=ASQmXvbwHImb4-EPju21iAo&start=70&sa=N&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ8tMDegQIERA5",
+      "9": "https://www.google.com/search?q=how+much+solar+energy+does+the+us+use&ei=ASQmXvbwHImb4-EPju21iAo&start=80&sa=N&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ8tMDegQIERA7",
+      "10": "https://www.google.com/search?q=how+much+solar+energy+does+the+us+use&ei=ASQmXvbwHImb4-EPju21iAo&start=90&sa=N&ved=2ahUKEwi29Z3Xl5PnAhWJzTgGHY52DaEQ8tMDegQIERA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+much+solar+energy+does+the+us+use&start=10&token=31635ecf83f83f4d",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+much+solar+energy+does+the+us+use&start=10&token=31635ecf83f83f4d",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+much+solar+energy+does+the+us+use&start=10&token=31635ecf83f83f4d",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+much+solar+energy+does+the+us+use&start=20&token=fe5df92ff6f82591",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+much+solar+energy+does+the+us+use&start=30&token=62de285af037971e",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+much+solar+energy+does+the+us+use&start=40&token=3d3932b39cc501a2",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+much+solar+energy+does+the+us+use&start=50&token=2865ba6b2e3c605c",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+much+solar+energy+does+the+us+use&start=60&token=595084854037eb59",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+much+solar+energy+does+the+us+use&start=70&token=3fcc1265be1f5826",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+much+solar+energy+does+the+us+use&start=80&token=dca9d757a7cc7d2b",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+much+solar+energy+does+the+us+use&start=90&token=95a9ff51d1dc9ad1"
+    }
+  }
+}

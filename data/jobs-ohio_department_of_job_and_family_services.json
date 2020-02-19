@@ -1,0 +1,300 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 19:50:15 UTC",
+    "processed_at": "2020-01-21 19:50:15 UTC",
+    "google_url": "https://www.google.com/search?q=ohio+department+of+job+and+family+services&oq=ohio+department+of+job+and+family+services&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 8.33
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "ohio department of job and family services",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 61000000,
+    "time_taken_displayed": 0.48,
+    "query_displayed": "ohio department of job and family services"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=ohio+department+of+job+and+family+services&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=40733939,-82340469,102085&tbm=lcl&sa=X&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQtgN6BAgHEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 40.733939,
+      "longitude": -82.340469,
+      "altitude": 102085
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=ohio+department+of+job+and+family+services&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=40733939,-82340469,102085&tbm=lcl&sa=X&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQjGp6BAgHED8",
+    "places": [
+      {
+        "position": 1,
+        "title": "Ohio Department of Job and Family Services",
+        "place_id": "10755550683431094558",
+        "lsig": "AB86z5UrN_iskvG_XMSY0pulqDkk",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UrN_iskvG_XMSY0pulqDkk&ludocid=10755550683431094558&q=ohio+department+of+job+and+family+services&tbm=lcl&token=68db80572bb89342",
+        "rating": 1.3,
+        "reviews": 58,
+        "type": "State employment department",
+        "hours": "Open ⋅ Closes 4:30PM · (216) 987-6640",
+        "address": "Cleveland, OH",
+        "website": "http://jfs.ohio.gov/",
+        "gps_coordinates": {
+          "latitude": 41.5050759,
+          "longitude": -81.6814997
+        }
+      },
+      {
+        "position": 2,
+        "title": "Ohio Department of Job & Family Services",
+        "place_id": "17284466345334998504",
+        "lsig": "AB86z5UcPkFW9rWfPbc1kwJ_TKO2",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UcPkFW9rWfPbc1kwJ_TKO2&ludocid=17284466345334998504&q=ohio+department+of+job+and+family+services&tbm=lcl&token=19d2b944e7b516b8",
+        "rating": 2.9,
+        "reviews": 16,
+        "type": "Social services organization",
+        "hours": "(440) 284-4300",
+        "address": "Lorain, OH",
+        "website": "https://jfs.ohio.gov/",
+        "gps_coordinates": {
+          "latitude": 41.4668341,
+          "longitude": -82.17779379999999
+        }
+      },
+      {
+        "position": 3,
+        "title": "Ohio Department-Job & Family Services",
+        "place_id": "710862992225445383",
+        "lsig": "AB86z5VJ5P5q2fMxb1M461PTa1-g",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VJ5P5q2fMxb1M461PTa1-g&ludocid=710862992225445383&q=ohio+department+of+job+and+family+services&tbm=lcl&token=828daff7ad6c9d43",
+        "rating": 2.7,
+        "reviews": 18,
+        "type": "State government office",
+        "hours": "Open ⋅ Closes 8PM · (614) 466-6282",
+        "address": "Columbus, OH",
+        "website": "http://jfs.ohio.gov/",
+        "gps_coordinates": {
+          "latitude": 39.9628039,
+          "longitude": -82.9994384
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "How do I contact Odjfs?",
+      "snippet": "Call toll-free 1-877-644-6562 or TTY 1-614-387-8408, (excluding holidays) Monday through Friday 8:00 AM - 5:00 PM.",
+      "title": "Apply For Benefits - ODJFS Online | Office of Unemployment ...",
+      "link": "https://jfs.ohio.gov/ouio/ClaimInformationPage.stm",
+      "displayed_link": "jfs.ohio.gov › ouio › ClaimInformationPage"
+    },
+    {
+      "question": "How do I apply for food stamps and Medicaid in Ohio?",
+      "snippet": "You can apply online at Benefits.Ohio.gov. You can fill out a \"Request for Cash, Food and Medical Assistance\" (JFS 7200) form and submit it to your county agency. You can get the form at http://www.odjfs.state.oh.us/forms/num/JFS07200 or by visiting your county agency.",
+      "title": "Apply for Benefits - Ohio Department of Job and Family Services",
+      "link": "https://jfs.ohio.gov/ocomm/applyforbenefits.stm",
+      "displayed_link": "jfs.ohio.gov › ocomm › applyforbenefits"
+    },
+    {
+      "question": "How much is cash assistance in Ohio?",
+      "snippet": "Only families with children are eligible for cash assistance. Berkwood said people cannot survive long solely on money from the government program. A family of three is eligible to receive a maximum monthly payment of $434. Welfare recipients in Ohio on average receive about $165 per month.Dec 24, 2010",
+      "title": "Ohio ranks 3rd in cash assistance - Springfield News-Sun",
+      "link": "https://www.springfieldnewssun.com/news/state--regional/ohio-ranks-3rd-cash-assistance/quSQBylbYIg9ImLrTBBL3N/",
+      "displayed_link": "www.springfieldnewssun.com › news › state--regional › ohio-ranks-3rd-..."
+    },
+    {
+      "question": "How much do you get for unemployment in Ohio?",
+      "snippet": "Amount and Duration of Unemployment Benefits in Ohio If you are eligible to receive unemployment, your weekly benefit rate in Ohio will be 50% of your average weekly wage (see “Past Earnings” section above) during the base period. The most you can receive each week is $424; the least you can receive is $118 each week.",
+      "title": "Collecting Unemployment Benefits in Ohio | Nolo",
+      "link": "https://www.nolo.com/legal-encyclopedia/collecting-unemployment-benefits-ohio.html",
+      "displayed_link": "www.nolo.com › legal-encyclopedia › collecting-unemployment-benefit..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Ohio Department of Job and Family Services",
+      "link": "https://jfs.ohio.gov/",
+      "displayed_link": "jfs.ohio.gov",
+      "snippet": "CCIDS Provider Portal 2by2HorizBar1 Veterans Workforce Services c Ohio Works First (OWF) Time and Attendance d Labor Market Information AO-button-icon ...",
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Apply for Benefits",
+            "link": "https://jfs.ohio.gov/ocomm/applyforbenefits.stm",
+            "snippet": "Ohio has three ways to apply for cash, food and medical ..."
+          },
+          {
+            "title": "Contact Us",
+            "link": "http://jfs.ohio.gov/ocomm_root/contactUs.stm",
+            "snippet": "County Offices Office of Child Support Ohio Health Plans ..."
+          },
+          {
+            "title": "Unemployment",
+            "link": "http://jfs.ohio.gov/ouio/index.stm",
+            "snippet": "Office of Unemployment Insurance Operations. Office of ..."
+          },
+          {
+            "title": "Customer Service Web Portal",
+            "link": "https://jfs.ohio.gov/Ocs/CustServWebPortalWelcome2.stm",
+            "snippet": "What is the Ohio Child Support Customer Service Web Portal ..."
+          },
+          {
+            "title": "Office of Child Support",
+            "link": "http://jfs.ohio.gov/ocs/",
+            "snippet": "Welcome to Child Support true Can't find something? 1-800 ..."
+          },
+          {
+            "title": "Office of Family Assistance",
+            "link": "http://jfs.ohio.gov/ofam/index.stm",
+            "snippet": "Office of Family Stability Contact Us Office of Family Stability ..."
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sKvegtRbtgkJ:https://jfs.ohio.gov/+&cd=1&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://jfs.ohio.gov/+ohio+department+of+job+and+family+services&tbo=1&sa=X&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQHzAAegQICBAI"
+    },
+    {
+      "position": 2,
+      "title": "ODJFS Online",
+      "link": "https://unemployment.ohio.gov/",
+      "displayed_link": "unemployment.ohio.gov",
+      "snippet": "Unemployment Policy · Benefits Estimator · Repay Overpayment · Union Verification FAQ · SharedWork Ohio · Save the Dream Ohio · LinkedIn Information.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_kKKx8Eo9ugJ:https://unemployment.ohio.gov/+&cd=11&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://unemployment.ohio.gov/+ohio+department+of+job+and+family+services&tbo=1&sa=X&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQHzAKegQIAhAH"
+    },
+    {
+      "position": 3,
+      "title": "Ohio Benefits",
+      "link": "https://benefits.ohio.gov/",
+      "displayed_link": "benefits.ohio.gov",
+      "snippet": "Manage Benefits*. To manage your child care benefits please contact your local county Department of Jobs and Family Services. Ohio Medicaid is undergoing a ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6gFxMqGZpvIJ:https://benefits.ohio.gov/+&cd=12&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://benefits.ohio.gov/+ohio+department+of+job+and+family+services&tbo=1&sa=X&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQHzALegQIAxAH"
+    },
+    {
+      "position": 4,
+      "title": "Job and Family Services - Ohio.gov",
+      "link": "https://ohio.gov/wps/portal/gov/site/government/state-agencies/department-of-job-and-family-services",
+      "displayed_link": "ohio.gov › site › state-agencies › department-of-job-and-family-services",
+      "snippet": "Job and Family Services. Responsible for developing and overseeing Ohio's public assistance, workforce development, unemployment insurance, child and adult protective services, adoption, child care, and child support programs.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VOumGte40DcJ:https://ohio.gov/wps/portal/gov/site/government/state-agencies/department-of-job-and-family-services+&cd=21&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "ODJFS | Child Support Customer Service Portal - Ohio.gov",
+      "link": "https://childsupport.ohio.gov/",
+      "displayed_link": "childsupport.ohio.gov",
+      "snippet": "Ohio Department of Job and Family Services ONLINE.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-0wJSk_MvnYJ:https://childsupport.ohio.gov/+&cd=22&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Franklin County Department of Job and Family Services: Home",
+      "link": "https://jfs.franklincountyohio.gov/",
+      "displayed_link": "jfs.franklincountyohio.gov",
+      "snippet": "The Franklin County Department of Job and Family Services provides workforce ... With the Ohio Benefits system, you can now apply for Food and Cash ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sw_mJRfH_i0J:https://jfs.franklincountyohio.gov/+&cd=23&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://jfs.franklincountyohio.gov/+ohio+department+of+job+and+family+services&tbo=1&sa=X&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQHzAWegQIBhAH"
+    },
+    {
+      "position": 7,
+      "title": "Ohio Department of Job and Family Services - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Ohio_Department_of_Job_and_Family_Services",
+      "displayed_link": "en.wikipedia.org › wiki › Ohio_Department_of_Job_and_Family_Ser...",
+      "snippet": "The Ohio Department of Job and Family Services (ODJFS) is the administrative department of the Ohio state government responsible for supervising the state's public assistance, workforce development, unemployment compensation, child and adult protective services, adoption, child care, and child support programs.",
+      "sitelinks": {
+        "list": [
+          {
+            "date": "Formed‎: ‎July 1, 2000"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "Department executive‎: ‎Kimberly L. Hall, director",
+            "Formed‎: ‎July 1, 2000"
+          ],
+          "detected_extensions": {
+            "formed_july": 1
+          }
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6kL1VsgIEfIJ:https://en.wikipedia.org/wiki/Ohio_Department_of_Job_and_Family_Services+&cd=24&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Ohio_Department_of_Job_and_Family_Services+ohio+department+of+job+and+family+services&tbo=1&sa=X&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQHzAXegQIBRAJ"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "ohio department of job and family services phone number",
+      "link": "https://www.google.com/search?q=ohio+department+of+job+and+family+services+phone+number&sa=X&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ1QIoAHoECAkQAQ"
+    },
+    {
+      "query": "ohio job and family services phone number",
+      "link": "https://www.google.com/search?q=ohio+job+and+family+services+phone+number&sa=X&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ1QIoAXoECAkQAg"
+    },
+    {
+      "query": "ohio department of job and family services forms",
+      "link": "https://www.google.com/search?q=ohio+department+of+job+and+family+services+forms&sa=X&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ1QIoAnoECAkQAw"
+    },
+    {
+      "query": "ssp.benefits.ohio gov login renew",
+      "link": "https://www.google.com/search?q=ssp.benefits.ohio+gov+login+renew&sa=X&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ1QIoA3oECAkQBA"
+    },
+    {
+      "query": "sign in to unemployment benefits",
+      "link": "https://www.google.com/search?q=sign+in+to+unemployment+benefits&sa=X&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ1QIoBHoECAkQBQ"
+    },
+    {
+      "query": "job and family services fax number",
+      "link": "https://www.google.com/search?q=job+and+family+services+fax+number&sa=X&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ1QIoBXoECAkQBg"
+    },
+    {
+      "query": "ohio means jobs",
+      "link": "https://www.google.com/search?q=ohio+means+jobs&sa=X&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ1QIoBnoECAkQBw"
+    },
+    {
+      "query": "job and family services number",
+      "link": "https://www.google.com/search?q=job+and+family+services+number&sa=X&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ1QIoB3oECAkQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=ohio+department+of+job+and+family+services&ei=_FUnXo3tJ5fE4-EPtKmLkAs&start=10&sa=N&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ8NMDegQICxBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=ohio+department+of+job+and+family+services&ei=_FUnXo3tJ5fE4-EPtKmLkAs&start=10&sa=N&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ8tMDegQICxAu",
+      "3": "https://www.google.com/search?q=ohio+department+of+job+and+family+services&ei=_FUnXo3tJ5fE4-EPtKmLkAs&start=20&sa=N&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ8tMDegQICxAw",
+      "4": "https://www.google.com/search?q=ohio+department+of+job+and+family+services&ei=_FUnXo3tJ5fE4-EPtKmLkAs&start=30&sa=N&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ8tMDegQICxAy",
+      "5": "https://www.google.com/search?q=ohio+department+of+job+and+family+services&ei=_FUnXo3tJ5fE4-EPtKmLkAs&start=40&sa=N&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ8tMDegQICxA0",
+      "6": "https://www.google.com/search?q=ohio+department+of+job+and+family+services&ei=_FUnXo3tJ5fE4-EPtKmLkAs&start=50&sa=N&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ8tMDegQICxA2",
+      "7": "https://www.google.com/search?q=ohio+department+of+job+and+family+services&ei=_FUnXo3tJ5fE4-EPtKmLkAs&start=60&sa=N&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ8tMDegQICxA4",
+      "8": "https://www.google.com/search?q=ohio+department+of+job+and+family+services&ei=_FUnXo3tJ5fE4-EPtKmLkAs&start=70&sa=N&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ8tMDegQICxA6",
+      "9": "https://www.google.com/search?q=ohio+department+of+job+and+family+services&ei=_FUnXo3tJ5fE4-EPtKmLkAs&start=80&sa=N&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ8tMDegQICxA8",
+      "10": "https://www.google.com/search?q=ohio+department+of+job+and+family+services&ei=_FUnXo3tJ5fE4-EPtKmLkAs&start=90&sa=N&ved=2ahUKEwiN27m-u5XnAhUX4jgGHbTUArIQ8tMDegQICxA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ohio+department+of+job+and+family+services&start=10&token=28d4461d37398cd6",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ohio+department+of+job+and+family+services&start=10&token=28d4461d37398cd6",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ohio+department+of+job+and+family+services&start=10&token=28d4461d37398cd6",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ohio+department+of+job+and+family+services&start=20&token=caefb18117b1fa15",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ohio+department+of+job+and+family+services&start=30&token=7feb7cf65eb3d120",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ohio+department+of+job+and+family+services&start=40&token=8c540f0ac4f3cf70",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ohio+department+of+job+and+family+services&start=50&token=00ee19491e0acb79",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ohio+department+of+job+and+family+services&start=60&token=a18a3726c067efd4",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ohio+department+of+job+and+family+services&start=70&token=c156991c9d768148",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ohio+department+of+job+and+family+services&start=80&token=74ad8283539967ea",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ohio+department+of+job+and+family+services&start=90&token=0ce9883d852b194e"
+    }
+  }
+}

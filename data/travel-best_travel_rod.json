@@ -1,0 +1,603 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 16:31:33 UTC",
+    "processed_at": "2020-01-21 16:31:33 UTC",
+    "google_url": "https://www.google.com/search?q=best+travel+rod&oq=best+travel+rod&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 5.86
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best travel rod",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 286000000,
+    "time_taken_displayed": 0.57,
+    "query_displayed": "best travel rod"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "bottom",
+      "title": "Heavy Travel Fishing Rod | Shop Low Prices & Top Brands‎",
+      "link": "/aclk?sa=L&ai=DChcSEwjTkIWIj5XnAhUCaioKHYqqA5gYABAAGgJ0bQ&sig=AOD64_2RpcXHIijsSJna2PU0MiSlTO46Tw&adurl=&q=",
+      "displayed_link": "www.amazon.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjTkIWIj5XnAhUCaioKHYqqA5gYABAAGgJ0bQ&sig=AOD64_2RpcXHIijsSJna2PU0MiSlTO46Tw&q=&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ0Qx6BAgSEAE&adurl=",
+      "description": "Read Customer Reviews & Find Best Sellers. Free 2-Day Shipping w/Amazon Prime."
+    },
+    {
+      "position": 2,
+      "block_position": "bottom",
+      "title": "Top 10 Travel Rods of 2020 - Best Reviews Guide‎",
+      "link": "https://www.bestreviews.guide/travel-rods",
+      "displayed_link": "www.bestreviews.guide/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjTkIWIj5XnAhUCaioKHYqqA5gYABACGgJ0bQ&sig=AOD64_1-Z5PyWw9ANN6JCdlPo1BeR6GlGw&q=&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ0Qx6BAgREAE&adurl=",
+      "description": "We've Found the Top Products. Compare & Choose From the Best. Buy Now!",
+      "sitelinks": [
+        {
+          "title": "Reviews By Category",
+          "link": "https://www.bestreviews.guide/categories"
+        },
+        {
+          "title": "Contact Us",
+          "link": "https://www.bestreviews.guide/contacts/new"
+        },
+        {
+          "title": "About Us",
+          "link": "https://www.bestreviews.guide/about"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "St. Croix Triumph Travel Spinning Rods - aluminum",
+      "price": "$129.99",
+      "extracted_price": 129.99,
+      "link": "https://www.cabelas.com/product/St-Croix-Triumph-reg-Travel-Spinning-Rods/741125.uts?productVariantId=4135577",
+      "source": "Cabela's",
+      "rating": 4.5,
+      "reviews": 30,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 2,
+      "title": "G.Loomis GLX Escape Spinning Travel Rod - 11895-01",
+      "price": "$655.00",
+      "extracted_price": 655,
+      "link": "https://www.basspro.com/shop/en/gloomis-glx-escape-spinning-travel-rod",
+      "source": "Bass Pro Shops",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAACMCAMAAACZHrEMAAAAIVBMVEVHcExcLwCjahRFJAELBAINBQJXLgQQBgJcNAhPKQIdDQJChVL3AAAAC3RSTlMAjQtp2Mc0qxxPivqogY8AAAJ/SURBVHic7ZtLlsMgDARBgPnc/8CDsB0n89h3LdzLbFKvJSQkkhAwOkxN8Cilpkb4aJSkRvho5IqJEowFkzAvy1Y2CoaF5MusL6hzRGGxl2Wrl2UvA53pl2WvyVIONcStyULxJby+7DUKxpd5f8H4YqQYJVDuplJJLJTeOGOEYgHlLoqFFKOXZaPJokb4iOOLgVhIvuBYSLXuZfknTxQKiwuWuy/LRjAWUu6+LBt10A4e5IuRZtgOYTG/15Hm6QraedTBYDE/RwwW3P2Fs6/zHRmFBVXrZr5QWAzEgvKlc3qAcfqRzT5NYVm5i6kvHfNmY9bHgLAEEktzFrOzZyvlCL1ifLEBYqHMAa5BqXVGem+0Nlm6miKsUa0dcz4isLgtPaXY1dXFbpYYk7rOrRDZsVjEQTqtsCMtFr0xIfTkvsTe5DAWjlFrTDHJWeb391FLLikRql2vNec8b99qX6ZadV9KAZzq0EZxVcJBsrR8YWyDei0lZ8Y/Jw5ngTTHw2NUO+Hm3WaMMsSXlmomxMgWy/Bah8jdyTJjBDhHni9j9QDCJtP815gTpep7gJlvpVYPUKOs626fviCmtXX1TgUxrZ1jQEyE3nixRMK97mGRniM7R9iHRX6qf33RmvOwqG25Rlh5vpwwa4S9WMQ4PyxiYWK0Vh4LJUZ97rovN4uaJHz5cn4gTOCLpep9+ckXNcv/GElrzMOiY7hRMDGyL1+6ur7YN4sWJWxyV5e8nHwJYRMjed1l5YuexThnGuVLsO73lxHj2jOI39ZS/fVFiHOMksti0THcsrVRLacvamta8RV8LoDcnfLdYc76fd1Sc2MGg8UftO6FHYJovX0CSP4ABKAQdyyrWtcAAAAASUVORK5CYII=",
+      "extensions": []
+    },
+    {
+      "position": 3,
+      "title": "Travel Series Spinning Rods, Four-Piece Blue | L.L.Bean",
+      "price": "$99.00",
+      "extracted_price": 99,
+      "link": "https://www.llbean.com/llb/shop/77033?productId=1266696&attrValue_0=Blue&pla1=0&mr:trackingCode=6770AF02-BFE7-E511-80ED-00505694403D&mr:referralID=NA",
+      "source": "L.L.Bean",
+      "rating": 3.7,
+      "reviews": 23,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 4,
+      "title": "Fenwick HMG Travel Rod",
+      "price": "$103.08",
+      "extracted_price": 103.08,
+      "link": "https://www.amazon.com/Fenwicks-Travel-Casting-Medium-Heavy-Fishing/dp/B075DNHN8V?source=ps-sl-shoppingads-lpcontext&psc=1",
+      "source": "Amazon.com",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAPFBMVEVHcEw0FgATCABIHQAgDQALBAAPBgDWXADMVgDWXABZJAAYCgC6TgCTQQCMPQAlDgA1FQDJVwBQIQBkKQDG4wzrAAAAFHRSTlMAKaenicW4UF5CmJxqCxhbQCx9bucc5WEAAAJFSURBVGiB7dsJkoMwDARAx8gH+CLm/39dyWSfsDNVS8gDukbygSE4R7le4mmwsODSHwWfNPgUEjzkelHg4icL9iy4UGDqPKYl/sL/Gz55cHkazFq5zsGCz0nanaYM1nSSh43qL/yF/+oaKhPg1hWmLCBtiIyTALvBWrmIcHkUrKOaU+r3nihw2/Wqgp9OCqe0pwqH+75nlffU8LBG1sxvCpxz2vFwMjgnMOxsVGcGLMcdGT66JMZFM+AYDjw8vC8xGA2GxReFVR5Y143ozfVw2DlNG7yPeFhU1tj4/UnUjYzEwwY1A35pjzUzAfbKBkKPXyV6kYZeMdejzFjgr9rs4FS01gIP7ENYYwt+fzvCfUU0/NJdUZsc4UfzU6eS7lD4aXzqxhS9D/Bh3ffDtkX8ftz1fmstXQH8vl5hpe2+K4QJhtfd7RZ7E2SnDc72yzafuhQU3H6PMBn8XrOtHltiPHw3OcHhFRl/kmj3wTwT4PQ5H6N35DtxIsC0xPdkIiYGu+534XoO/OaVWtVKLDX6yZ6Vek0nCmzFJsGVBdNKXUlwpfWYB+NL3Xk9zqvJ6JchrmfSktmTbRG54hMrXJUmlNpmccUnbja0GLCbNXMSX8dBSXwex7ZttcL/9vuuS97g8FXTsekP7Tptcc6aGf4U9dK0Ss8LDc9jVbrC76sVXoML3mRLvHktN/qYOj+B8bB22DPgz/qxweFLJ3EkwK3MWm1wwddMCeNSmrBYD/uHQK2T8FWKD2HKhX+5eNOeAmvBKR8A/QBGvB7jxE6fRwAAAABJRU5ErkJggg==",
+      "extensions": []
+    },
+    {
+      "position": 5,
+      "title": "Okuma SST Travel Spinning Rod SST-S-663L",
+      "price": "$64.99",
+      "extracted_price": 64.99,
+      "link": "https://www.fishusa.com/Okuma-SST-Travel-Spinning-Rods",
+      "source": "FishUSA",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAWlBMVEVHcExyPQCkVwCfVQAPDAVpNgBXLQCARgCXTwA4HgB9RAB9RQEiGAkJAwQQDAUjFwgHCAdPKQCbUQAaGhATDgYxHQYvLh1dMwIeEgMuIQwaEgaGPwA+BwIvAAJ06DzKAAAAHnRSTlMAemh0xISOaWCjc1o7+7hM35iFFIpdCW+mJnKf6/ydRrKuAAADBklEQVRogeXbwbqjIAwGUBEVREGkYtG27/+ak4Azj/BnMS7u9nyBkASv7TqRZx2cFJx+MvDX/TYJePv2vywC++Jl4Dh4maWeP0LwVwjOXmSp13zHIAFv9zsfIrB5q/sWgBdrrTtKgcOZYKv2El9geLG97fW4DwfWPRerk1bThF7s0zR4R8MvY0lO41QCGja612rc53Bi4bfV2qRxL2hY0VK3iMHn6Yjz6kTgcGzBETxcWPgOx9kdA0W8YuHNh+68gi9ouAvf+aCdjhEO/z7pF2Ic0F2C4a/30QvBHj6FPPBwScFgtuuG/w/2e81qAXgYogC8ScElHIVhj50Dals8r0EEvs9ryx5eMe8Yc3eX6MFzQJepL0VqTjGCS+bLs0x/PLovciuO7GIjvpbbD4HbMbhmvpZlWes5BleQlyF5odPkwTeJi2Fj3IF+uXc5hukqMdGUi4RXgm2FZ+wFmWBrF6OmCXxPXR2/fDEcMR7ueycBG1prl/CwsQw7AXipaS0CWznYGoahbbHCNa3B8Fb3uHcyEVNaw+HNSsFPxIpg6JzZ9rjC2BddLWKjZODWj7EwjT3L0xbhcM0tOJw54L5FDH21l82/CUQCdnh4MdQiegE4M9wmEOytLRsKuA0CcjB2qXm6fUYfPNwLLPV7qTA+q9/GSiWX5ZJZ+zE6YobfAktteiuQ1SfB9m9Wg2Fqi1om4nacdnjEDGv4OW6wxheQF8FaC1SuBstErP/C0Kx+KeNYloiY4TTCYVX3OMHPMcN0nJwIbHutxwkNc1usczUaHh3NPho/0F+Tc0YCpoi1MaYtNXLmut5UqbUWgBV/R/acYyS8KtNcNLxxP+Zv9uBwq1ypFhA0TLnVYOS/vDbljKVNTgQHJLyOTa57jI2Yyked5wm+0XB9oygC88i1Fyw8Gtc3GBtxpmHv2eMC/cJ6Uypp/SQXEs5jSiTX0SdAIz5YTjqh4W6a9olkBYe7PM/z/vmg95ifey7zjI+YnvMupYSChzv+qisE+FI/9BDxP0tpz40sme35A45YOj8wkwExAAAAAElFTkSuQmCC",
+      "extensions": []
+    },
+    {
+      "position": 6,
+      "title": "Fenwick Eagle Travel Spinning Rod - Model EA86M-MS-4",
+      "price": "$89.99",
+      "extracted_price": 89.99,
+      "link": "https://www.basspro.com/shop/en/fenwick-eagle-travel-spinning-rod",
+      "source": "Bass Pro Shops",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAKlBMVEVHcEzUrzNzOgGsZwyvTwB/OABFIQBPJgGWTgNWKQA/IQCtTwAkDgAWBgD4RJEhAAAADnRSTlMABDsQdouVVCZsqF+yyC/17MQAAALbSURBVGiBxZtZcgMhDESRGATMMPe/brSAY1+gpUq5nK9XLUAbuBSwUfzVigYrlojK6ANOdjrfnAXuCVR1NS8wWJn2WVIUf8AEhpolgB2+N1cCOUlxuJqIwGgqabvaXJ3h6ONqMNSWtt9TP/Hkwu89asVrLv0VFVy5I/OyyeRbqkuvg3Gy6SdJEANrAo9cKefpJ2QifZ2k+GQnPFvB0+JHRpKY5ysKGeaK0UZJYIoAkqDYwcvA2CThsO6bC177FMtOxkX3jJaPhQo+gGibKgJmbvKQmbDAurgjo9izzTzEwXj0cTV8d5niis9OtqsnlnnQI6nmUvBMaGHsOJmrU86xpNRcFMcpY5XN1SntoikGQ8Pw53iHyYzs5MOeKOgTCk2rQODVnhkvIcIOuuIQKXhX2FCzulrgtxIu0lwNx1KAK35eTSXV1fibpw84obxNVPzeOeC+bryryWP1SlBMHzBec47iYhOBACOz0w8YyCW/uc4A+yevpF3dxa8G8OSeotgbc3DIjNJyDJaW0aTyFHx28u6Ymyz4ewwlj+e6BH2Ra4s8nudqLWFUbooVXPENDD8BxnYwqphvJaMV+xUqzft6KnCmSFH5zD6lg10dQ+O1FoMHThFA1vuuDq66iKoep4xqT2P1cz3rrbszx8ErXwFGmj9RPIqxZF3jDMXlKJYX/cxIFWtyup73hQ8jXLE6m9HjJgVbXpwDp5gO+HIwNFRTBBCrBAbU0/SteD8PRZmDW2vwAjdjjd0OeCuG4KM7Ht+KkVv7KEYPcOs/GHueari6E/jKa6/x9cAb1X/F8T+OzNMCSEc/QdFY3dqXYhxYd3WTuzHtvgKEtfFae6wx32BgkpjNfN3PD2MwVHvra2ARhl9cO/iOB5LQUB2K98tM2MWm9eUbDJ9Yj9lEfS0VnRY1fphi2X0qjjwcLAJvkMeSDxhr/MpQX4+ES/O+dI19jJrwJPTN+SGfOjwF/AckMxF0GtVxUwAAAABJRU5ErkJggg==",
+      "extensions": []
+    },
+    {
+      "position": 7,
+      "title": "Okuma NOMAD Travel Spinning Rod (7’, M/MH, 15-30/20-60 Lbs)",
+      "price": "$155.77",
+      "extracted_price": 155.77,
+      "link": "https://www.amazon.com/Okuma-NOMAD-Travel-Spinning-15-30/dp/B001V7KRDG?source=ps-sl-shoppingads-lpcontext&psc=1",
+      "source": "Amazon.com",
+      "thumbnail": "data:image/webp;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 8,
+      "title": "St. Croix Triumph Surf Travel Rod - TSRS90M4",
+      "price": "$220.00",
+      "extracted_price": 220,
+      "link": "https://www.tackledirect.com/st-croix-triumph-surf-travel-rod-tsrs90m4.html",
+      "source": "TackleDirect.com",
+      "rating": 4.7,
+      "reviews": 49,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAALVBMVEVHcEwBAQYDAgUBAQUAAAIHAwQIBQUoGB0IBAMIBAQKBQULBgYXDQ8NBwcQCQqF0Ul+AAAAD3RSTlMA2c7k9bhtBaSIVkEQLx4gqzLhAAAFSElEQVRoge1Y15akKhRFKUCC/P/n3hMJalXXzOp154VttQGBk4NtzMLCwsLCwsLCwsLCwsLCwsJvIPyrTf6acHhz/2E2n8I8eN8q/LhhMNMm4e30QOALP+FaXs5jzFEYZutwmxDG8Zm595TvbCobunsTPDQSbU2Qw4zjuY6UjY8ID0h4KDLjRFREAYxi/QXyMa71G8EStg/Ytx1/ALe7hoMQFV4BvPtJApJhjznXwoTLrvv280xvvMWnnVnYmAu+El96I0wOG+y8YLMoITw6D7ouvLzNHVffGLEDC7tqoM3aO3v7HZtuTMjG1P5KlmwyTyfujiiSMdggVkkw2clGVvh3hzui2qNrgJfu2zFSHugqGzQ3VveyMzZxikZTnviAu/3IMbHBo085karlrSVplPKm+m6K2YVPu8Wyv5gcLbaDzgfC+orv3A6+llzOPvsj+hyZOVEYmtqYU11mNlXf1rpja2Ja2yjzLNHMpA58eySJUxAaNb91RfHqYE7Lko2bdjUOGn49Xfp0cQWhgCoDA5OVnWNvsM23hfKLt3nh8boatNGYXihngyJe8wwkKd7Ft9u0nCiX13vYfmfpaSCwNbNdlMJogaFxMs6ARUDZ+A+kP8GOzNnr+HWm7QuQAfQwyGIZ8x/GnxsxZQC2JIv2vP2fsAxHlAxKFaFScTglz2bKuVo+vMYm/DRFH3Dgidg+Lgy3mBMtX2jvkrsNX3sdmguSFDlEUUDlqnVguPGbO7tY+nxqNQTLCbAK7KazcK0Ox2v3qf5RAYRVpTUn2gRMzGppNsJx57q0WWnDkHOktKnm+TjUPFa+lOx6ZlAoDMC7k+TGAg7vfTz8+74omFm4aNGJNATJ1ToXFzi9OFwCTOascQt/yaNDHsw1KvfwaW4vgL+BdiKzP1Q2Ry3A7u6A8kP1CHKyH3jMecdYdpK7JFy4mZBCtGGZavDApidt5u4eg0d3b8YTY0dmOeJa3sfQg+Gp+t0Kiz26R0AiK62DNHOXNxpJge1YqeAEyCdUo+baoGAoxTGzs9NobZ6loVCm/lO9sfeQV8J9ILQu/DZnOD/6V2AOxr2MGRpkdsG3629qKC0RaQaarUTJhs3NKteomj4VOEOcms1aPvCcvHw3d+zuPiVb7eakDJOfOo5UjE40QGvXM+Q2cYcDMyKFzNWZx40v9U5cWXt2jSFqz9+oSs5DsZKa6mRbCa2jscxMc3AWdJ6HrZ+oBdYkJZ54lGZ2L5qQvlyCnj8pHjf+wZWQDtmKTK215KDgT7D97GD35eriQZzOPH+DBZQmExkuCGgZ1T8MgST1KsGnp2deClPhJENO5ig5cbfsUHWJKElRuHzvhnHsunknwnaRCGFZups1kZKUj3TWWV39g7dtfc0AkMBUVbiZJNqhgxInQzIkUO1VboAfks+lurebUsnH4CcjERKwtkmWa1ZkOieZqH2LP+uJka8y96dSpcHJJxoclKmUT7QWZF9U3V2e+7e+jk9yobZnXRb2CM8U7zvqydPab7OmmabizXl2CcX/iOBjlzCNgLzmqUB9QZieTu5P0EhoIhjKxnyxYzDJf0O2pxEGCsgJ3SPBIXzAnmV4+IDo64Mpn5/JR7mLBCsOFD4x+VYWf6Z3hOSJXJTSR+S6kB7/MyYj39st1vycGjEEqSSSgGftzp+/3vwz5Xw2cgFzC/avnKoGjfJ7CYfyR6K9RY4gHpGDjAXd453gDb9AteK/UDh/cQ+a+lfA78j1DicS7Ikm1PQrAv2Ma1dp/jfKd1Y+mvc3Cf0jARcWFhYWFhYWFhYWFhYWFhYWCP8B99FMNlw/fVkAAAAASUVORK5CYII=",
+      "extensions": []
+    },
+    {
+      "position": 9,
+      "title": "TFO Traveler Fly Rod | 7' , 3 Piece | Fly Fishing Traveling Rod, Spinning Power M / 6-12 / C",
+      "price": "$199.95",
+      "extracted_price": 199.95,
+      "link": "https://aventuron.com/products/tfo-traveler?variant=12612957667372&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping",
+      "source": "Aventuron",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 10,
+      "title": "Okuma Nomad Travel Rods",
+      "price": "$147.14",
+      "extracted_price": 147.14,
+      "link": "https://www.amazon.com/Okuma-Travel-Casting-7-Feet-Medium-Heavy/dp/B001V7ETWQ?source=ps-sl-shoppingads-lpcontext&psc=1",
+      "source": "Amazon.com",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 11,
+      "title": "Okuma SST Travel Spinning Rods by Sportsman's Warehouse",
+      "price": "$64.99",
+      "extracted_price": 64.99,
+      "link": "https://www.sportsmans.com/fishing-gear-supplies/fishing-rods/spinning-rods/okuma-sst-travel-spinning-rods/p/1399887?channel=shopping",
+      "source": "Sportsman's W...",
+      "rating": 4.4,
+      "reviews": 31,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAASFBMVEVHcExmUBpLKAVvQw6yVACFPgCfSwCBlDrIYQDBXQAQBgCwVwA8GwEuEwFqKwB1PgZdJAA4HAR3NwBFGgArEQB4NQByMABuNADGncq7AAAAGHRSTlMADzweXHdqA0tUyD1vjL4t4lJnxKeHoFM2wpl1AAAC/UlEQVRoge2ay47lIAxEgUB4BPIAkvv/fzo23G7NfqSyRooXvT19oWyXTZR644033vin8GWX4eqUmghZl560BHjZ9y4CNvue8VTv1bW3S3k8WeW9Gf4H4PHsbZEAawKLiVqCy6IuAtpS/nqaQDZR5IeyCR2exFyedsDBdLeawIsEeHme5vHi8srcItlElfoWyCauk/k+LyWRxwQ2ElxNYBlRU/2QsR+ZRA3vicS7HItaII2zO0VahCewoKgFwOYWEvVVWhP4vWQ/ckoCXMWiLmDkyF1ddmoR2DQm2lJLKskgqYNMYHenBE5jhm3ROtfRd0zszVpb7wdeMvUWo13Xu2AriPcLgWNcXQWXTL+EyD/ZwfPpiDEEAqOncr+FedTwdYBZQ4i2ugMKJpYp2fIdo/sxdSZvylor3N2a5o3p3YGNAE1N59ZNLvAmofK+7Wcv+HXA82zn2Qy+Le63JbCGj4pLq+48O3YbwBXDtPCccMelvL4SGS6B+WVhv5VO/ML4KAd5arzVU7nrw/QErpe8dEndXDnjV00m9ZRyvtCV2lysrZTQa0y9rQPc0XestxAcXNQ8Nm1se3awqL1naxvYzYMLl58O09LopKEtYlpbmpxchTYnr/S4YnKYHxx1hJ4nvd7Y4ZjnNTvADls/WNTjpMFmntL4CENcrmrw+ELa4jRmUUODRR2+osZmU/jO5OjFLWtrHDV2Qh3gecfol/KfX1zRG+MpagJjy9boTUwmUWNPerQIUrVDm2o9bpgK14HNYvY98bt2gQa3iOF70NuPIWpe6VUN7RDKHzOb3EegRVg7RI3N42m4VnSlJjPP2RThvkepccUxruBdovfHKFy2VqiZH3vqaQM+4O9OZqW2Fr4g/zVc6Jeuv+wHkDo9NZ812H78FEwB3+PHM5cdokZiWVtRYEIdBXPOa2jfs8wbxk+oxzeZ4L7HjIc9C7Yfir8qmkYPu3bh+LiVrxht5in0fbshavwnL8f9PCLfNPFLKvqd/Ev2P3/eeOON/zz+AIDmIWUuNZSGAAAAAElFTkSuQmCC",
+      "extensions": []
+    },
+    {
+      "position": 12,
+      "title": "St. Croix Premier Series Spinning Rod - PS50ULM",
+      "price": "$129.99",
+      "extracted_price": 129.99,
+      "link": "https://www.basspro.com/shop/en/st-croix-premier-series-spinning-rod",
+      "source": "Bass Pro Shops",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAATlBMVEVHcEwGAwAVEAYVDwQzIwcKBQA6Lg1xi0SJlDcJBQDllQUTDAMMCAGMQgC2XgAKBwGiTQAMBgEPCgLCagBVKAB1NwBfLQDQdwA4GgBfMAEXzIRpAAAAGnRSTlMA7zhLI8cPAQPaE2CIpIGhl7RzYJeztTbOcpEMSQ4AAANcSURBVGiBxZvbkoMgDIYROQTBWqy17fu/6CZBZ/YJ/uRiZ7z6NkdCQp0zEZ9suNlXOJlyJnLzjuYymcXVxmobkF3dGJwJTna1s8I5o5VmcHRwfVXmaGBpBU+1Vg8Pr8zg2aUwt8TpBQZ79nR2IQZsWs1T4OCWUpK6h4ILDTD/cbDqyeHsC+Erl/jYl2SSyMRgsTOe7KdkcEo48XHAZvAtQcAWKgfOYwMn06UxXkjAFomsGmd8OmUFs60NfBy9iaVZY+8sCpdLAob3egxUMBirMjQ2Ac/SCICpzKNJotrA2KqxmalNErlUh3dyHuBsUbtSrDaVixiMP52kVMbdGZA5qMpuUzKJNcZXLgU3Cx8zMMrYB38uKtikclEXU1uQGUwm52LcTJo9cn0zGnQx2OB+zL7dZJhpUby2bnN3ErBJyVSNDXxMrnU0VCW7ZjU3ZjDe1KKqgvFbCTF1skknAZv4eNfxLZLI13ERAYMly97HtWJhagbvE3gdoVx2roAdftxEVCeTdMquio9NNl46U8TqrHtcBRuQFQwn51tjAltb9qhVRvQiULJofIPB5LFcHFxsgOk6VV9IAMESXJ7B+NKV6Vogw+XaXGOX5WMEIbt6gy2M+LiiqXRpXC18LMG140wtW8xRrD6vxmDcoGuUi+yWz+uxdvAwM3MWLZ/H47keS0Z1XZy4ehSKxs/1/SLUgx85EeTxxwX+kX4hykgeB9IAn2vSh3SY+qXWHT5ejyQfqFGIhDWF3+P5fB9BnI46kcW0OYTfexUwtv3ILs2hH98jYF+xiVv3LbbWxsMqkIx2h8Gl90C4qL6SuW4xFp+yZjKMzFoLWDa5RISbl1+mVrD8E6g+U+v1pTG2F+Ci6dutMfbS5hJtJWpLjzyROZaCT9sEb3AZlvrW9p2vT1AR49ZeYovI1y95TIs1qnuGXp+kZC61c+Vq2Fd70oMsr8e3TOjHL+zWRVoffXUDTCexr4LfxyjVKLAYV8HnsYDHPnRrnGjcahBQ7aPlKqHg0WUCjJ0v0KXxosUEo/A4gG8wdpNL/8DANlOdfIPlA9dmsvwzNbBs3uDzSONlBJA8H6LxGVR9YPtDn+93fb7PBF8AUSjfcp7B4hdPeyky+IFvrzmk5mnTyQSaLD3fmFhjwX/L7ibBWtTlgQAAAABJRU5ErkJggg==",
+      "extensions": []
+    },
+    {
+      "position": 13,
+      "title": "Cabela's Fish Eagle Travel Spinning Rods - aluminum",
+      "price": "$89.99",
+      "extracted_price": 89.99,
+      "link": "https://www.cabelas.com/product//2430608.uts?productVariantId=4972220",
+      "source": "Cabela's",
+      "rating": 4,
+      "reviews": 7,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAATlBMVEVHcEwBBwcCBwaCTgeKUgC9bwB5SAC+bQC/bgC7bAEDCQcFCQauZgEBBAMDBQV7SQAGCgeLUgALDwgGCgcDBwYDCAbJiwAICwZoWwdGKgWbuZMtAAAAGnRSTlMA0d4WjGSZd21FxqMw/e+nj3ctf7JiV0hRyxg++V4AAAGWSURBVGiB7dPtdqMgEAZghw+hIIgC2t7/jXYGzSa7p2d3e/r3fWJEjfKOo5kmAAAAAAAAAAAAAAAA+NPZ9+9eovezn7W10s/z2xc/g1POKr2//WZZFlkfzyObMIIHlYjUPulCSilqXDrn680u48T/TS6KFOXDW2u993aM16a1zvpr39t55lBeyWLMR6aQU8qJAvGicuw9rtvBJ5svk/VYXna1nhqXrTjZO++c40QZJM4N1nkrv8wSPc/rOq+y9aEoBE69qdJ7W43Uv80p8Yypcl1KRf6mlEJkvFdDqZFC48JpCleyG9EjfMRduVKJ22QcuWwdJRiTJS9QiJzPXeOJiZNHc/KYsefQiKoKUmEs/GmltdhiLbWUWqPcM4179tcdSwXG+rsH7t7yd7d5GPfMySGVGAtPWWpIUe993d7scTy7rb/o+iupSiV5lv5XsyXq0W17HZMnPHp9416+zhz3czdGXsWX5/yP137nOUJ9vNuLvNZML1qWp+WBt8dlP/g7Pejzx1MAAAAAAAAAAAAAAAAAAPzFJ6UDFpUbVTqmAAAAAElFTkSuQmCC",
+      "extensions": []
+    },
+    {
+      "position": 14,
+      "title": "Orvis Encounter Spin/Fly Combo",
+      "price": "$229.00",
+      "extracted_price": 229,
+      "link": "https://www.basspro.com/shop/en/orvis-encounter-spin-fly-combo",
+      "source": "Bass Pro Shops",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 15,
+      "title": "SHIMANO STC Spin, Travel Spinning Fishing Rod",
+      "price": "$130.00",
+      "extracted_price": 130,
+      "link": "https://www.amazon.com/SHIMANO-0-70-2-11-Spinning-Fishing-STCSPIN30H/dp/B07HBYZ27G?source=ps-sl-shoppingads-lpcontext&psc=1",
+      "source": "Amazon.com",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAb1BMVEVHcEwKBQIEAQEQCgQFAQEPCAMpGAcDAQEFAQEEAQEJBAIJBAIuIg0HAgEGAgEHAgHBUQAeEQUKBQKQPgALBAINCAMIBAKjRgAHAgEIAwINCAOyTAB7NQC0TQJSJAB/OACDOQGvTAS+UQFXKARoLgLLhDHXAAAAJXRSTlMAe/Ao200O+9HmcWcFo8K2hx1YrZo2hqCskEKVt0LIlXouXDdrf1C5PAAABEFJREFUaIHt21t3qygUAGBERDAqwVuMSdOc0/7/3zioMUJaow9746w1w0ObLpt83Vw3YglBL/yAb/xe9G5ylOwEh+ed4DrYCd4tYr1XGztwVu8FF//DeCX878H2BNLuAPP+i3LgFHUBeUacdIQIh0qzKvUAE1K8wm2F5zpt3HmDQ+7AIXUmbv6ANUKX44XTq2XjXFQjzEWMsHYe7M90q3qCUyFz5y8CKVG2AaYCfvGs38D5DMMP6dquRPfzO5F5g50aTagYYeY54igW3QD7jjiiovYDp8yNmLIQEbbTW/Ya8T5wFz/gXOS4cPoS8QSrHCFDeAs/2lipCh7uNkWcReDwtqreLeIzfMTb4AoBttIbvgQrhDbeAJP9Isbo1Q4sndxqjlhhdK4tcNsAw2aj0FmpD5cLbVxBw+SQuvBSxAF8VQdvYd1/1yidK2hX4VRShOFU5KuwGccCfisRbahqhlHVG2CS07zbA+5nrl2q2gwnjKoee7XWv8KPuTpLEHr1NJxMHqnd/fFzAmkzhAmkmMdx+ANmiDOXBZNigJ948YQxUh8bPtABDQIbDr9ClETgYMEdfXTxPJxhXZZXhhDxQc2vtZz+Ch08YfJZni53+PTWjljTOeWMLPhyOR4/wGEnYivXjXq4JmPECLIDU3vrGI0w/yzL0xEbdu4hKjlFfDIR/wGGk2U4l8OtiEZ8YsOhC2eU9aMoSZQ4eoUDyvpRlNVh1Z7v0G0cLMOHWA7zhgiyMM20T3joXETQOCHgZ3CBlewtwlKwBPqUwIFj+45qX9UG1gMsQO8b8/Q14l9g0ihwuD//aNYiJkkUCiGgj5n52YLrX+FvEWa6AT/fztfg1EyZTPOaA8OZmD+xjlv70gjzsjTrYgMON/k8TpbgfpG4Q08gjVPVr3D3hMGXxfMaPCUCf/eATxiwsGFlX0pG+I4DV/8GuFuCMZK9TTBGr34PD4nAdYgYOvVZj5jwHCPZyxw4ty9NEXMZt55hOsKMskDDLxLz62gBlgYGZtfgYoQlAtwuw8ETFghH9S2zYWFfsiL2C88RxwwHnp5U/AkfRpgiwGqIeDy0LJbgmME/y6geVV29hSU8nE1tnHb9vQcXjn3AJp/3Ctu9Wv2AkwmGf84pt6w8ZvaeEBVObbiKqZ09J/H4VFMPZwS4mFlp/qFw4QATJollmc5lL34WTOHh4Zxvhl/auMGE5/ICNxbcLrwFppitgw1X8bgd9wG7VS3HLQ0+3LhwIse1IfUQMbV7tYE9tTHhKrRhNsDflYHV0lswyiPi7/LSyj3g6Gp2bUG4+uvg8Mdt2LUhPnj8Wg5yOAD7ul774xDw05BVODKwqWzovdNbeKjq+wAfoW83vSvjcPrs3dMRetP2tvT/RMHLa9+5Lj4jHko4NjH4/ni93G59yD579VTU7XYqL9C3m7aULxP0yecMMpfO0F679Vz0t4du/Q+yTEyYHkRu/gAAAABJRU5ErkJggg==",
+      "extensions": []
+    },
+    {
+      "position": 16,
+      "title": "Eagle Claw Trailmaster Series Pack Rod - TMM66S4",
+      "price": "$59.99",
+      "extracted_price": 59.99,
+      "link": "https://www.basspro.com/shop/en/eagle-claw-trailmaster-series-pack-rod",
+      "source": "Bass Pro Shops",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAATlBMVEVHcExtNAbcpwBhLAPkxQeqdQn1uQGYq4DFuz3o2BFPHwBYIwAaCAB0MQDbogB+OQCCOwAxEwJQHwBtLgAvEAAfCQC0fAAaBwHcngCVWAAr5OfQAAAAGnRSTlMAKIw8DBcpAgQHe7WiqHhpj2CjtYjCrehW3dzt8owAAASrSURBVGiBxZtdduo6DIVtbEdyEgIJCXDmP9GrLTu0dwDsul1QePmif1l2Q+At8V/8oTlmIleyEVXEXofLW5lkEZNZVcLwXDKRnGtwcAjv51srDxyqKTrU7GB7ACbaJM451MHAIpWobdOzOZjZ+F0rXI1Hdno256rZPJzD60GMd4DhZxZaBLDmgHgy20q8LznkYt8xHEylyWt2jseRYkzzmE5FfHVVc2kVJJB4zAXix33fhUBWmBXaBVhyhQ5iYvgYMnXOEt7Lns2+DcnxbWSuKsNlsYqBRYG2pbXqsABssvPSplQkSpN4QLLmCAy9WhAjYQGsJOOiNiGCAkSGjYklQk1ccb6BKyVbftBIIBmqvuTAqhGNbGWhq1q8LWAtaVIDbM2mZmYTYjQpyzLAxhZcNK5hWxyL9z6M3CVeEauFk6n6UvwrimfDsVCf6plAiMv6rNbQm3MxfdodS1ziyxCoYKi7lcVijT2xKqLbc+daCp6CG8fm1mW5DNW9nFgpWhwb2JzMnuHrZHEJ0eF2G7fHEEJVhhdbjkTGQhwTzeubcs8ixTJXZVZFeLSxK5xLOBuntjyObQ9VLu7VxBSirm6FVwszf/iuzbJGbimTWI0DukzL1YuD5dzFMBbKP7x6OD/ywMaCV5PnH1jqKZPp0+fKTdV0sKDLZA1AfmPNxjfftJHjCeD9GDJGA8wexMeK+5wwhqmVY2jpyySeU2+02eAjMYC/wP7mqv4DcJAyGphZnE6JPzbmkq27dBtTk6Z3fEHXOfWzESo5yLqXUOlkW+uefw7AaGTr+Na5/EFVtGRp4PAHnUAHUwdd/XRg9Qk9WWbMutY5BmpDf7Jd1X9AhsTYvClP2zh48nCK/QNzAmOyNjB7mY4B/qM4jtzNYmi5uoUTM4NIJ/c4ZvYg7suoxz5UZVZFVOS6HqlPYr5PbL6EWWZKcT0ir+VyXwI43sbtxWxvtbmWxnW8b3vhdj2Ym5rE123amDI7uZrEm4H3RG4EAN63bbtTzsp/gc3Gu0scqc0PRvTJVP0wsFdIDjR4Rx/XadomgCncc5MqIY3Ha97GKMJp6qX9mMQAr6WoH2UTDO2tjtTsEq/iyZpFxk3Bkm7H6xhzu/kjlKQNXdfyvk2veVQatZGD5tv1+XzcUJG50wgZ7v+ez/tN/bak8kZOoeyPy7/70G7dUILZbVox9Hk97in75pwmr2ot4/46tpL9XioFi5bWuAlg37axDIzzcoDv06vdYRNWcw2ZDXy7T7jD5jcyWD0uDp4MfL1uiaboBrbUFQG+3oqbXPvzfB2sTeLHNBa0AQRNnwDJkPhxHXGSS0vVQP2AKxEM5caPqgNrntkb6w5uWxrOjR+A8wcsXWSKzB18har17P8YPYiRXeLHWM7pNadWaNAfGzfil7GfG+U6dImJQ8Wm2dJtzItjd+Au8bZmb+gpcew7llpLs3H2xge7OALZL9+eznVOjln6rumTQD6BTMBKy9UTJO4XrSi7ZNyiN4kfzcat8WGFVE3Q9LQX5Z5LNImn6doTCO+CQh1H2Hgr2mzMI6ftCnCU5lfMa13bZODUJwLUFedjTqRA+v+Ssqcg7d9DmPD/ANPQORPYcgHiAAAAAElFTkSuQmCC",
+      "extensions": []
+    },
+    {
+      "position": 17,
+      "title": "Okuma Citrix Travel Rod 4pc Spinning 7' 2in Med W/Case",
+      "price": "$81.45",
+      "extracted_price": 81.45,
+      "link": "https://www.amazon.com/Okuma-Citrix-Travel-Spinning-Case/dp/B0060MW61S?source=ps-sl-shoppingads-lpcontext&psc=1",
+      "source": "Amazon.com",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 18,
+      "title": "Eagle Claw Trailmaster Spinning Pack Rods - cork",
+      "price": "$59.99",
+      "extracted_price": 59.99,
+      "link": "https://www.cabelas.com/product/Eagle-Claw-Trailmaster-Spinning-Pack-Rods/704794.uts?productVariantId=1315279",
+      "source": "Cabela's",
+      "rating": 4.1,
+      "reviews": 10,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 19,
+      "title": "G. Loomis Trout and Panfish Series Spinning Rod - Model 11907-01",
+      "price": "$260.00",
+      "extracted_price": 260,
+      "link": "https://www.basspro.com/shop/en/g-loomis-trout-and-panfish-series-spinning-rod",
+      "source": "Bass Pro Shops",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAACMCAMAAACZHrEMAAAALVBMVEVHcEyadxweDQAOBAAWBwAfDgEdCwAuDwAcCgBmOQZAIAImDQB4NQCeRACwTwCjMn8nAAAAD3RSTlMABmrYw1SGvZ0YNKx9ZExxJdZyAAADXUlEQVR4nO2b227cMAxEResu2f7/zw1JybubAEXfMvOQCdp0gQI+IEcUKXlDYFEfaIItUZbJAqMsLaMRXnIWQVMs0cTF/NIONMVLbCwkdtlxIaDx+pLG6AQsCiM1deljZIKSJyl1/0dvpaNZZvEE2V+5IXOlz27l45MAYfTprX0sI6yHv7MEKI6yCJbgLSlkLELD0n35oGlks1BIiFieHKEplqTMDi23LxD9YywcklB8n+YIjLGQ1JfFQlFfnhwRaOeIRLL8wqGSBkt9EWOhkKy4BPwych2WIw4UMZbA0NrJiguJhIhl+4VDPCwSjsiSo8XCEZewWPAwTkCTIyFiUWUqv2QGv3g8jsRzCG9xYVG2HKEhtjKTX0hyJCI0LGs/+vPLT/nBO0mOLB7OQjII5MhzsWYsgeCIVx4WBqlhaFgCpV8oxJOjP7/8SysuBDRC5Bcmlu1djgwxxcX63fL///QbEiKWsFkIDMMSl3WkK5JTgUdlAShLxbPshluOycDic6OoXzhYlOZwv1DgBAbvPrIckcyw6t2GxlhSw+RGkyNjIXGu+sVeVCWA8RnWax0Bjex1hObYWvs0B47XOuSbmLLKmyJ0lv1IUe4zNooEibLcd2G4QNJEjfu+rnOgz8dMXUmu87zRSTL7ju4sF0MHM9ppLGenYEnxVJgBZNnFxVli3Cygpf2w9DINJg5oa+c02nnPOmNsOaD7TH1+nlWVfXOE0ujjRzOWEcBx8bHxYXmuJlBAGomeW0qpjv3x49fvkvhz84wKw7E55kOXUUKWurVs7Ococ06C0yBnaUlhUgbfq8naBJQkNbhhxOvL1JWEfxXeKm0vuoyMBd0y2KR23jWmA34P63E5o9JQ3Nxbw9si/GvLa1gct3Z1sxHclGvdbU/vDSaxuMyaVu+Nlg1I1vGe8Bz53qjDmu5H+PpiN3yprfkIGZl37x3nmdEnDW7ert5NmiNB79P2Rtt9xxQb+ovlhmIzyXWtGwHkF6LE/aJzQLrGa28ETtVy1KqOwZ/Y+c2EhiXV8sxqMAc/LBqX5zNQXl80MAQ31OYXY6nwmcTX9GZBr6L3mYf1u2jpbH/4OQMBi45HNsIuFuyZh6oby/xgQcpgKsUbDabeZp0sXylR01T0gPTIvDLgQ+zSF1YoEo1C4hACAAAAAElFTkSuQmCC",
+      "extensions": []
+    },
+    {
+      "position": 20,
+      "title": "Lamiglas Redline Spinning Rod - HS 98 MLS",
+      "price": "$134.99",
+      "extracted_price": 134.99,
+      "link": "https://www.basspro.com/shop/en/lamiglas-redline-spinning-rod",
+      "source": "Bass Pro Shops",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAG1BMVEVHcEwHAAQEAAMEAAMmDgcVBgUIAQUNAwUFAAT5a7TNAAAACXRSTlMAjtK9Cx9uNqYklxnUAAABXklEQVRoge2bSRIEIQgERRH5/4sH7Zl5AhnRyKlvGYXF0ltrUEwKbAsCi1FgueCc0Ks4D9w1ggCPTdWV3cFU/JGbjt5nDGSaNNet47eDb6ov+G1gLae43Tp+O1jLKf6BC+1cFTvXTfXLwSU7FzaPZzkwdsb1Ul0PfM2VFjfViWDoLUw98CoHngK9W1wbrMANI6RY2/Rq5jpg4onAdAeoTdeChoT5YG7MLcjbXdmnfMAOVPIDBj4F+YPzO6aLE4qjf4xOgYch4GlMIc9wFzEllol3ItUmEp0LGE7B7YNINQje5bSvktNtLoziNQKM1HEo7h2QfKYT464NTl8E9IA7soHszpWvuD2K08G7Z9gXnN6uxUa+4gOWA84VvGmsYmKvZsGIq2nF6UEpxl2d7q0D7sXquDPgs+xR4GKpdgY8BwReUcWIuWAwMJ1mh8CLAk8q1U0HBD7+ov7jI346ivgAaNUHdvfu7bwAAAAASUVORK5CYII=",
+      "extensions": []
+    },
+    {
+      "position": 21,
+      "title": "Daiwa Spinmatic Travel/Pack Rod 7ft - 4 Piece Ultra Light SMD704ULFS",
+      "price": "$47.79",
+      "extracted_price": 47.79,
+      "link": "https://shop.opticsplanet.com/daiwa-spinmatic-travel-pack-4-piece-ultra-light-rod.html?_iv_code=DAI-F3-DAI313-SMD704ULFS",
+      "source": "OpticsPlanet.com",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": [
+        "10% off $75+"
+      ]
+    },
+    {
+      "position": 22,
+      "title": "G. Loomis Escape Travel ETR81-3 MHC 17 Casting Rods",
+      "price": "$375.00",
+      "extracted_price": 375,
+      "link": "https://www.meltontackle.com/g-loomis-escape-travel-casting-rods.html",
+      "source": "Melton Internati...",
+      "thumbnail": "data:image/webp;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 23,
+      "title": "Okuma Voyager Spinning Travel Kit VS-605-20",
+      "price": "$39.99",
+      "extracted_price": 39.99,
+      "link": "https://www.fishusa.com/Okuma-Voyager-Spinning-Travel-Kit",
+      "source": "FishUSA",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 24,
+      "title": "Shakespeare Ugly Stik GX2 Travel Spinning Combo - graphite",
+      "price": "$59.99",
+      "extracted_price": 59.99,
+      "link": "https://www.cabelas.com/product/SHAKESPEARE-UGLY-STIK-GX-TRVL/2655273.uts?productVariantId=5369912",
+      "source": "Cabela's",
+      "rating": 4.5,
+      "reviews": 351,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAbFBMVEVHcEwBCBUHCxoCChcIDRoSER4BBxITFiYBCBYCChYJDBcFCxgABQ4BBhACCBQBBQwBBxIECBIABAsDChUGDRoIER4GCxgDCRQECBQFCxkDChkDCxsCCRYuDBhfFSSsBSuFBxTxBjheAREAAgfwEtMzAAAAI3RSTlMA00uuKhvYDszEPHn67L3k3qXynVa4Z3GDYImPlfG36Ido6cJZQAwAAAQJSURBVGiB7ZfpWuo6FIabeZ6apjOoO/d/jzvgPipYUBSPf/I+TG0hX9eQtRZNU6lUKpVKpVKpVCqVSqVSqVQ+Cfst3bGHEv+GcjzKw9sMJ3D4tvBInt/hh99kWMppRJa3WXuBvq/8751029dxNwwj4sK0OecWhLmXpPiHNGT+XoiIYuzZ0fPLuWIchgrFFQGAbLTlQ5wVxK8BkV1Eo2zkl3KT4T6gIAx3nEdLmicS8DCs1gkrFqT4OsyJozAWGzE5/am0oSflPsgw3SZ5gEQO6BLEDK0X+90uPzyRtR+jmudQBP2yDMOmRThQHwnsS3DWEcprQgTLbliQTcK7tnXUtVqXgC2J6xI6YBnqpqm3KT32LaFxHiAml5zYBRGeNwGWTG3LMoZhXxKDeu88FUJYC/Zi7ZSNce5wD+auHajIOrKccTMtyikzT1cSnAzJja9uP787Viyc1BqSABRwm6wVlvPiWE6BeYxjpKicU0oNjQpJaaP15DLH1MRRzHaMF9IVBsr7N9Fmr7p4WVrgDyLlacURzstTHHSpc96ZHTCm5QAAwRfRBgX96nJ2ZbdINpgw9UsKasN9vdW2e5Fi8MRe1i9o/0Cf9Q7yZf1i9fGl+LtgWv0HlavlSGchZFAuDivNWU9SCZs8AKVE+HN345lqdHJSwZPDDsCwf3IHgzmntFjpy8N7cNA0bWsOaVVsLp/QDBnUcIIYdd1SDMYlG/YUqv0u4NPgwaB1PM0j1kV5sscGJHl62JUbp0XxKGdao9vCIZOPaKH+u1s2N0tSGFNrMkLW50eU0p/8NshE8ezH87CreLa1m45iKh52/xSPei+KOYMQB3liT0l9wvBKaXaBm2x2HO13r2UBRqP5cC7STNO7Uw3R0habjXkxUZekQmPfX+xBfUxuWRYEeuR4PBZtiSjCpCSUTu+LOJvmzaWsROHhKNlatHT4vOBtQrIzvn85xKEh42h02Cpeg7qwIonAgUV1N5Zw+MalEimjneo3vsaG8cfmllLI9ZjWksjvOz6Z1Q/psokjZMQwHTfQic1SQRLG7Z99F/loczZBDRJiUUw7qRMQY/QzunIFPonxuVgwJhGEbzsug67/eEi6GTIFX7rYcrI0edsVIlXk7sJ4LC3MW3V5kmJBXG37X4F08dCuUn8lYaVFnykIt4BVKh2bxqvj9QTW+24jJlcqkADxavDY4jaa9DfAExIJcb5ejx5O9MLc/SWIEkagMjx/NJtDwO+aViHQbgHiSiIfKRORvfMfu8yBWz9akwUd7p3OjZw+NEUKfed0/hyd19td/2dhZeq+7zb6HCSWqeQX7IXW8Nv+Dt4FptqMfkG3Yc5uTJj/i7L4Hd1KpVKpVCqVSqVSqVQqlUqlcjt/AW7qPr4lBhhaAAAAAElFTkSuQmCC",
+      "extensions": []
+    },
+    {
+      "position": 25,
+      "title": "Offshore Angler Ocean Master Travel Casting Rod - Model OTR71525HC",
+      "price": "$159.99",
+      "extracted_price": 159.99,
+      "link": "https://www.basspro.com/shop/en/offshore-angler-ocean-master-travel-casting-rod-159788-1",
+      "source": "Bass Pro Shops",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAACMCAMAAACZHrEMAAAAPFBMVEVHcEwAGUgHEjIBFkGsUwO+eBvEXADgwhw5h5a/WQAHAQMXKE4KEzQNGTWKPwAMChcIBAcNH0IPBwiSQwKI538kAAAAFHRSTlMAvYGgNxNSBARm3iFsSXSUxTiqVxR8X8sAAARKSURBVHiczZxbkuMgDEUJNhExuAF7/3ttPcDJDq5UNZOaL5/SC0mICcGLlJTRCCY5h7OeaIpHzlqdKGayeKChyUJImGwfJ2KWmPgHKfPr7LsxJriNSHnyiLEQ1EYm2fRS2F/QMBQWS3iMBhXTS3ABc8ZWOKwyHIWysfAvOK75+5xf4lawFCqqDCcsml+UBR7SQsK+27YRMqHdRRVjLAHvuw8LwWHk88xysr9gjZQtp4xtsyITq5ZzMMC5WLBCIY4QezuDixNgpHocFe64IjkUtlENLpJdyPFiliwnNRolhHh0sZELltGOKGcAjoCen/HaKt5xRUhyXUVTiEjiVxZ8T6JnkNgoOGiQ5nlUPaQ6UcfYXpHwpZQqRlg0pFE467OLRc4AWFvym1+EBSoPjLI4iCIBKq+N/cUHTBG94Fk0ppllE6/F06heNi4xPSQYY+EEA28dyVhmjQmEkVKOWTa1kQPJWVlceG4ILljUQ5ilb5sMm7FmytqtpX70gi2+Jww7TOx9dzJTLW2zwTfaTGKleDR1HZz7rpqBbfRqDgaZUuayXiSm0eYJVnIzS8KP4JXF9ILXjKAoCzno1pZecvAAY/4SoA4zW0WudKuwoEUTP5lePAilwHop6JNRSKTIFRb0yUjW0GdlgfckWvrn8/UqCuUgplUvwJLh+Synlap6AV4L0/zrywKUmVxcsISwhh7K4iC/EE0WdEgHs9JpeoGHtOW61wjBwQoMq0NZCL/pIQ7TrqUXHIyVLxTKcXi4iFUZnVnwviJxtDfRC95xxV/S3n3YSFDen7uiaymDEZbP7aHgNb18/nQAg/KZVWxTer/fwoK30dLLbSzIYOIw2pXlT9Zmscs4rBa2kbDs6EDiXJfMRl+HQZkpm7+8VS9oxbDQYjEU6IpFOi3BOLhAohT7tb9v8xf0HL52ln2uwmNhSjqZpWlnnbEwOZXBNDr5BsOwOkZLqcYiiQVcUBGV1i59ruCgshtXu/p83gK5il3lSqY82nV1K75B18JWIsit9Nla6xGA8GVZKT8xy9UbuHbRP7lGZUE7rlxIpHiJv0T8KS3T3SZ6OR0MYEhCWmI6wK/LGaawia5+eFiD5LqOUXqLHf+aj1n2/ZKb+3KCpw1W777va602w2ie2vtz74qRoSek6eVtDTVWll48sNjMQ5t7dBSt3p5ZEm4R/ulYVw8LZFlIc+bxdyfgCwGaO22T5Y1+KzxZLI7yfJMKk5l3LY6sRwLCGMutLGjnXTE9t2aBOPmbXyYHTjkzv8CHqrYm++gFu4qj+YWe2SH2ks/yy+fxXSRM/jkbyZYzYSwUfvQCzy4/eoGaKP/Uu2ojrO/qnc1HWAZ+vBty3e+PXtqkgO6pKR5RL5ASfqMhteM4/vigTgSeY+YwuH9lmlaT/RspRUhEhoM3jpU5hOe0tXzwQ3dFOaCTzK9EgbngFjLJbKjuYJdMhePpxP8HRiL/wbguTlBeyUgAAAAASUVORK5CYII=",
+      "extensions": []
+    },
+    {
+      "position": 26,
+      "title": "Spin/Fly Combo Outfit Gray | L.L.Bean",
+      "price": "$169.00",
+      "extracted_price": 169,
+      "link": "https://www.llbean.com/llb/shop/73176?productId=1200352&attrValue_0=Gray&pla1=0&mr:trackingCode=1A62AF02-BFE7-E511-80ED-00505694403D&mr:referralID=NA",
+      "source": "L.L.Bean",
+      "rating": 4.4,
+      "reviews": 48,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 27,
+      "title": "St. Croix Tidemaster Inshore Casting Travel Rod - TIC76MHF3",
+      "price": "$260.00",
+      "extracted_price": 260,
+      "link": "https://www.tackledirect.com/st-croix-tis76mhf3-tidemaster-inshore-casting-travel-rod.html",
+      "source": "TackleDirect.com",
+      "rating": 4.7,
+      "reviews": 37,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAABxCAMAAADGd/wWAAAAPFBMVEVHcEw+JQ0LDQlQLRABBggABQUSEw0ABQYABQUABghGLhcYFAxNQioSEQsGCgcKDAgNDwqoSQBUJgGwTQFccA2lAAAAFHRSTlMANo4p1fdI5uzdGVoMar2ke16STFiVhVkAAAO2SURBVGiB7ZiJlqMgEEVlkVXAbv//X6eqACUmdpt0mzlzhhtXtgcIRZFh6HQ6nU6n0+l0Op3Of830dsHJkaaT/N3KTjAxDc6a8SfSEzShgL2Hr3h8rcyUYkzbFNPL0pM7B6SbNhzz3hsUtpq3Ubnu7ZGD73GMqYWdQsBRgExhHo2U0so4+hosHJ0OD4LecuiNOFZJ+UoozGEmOJ6HpDSOxoyAjTkEM/Ccdc4l+YagxPoNgx5PYI5jTD5sSUYvhp6PM2kPypjuMRp+pp7wgofUOa4ImHob5U1OAK4yRolYCLAURpWhwoZBjKYpOt8KVTw/UrIYbSNAzcq3XZ2ROCfqdR78LKkmetRZdtTGD55Kz3UsatrUXy6l1ADvNmpzI9223hjdKJsE3zzMXgV4iBhgLWpqUtZp4Dlh7U1dn3Xtg6YTdOkbcyPfZjclDXWujRXocIywqG6tpB4ZYlt0q34W++DVagtHgpEPBzSZS7mlKz0yyDar3QqyW5i9Zf++Ifc3udHkxwI0H2ZLwbLcyrPdclGUzfec7CfYUmRUQ5C13FLZrXbHjds1tNZWnq8YKLPYdgJ9oCehwfSIw5pjJQVYbB+88irj1fr4FD7/9gZ4Y7O2SOTs1ZWt03kW8Gzy2KzDtXFCyPuAE12hYfXNqt/zM4T8PEEEo59gssAalGaYHDUcpiW6YC8ps7QsHwjd8uM9KUaYi7T4cLiPW8xiimWl2FSok7h6R6tvpBrlzwU0F7p81ErcKfOYopaoD04uuJuNMvgqsqx02SGUmhwGMnK5Qm1VmkaH/DXLmS/4cdnClhWwRFRbocDN9GqNYcKd7t1pvewDH76suHCqpBPiT0fNx1EX8/ZNY+dZcOuHuyuwh+ty3ny2ad2PiftdXHUAblb+ds0HC1OMTN5XgEdSXOJsX3Auoynx1TKvyhz2OsV1NhKe9Wi/3GahS01O12qz8IpF+1wybhtPGVQVePVhYDMC9i6tu0BVi6I96XFp4lc8nPDC7JnU92m+R13poU2CKXEUKS6xGK6u95Pjv9JB3zIJHCshhcOWXqAI21gYo2UOXW/0SRE9AbQZTfj5tfRZHAgm9JX8Zij8ZWooCE3Mrgb07HXtagSZD7RP4vRXU4ZduIw6Bi0kE50Ce0MLYdD4OeutTbx0Pwg9OpcGzl7t7MuvNxibB2M0ousaeYBxc60LJPDPU456xkKPzn79hpcKc5k0fkBYEe8ttrtSGebH20zqnjsP/m38tSZ3Op1Op9PpdDqdTuef4w/W7lOwG8yNfgAAAABJRU5ErkJggg==",
+      "extensions": []
+    },
+    {
+      "position": 28,
+      "title": "G.Loomis Classic Trout and Panfish Spinning Rod - Model 10231-01",
+      "price": "$210.00",
+      "extracted_price": 210,
+      "link": "https://www.basspro.com/shop/en/gloomis-classic-trout-and-panfish-spinning-rod",
+      "source": "Bass Pro Shops",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAACMCAMAAACZHrEMAAAAMFBMVEVHcEzNtQIJBgCCSAB3TACLTgAJBQAGAwBeQQGFTgAGAwCYWwB3QQAcEgAGBABtPQCVLR8yAAAAEHRSTlMAA0p8FmmUrQtWyjGHKmpoAfFb8gAAA1ZJREFUeJztnN1upTAMhOMQSCAkvP/bru2EA2e1q73bmYvOxWkrVeKTf8Yx0IbAoiJoglsisbHASOjdPjmkLMLDYigENDJyxKIRFw557ZLQjD7CwxhDP1rx79E4ev14tBR7bGASVz+SfTGegkyVXTrmMn+K2waNjs6j7QlG7DkBYfT6j+tKKA0YGon93dECbSdj4ZBoxWJj8chYoK38JWNhgHF/2co/f+//yOuFISxhsFCkyGUsLDSDhUPveYQWS0+b3OsYnFeEzF9YWJh8l4hFiFjm+QVNcYvOX9AQJmGaAYRnTApZXKCr4ktMLMFZeOqFIy5jJ+FgMfGwyOteEF4sLN/3yNDi8xcWOQuB2XH5y0+9/ElMOWJi8fMujdf9sPxNXCwktRt4ZoCJpqcDGQtTveTGUy+Z4tG0SYhY7Lk9GuGjZLVLcMvO7r03mj5SFuxrDF+KneaehzQWf1GGhn2540uWIxa13ihSZIqdJ0eJhkVCiiz1Yl6HrZf3tRPa6+TzoX0Ef7NZp6I/lZaI72mR+douw1nqflbfnQWfJuMxFjSJsaTCkSOV1L3WfpDEpa7rwnH2Fg2Mwixwg7GXmktylmvHwrjVyWBZFjCM43jBnMu6JziMxmW3uOy1oLc1rZfqOdKwwFnCwwIcA8P/Q9x3RbFygcL4Pt9zvp4cIfOkg3HbDqW54wKFKVc+VCMugoOxK5fqMLl9UoSCMRZtI6Uh+Js1891Ffffqck8FHEvRQa0s1V+zHhUDIvEcreeyVAzAt8qYjRVdLGMj8dlY8ZUb7OR9KkxFj0Z3k7jlY1sr1nKDe1szlnxEoOV+pLMxq9VF3yKB3uJLo85GHQERRuEk47NlYznALCMnLfucxsKMJpaUN4dBv6sqvjdqjjI6STeL7tN2fsG3tLOcZ3YWtNkNlmVNwLOLTI37DPfZG3bYDXdcbEFK8rrLCoCZcbEz5r3D4mpGcXyFfViQMBoXS9HpLNDIyN1H55WgK8CAeVienQTCpBf1o/d5ah/5UoIsl9lHnqOAXR1/Z4H+G4Livus5mocrGIqu07fvBri/1H2ftQuf08FZPEdh7ktImPVTuwL1F5PsxrLciyPYe9OlBbMzLI5zQNoQgFfvUEllHvTQJKZZtXCWX+l8FQ3IS1rGAAAAAElFTkSuQmCC",
+      "extensions": []
+    },
+    {
+      "position": 29,
+      "title": "Fenwick Eagle Travel Spinning Rod by Sportsman's Warehouse",
+      "price": "$69.99",
+      "extracted_price": 69.99,
+      "link": "http://www.google.com/shopping/product/2901136504661322109?lsf=seller:7228968,store:5181663388169327738&prds=oid:11084912074614773216&hl=en",
+      "source": "Sportsman's W...",
+      "rating": 4.4,
+      "reviews": 31,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAUVBMVEVHcExbKABTJABsMQBDHAB3NQA9GgB2jDuANgB1MQCOQgA9IgYUCgIcDgMWCwMUCQJGKQkgEgRRIwBJNQxQQRM9IAQKBQITCgMjEwVfLAEIBALmKkmjAAAAG3RSTlMAi6yatI3DA3iBa0DGkqnUK3qhHRBU4bdjbPiMn+MpAAADsElEQVRoge2aVxKlOAxFnRMOYMCE/S90JF7PFq6rutpf/J1SuhKWhfh3/p2/7vh7X5YJWOFz0ubGk8XRCHzCsV7sBHYLfaDPwuAVjhXidsm6fQK4XFVfxwxwLXXgI8zgfI11QnKRwTnvE8DX1q8Cp1Ih503mbQL3aKW2GYq5t/vKeMUk4cp3bRO6kzgpxmOKYl6ltBmKuZmntDnCJWueIB+ibvK68FgSrvLUOoFLwnXlGYq5jK22CYopzrblKYq5jE+q8Vl9U4zHNgG8XTT40HALJ5eNwDMUs5blHAfa1YS7znOZIdWkH+rJaDBlFA0+F0s1Fk3g9d3qhZfqY93eM0+Qak/zh2zUnPBlvLVkx4zmtOVSHX7G9OI01xzFvFXSL7o5ebJz08GifxU/9xZJYLif1+WswdoLHuLFqCytrgJL9mJRvcumCjy3zpB015LbMTa7nhiTVN24A5zVT0ghRWlcR3K5Q/QUQkjkb6zFYh8jMFpLaHp9U4AfMUo4eHk3UUqLWoIFpLyZxtv9em+owd7zld44l5HBw94qqZharqMiwaRVSwgxpJJf6OhDJrJwJRutAY+3LFxJUhlbjZRMko/HRnJ2DFZBFwOewIGjbG0H/qaSb1eS6Z6kjVEhFwOU1DE8xCaTDXawPiP5OZDBUQHBnsGUWCHIHjtywUeDT0opMJxdjaynn6ujlbZDY0zgmGK0DIZmtX/kF+MUrYZeN9GMqWPUQWvbgddNnqU6sFRbmqyhknkQNAVytwVPPgdph+VisuqBTiDHw7pF5WQVds+2fy2Ry1hhXybsn36EZK3Gbq13zitiR9WxDwRWyQaTvYqSGtmOGZxYtpRE3gj8wKyZnasJeVZOLjJYd2g1feM8hzhyGQNvIrw4ydVW0lDNox6ynBb7jR9RdzSYsJKqScsd+s/G022SrNQSuvxhMHF11OCmSMlFUOoTGlzGXtxS86QnsU2Rb6odNQlWzBM6Ynp/O2WCjh27kfju5pUxRmrobwTv9orVURFbQZ/bUHNyhvSjG9fA4IVCbKiQoS8jWZpvZ1Q3pnfo4MO3emwxHWewE5cvP4uNc1CLxUHMTmyHBu/O/I7LWFcvf0JMrkb+HPsvqZWDg4Xg3DJfiDP2OqCSq9UvxshdqvdUvwx2JJnQ5NproxhTlJ3BPo1cx1s/g8li7Np6e9u9kL0O3J3otJzLZr62CN46raONO39g9K7+fNt484zn84R+B/I+4P9DfXm9/ITnJx98EvfH/nf+6vMfL28uI/viXFIAAAAASUVORK5CYII=",
+      "extensions": [
+        "In store"
+      ]
+    }
+  ],
+  "knowledge_graph": {
+    "see_more_about": [
+      {
+        "title": null
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "What is the best telescopic fishing rod?",
+      "snippet": "Top 10 Best Telescopic Fishing Rods in 2019Eagle Claw Pack-It Telescopic Spinning Rod.Sougayilang Telescopic Graphite Carbon Fiber Spinning Portable.Sougayilang Fishing Rod Reel Combos Carbon Telescopic Fishing Rod.Sougayilang Spinning Telescopic Fishing Rod Graphite Carbon Fiber.PLUSINNO Fishing Rod and Reel Combos Carbon Fiber Telescopic Fishing Rod.More items...•Jan 5, 2019",
+      "title": "Top 10 Best Telescopic Fishing Rods in 2019 - Reviews & Buying ...",
+      "link": "https://toptenreviewpro.com/best-telescopic-fishing-rods/",
+      "displayed_link": "toptenreviewpro.com › best-telescopic-fishing-rods"
+    },
+    {
+      "question": "Are telescopic rods good?",
+      "snippet": "Telescopic rods are a compromise and not a very good one at that. If you need a compact rod, a multi-piece rod is much better for the reasons above. ... Telescopic poles collapse completely into each other which makes them less susceptible to the contamination problem that telescopic rods have.Apr 13, 2018",
+      "title": "How reliable are telescopic fishing rods? - Quora",
+      "link": "https://www.quora.com/How-reliable-are-telescopic-fishing-rods",
+      "displayed_link": "www.quora.com › How-reliable-are-telescopic-fishing-rods"
+    },
+    {
+      "question": "What is a spinning rod fishing?",
+      "snippet": "Spin fishing is an angling technique where a spinning lure is used to entice the fish to bite. ... There are two types of reels used when spin fishing, the open faced reel and the closed faced reel. The spin fishing rod has no trigger attached to the base of the fishing rod.",
+      "title": "Spin fishing - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Spin_fishing",
+      "displayed_link": "en.wikipedia.org › wiki › Spin_fishing"
+    },
+    {
+      "question": "Where are St Croix Triumph rods made?",
+      "snippet": "Whether your rod was made at our Park Falls, Wisconsin headquarters, or if it comes from our state-of-the-art factory in Fresnillo, Mexico, you can rest assured that your St. Croix rod was handcrafted, from start-to-finish, by passionate and talented members of the St. Croix team.",
+      "title": "Culture - St. Croix Rod",
+      "link": "https://stcroixrods.com/pages/culture",
+      "displayed_link": "stcroixrods.com › pages › culture"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "▷ 6 Best Travel Rods And Reels (Must Read Reviews) For ...",
+    "link": "https://www.fisherpants.com/best-travel-rod-and-reel-combo/",
+    "snippet": "Best Travel Rod and Reel ComboOkuma Unisex's 330782-SSI Voyager Spin Combo Travel Kit.Daiwa 942062-SSI Minispin System Travel Kit.Daiwa ETPSF200 CF3Bi WN Executive Travel Pack.Ugly Stik Spinning Fishing Combo Kit.Eagle Claw Unisex's Pack-It Spinning Telescopic Fishing Rod.Flying Fisherman Passport Travel Fishing Rod.",
+    "thumbnail": "data:image/jpeg;base64,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"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Best Travel Fishing Rods [Spinning and Kits] - 2019 Buyers ...",
+      "link": "https://biggamelogic.com/fishing/rods/travel/",
+      "displayed_link": "biggamelogic.com › fishing › rods › travel",
+      "snippet": "We review the best travel fishing poles, spinning rods and travel kits. Don't go traveling without this vital fishing gear.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Zx3m65WBQM8J:https://biggamelogic.com/fishing/rods/travel/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Best Travel Fishing Rod 2019/2020 – Top Rated Travel Rods ...",
+      "link": "https://tacklexpert.com/rods/best-travel-fishing-rod/",
+      "displayed_link": "tacklexpert.com › Rods",
+      "snippet": "Looking for the best travel fishing rod to bring along on your next trip? Check out are top rated rods. There is something for every scenario.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-ZTSxAzaCxMJ:https://tacklexpert.com/rods/best-travel-fishing-rod/+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Best Travel Fishing Rods 2020 - Reviews & Buyer's Guide",
+      "link": "https://www.catskillflyfishing.org/gears/best-travel-fishing-rods/",
+      "displayed_link": "www.catskillflyfishing.org › gears › best-travel-fishing-rods",
+      "snippet": "Do not get confused with the plethora of options available for the Best Travel Fishing Rods. Read our buyer's guide and choose from the list of top Travel Fishing ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ImCQYcBge30J:https://www.catskillflyfishing.org/gears/best-travel-fishing-rods/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Best Travel Spinning Rod - Just Spin And Go",
+      "link": "https://www.bassfishermansguide.com/best-travel-spinning-rod/",
+      "displayed_link": "www.bassfishermansguide.com › best-travel-spinning-rod",
+      "date": "Jun 27, 2019",
+      "snippet": "Are you planning a trip? Looking for the best travel spinning rod? Something that is lightweight, portable and yet durable? I think I have the ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What is the best travel ...",
+            "link": "https://www.bassfishermansguide.com/best-travel-spinning-rod/#What_is_the_best_travel_spinning_rod"
+          },
+          {
+            "title": "Okuma Nomad Travel",
+            "link": "https://www.bassfishermansguide.com/best-travel-spinning-rod/#Okuma_Nomad_Travel"
+          },
+          {
+            "title": "Okuma Voyager",
+            "link": "https://www.bassfishermansguide.com/best-travel-spinning-rod/#Okuma_Voyager"
+          },
+          {
+            "title": "Fiblink 4 Piece",
+            "link": "https://www.bassfishermansguide.com/best-travel-spinning-rod/#Fiblink_4_Piece"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PsBJGKwHQ7UJ:https://www.bassfishermansguide.com/best-travel-spinning-rod/+&cd=7&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.bassfishermansguide.com/best-travel-spinning-rod/+best+travel+rod&tbo=1&sa=X&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQHzAGegQICBAJ"
+    },
+    {
+      "position": 5,
+      "title": "▷ 6 Best Travel Rods And Reels (Must Read Reviews) For ...",
+      "link": "https://www.fisherpants.com/best-travel-rod-and-reel-combo/",
+      "displayed_link": "www.fisherpants.com › best-travel-rod-and-reel-combo",
+      "snippet": "Best Travel Rod and Reel Combo. Okuma Unisex's 330782-SSI Voyager Spin Combo Travel Kit. Daiwa 942062-SSI Minispin System Travel Kit. Daiwa ETPSF200 CF3Bi WN Executive Travel Pack. Ugly Stik Spinning Fishing Combo Kit. Eagle Claw Unisex's Pack-It Spinning Telescopic Fishing Rod. Flying Fisherman Passport Travel Fishing ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Daiwa 942062-SSI ...",
+            "link": "https://www.fisherpants.com/best-travel-rod-and-reel-combo/#2-Daiwa-942062-SSI-Minispin-System-Travel-Kit"
+          },
+          {
+            "title": "Daiwa ETPSF200 CF3Bi ...",
+            "link": "https://www.fisherpants.com/best-travel-rod-and-reel-combo/#3-Daiwa-ETPSF200-CF3Bi-WN-Executive-Travel-Pack"
+          },
+          {
+            "title": "Flying Fisherman ...",
+            "link": "https://www.fisherpants.com/best-travel-rod-and-reel-combo/#6-Flying-Fisherman-Passport-Travel-Fishing-Rod"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Lx0oJowNdmkJ:https://www.fisherpants.com/best-travel-rod-and-reel-combo/+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "The 4 Best Travel Fishing Rods Of 2019 – Armchair Empire",
+      "link": "https://www.armchairempire.com/Reviews/best-travel-fishing-rod",
+      "displayed_link": "www.armchairempire.com › Reviews",
+      "snippet": "This one's for all you fishermen and fisherwomen out there in search of the best travel fishing rod. I'm not a pro, but I really enjoy fishing in my spare time.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XikA_ryYG2wJ:https://www.armchairempire.com/Reviews/best-travel-fishing-rod+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Best Travel Rod & Reel for the Money 2020 | Travel Spinning ...",
+      "link": "http://profishinggearreviews.com/best-travel-rod-and-reel-combo/",
+      "displayed_link": "profishinggearreviews.com › best-travel-rod-and-reel-combo",
+      "snippet": "The Voyager Spinning Travel Kit by Okuma is a rod-and-reel combo that disassembles and fits into a convenient nylon carrying case that measures only 17 x 9 x ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:AKLP1hw1BOoJ:profishinggearreviews.com/best-travel-rod-and-reel-combo/+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Top 10 Travel Rods of 2020 - Best Reviews Guide",
+      "link": "https://www.bestreviews.guide/travel-rods",
+      "displayed_link": "www.bestreviews.guide › ... › Sports & outdoors › Sports & fitness",
+      "snippet": "Best Reviews Guide analyzes and compares all Travel Rods of 2020. You can easily compare and choose from the 10 best Travel Rods for you.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MUIP2sdeVqcJ:https://www.bestreviews.guide/travel-rods+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Travel & Pack Rods | FishUSA",
+      "link": "https://www.fishusa.com/Fishing/Fishing-Rods/Travel-Pack-Fishing-Rods",
+      "displayed_link": "www.fishusa.com › Fishing › Fishing-Rods › Travel-Pack-Fishing-Rods",
+      "snippet": "Shop quality Travel & Pack Rods[store] at FishUSA. Find top brands, best prices, and great service at America's Tackle Shop.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8aYWRN7Ci8sJ:https://www.fishusa.com/Fishing/Fishing-Rods/Travel-Pack-Fishing-Rods+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Best Travel Fishing Rods 2020 - Top Traveling Rod Reviews",
+      "link": "https://outdoorstack.com/best-traveling-fishing-rod/",
+      "displayed_link": "outdoorstack.com › best-traveling-fishing-rod",
+      "snippet": "Best Travel Fishing Rod: We have reviewed some of the top-rated travel spinning rods, combos and kits out there on the market to help you buy the Best ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:T86WdigDMxUJ:https://outdoorstack.com/best-traveling-fishing-rod/+&cd=21&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "best travel rod 2019",
+      "link": "https://www.google.com/search?q=best+travel+rod+2019&sa=X&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ1QIoAHoECA4QAQ"
+    },
+    {
+      "query": "4 piece travel spinning rod",
+      "link": "https://www.google.com/search?q=4+piece+travel+spinning+rod&sa=X&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ1QIoAXoECA4QAg"
+    },
+    {
+      "query": "best travel fishing rod 2018",
+      "link": "https://www.google.com/search?q=best+travel+fishing+rod+2018&sa=X&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ1QIoAnoECA4QAw"
+    },
+    {
+      "query": "okuma travel rod",
+      "link": "https://www.google.com/search?q=okuma+travel+rod&sa=X&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ1QIoA3oECA4QBA"
+    },
+    {
+      "query": "travel fishing rod amazon",
+      "link": "https://www.google.com/search?q=travel+fishing+rod+amazon&sa=X&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ1QIoBHoECA4QBQ"
+    },
+    {
+      "query": "best telescopic travel fishing rod",
+      "link": "https://www.google.com/search?q=best+telescopic+travel+fishing+rod&sa=X&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ1QIoBXoECA4QBg"
+    },
+    {
+      "query": "st croix travel rod",
+      "link": "https://www.google.com/search?q=st+croix+travel+rod&sa=X&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ1QIoBnoECA4QBw"
+    },
+    {
+      "query": "penn travel rod",
+      "link": "https://www.google.com/search?q=penn+travel+rod&sa=X&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ1QIoB3oECA4QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+travel+rod&ei=ZycnXvm8EYiymAXsrKjACQ&start=10&sa=N&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ8NMDegUIEBDIAg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+travel+rod&ei=ZycnXvm8EYiymAXsrKjACQ&start=10&sa=N&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ8tMDegUIEBC2Ag",
+      "3": "https://www.google.com/search?q=best+travel+rod&ei=ZycnXvm8EYiymAXsrKjACQ&start=20&sa=N&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ8tMDegUIEBC4Ag",
+      "4": "https://www.google.com/search?q=best+travel+rod&ei=ZycnXvm8EYiymAXsrKjACQ&start=30&sa=N&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ8tMDegUIEBC6Ag",
+      "5": "https://www.google.com/search?q=best+travel+rod&ei=ZycnXvm8EYiymAXsrKjACQ&start=40&sa=N&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ8tMDegUIEBC8Ag",
+      "6": "https://www.google.com/search?q=best+travel+rod&ei=ZycnXvm8EYiymAXsrKjACQ&start=50&sa=N&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ8tMDegUIEBC-Ag",
+      "7": "https://www.google.com/search?q=best+travel+rod&ei=ZycnXvm8EYiymAXsrKjACQ&start=60&sa=N&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ8tMDegUIEBDAAg",
+      "8": "https://www.google.com/search?q=best+travel+rod&ei=ZycnXvm8EYiymAXsrKjACQ&start=70&sa=N&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ8tMDegUIEBDCAg",
+      "9": "https://www.google.com/search?q=best+travel+rod&ei=ZycnXvm8EYiymAXsrKjACQ&start=80&sa=N&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ8tMDegUIEBDEAg",
+      "10": "https://www.google.com/search?q=best+travel+rod&ei=ZycnXvm8EYiymAXsrKjACQ&start=90&sa=N&ved=2ahUKEwi5jP-Hj5XnAhUIGaYKHWwWCpgQ8tMDegUIEBDGAg"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+rod&start=10&token=02ee8363e3e075a6",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+rod&start=10&token=02ee8363e3e075a6",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+rod&start=10&token=02ee8363e3e075a6",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+rod&start=20&token=07a465eb73377c87",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+rod&start=30&token=cf13406fdb34d01f",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+rod&start=40&token=5b06dd94d83e492c",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+rod&start=50&token=2198569a04a8463d",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+rod&start=60&token=4435faec4f79c340",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+rod&start=70&token=847fc3b510fc03b9",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+rod&start=80&token=8ee27d800a40bae8",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+rod&start=90&token=189743534a4e0d6d"
+    }
+  }
+}

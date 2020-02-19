@@ -1,0 +1,285 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 23:07:21 UTC",
+    "processed_at": "2020-01-21 23:07:21 UTC",
+    "google_url": "https://www.google.com/search?q=24+hour+office+supplies&oq=24+hour+office+supplies&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.3
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "24 hour office supplies",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 1400000000,
+    "time_taken_displayed": 0.47,
+    "query_displayed": "24 hour office supplies"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=24+hour+office+supplies&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=37116869,-95780083,47954&tbm=lcl&sa=X&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 37.116869,
+      "longitude": -95.780083,
+      "altitude": 47954
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=24+hour+office+supplies&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=37116869,-95780083,47954&tbm=lcl&sa=X&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQjGp6BAgLED0",
+    "places": [
+      {
+        "position": 1,
+        "title": "Central States Business Forms",
+        "place_id": "10336805355672481053",
+        "lsig": "AB86z5W7Obf4CeDWX8AyyYiBbwLX",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5W7Obf4CeDWX8AyyYiBbwLX&ludocid=10336805355672481053&q=24+hour+office+supplies&tbm=lcl&token=169e4c2024401d34",
+        "rating": 5,
+        "reviews": 3,
+        "type": "Office supply store",
+        "hours": "Hours unknown · (918) 661-2100",
+        "address": "Dewey, OK",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.8139105,
+          "longitude": -95.9205684
+        }
+      },
+      {
+        "position": 2,
+        "title": "Indoff Inc",
+        "place_id": "10526412854641129444",
+        "lsig": "AB86z5UF2ppzxQW26ypQbSMAsx_Q",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UF2ppzxQW26ypQbSMAsx_Q&ludocid=10526412854641129444&q=24+hour+office+supplies&tbm=lcl&token=9005e2e003a5783f",
+        "rating": 0,
+        "type": "Office supply store",
+        "hours": "Hours unknown · (918) 273-2600",
+        "address": "Nowata, OK",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.700127099999996,
+          "longitude": -95.639599
+        }
+      },
+      {
+        "position": 3,
+        "title": "Hull Enterprises Inc",
+        "place_id": "3629488945380179274",
+        "lsig": "AB86z5UqgZqNVZ5CF-IhHMszozcm",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UqgZqNVZ5CF-IhHMszozcm&ludocid=3629488945380179274&q=24+hour+office+supplies&tbm=lcl&token=bc1720d7c2425933",
+        "rating": 1,
+        "reviews": 1,
+        "type": "Office supply store",
+        "hours": "Hours unknown · (620) 378-4198",
+        "address": "Fredonia, KS",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 37.5336111,
+          "longitude": -95.8282199
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "Is Office Depot the same as OfficeMax?",
+      "snippet": "OfficeMax. OfficeMax is an American office supplies retailer founded in 1988. It is now a subsidiary of Office Depot, Inc., which is headquartered in Boca Raton, Florida. ... On February 20, 2013, an all-stock merger between Office Depot and OfficeMax was announced.",
+      "title": "OfficeMax - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/OfficeMax",
+      "displayed_link": "en.wikipedia.org › wiki › OfficeMax"
+    },
+    {
+      "question": "Does Office Depot laminate things?",
+      "snippet": "When you choose Workonomy, you get same day printing on anything from business cards to posters, calendars, banners and more. Yep. Think of us as your super speedy assistant. We can laminate in store or we can laminate any of these print services listed below.",
+      "title": "Same-Day Services - Office Depot",
+      "link": "https://www.officedepot.com/cm/print-and-copy/same-day-printing",
+      "displayed_link": "www.officedepot.com › print-and-copy › same-day-printing"
+    },
+    {
+      "question": "Is Office Depot the same as Staples?",
+      "snippet": "Staples announced its plan to acquire Office Depot in February of 2015, for what was valued at the time to be $6.3 billion in cash and stock. ... The Journal points out that Staples and Office Depot tried to merge back in 1997 and were also blocked back then.May 10, 2016",
+      "title": "Staples and Office Depot are calling off their merger - The Verge",
+      "link": "https://www.theverge.com/2016/5/10/11653664/staples-office-depot-acquisition-blocked-federal-judge",
+      "displayed_link": "www.theverge.com › staples-office-depot-acquisition-blocked-federal-ju..."
+    },
+    {
+      "question": "Can you print at Office Max?",
+      "snippet": "You can save time and money by using Office Depot's printing services and get a high-quality job. Whether you need a few copies or to print a large presentation, we can handle the project, often printing documents the same day. ... You can order printing online or visit a store. It's convenient commercial printing.",
+      "title": "Print on Demand at Office Depot OfficeMax",
+      "link": "https://www.officedepot.com/a/copy-and-print/print-on-demand/solutions.officedepot.com",
+      "displayed_link": "www.officedepot.com › print-on-demand › solutions.officedepot.com"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Find Stores Near You - Office Depot & Office Max",
+      "link": "https://www.officedepot.com/storelocator/findStore.do",
+      "displayed_link": "www.officedepot.com › storelocator › findStore",
+      "snippet": "Enter in your zip code, city or state to find the phone number, store hours, driving directions and location of an Office Depot or OfficeMax Store near you. View All Office Depot Locations. ... Copyright © 2020 by Office Depot, Inc.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NWclddyCd0EJ:https://www.officedepot.com/storelocator/findStore.do+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Fifteen Staples Superstores To Be Open 24 Hours | Staples ...",
+      "link": "https://news.staples.com/press-release/fifteen-staples-superstores-be-open-24-hours",
+      "displayed_link": "news.staples.com › press-release › fifteen-staples-superstores-be-open-...",
+      "snippet": "Customers can order office products 24 hours-a-day via fax through the Staples catalog and since November 1998, customers have had the convenience of 24-hour shopping over the Internet with Staples.com.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JyEqDF-LwpMJ:https://news.staples.com/press-release/fifteen-staples-superstores-be-open-24-hours+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Shop 24hour by Options, Prices & Ratings at Staples",
+      "link": "https://www.staples.com/24hour/directory_24hour",
+      "displayed_link": "www.staples.com › 24hour › directory_24hour",
+      "snippet": "Browse 24hour on sale, by desired features, or by customer ratings.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HiEeCuvDXcoJ:https://www.staples.com/24hour/directory_24hour+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Office Supplies - Walmart",
+      "link": "https://www.walmart.com/cp/office-supplies/1229749",
+      "displayed_link": "www.walmart.com › office-supplies",
+      "snippet": "Shop for Office supplies and products at Walmart.com. Shop for paper, ink, toner, printers, pens, staplers, and more. Save money. Live better.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Calendars and Planners",
+            "link": "https://www.walmart.com/browse/office-supplies/calendars-and-planners/1229749_8412191"
+          },
+          {
+            "title": "Paper",
+            "link": "https://www.walmart.com/browse/paper/1229749_6562796"
+          },
+          {
+            "title": "Whiteboards",
+            "link": "https://www.walmart.com/browse/office-supplies/whiteboards/1229749_1565348_4161504"
+          },
+          {
+            "title": "Paper Shredders",
+            "link": "https://www.walmart.com/browse/paper-shredders/1229749_2155104"
+          }
+        ]
+      }
+    },
+    {
+      "position": 5,
+      "title": "Office Supplies | Los Angeles, CA | US 24/7 Postal Center",
+      "link": "https://www.us247postalcenter.com/More-Products-Services/Office-Supplies",
+      "displayed_link": "www.us247postalcenter.com › More-Products-Services › Office-Supp...",
+      "snippet": "US 24/7 Postal Center offers a variety of essential office & business supplies in Los Angeles, CA, 10008 National Blvd.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:UrFNtyoGR8UJ:https://www.us247postalcenter.com/More-Products-Services/Office-Supplies+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Top 10 Best 24 Hour Copy Center in Los Angeles, CA - Last ...",
+      "link": "https://www.yelp.com/search?find_desc=24+hour+copy+center&find_loc=Los+Angeles%2C+CA",
+      "displayed_link": "www.yelp.com › search › find_desc=24+hour+copy+center",
+      "snippet": "FedEx Office Print & Ship Center. 1.6 mi. 2.0 star rating ... They're open 24 HOURS, which is AMAZING if I need to print something last minute. You can self print ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_PeXK7o_i3QJ:https://www.yelp.com/search%3Ffind_desc%3D24%2Bhour%2Bcopy%2Bcenter%26find_loc%3DLos%2BAngeles%252C%2BCA+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Top 10 Best 24 Hour Copy Center in New York, NY - Last ...",
+      "link": "https://www.yelp.com/search?find_desc=24+Hour+Copy+Center&find_loc=New+York%2C+NY",
+      "displayed_link": "www.yelp.com › search › find_desc=24+Hour+Copy+Center",
+      "snippet": "Reviews on 24 Hour Copy Center in New York, NY - search by hours, location ... FedEx Office Print & Ship Center ... “Open 24 hours? ... While for the most part I utilize their website for shipping and ordering supplies, I occasionally need to stop ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:G6uQmVf0BVAJ:https://www.yelp.com/search%3Ffind_desc%3D24%2BHour%2BCopy%2BCenter%26find_loc%3DNew%2BYork%252C%2BNY+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "In-store Services - FedEx Office",
+      "link": "https://www.fedex.com/en-us/office/in-store-services.html",
+      "displayed_link": "www.fedex.com › en-us › office › in-store-services",
+      "snippet": "FedEx Office offers in-store services such as packing and shipping, faxing or scanning documents, ... and networks; 24/7/365 customer support ... Office Supplies.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YnlBYyGEh-YJ:https://www.fedex.com/en-us/office/in-store-services.html+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "In-store Printing Services | FedEx",
+      "link": "https://www.fedex.com/en-us/printing/instoreprinting.html",
+      "displayed_link": "www.fedex.com › en-us › printing › instoreprinting",
+      "snippet": "Consult with an in-store FedEx Office team member on a custom design or to access ... convenient hours and locations to fit your life, with select locations open 24/7. ... services; Document shredding services; Passport photos; Office supplies.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Rzig28NPVkYJ:https://www.fedex.com/en-us/printing/instoreprinting.html+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Custom Office Supplies & Personalized Desk Accessories ...",
+      "link": "https://www.marcopromos.com/category/promotional-office-supplies",
+      "displayed_link": "www.marcopromos.com › Promotional Items",
+      "snippet": "Custom office supplies get your company's name, products & services ... you'll find hundreds of excellent choices within MARCO's unique 24-Hour store.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JptMoa5ZQ28J:https://www.marcopromos.com/category/promotional-office-supplies+&cd=14&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "24 hour office supply store",
+      "link": "https://www.google.com/search?q=24+hour+office+supply+store&sa=X&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "office depot",
+      "link": "https://www.google.com/search?q=office+depot&sa=X&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "staples office supplies",
+      "link": "https://www.google.com/search?q=staples+office+supplies&sa=X&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "office supply store near me",
+      "link": "https://www.google.com/search?q=office+supply+store+near+me&sa=X&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "office depot near me",
+      "link": "https://www.google.com/search?q=office+depot+near+me&sa=X&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "office max",
+      "link": "https://www.google.com/search?q=office+max&sa=X&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=24+hour+office+supplies&ei=KoQnXo6WEaKP4-EPzvOv4Ao&start=10&sa=N&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ8NMDegQIDxA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=24+hour+office+supplies&ei=KoQnXo6WEaKP4-EPzvOv4Ao&start=10&sa=N&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ8tMDegQIDxAt",
+      "3": "https://www.google.com/search?q=24+hour+office+supplies&ei=KoQnXo6WEaKP4-EPzvOv4Ao&start=20&sa=N&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ8tMDegQIDxAv",
+      "4": "https://www.google.com/search?q=24+hour+office+supplies&ei=KoQnXo6WEaKP4-EPzvOv4Ao&start=30&sa=N&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ8tMDegQIDxAx",
+      "5": "https://www.google.com/search?q=24+hour+office+supplies&ei=KoQnXo6WEaKP4-EPzvOv4Ao&start=40&sa=N&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ8tMDegQIDxAz",
+      "6": "https://www.google.com/search?q=24+hour+office+supplies&ei=KoQnXo6WEaKP4-EPzvOv4Ao&start=50&sa=N&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ8tMDegQIDxA1",
+      "7": "https://www.google.com/search?q=24+hour+office+supplies&ei=KoQnXo6WEaKP4-EPzvOv4Ao&start=60&sa=N&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ8tMDegQIDxA3",
+      "8": "https://www.google.com/search?q=24+hour+office+supplies&ei=KoQnXo6WEaKP4-EPzvOv4Ao&start=70&sa=N&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ8tMDegQIDxA5",
+      "9": "https://www.google.com/search?q=24+hour+office+supplies&ei=KoQnXo6WEaKP4-EPzvOv4Ao&start=80&sa=N&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ8tMDegQIDxA7",
+      "10": "https://www.google.com/search?q=24+hour+office+supplies&ei=KoQnXo6WEaKP4-EPzvOv4Ao&start=90&sa=N&ved=2ahUKEwiO07jD55XnAhWixzgGHc75C6wQ8tMDegQIDxA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=24+hour+office+supplies&start=10&token=279547c514d5900e",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=24+hour+office+supplies&start=10&token=279547c514d5900e",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=24+hour+office+supplies&start=10&token=279547c514d5900e",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=24+hour+office+supplies&start=20&token=c5710ffed98cd599",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=24+hour+office+supplies&start=30&token=532f88f9bd6e1955",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=24+hour+office+supplies&start=40&token=13f937d8da08f935",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=24+hour+office+supplies&start=50&token=c5882451fd964d0d",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=24+hour+office+supplies&start=60&token=9f692c0917e06862",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=24+hour+office+supplies&start=70&token=c5e568b94676603b",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=24+hour+office+supplies&start=80&token=97f5635e18955e82",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=24+hour+office+supplies&start=90&token=54effc8edd035350"
+    }
+  }
+}

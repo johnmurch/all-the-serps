@@ -1,0 +1,269 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 03:43:57 UTC",
+    "processed_at": "2020-01-21 03:43:57 UTC",
+    "google_url": "https://www.google.com/search?q=affiliated+dentists&oq=affiliated+dentists&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 9.32
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "affiliated dentists",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 58500000,
+    "time_taken_displayed": 0.48,
+    "query_displayed": "affiliated dentists"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=affiliated+dentists&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=43024836,-88712747,62115&tbm=lcl&sa=X&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQtgN6BAgHEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 43.024836,
+      "longitude": -88.712747,
+      "altitude": 62115
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "title": "Affiliated Dental Center",
+        "place_id": "11237448963310729751",
+        "lsig": "AB86z5X_ax5O7Su1N1BVEwoMakOR",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5X_ax5O7Su1N1BVEwoMakOR&ludocid=11237448963310729751&q=affiliated+dentists&tbm=lcl&token=b81e3c760f99d69f",
+        "rating": "A",
+        "links": {
+          "directions": "https://www.google.com/maps/dir//Affiliated+Dental+Center,+2723+W+Forest+Home+Ave,+Milwaukee,+WI+53215/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880510a0b1019253:0x9bf3704b27b7ba17?sa=X"
+        },
+        "address": "Milwaukee, WI",
+        "hours": "Closed ⋅ Opens 9AM Tue",
+        "gps_coordinates": {
+          "latitude": 43.000009999999996,
+          "longitude": -87.9488914
+        }
+      },
+      {
+        "position": 2,
+        "title": "Affiliated Dentists S.C.",
+        "place_id": "14753941377213373362",
+        "lsig": "AB86z5UyBsutXjH6zQHnSzCZGKCd",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UyBsutXjH6zQHnSzCZGKCd&ludocid=14753941377213373362&q=affiliated+dentists&tbm=lcl&token=2db718aaaced852f",
+        "rating": "B",
+        "links": {
+          "website": "https://affiliateddentists.com/",
+          "directions": "https://www.google.com/maps/dir//Affiliated+Dentists+S.C.,+5601+Odana+Rd,+Madison,+WI+53719/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8807ae79008a3e2f:0xccc0878349bd9bb2?sa=X"
+        },
+        "address": "Madison, WI",
+        "hours": "Closed ⋅ Opens 8AM Tue",
+        "gps_coordinates": {
+          "latitude": 43.0496623,
+          "longitude": -89.4766042
+        }
+      },
+      {
+        "position": 3,
+        "title": "Affiliated Dentists",
+        "place_id": "15051901600960096825",
+        "lsig": "AB86z5Xh3TWr4LGht6FEfXk37-eV",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Xh3TWr4LGht6FEfXk37-eV&ludocid=15051901600960096825&q=affiliated+dentists&tbm=lcl&token=3f8f2f553615e2b2",
+        "rating": "C",
+        "links": {
+          "website": "http://www.affiliateddentists.com/",
+          "directions": "https://www.google.com/maps/dir//Affiliated+Dentists,+100+River+Pl+%23220,+Madison,+WI+53716/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x880652261e4d9e37:0xd0e318c1f75c2a39?sa=X"
+        },
+        "address": "Madison, WI",
+        "hours": "Closed ⋅ Opens 8AM Tue",
+        "gps_coordinates": {
+          "latitude": 43.046454999999995,
+          "longitude": -89.326657
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Looking for a New Family Dentist? Click Here for Affiliated ...",
+      "link": "https://www.affiliateddentists.com/",
+      "displayed_link": "www.affiliateddentists.com",
+      "snippet": "Welcome to Affiliated Dentists Madison ... East or west, we have two dental offices for you. Specializing in pediatric, cosmetic & family dentistry for over 20 years.",
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "West Office",
+            "link": "https://www.affiliateddentists.com/locations/west-office/",
+            "snippet": "Located at 5601 Odana Rd, our West office is just off the Beltline ..."
+          },
+          {
+            "title": "Patient Support",
+            "link": "https://www.affiliateddentists.com/patient-support/",
+            "snippet": "Going to the dentist can involve more than simply sitting down in ..."
+          },
+          {
+            "title": "East Office",
+            "link": "https://www.affiliateddentists.com/locations/east-office/",
+            "snippet": "It is upstairs on the second floor overlooking Monona Bay on ..."
+          },
+          {
+            "title": "Children's Pediatric Dentistry",
+            "link": "https://www.affiliateddentists.com/services/pediatric-dentistry/",
+            "snippet": "Children's Pediatric dentistry in Madison WI serves families in a ..."
+          },
+          {
+            "title": "Appointment Request",
+            "link": "https://www.affiliateddentists.com/patient-support/appointment-request/",
+            "snippet": "We want scheduling a dentist appointment to be easy and fast ..."
+          },
+          {
+            "title": "Full Arch Reconstruction",
+            "link": "https://www.affiliateddentists.com/services/full-arch-reconstruction/",
+            "snippet": "Restore and replace missing teeth with a full arch reconstruction ..."
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WK5eCn1AmjgJ:https://www.affiliateddentists.com/+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Affiliated Dentists - 12 Photos - General Dentistry - 5601 ...",
+      "link": "https://www.yelp.com/biz/affiliated-dentists-madison",
+      "displayed_link": "www.yelp.com › Health & Medical › Dentists › General Dentistry",
+      "snippet": "3 reviews of Affiliated Dentists \"I've been seeing Dr. Peles and she's been ... Busby of Affiliated Dentists placed toxic mercury amalgam under a capped tooth…",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 2.5,
+            "reviews": 3
+          },
+          "extensions": [
+            "Rating: 2.5",
+            "3 reviews"
+          ]
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Affiliated Dentists - 12 Photos - General Dentistry - 100 River ...",
+      "link": "https://www.yelp.com/biz/affiliated-dentists-madison-3",
+      "displayed_link": "www.yelp.com › Health & Medical › Dentists › General Dentistry",
+      "snippet": "4 reviews of Affiliated Dentists \"Exceptional service provided by everyone at the River Place location. The assistant that helped me set my emergency ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5,
+            "reviews": 4
+          },
+          "extensions": [
+            "Rating: 5",
+            "4 reviews"
+          ]
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Affiliated Dentists, S.C. | LinkedIn",
+      "link": "https://www.linkedin.com/company/affiliated-dentists",
+      "displayed_link": "www.linkedin.com › company › affiliated-dentists",
+      "snippet": "Learn about working at Affiliated Dentists, S.C.. Join LinkedIn today for free. See who you know at Affiliated Dentists, S.C., leverage your professional network, ..."
+    },
+    {
+      "position": 5,
+      "title": "Affiliated Dentists, S.C. | Better Business Bureau® Profile",
+      "link": "https://www.bbb.org/us/wi/madison/profile/dentist/affiliated-dentists-sc-0694-1000004575",
+      "displayed_link": "www.bbb.org › dentist › affiliated-dentists-sc-0694-1000004575",
+      "snippet": "This organization is not BBB accredited. Dentist in Madison, WI. See BBB rating, reviews, complaints, & more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vTpXqIS14_kJ:https://www.bbb.org/us/wi/madison/profile/dentist/affiliated-dentists-sc-0694-1000004575+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Affiliated Dentists - Home | Facebook",
+      "link": "https://www.facebook.com/pages/category/General-Dentist/Affiliated-Dentists-144753182948800/",
+      "displayed_link": "www.facebook.com › ... › Teeth Whitening Service",
+      "snippet": "Affiliated Dentists, Clarksville, Tennessee. 38 likes. Let us be your dental home! We have a variety of services we offer at our office! We do crowns,...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HEhIKdnbgiMJ:https://www.facebook.com/pages/category/General-Dentist/Affiliated-Dentists-144753182948800/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Affiliated Dentists - Madison, WI | Parishes Online",
+      "link": "https://www.parishesonline.com/find/affiliated-dentists",
+      "displayed_link": "www.parishesonline.com › find › affiliated-dentists",
+      "snippet": "Address. 5601 Odana Rd Madison, WI 53719. USA. Phone: 608-274-9077; Website: Visit Website; Contact name: Margaret Budde. Print Ad. Show Map ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:N0xRIArftVoJ:https://www.parishesonline.com/find/affiliated-dentists+&cd=16&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "affiliated dentists, 100 river pl ste 220, madison, wi 53716",
+      "link": "https://www.google.com/search?q=affiliated+dentists,+100+river+pl+ste+220,+madison,+wi+53716&sa=X&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ1QIoAHoECAkQAQ"
+    },
+    {
+      "query": "affiliated dentists reviews",
+      "link": "https://www.google.com/search?q=affiliated+dentists+reviews&sa=X&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ1QIoAXoECAkQAg"
+    },
+    {
+      "query": "affiliated dentists s.c., 5601 odana rd, madison, wi 53719",
+      "link": "https://www.google.com/search?q=affiliated+dentists+s.c.,+5601+odana+rd,+madison,+wi+53719&sa=X&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ1QIoAnoECAkQAw"
+    },
+    {
+      "query": "dentist odana road madison",
+      "link": "https://www.google.com/search?q=dentist+odana+road+madison&sa=X&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ1QIoA3oECAkQBA"
+    },
+    {
+      "query": "dentist monona wi",
+      "link": "https://www.google.com/search?q=dentist+monona+wi&sa=X&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ1QIoBHoECAkQBQ"
+    },
+    {
+      "query": "associated dentists",
+      "link": "https://www.google.com/search?q=associated+dentists&sa=X&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ1QIoBXoECAkQBg"
+    },
+    {
+      "query": "monona dental",
+      "link": "https://www.google.com/search?q=monona+dental&sa=X&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ1QIoBnoECAkQBw"
+    },
+    {
+      "query": "madison family dental",
+      "link": "https://www.google.com/search?q=madison+family+dental&sa=X&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ1QIoB3oECAkQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=affiliated+dentists&ei=g3MmXt7fLuSBhbIPso6hsA8&start=10&sa=N&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ8NMDegQIChA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=affiliated+dentists&ei=g3MmXt7fLuSBhbIPso6hsA8&start=10&sa=N&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ8tMDegQIChAt",
+      "3": "https://www.google.com/search?q=affiliated+dentists&ei=g3MmXt7fLuSBhbIPso6hsA8&start=20&sa=N&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ8tMDegQIChAv",
+      "4": "https://www.google.com/search?q=affiliated+dentists&ei=g3MmXt7fLuSBhbIPso6hsA8&start=30&sa=N&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ8tMDegQIChAx",
+      "5": "https://www.google.com/search?q=affiliated+dentists&ei=g3MmXt7fLuSBhbIPso6hsA8&start=40&sa=N&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ8tMDegQIChAz",
+      "6": "https://www.google.com/search?q=affiliated+dentists&ei=g3MmXt7fLuSBhbIPso6hsA8&start=50&sa=N&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ8tMDegQIChA1",
+      "7": "https://www.google.com/search?q=affiliated+dentists&ei=g3MmXt7fLuSBhbIPso6hsA8&start=60&sa=N&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ8tMDegQIChA3",
+      "8": "https://www.google.com/search?q=affiliated+dentists&ei=g3MmXt7fLuSBhbIPso6hsA8&start=70&sa=N&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ8tMDegQIChA5",
+      "9": "https://www.google.com/search?q=affiliated+dentists&ei=g3MmXt7fLuSBhbIPso6hsA8&start=80&sa=N&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ8tMDegQIChA7",
+      "10": "https://www.google.com/search?q=affiliated+dentists&ei=g3MmXt7fLuSBhbIPso6hsA8&start=90&sa=N&ved=2ahUKEwierfXA45PnAhXkQEEAHTJHCPYQ8tMDegQIChA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+dentists&start=10&token=55cee6aaf659e306",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+dentists&start=10&token=55cee6aaf659e306",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+dentists&start=10&token=55cee6aaf659e306",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+dentists&start=20&token=daef833606e52e5e",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+dentists&start=30&token=ba0bccbaacc9de09",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+dentists&start=40&token=4bbddba7dc20ec67",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+dentists&start=50&token=5dab0591230ab48a",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+dentists&start=60&token=b7fe6e8be392ac2b",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+dentists&start=70&token=78c2ca19d11d38bc",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+dentists&start=80&token=c87f6e5aa239b97c",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliated+dentists&start=90&token=6dd567a8b1911e90"
+    }
+  }
+}

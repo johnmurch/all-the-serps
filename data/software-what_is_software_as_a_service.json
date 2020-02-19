@@ -1,0 +1,317 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 19:42:51 UTC",
+    "processed_at": "2020-01-20 19:42:51 UTC",
+    "google_url": "https://www.google.com/search?q=what+is+software+as+a+service&oq=what+is+software+as+a+service&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 1.43
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what is software as a service",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 7680000000,
+    "time_taken_displayed": 0.83,
+    "query_displayed": "what is software as a service"
+  },
+  "knowledge_graph": {
+    "title": "Software as a service",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "description": "Software as a service is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as \"on-demand software\", and was formerly referred to as \"software plus services\" by Microsoft.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Software_as_a_service"
+    },
+    "saas_companies": [
+      {
+        "name": "Salesforce",
+        "link": "https://www.google.com/search?q=Salesforce&stick=H4sIAAAAAAAAAONgFuLUz9U3MIs3SY5XAjPNk0qKTLVEspOt9JPzc3Pz86xS8svzyhOLUopXMQoDxXJyUpNLMvPz9DOLi0tTi4oXsXIFJ-akFqflFyWn7mBlBACz6zOUVAAAAA&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQxA0wHnoECA4QBQ",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGcAAABICAMAAADcZRsoAAAAZlBMVEUAoeD///8And8Am94An98Amd623/MAl918x+zs+PxauugAlNzR6vie0/Dg8frn9vvK6fdJsuW/5PWLzO11wuqn2PEepeGW0O/Z7/n0/P1nveg3ruQwqeKu3fPI5faOx+y22fFjteZNlB2xAAAFTElEQVRYhb2ZjZaiOgyAmzYgIJT/AgLOzvu/5E0KIioIOnqz5+wcse1HmjRJo4Al8c/VT0HyU9aL378uYuFZ1kol0YpSpvgI6pETCYXiKohOGt6OaEI3yvPorP/ASbobyoBSp+YK6VNpRSkpvN263nGiRwqLNBeVcjMbgVIF4cOSOziFWqLwigeXvz+L+/dAZ6brXk4hVzAkikD5kray22OnOSdf02YAnVe0RdyxdzOO+0Qb++KLpmOQ2AZdOY1YW2dT0PjjIr4f+/5zjrehzjORJ3rPpAo6ckEUXRA9KDhx4vfVYVCUG8kxhLVDlLLL9TIn/4M6DLqzHulVxAucxvxFnRV0/sg5/02dFVIa33Oqb3BmHn/hBB/ftgEkk1tO9x0OaVTPOf7n3eACMs2c8yWKGM7wjPMtfSgAZ1fOF47PJGj+Bz9g4dT1Zb+2gt2VsxrecLlisMXB2lf34oSbcQfbslhcDU0Uhu0+EBbXOLricBiAu5SuObX5e72UPGHKC95rHFlCJHcfBhlfOO7F4SiRcC5BWwrihWMrQ2GthfbxIQa2HA+yzyUqHsCz+WtlJ0+iwpEzVUxIeTB2U+yi2vfDkxw40qt9XXG6jGLQfSdzCo/ZWWJV+3VOz/Nz4IY98riYrGZKzZOvnHLgTBWTrIhS09In8BOKgIFkjuqhyXwqiKQLtRtD5Zx5Vn1MaFQDGT8nKZ2eCucaJMZQJ/NyUFaWc5os4NB2OE5HfpQeDseCGMRxAtDScTSkCM1ROa2hKhSq46EA7Sip4eS40LQORTLfOFR3l1AenJRKjsnKP8yproZWpEs77HBaFB4kzDmQzU1nKkqGDVQdm0+VUKA68ytLDzKqimkRCmQeLyV9SLvOaJjc3nLqmT8hB9e6kDgW7pZzHHMV/HM8+p83XiWknKzhl94ohZA4dMpoM3jlMROQpDecdO6d2FVklvKQQZ92p5Fzht5joaXbUnOppxoQjxw9cexwz8ztkzlzT1fkpynAoQHy4Pa6b0e+8ND9jv55oJWBmnbM5X1SOY2wHIqX5Lc0yIdOyblny17cqqOSE5/e5qgpstKbWo5qyXcElZlozoEgDwydX3IyPltNhy1ZQ1kOfYaTMSmRdStMeo1KqhbxPLCxyg1tTM6GiONm5JCpoaFNNwT0NftnbgskcizQfDljzdCeCh7Xysz+TS5Lo2hEeRNA0eRu6JKhZVBmWZm3QxxVbZRlfcHWy0K6OJJn2USigj7rA0WBskyHz2XmRh3KE82Orm6QgriLaxxWbAlrAw+iLcwvn+xfzgaox8SIoxVwLHtn4+bmKUGke2Ph7FXogIav1JXsnWZ72D2nhrvDsDWhoHz6hpAFX9oFRb7yjj5K7k3YA4aDiPhmoWNlCEPim4WOlYONjuLnyxxVDXX8Yvb/IMYb7yX+Vy5YE6aY7lm/X6ysx02znMTZnvCeSHNJkLbufT3y7BG8uW4zR3/eQhSNhTdvH9h6NPqQy6FSaug0isC968rZusr7CAjbOuyrPK+yhW7mUCeePrF1Knlc/o6z3Cl8ERM9wUz3hbBdbePtxOTPMLP+W2m4OW7nvE7EDcxNfzTxOkHOosSOy/fNCJQme46571/HIYnW2xyj8HKTIUq+2Kt8whnltAGSdJMIBKmuHGXSckcHe5mjnx8oRG5KNjpx3TDe1SZf4Wy1sqvlWa9znvZHqLz8GEevOzeaeGXSGxy6d6z1QfCdH55WOaDNYtCT5pWfl3ZwoAmWfnIK9vnXCxwA19ySUHVb5/4tDkDfqvHg84Wl69+kbHLITFHREsa0P+VbhhnlP0d+QFn7YC35AAAAAElFTkSuQmCC"
+      },
+      {
+        "name": "Twilio",
+        "link": "https://www.google.com/search?q=Twilio&stick=H4sIAAAAAAAAAONgFuLUz9U3MIs3SY5X4gIxMwyTis2ytESyk630k_Nzc_PzrFLyy_PKE4tSilcxCgPFcnJSk0sy8_P0M4uLS1OLihexsoWUZ-Zk5u9gZQQAHDy-CFEAAAA&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQxA0wHnoECA4QBw",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ0AAABICAMAAADbCwd4AAAAe1BMVEX////yL0byLUTyJ0D+8vPyHDnxFzb4oqnyJD7yMkj6ur/7xcnyKUL95efxEzT1cHz3mqLxACTxACn4rLL70tXxCzD7zdH8297yPFD/+frzT2D5srj84OL1dID0Xmz+7e/2fYj3k5v2iJLwABnzVmb0Z3TzSFrwAADwAA9Fw+3LAAAEIklEQVRoge2Y65KzKBCGDYoSDxg0JObgYSaH/e7/Cre7QWcmWbNMaquSquX9QwuJPDZN0xoEXl5eXl5eXl5eXl4O2qWfe3k6qaZMjq9mudW6rKTI2WKxYCGvmmT3aqBvOnZVuPgmFvP61UyTEm3YWA5ixtTn4tVYRq0kHqHDfdedGx3neB2Gm1eDoS4cYbgYNj1GW3RM9hr5cv4GeC3Cseqz/9aXNdiZi+3LqKwS/Y8cA3U3P7Zuf9gnj27V5ksQ39TCtAm1YvU8XEEUeXQ38IED/PMLDdaby4czlYKBZJbEpl1xbPnH83RdiPuB4KLRUcb4jAGvGn2a/cUhFvlD35W08+Ms4aZdCWzF83RbBf/Xa7DSUKkSKVOuVIt8e8AJy5GO9vVjuovmIPVFR9f6eboWHlcMOLuCPMf3AEdGB11HXFttN8tG/ztdVpP6kW6bkNZP01WwrhzT7pVyXJUFC8rGCm85iJEnghiiHHhZWX3gDxI0MO2khGHg6mCkK6jHntpFUp7P3ZD94ohEj5jFqxbWN3/IiA/Qt8bRC46u/3BzxIXcSl/QuWDIM4yLmE+qopEuVXSNZ2I/xHEIB5HQzcGZDuNWpmg15DKdBpyMCj2yg04WB5ZzlKDgZ9ddUFOmzPtgS8a1I/+LLzoTq0C3XZrb0hHZutLhRDF5PsXtES6DoEYviisNY1Sq/oZOpmZrHmm/09MRphgGwub3dD3Pv5UYcnCkg2hjSxP3SVWpK5orVamz6fsQdkOvq/HJGauO5GeZRoz8AZFxQSyZtXN0e1sAWf9BdDsJl+5q43S3LUZjPNRwGo1rvNWGhLEwrAqEBldtpJmyKRCXhdEM3cE+m1BLZe6y/G/pxrWV9NQbzNN511qPxJR187PJxvd0Ka34gkO8RY1JDW7nt+vKjtnY7KAgRhfkU70q7ALO0VEksCagRRg3ioNcd8UNXfujkDbix1k6kyppq+5CJH2c1Ce5ZpQbOjMtzTkliiaYpVvij0zijKYk46CvbKyMA2ay8XTO2tsqy5S3Y6rAs36OzlQHEh/YHDnasax1PMmAThsPHdIWSoXOQslNaRdZrmfpDqZl4SobaIRpN7jfVgGw0PIEPbU92FRwiE2/DGbp6kCYRMKlMAvjWo86V1BHMUZYBT/qzdLCaGSt4RFdNkaC+W3jCOdefU75nuhsIOAmOU/WPF1QKzbBiby/o5iTc+VeSPIeYydKilSUVztrLU4B0VGlDnSmck8ltjHupE0Y53gBr6Xl3VQP5PzW05cC6iGxGLBvq4QQHCc6ktURHQdT6CiR+Naus5TT248pmep9LkS4HH75muf+xrjbrtfjB6ACFf20ejIhA0Sk24l2ReG+ppPe+m37zb9UvPlXnjf/Qha899dF1Dt/mfXy8vLy8vLy8vL6H+lvobJLZ6e29qwAAAAASUVORK5CYII="
+      },
+      {
+        "name": "Oracle Corporation",
+        "link": "https://www.google.com/search?q=Oracle&stick=H4sIAAAAAAAAAONgFuLUz9U3MIs3SY5X4gAxTfOyyrVEspOt9JPzc3Pz86xS8svzyhOLUopXMQoDxXJyUpNLMvPz9DOLi0tTi4oXsbL5FyUm56TuYGUEAAkIjW5PAAAA&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQxA0wHnoECA4QCQ",
+        "source": "common",
+        "image": "data:image/png;base64,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"
+      },
+      {
+        "name": "Okta",
+        "link": "https://www.google.com/search?q=Okta&stick=H4sIAAAAAAAAAONgFuLUz9U3MIs3SY5X4gIxkwtTCosKtUSyk630k_Nzc_PzrFLyy_PKE4tSilcxCgPFcnJSk0sy8_P0M4uLS1OLihexsvhnlyTuYGUEALgraw1PAAAA&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQxA0wHnoECA4QCw",
+        "source": "common",
+        "image": "data:image/png;base64,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"
+      },
+      {
+        "name": "The Trade Desk",
+        "link": "https://www.google.com/search?q=The+Trade+Desk&stick=H4sIAAAAAAAAAONgFuLUz9U3MIs3SY5X4tVP1zc0TC-Jj881MkzWEslOttJPzs_Nzc-zSskvzytPLEopXsUoDBTLyUlNLsnMz9PPLC4uTS0qXsTKF5KRqhBSlJiSquCSWpy9g5URALA9KRpcAAAA&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQxA0wHnoECA4QDQ",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIoAAABICAMAAAAeeZ3pAAAAllBMVEX///8AAAD8/Pzr6+vf39/19fXy8vLGxsbj4+Pm5ub4+PjV1dXPz8/s9fjMzMxSUVGnp6egn58tLCy9vb19fHw6OTkzMTIAis2ampo/Pj53dnbi8PSbyOEAiNHJ5erQ5/FKSUlfXV1vbm+wr68AgMan0eUAj80QDg4ZExUjISIdGxtmZWU1n9ONi4x2udhTq9aIv9222elSqRgHAAABvklEQVRoge3T25KjIBQF0LMBr8SgYgzRdEdjJz0mZi7//3MD6a6aeR+rpqrrrBcQFbcHIGKMMcYYY4wxxhj7qoq+F/87w6fjy8vrKXRySxLxx6AazGgO6Z+nzu7ZbIwx7q+XJ7NikuL0en19u/jeFj5KFIXBKC4ruDImQVEeUj6j+JgJkqm++4FQSH9dDr7Vm3WSXI/Fvr/se0rfv9UWIzrS9dxQDpkN566aW0f2VteOxvmQJfCVgXDzbOm+a9U0UDN+xP9nlyv1PsdyJLKIMlQp1G1LrY2QKTxUF0sITNFcuTtVo68cZbCzSDG1lJTT6OZ4lSB+pyxUfC/ox8/wt2GBCPbdmNrlIYog187QfrSrzjszDNZHSfG4GYOkhVET0KyUhE6+JGGZfn1GiQkb6DxJn1URW+QKEopM1TRCbcMCOdg2klYpWQ0T/O5ZK8uyFKJfFhEKv5tCFOVuZ2QxUg2R4XzA1N0MXIoOZQJfpYR24zBqNIfHtKMS62wVIrFcrvulCN0sibUgnZO2/uzoPNdE0kqV0nYjJcVWUay19l8WNgm3NEnlD5BcKYqf99SvNhdjjDHGGGOMMcbY1/Ib2XUapPKunfYAAAAASUVORK5CYII="
+      }
+    ],
+    "saas_companies_link": "https://www.google.com/search?q=SaaS+companies&stick=H4sIAAAAAAAAAONgFuLUz9U3MIs3SY5XQjC1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKA8VyclKTSzLz8_Qzi4tLU4uKF7HyBScmBisAVRck5mWmFu9gZQQA81AgIVgAAAA&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQMSgAMB56BAgOEAE",
+    "saas_companies_stick": "H4sIAAAAAAAAAONgFuLUz9U3MIs3SY5XQjC1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKA8VyclKTSzLz8_Qzi4tLU4uKF7HyBScmBisAVRck5mWmFu9gZQQA81AgIVgAAAA",
+    "people_also_search_for": [
+      {
+        "name": "Enterprise resource planning",
+        "link": "https://www.google.com/search?q=Enterprise+resource+planning&stick=H4sIAAAAAAAAAONgFuLUz9U3MIs3SY5X4gAxjbLKzLX4nPNzc_PzgjNTUssTK4sXscq45pWkFhUUZRanKhSlFueXFiWnKhTkJOblZeal72BlBABKem9gSQAAAA&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQxA0wH3oECBQQBQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Application service provider",
+        "link": "https://www.google.com/search?q=Application+service+provider&stick=H4sIAAAAAAAAAONgFuLUz9U3MIs3SY5XAjMNSwwtk7T4nPNzc_PzgjNTUssTK4sXsco4FhTkZCYnlmTm5ykUpxaVZSanKhQU5ZcBVRTtYGUEAKQEUFFKAAAA&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQxA0wH3oECBQQBw",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Cloud computing",
+        "link": "https://www.google.com/search?q=Cloud+computing&stick=H4sIAAAAAAAAAONgFuLUz9U3MIs3SY5X4gIxjSrjLXONtfic83Nz8_OCM1NSyxMrixex8jvn5JemKCTn5xaUlmTmpe9gZQQAE9SG2j4AAAA&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQxA0wH3oECBQQCQ",
+        "source": "common",
+        "image": "data:image/png;base64,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"
+      },
+      {
+        "name": "Customer relationship management",
+        "link": "https://www.google.com/search?q=Customer+relationship+management&stick=H4sIAAAAAAAAAONgFuLUz9U3MIs3SY5X4gAxjQwMzbT4nPNzc_PzgjNTUssTK4sXsSo4lxaX5OemFikUpeYklmTm5xVnZBYo5CbmJaan5qbmlexgZQQAjV_m4k0AAAA&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQxA0wH3oECBQQCw",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAA9lBMVEX///8ArMECiNGAy8SQyvmA3uoNR6EAhNAAqL573en/vwAApbyIx/kARKAAhtAAQp8APJ2Uwee77fWp2dQAP57k8f0AOJyt6fGu1/tufrgAf851x8Cvu9mg0fpbdLWT4u3W7eqX087ByN9MaK/G5uOc1uEAMJnq+fu63fuq2uPN5vzE4vzO8fbH0+Pi8vDw9/7g5vEuVqf/68H/14Fbotr/+/P/5rZIm9hGuMpwsOCQncc9XqkfTqSYp85/ksOmr9BQd6wPV5t7lb1oiLUAIIUAJJYwYqFsiL87bqcAMYv/9uP/79H/46j/0m3/xSb/3pn/zFR+zttwz4viAAAG7ElEQVRYhZ2YiWKiSBCGWxM5goHgBWIUjVEQQczEjLeTTGbiHjM7y/u/zFZ104BojtlfBGztL1V/VbdJCHlPYR0UvvuxNxGe2S4napve/8LVzfNy+fxA8Nqs/2Ys7nkOksDOxx+PKzSTWMx0tJ3E5X4QFWZSApDbBo1TEEblfAATCKtxBuSNiVcue8StZ0CeUfLf46yGWmN6ngGV2yQMyXk5A2o7ckk23s6q3xCEWtMrZ0CeWffgkoLKdbtUKsn2G5yppgmgYdBOQZ6JTeSOU5DpyyWU/KpTQeMSOcLlup5WbYxet8+9tGphKdZrJM4RhMa1ye2oJ4pB5bEhv02aJhxB0JKQ0iXCM3MSzmlSqF1e1mhicL7KtsBhZ3s2Q8ADT8egtVbbbIVGo3G3rWnCMG2BdubMSg+yfeI7jk/so9rtGlon6AfX19fBXdDXtA5Pzm2fu9DcbjkuPYunUvGNim/7TqmSM3ooNG7Iht43yJertAUQ4o7Hcapx6eUKOC7DUbFzNm0uEcS1vRIuN4nfuBHEXpfDuIUqrHSybRw25hYaunHT7DDtICKh8cVFZ+K42u2D0scgXCcVOZNciOVq3GxqGqrWub7C1xCS6Y5d1/RM1xzDMy09AwFHJpBrClrRiTd3rJE0BqrtYMFCKG3XZM2dlJ57BBzfR6MOAjoCgd8mlWvGcn05BUELEKgaHeGgL40YBD0JqnFQ6n4sJwOSZcMmcQ355sQiadx0+kw7CtI6x11b4R4ZjmP4Fb7q4sJNhzwjrj6Sh9NjECllJMtJgKyXVrV4pV5xIedqdYJDfLl0QrHd63TVZ3R1ikMIrZtt48Fu0tzCoXYpwIPi8C7ekk6DqN+GbVQMowJP2zBoSPjWTW1/p/Uv12tk9LU12yTvmH0BLMMgICFcSUC/ztBgGypmGzQuw05MWm12u9V+u9/vd83VvrPd12gP4aTrxy9P5On663P4LSDTb0ESEvXZpmbLiUkdYd3pd/b9frO/bvbvVh0Nv0hoQE8Qbwinl+njM9k+BrwFbMwJ04MbPLMvp82mtsFS1dhJwB4asi/lF3p6fAqmXx/J4zaIW0A2KojCvMAmoDG3v686u12zs+rsd5hcs7nXeOlfpuR5+kKeg+lz8Hj9NUhaQGYpySw9ma6S8HtntwfKFi7NfnPf70BucYmmL398hfymT9NH8ifwsi2Q6yT48HfIqQbPdb8G0uAYvlL6tAWOBRF1mnntDuc93N//dTjiV44EIP1I6S9Ff19c/CAXoIdPFxefkuHb6pEcUrfEvCyPz/iJDAT9/Q+cElDrLK+WQ0KrmJc65zPuYfpfFIQnnmD1iHPWguEEpFqiyu4sN57yC+P4N6GxwQkPqHUIKtLZalE0PZ3dF1WV+4weQTS/HjKgHszr0sh6vR4nwcu5SjmWqOszbyZSkqizORDIPfkMp4cfeKJj3RaCumdnVQpjYfXgdilSV0xrvvRm0zmLyaJrBGZf/ESf2JmRaCbduHCky2JCqAsgEUxZQjze3GOWqTN4B825x3KhKA9Ity0GmsR1n7DX8PE6TBVNEqq6Pp6549gmaIGHZD4VtsKPuPQIYjm1GIhu2jAVC65a5lL39GXsd5GQT58/f/o3AcGrz9TpE6Az6h6aZOmkLlq0YHEzWJlf+lPx6TkQ9Z1QW6B1Qp3oaXeq4ikQb5tul4FaFNSasHepLSyCpZiQxOUx57bFQaR7SzWpJpkRotPZ1twLp0U1ARWt4z+p0lbucWFAt/HbbLmpqmVZKtqcFG4UaxBrcrxaz5Ka8YTU4lwEmKrOi+IcUaI+UCRJWkgFBR4FuFVGmEcVCocHffZ4NzJhK6nL2Wy5XM7m8zlc5qoq1qUCaFCIFlG0WOB9AUOqVnu3vR7fknrZgGhI6nypA0cvLuE6W6qWG1EQMKJowEBSBG4za6o0HBpRGhAINhAV9zRVpBcR2slX6FwqvEWs4pyw6KAcbn57szwaAyYFBypC2KKb95vtKKlm4gFHnVWkGIQW4QVBBcXv5UBVkpOqHgTEnEYt6IGuUzm5kI56rW5lSFB6BpKihRIj44HRwY7dOvHn0TizzlQekEIcZ0BZPEIp63feoLzhvPQIUhY+mUQFZcFB0W2SXLI2XiGpc5//fIVIEEvkE4ckpMl7HMxOzZSegehcZUASUGGRbEqvccBxFVfdbCRlQZKyGJEMSPGp33wTekUzS7XqhUIKUgoDh8Dfi0o6iEuu1XsTQ43SIykDAsYigiKnYwVpUH3dnlRhPfPDpdEAl1uBkCgzKDkf+S8L7PCRIqWTWAyjzEj0MQzKiSQpk0sh6UeJWvZb8qEJD1lIid79d88pdUfRQlJiFRbR6DdjycmZ+P7kfcR/1UXz5vQx3CkAAAAASUVORK5CYII="
+      },
+      {
+        "name": "Application programming interface",
+        "link": "https://www.google.com/search?q=Application+programming+interface&stick=H4sIAAAAAAAAAONgFuLUz9U3MIs3SY5XYgcxq0zztPic83Nz8_OCM1NSyxMrixexKjoWFORkJieWZObnKRQU5acXJebmZualK2TmlaQWpSUmp-5gZQQAbXW6EE0AAAA&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQxA0wH3oECBQQDQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAEgASAMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAABAMFAQIGB//EADQQAAIBAwIDBQUIAwEAAAAAAAECAwAEEQUhEjFREyJBYXEGMoGR0RQjM1JTYsHhQ3KxQv/EABoBAAIDAQEAAAAAAAAAAAAAAAACAQMEBQb/xAAeEQADAAIDAQEBAAAAAAAAAAAAAQIDERIhMQQTQf/aAAwDAQACEQMRAD8A6airS40sYzbtv+VvGq10aNirghhzBreqT8POZMF43qka0UUUwnFhRRWQCxAHMnAoDizFFWRt7QEsjIyojK2S2OMY38Dv5dKVulhCxtACFbi5nfntSqkyysFSti9FFFMV8WdDpM6zwlrpssp2AHvVXa0QbkEDGx/7W2jPw9rwr3sDJPxqPVt5l9P5qhLWQ626y4E6EaKf0u3DSCaWIPGDsCdifSpmiglmkiEUStI5wc44D0/qmrKk9Cz8ra2V5lB/xJ8BQZRj8JPlWJoZYHKyoykHG45+lR0/Qn5tEvar+inyoMqkY7JBUWQMZPPaijSD82S9sP0o/lRUVFGkH5ssNIhmkklRQQBjJO2PWry50SK8hTvGGdVwGxs3wq2jsoI3LRpwsfEHl6VI2QMSLxL1ArJV7raNuLFwhSzmLC3udPu1gu48IDxK43B+NITWsZYjtGjmLPlXGxOcjcctj51191As8QQtkZyPEiuP123nt7k8DIZFwe94jwpptbeyMk29cH4RC8ll01raYdoY5iyuSSyZ5j50rmt7JbtEmuwG+zN927K2xY+X8+daVZi8LXKbE9TijnihimXiRplBGcVpw3tlvGWvLf8AIxAlX0PJvjg+ZqTUT2cMczBuzjlVnZVJ4R1OPCk7vUp4maSNEa2YfdSqchtgc59c7VZMq60ZPqdYZ5rwsLW7hulJgfJU4dSMMh6FTuKKqNNRtTnup55GSUFBG8XdaPY5wehwNjtRUtUnoTH9WK520e00UUVgOkYCgZIABPOo5LeGV0eSNWdDlWI3FS1U6vrkWnDCJ28oH4SNv/VNMunpCZMk4pd10kMPpNi0csZtkxK/G3Xi658K5O+sEieX7C/bcOyrKeEcXQkfSo9H9s73VZ5X+xF4BO0It4vxe7jJHgfQ49fCuxutNt7pN1KSYwJE2YfX40z5Y+gjIrXXh5Pftci5VL/Cuh4kDJhBjPeUf+f98nwyKVjDRkG2YK0ozwAcYn237vKXzZeE8+dXXtB7Ia3YXD3NpOdQt5Gy4mbl5nPLHUYx1qKb2fu0ty6NHKZFzNF72Tj4cfLbJBHU0ibT2S0mtMU0y5tIHcMogaV+HIfiiZh4K3gd/dOD0opuDSS33motwZGOyGGkZc5wW5Bf24z50VoWS6/mxMfyxK1M9HrVFFFZi0KodQ9lrO6uTc28klpK7cUvZY4ZM8yVOwbzGD1zWaKlNrwGtljp+m2unoVtogpb33O7N6mnKKKgEtBSL6VaPMJez4fEqpwreo+lZooAS1L2etrrL2+IJf2jun1H0ooop1kpdDK2j//Z"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?q=Software+as+a+service&stick=H4sIAAAAAAAAAONgFuLUz9U3MIs3SY5XQjC1hLOTrfST83Nz8_OsijNTUssTK4sXsYoG56eVlCcWpSokFiskKhSnFpVlJqfuYGUEAAQ5GVlIAAAA&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQMSgAMB96BAgUEAE",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MIs3SY5XQjC1hLOTrfST83Nz8_OsijNTUssTK4sXsYoG56eVlCcWpSokFiskKhSnFpVlJqfuYGUEAAQ5GVlIAAAA"
+  },
+  "related_questions": [
+    {
+      "question": "What is software as a service examples?",
+      "snippet": "Examples of SaaS, PaaS, and IaaS SaaS examples: BigCommerce, Google Apps, Salesforce, Dropbox, MailChimp, ZenDesk, DocuSign, Slack, Hubspot. PaaS examples: AWS Elastic Beanstalk, Heroku, Windows Azure (mostly used as PaaS), Force.com, OpenShift, Apache Stratos, Magento Commerce Cloud.",
+      "title": "IaaS vs PaaS vs SaaS: Examples and How to Differentiate (2019)",
+      "link": "https://www.bigcommerce.com/blog/saas-vs-paas-vs-iaas/",
+      "displayed_link": "www.bigcommerce.com › blog › saas-vs-paas-vs-iaas"
+    },
+    {
+      "question": "What does it mean software as a service?",
+      "snippet": "Software as a service (SaaS) is a software distribution model in which a third-party provider hosts applications and makes them available to customers over the Internet. SaaS is one of three main categories of cloud computing, alongside infrastructure as a service (IaaS) and platform as a service (PaaS).",
+      "title": "What is Software as a Service (SaaS)? - Definition from WhatIs.com",
+      "link": "https://searchcloudcomputing.techtarget.com/definition/Software-as-a-Service",
+      "displayed_link": "searchcloudcomputing.techtarget.com › definition › Software-as-a-Service"
+    },
+    {
+      "question": "What is software as a service in Salesforce?",
+      "snippet": "Software as a service (or SaaS) is a way of delivering applications over the Internet—as a service. ... The provider manages access to the application, including security, availability, and performance.",
+      "title": "What is Software as a Service (SaaS): A Beginner's Guide - Salesforce",
+      "link": "https://www.salesforce.com/in/saas/",
+      "displayed_link": "www.salesforce.com › saas"
+    },
+    {
+      "question": "What is difference between SaaS and PaaS?",
+      "snippet": "In short, PaaS is a platform on which you can develop or run custom software, whereas IaaS if a virtual data centre. Instead of investing in your own server, you can rent one from a provider and is the basis that many PaaS and SaaS services are built on.Apr 2, 2016",
+      "title": "What is the difference between IaaS, SaaS, and Paas? - Quora",
+      "link": "https://www.quora.com/What-is-the-difference-between-IaaS-SaaS-and-Paas",
+      "displayed_link": "www.quora.com › What-is-the-difference-between-IaaS-SaaS-and-Paas"
+    }
+  ],
+  "answer_box": {
+    "type": "dictionary_results",
+    "syllables": "SaaS",
+    "word_type": "noun",
+    "definitions": [
+      "a method of software delivery and licensing in which software is accessed online via a subscription, rather than bought and installed on individual computers."
+    ],
+    "examples": [
+      "\"their cloud-based SaaS platform helps IT professionals strategically manage and forecast IT costs\""
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Software as a service - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Software_as_a_service",
+      "displayed_link": "en.wikipedia.org › wiki › Software_as_a_service",
+      "snippet": "Software as a service (SaaS /sæs/) is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. ... SaaS apps are typically accessed by users using a thin client, e.g. via a web browser.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "History",
+            "link": "https://en.wikipedia.org/wiki/Software_as_a_service#History"
+          },
+          {
+            "title": "Pricing",
+            "link": "https://en.wikipedia.org/wiki/Software_as_a_service#Pricing"
+          },
+          {
+            "title": "Architecture",
+            "link": "https://en.wikipedia.org/wiki/Software_as_a_service#Architecture"
+          },
+          {
+            "title": "Characteristics",
+            "link": "https://en.wikipedia.org/wiki/Software_as_a_service#Characteristics"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5IIrn-7usSkJ:https://en.wikipedia.org/wiki/Software_as_a_service+&cd=10&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Software_as_a_service+what+is+software+as+a+service&tbo=1&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQHzAJegQIAhAJ"
+    },
+    {
+      "position": 2,
+      "title": "What is SaaS? Software-as-a-service defined | InfoWorld",
+      "link": "https://www.infoworld.com/article/3226386/what-is-saas-software-as-a-service-defined.html",
+      "displayed_link": "www.infoworld.com › article › what-is-saas-software-as-a-service-defi...",
+      "date": "Jul 12, 2019",
+      "snippet": "Here's a simple SaaS definition: a software distribution model in which a service provider hosts applications for customers and makes them ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wYPziJ1yMg0J:https://www.infoworld.com/article/3226386/what-is-saas-software-as-a-service-defined.html+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "What is SaaS? 10 FAQs About Software as a Service (SaaS)",
+      "link": "https://www.softwareadvice.com/resources/saas-10-faqs-software-service/",
+      "displayed_link": "www.softwareadvice.com › resources › saas-10-faqs-software-service",
+      "date": "Sep 25, 2019",
+      "snippet": "While the technology world is laser focused on the software-as-a-service (SaaS), or “cloud,” phenomenon, a lot of companies with which we ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:bwrXO37-MboJ:https://www.softwareadvice.com/resources/saas-10-faqs-software-service/+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "What is Software as a Service (SaaS)? - Definition from WhatIs ...",
+      "link": "https://searchcloudcomputing.techtarget.com/definition/Software-as-a-Service",
+      "displayed_link": "searchcloudcomputing.techtarget.com › definition › Software-as-a-Ser...",
+      "snippet": "Software as a service (SaaS) is a software distribution model in which a third-party provider hosts applications and makes them available to customers over the Internet. SaaS is one of three main categories of cloud computing, alongside infrastructure as a service (IaaS) and platform as a service (PaaS).",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:smhbjeNLht0J:https://searchcloudcomputing.techtarget.com/definition/Software-as-a-Service+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "What is SaaS? Everything you need to know | TechRadar",
+      "link": "https://www.techradar.com/news/what-is-saas",
+      "displayed_link": "www.techradar.com › news › what-is-saas",
+      "date": "Dec 15, 2019",
+      "snippet": "Software as a Service, also know as SaaS, is a cloud-based service where instead of downloading software your desktop PC or business network to run and update, you instead access an application via an internet browser. ... Additionally, some SaaS applications have an offline mode that allows basic functionality.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MREtqH0bM3gJ:https://www.techradar.com/news/what-is-saas+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "What is Software as a Service (SaaS)? - Salesforce",
+      "link": "https://www.salesforce.com/ca/saas/",
+      "displayed_link": "www.salesforce.com › saas",
+      "snippet": "We take a look at what is SaaS, the business benefits of SaaS and the future of SaaS solutions.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8eGLmbDwhEsJ:https://www.salesforce.com/ca/saas/+&cd=15&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.salesforce.com/ca/saas/+what+is+software+as+a+service&tbo=1&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQHzAOegQIChAJ"
+    },
+    {
+      "position": 7,
+      "title": "What is SaaS? Software as a Service | Microsoft Azure",
+      "link": "https://azure.microsoft.com/en-us/overview/what-is-saas/",
+      "displayed_link": "azure.microsoft.com › en-us › overview › what-is-saas",
+      "snippet": "Software as a service (SaaS) allows users to connect to and use cloud-based apps over the Internet. Common examples are email, calendaring, and office tools ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EdEY2mCL1SsJ:https://azure.microsoft.com/en-us/overview/what-is-saas/+&cd=16&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://azure.microsoft.com/en-us/overview/what-is-saas/+what+is+software+as+a+service&tbo=1&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQHzAPegQICRAL"
+    },
+    {
+      "position": 8,
+      "title": "IaaS vs PaaS vs SaaS: Examples and How to Differentiate ...",
+      "link": "https://www.bigcommerce.com/blog/saas-vs-paas-vs-iaas/",
+      "displayed_link": "www.bigcommerce.com › blog › saas-vs-paas-vs-iaas",
+      "snippet": "Considering moving to the cloud? Learn more about the options: IaaS, PaaS and SaaS.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1PpTZQG_9SgJ:https://www.bigcommerce.com/blog/saas-vs-paas-vs-iaas/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "What is Software as a Service (SaaS)? - Definition from ...",
+      "link": "https://www.techopedia.com/definition/155/software-as-a-service-saas",
+      "displayed_link": "www.techopedia.com › definition › software-as-a-service-saas",
+      "snippet": "Software as a service (SaaS) is a model for the distribution of software where customers access software over the Internet. In SaaS, a service provider hosts the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pUuAIjdB0IcJ:https://www.techopedia.com/definition/155/software-as-a-service-saas+&cd=18&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.techopedia.com/definition/155/software-as-a-service-saas+what+is+software+as+a+service&tbo=1&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQHzARegQIBBAJ"
+    },
+    {
+      "position": 10,
+      "title": "Software-as-a-Service (SaaS) Definition - Investopedia",
+      "link": "https://www.investopedia.com/terms/s/software-as-a-service-saas.asp",
+      "displayed_link": "www.investopedia.com › Business › Business Essentials",
+      "date": "Jun 9, 2019",
+      "snippet": "Software-as-a-Service (SaaS) is a software licensing model in which access to the software is provided on a subscription basis, with the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VM6j1kKvvjQJ:https://www.investopedia.com/terms/s/software-as-a-service-saas.asp+&cd=19&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "software as a service examples",
+      "link": "https://www.google.com/search?q=software+as+a+service+examples&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ1QIoAHoECBUQAQ"
+    },
+    {
+      "query": "saas companies",
+      "link": "https://www.google.com/search?q=saas+companies&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ1QIoAXoECBUQAg"
+    },
+    {
+      "query": "saas vs paas",
+      "link": "https://www.google.com/search?q=saas+vs+paas&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ1QIoAnoECBUQAw"
+    },
+    {
+      "query": "saas stands for",
+      "link": "https://www.google.com/search?q=saas+stands+for&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ1QIoA3oECBUQBA"
+    },
+    {
+      "query": "software-as-a-service (saas) companies",
+      "link": "https://www.google.com/search?q=software-as-a-service+(saas)+companies&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ1QIoBHoECBUQBQ"
+    },
+    {
+      "query": "saas overview",
+      "link": "https://www.google.com/search?q=saas+overview&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ1QIoBXoECBUQBg"
+    },
+    {
+      "query": "platform as a service",
+      "link": "https://www.google.com/search?q=platform+as+a+service&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ1QIoBnoECBUQBw"
+    },
+    {
+      "query": "saas application",
+      "link": "https://www.google.com/search?q=saas+application&sa=X&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ1QIoB3oECBUQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what+is+software+as+a+service&ei=vAImXr2zBMjQ-gSkgZygBA&start=10&sa=N&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ8NMDegQIExA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what+is+software+as+a+service&ei=vAImXr2zBMjQ-gSkgZygBA&start=10&sa=N&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ8tMDegQIExAt",
+      "3": "https://www.google.com/search?q=what+is+software+as+a+service&ei=vAImXr2zBMjQ-gSkgZygBA&start=20&sa=N&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ8tMDegQIExAv",
+      "4": "https://www.google.com/search?q=what+is+software+as+a+service&ei=vAImXr2zBMjQ-gSkgZygBA&start=30&sa=N&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ8tMDegQIExAx",
+      "5": "https://www.google.com/search?q=what+is+software+as+a+service&ei=vAImXr2zBMjQ-gSkgZygBA&start=40&sa=N&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ8tMDegQIExAz",
+      "6": "https://www.google.com/search?q=what+is+software+as+a+service&ei=vAImXr2zBMjQ-gSkgZygBA&start=50&sa=N&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ8tMDegQIExA1",
+      "7": "https://www.google.com/search?q=what+is+software+as+a+service&ei=vAImXr2zBMjQ-gSkgZygBA&start=60&sa=N&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ8tMDegQIExA3",
+      "8": "https://www.google.com/search?q=what+is+software+as+a+service&ei=vAImXr2zBMjQ-gSkgZygBA&start=70&sa=N&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ8tMDegQIExA5",
+      "9": "https://www.google.com/search?q=what+is+software+as+a+service&ei=vAImXr2zBMjQ-gSkgZygBA&start=80&sa=N&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ8tMDegQIExA7",
+      "10": "https://www.google.com/search?q=what+is+software+as+a+service&ei=vAImXr2zBMjQ-gSkgZygBA&start=90&sa=N&ved=2ahUKEwi9gen595LnAhVIqJ4KHaQAB0QQ8tMDegQIExA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+as+a+service&start=10&token=e82f58df73e456dd",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+as+a+service&start=10&token=e82f58df73e456dd",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+as+a+service&start=10&token=e82f58df73e456dd",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+as+a+service&start=20&token=5b2704fb9391f28e",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+as+a+service&start=30&token=fa62c3a2e713fad9",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+as+a+service&start=40&token=7f937375ce8670e8",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+as+a+service&start=50&token=57fb613fa303b1c3",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+as+a+service&start=60&token=635545be50413213",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+as+a+service&start=70&token=dbb1830d7460ce42",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+as+a+service&start=80&token=3dfbcc8bde0806fd",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+software+as+a+service&start=90&token=b3d9e4ddd8709b85"
+    }
+  }
+}

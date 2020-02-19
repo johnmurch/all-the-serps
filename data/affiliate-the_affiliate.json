@@ -1,0 +1,322 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 14:20:15 UTC",
+    "processed_at": "2020-01-21 14:20:15 UTC",
+    "google_url": "https://www.google.com/search?q=the+affiliate&oq=the+affiliate&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 1.81
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "the affiliate",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 1020000000,
+    "time_taken_displayed": 0.56,
+    "query_displayed": "the affiliate"
+  },
+  "knowledge_graph": {
+    "title": "The Affiliate",
+    "type": "Book by K.A. Linde",
+    "description": "\"Perfect for fans of THRONE OF GLASS!\" --Susan Dennard, NYT bestselling author On the day  of her Presenting, in front of the entire Byern Court,  seventeen-year-old Cyrene Strohm's lifelong plans come ...",
+    "source": {
+      "name": "Google Books",
+      "link": "https://books.google.com/books/about/The_Affiliate.html?id=5PHuDQAAQBAJ&source=kp_book_description"
+    },
+    "originally_published": "September 10, 2015",
+    "author": "K.A. Linde",
+    "followed_by": "Bound",
+    "genres": "Fiction, Romance novel",
+    "editorial_reviews": [
+      {
+        "title": "Goodreads",
+        "rating": "3.8/5",
+        "link": "https://www.goodreads.com/en/book/show/17385231"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "The Consort",
+        "extensions": [
+          "K.A. Linde"
+        ],
+        "link": "https://www.google.com/search?q=The+Consort+K.A.+Linde&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2qMgrLzE0VYJw0wyL8gySzUu0eJzy87ODM1NSyxMrixexioVkpCo45-cV5xeVKHjrOeop-GTmpaTuYGUEAKfNeoBKAAAA&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQxA0wIHoECBgQBQ",
+        "source": "bookbook",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "The Domina",
+        "extensions": [
+          "K.A. Linde"
+        ],
+        "link": "https://www.google.com/search?q=The+Domina&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2qMgrLzE0VYJw041MSrLTSgq0eJzy87ODM1NSyxMrixexcoVkpCq45Odm5iXuYGUEAGSZreo-AAAA&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQxA0wIHoECBgQBw",
+        "source": "bookbook",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAG4ASAMBEQACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgEAB//EADcQAAIBAgUBBQYEBQUAAAAAAAECAwQRAAUSITFBEyJRYXEUgZGhsfAGMsHRI0JScoIHFSQz8f/EABoBAAIDAQEAAAAAAAAAAAAAAAIDAAEEBQb/xAAwEQACAQIEAgkEAwEBAAAAAAABAgADEQQSITEiQRNRYXGRobHB8IHR4fEFMkKyFP/aAAwDAQACEQMRAD8A+V5ZS07Sk9sCVAJDiwN9iOd/ljJVdgNp0sPTp5rgw6sghWhmdXXWW0ghSXc3sb3Owt9MBTZi4BEPEBQjEfmKVp2B7Q30/wBQG3G+Nc54BBuZYaW6aprRXF1eQ21e7k+4YrNyEsU9Ltp3/LnwlBjpUBu08tjbupoF/U3+mL4z1S7URuSe6w8zf0lsMEMis/sjhE/M8k+wPhsvPkMA2YaX8vzH0xRbXJoOZb7DynHaiGy0st/HtbfUHEC1OZ8pGqYTkh8bexkZnVSk0R1xjlXXcbAWJ68bHBKCRYwajqGDobjt5aDx23g86lSjO5IZAbEW24HrtixEtpqYTQMqOWdG0G4FvG3jgXUkaS6TBTcy9pJaiUElpZWNjfc342xFUKNNpGdqja6mEtIsX/WqO/HaBbj0Hw5+HjiWJ3llwpuu/X9vv4QSSOaQEskh3vrZSfffBAgaRZVzqQZZR0YkMrSzCKnj3lcDYL0t4k8AYGpUy7C5O3z1jKNAVLkmyjc9X5PKSc+2yBUAhp41IhiLbKOpJ6k9TiKuQa6k7y6j9MbDRRsPnM85BqYLCJZ1ZQfyL/M+9r+Q8/hffBZrmywMlgGf9/j5rIoWiDLCsSta5DKG1DobnAlQ28YlRqeigeF/WQmNG63RJGkG7DSqWPqNiPcDiAMITvTddBr3AemnleWUVE0gllWQIsNi1w19zYEWB8cU9TKQLb/OuBRw/SKzXtl7+fcDC+wSmjMzggSDRHIj6gf6tiAQRxv44EPnOUcvghtTFNc557Hfv5DXw3nY6Y+zLJT6zJICwdozdVBt3bXN9jv6cb4jVBms2w7fWWlBujzJuezl2Wv428JGHLJppHPaIxQa2WNwz28bXuPU2xHrqBb12lU8I7sTe9tdNT4fe0trYquejikNP7NTxsyuGcWvYWZj1Y3t47bDA03QORe5+eUZWSq1MG1lHr1nrJ/UqpUggDVVajvTAWiCobTv4X6AdcGzljkTfn2RKUlQdJU/ry7T83hmYxdrW08SGQSVGkmVkNnv1UWFwBsLDp04wFJ7UyeQ+a98ZXTNVVRu1tft2Db6RbWQ06VSw0YeRg5UHksTwPW/h4+W7ULZczxVUUwQlLe8AqIjExAJRrlShFiLYYCDEEFd44p4X/27MAqMwaOMgqL3tIOmM1Rh0qX7fSbaFNjh6pAvov8A0J2RJ4slWn1SJUyTmZI7kMECW48z9L4ilWr5hsBbsve8ts64QIdGJuBzta3zs1hGYiSbPFelDkM6tTut9OnYj4Dk9LeWAo2WhZ+2/f8AmHXLtiQU2uLdVuXhzlUUrx5xXVGXIDGgLx9FK9ql7+RF/di2TNRRKm/vY+cpKmXEVKlHbcdVsw8reUMakjmymdKGMvRe1RmMEG42kJJ28wPQDAIzCspqf2sb+XzxjalNWw7CkOG4t5/rwg1XQMmV0GgWCyz7keOj9sORx0z9w95mqUm/86d7e09RVTRZlTZfWxPLTsYDEB+aJ9Kd5fInkdcLqICjVENjxX7Rc6H2jKTlaq0qguOG3YbDUe8W0CaGM7iQLBHquguQx7q++5v/AI401teEc/3MeHGU5z/kfgff6SeeASzQ1sYPZ1ia+8LHWO6/zF/fheH4QaZ3XT6biPxtmYVl2fX67HznH1iU9i0l9AJAJ3Nt/wBcMsP9RHFeyH5aQD2dTZtbXub3N7YI7QVve8YUvbyGSNGPZlgSW73x+WEtkFjzmqmKjAjlGsS0qUqyM7XuQAuynztthLBydJoRqSDr9IZUmgjpxDlrvuxMl2tc+AAwKrUbVow4mmmiCReKIKsEshLlV2UcE7/rbF5HBuIQxFBhZhE2Y5PUwyqFd2ktdS9wVGGpUUjUTPVwz3BWKDHLFqWVpBc98X5364fcHaYSjLvBpdZUd5ioO2+wtixaA2a2+kbUDxrVdpOhKWIZQbNa316/+4U97aTRSNnuRCEo4ZplSI6wDe9uB54BqhC6zVToI7i20Z5LTNWTw0lFDdiSSDvdjsAL4EKb5nMGrXUqEpi3X3zc5P8Ag+gjyt484UGTYhY5d1IvckjrvxuP0W9ck8Ez5bbwrKYPw3D7RQ0dFFJXxC7CZtbgW5F+ORwOuKc1HWUpVXmTgy2nFaqRaz2jlVDtffpv138fLBJXJFzGvSHKU5k8q2kljqGeQ7u41EDn44KrSvxAx2FxRpcJFxEtRlUb5ZUTCZxWQAnsitldL9OoPPwIwKViHAI0PrG1sNmpl1O0zLILC/UH123xqvOcVFtY2VdZA4/bFHSFT4jHmVqtNTNM0RYdmVKKLknp54y1bswAnUpkJRZvpNJ+BEkymOXOnljeGRWprAksW7pJO2wt9emCrsDZJy1W926o1GaqzgIb/wAT5YSRaTeIM+o6mj/E2VZrRKyzNP2cqWsHTuk+vdLD3eWItYKGVtt5pXCGqodTr7fiEVUQ/wB2lihbYkSRf3gg/fphFFswjayELG/+oMUaCkZEEPaQFyyrsz36jx4+ON9HRSDOeTrpMhU0tXJSzy9qkdPHGFmnJsFUm4VfEkjb1PGModc+07io5oKC2h8bfPWYGVWVrkcc26Xx0hOG4trGtM4EgY8Dm3nimEujaarLOyhhcSteORdnG4JxibVhOseGged4X+DjLMK+hsWg0iQD+VW1W+YPyxMYQoVpiwouWWMM3jbKaR1mQLUNZomt4EeWBZjaxmv+Owi16t/8jeZLM6urn0SS1MzyRtqW7nuHy8PdhKEZp6h8HTp0uFYxy/NS4QzEdsGZhL4gqf1N8UFs1xObjsFdMybTY/6gZhl1XktJTLIDWN/EjQAm0Z2NzxubbeXljchubjaeVykaGYzPqiapymngqpZLx2OjVsWsP3xnoKvSllnYqcGHAbczJimgUm5bQyMQSPW3zxuJM5QCj6y2CLm35QRe/Q/d8ExiqYmkygaYS0unSFJtJxfrv0xhr6nSd3C2yEHWX5bmNTRTy1NJTqDINLaGXvdQLceGHNTSqmVpyiWp1L2tHH43zIZznfbQ7U8Ua6ARySAT9+WMlZjm1nrP4KggwoYHUk3mWaHtNRLKtv6jz6YUDadyopttPUVK8kJZbaYlu7nYAfYw0KWYhZzq2Ko4XDq1bnoBzMb1A7eCAoqsaWnUs3Ui5NrfEe/GnhpLlPOePYnEVy6Cw9oqzypPtCRyW0Ob6y2x88DQS1zH4qtmVV6pn6vSokYSb8gHrvjWDtObUAFyDImoVAShvcdNt/u+DtM+a20Jp8xK0U8L6pWKmzdb+PzOAZNbx6ViFIjDIayOWF6WqiWZtuyLNupuDz4Wv88IqqynMs10ClZcr78o6p6BdLPme0MaE/wn32Gwv624xBXRja8E4WvTGe2kgKF60loC0Y03s0X6g/fhhZqUaI0mmo2OxbXqEn08JGnpUShmaWSwf8yqb7D7O+I9cA2UawEwdRxdzwzs9brWSEME7Q3DKSHYKTaxH3vgQrMQxjz0dNSgmfryXp3p3YSEd5Ntweb41qBoZy3ckFd7xXVnvyKe8L2DeX3bBjYRVQ8RtLVHc0sO63B8D0wRiwbbzourMY20+BH8vPX34G1940OR/WXU7VihZYY3dYnUnSvv6eh+GKIG0JXPhLZcwrXeRoxUKpkPAIIsQSD4dLjC+hU8poXF1FG8NpM3qYAjTx1TBbgqynu+fxwlsKDsJvpfyzKAWM5NXT1Mh0xy6VNiDGdjbi3vG3niJQy6w8R/Ih1CLsJXNVvEJA0TREC6gqbAi21jyOMPCGcupVBvAifzTPI3aublm5ba5/TB9kz2P9idYBVuVAUixsGG+CGsGoLQsSJLZQAiIt9uWP7YrUSxlOk4tjsCNR48sQmUBCw0psIXdGYbKhtfa3TyPzOBvaNCFtpVDUKkj+1TVBRtysZ/MWO5IPO3ztguUXoDrOmsijdnaaobfU4L2LnoFANgBck35463wQMBltB0q2EZlgqKhWLgyK0ljewsRbpyL4nOTUi5nHq3lb+JIZALkBjffbf6fDFWlg84K82oWLAnz6eeJaQm/OUSOGVQBcdN+DiCUdhLYyzGyKTq+AxCbRioW2Ec01FTzUcTpLKlWsyxzKQGBUm11HiBvzY/XP0jdJlOx2mxsMBR6RdxvLc3EmV1jZaqxzyIF0usYBkubrpIJvcW38Sw6XLivKYw/PqlOfA5dXtA3s06sqSxzogAcHe4sSOQynzU4O1oq99YPUTpDl8VeY6ctNUSxaOwFl0LG1xv17Xjy+EteTNbSEzZfLGa10koWly+plRl7PSziEC5Av3lJsCORcXFr2K0HMZdLksqNHTLJQiJg6tL2ens2WETb3I5Uje/IN7datICLTMzWEraG1R32e1gQOuKhkeE02X5Yr5RPWVlDKzQqBG6sUVANyzbC43XxJv0xzqtcisKaMNfrfs+WtOvTwyijnddR8129/pM+qiFdS/yHr57Y3kXnPQhAT1SaT1LvNJDII7FZLLtYhtrehOBsq2hZnqAi+ktmzGvgmGupd2A1KxN9JLF9v8AIk+pOLDZheBVpdCcvZ6wJ62oaNaczOYUGhE6Kuotb01En1OGcpnP9jJLmNWtIaNZm9mLFjFta5tf46Vv42GJKMLkmqpqwf8AIZzP2kjM/LF9pL/3WwvPwkmaxQvVCr8tCYs5rVqlqKmRp2gjZFDueGGk/KwPiBbAsGYWBtDQKjHMoOhltHmEcNZJJXUaTvHeQGOQxm+x5sTycIq02ccLWv8AWb6NRaWZGQXUXFvh6/3BM+zh5pZaai7WCka2qEyXDW3Fxg8PhwoDNq3XaZMdinL9Htbfqn//2Q=="
+      },
+      {
+        "name": "The Society",
+        "extensions": [
+          "K.A. Linde"
+        ],
+        "link": "https://www.google.com/search?q=The+Society+K.A.+Linde&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2qMgrLzE0VYJw00xNinNLDAu1eJzy87ODM1NSyxMrixexioVkpCoE5ydnppZUKnjrOeop-GTmpaTuYGUEAMLWjxRKAAAA&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQxA0wIHoECBgQCQ",
+        "source": "bookbook",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "The Wright Secret",
+        "extensions": [
+          "K.A. Linde"
+        ],
+        "link": "https://www.google.com/search?q=The+Wright+Secret+K.A.+Linde&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2qMgrLzE0VYJw01Oy88rM0yq1eJzy87ODM1NSyxMrixexyoRkpCqEF2WmZ5QoBKcmF6WWKHjrOeop-GTmpaTuYGUEAEcqgGhQAAAA&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQxA0wIHoECBgQCw",
+        "source": "bookbook",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Avoiding Commitment",
+        "extensions": [
+          "K.A. Linde"
+        ],
+        "link": "https://www.google.com/search?q=Avoiding+Commitment&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2qMgrLzE0VeIBcY2S8swti02StXic8vOzgzNTUssTK4sXsQo7luVnpmTmpSs45-fmZpbkpuaV7GBlBABs3beURgAAAA&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQxA0wIHoECBgQDQ",
+        "source": "bookbook",
+        "image": "data:image/jpeg;base64,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"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?q=The+Affiliate&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2qMgrLzE0VULlaollJ1vpJ-XnZ4MJq-LMlNTyxMriRay8IRmpCo5paZk5mYklqTtYGQFkMNcZSwAAAA&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQMSgAMCB6BAgYEAE",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLVT9c3NEw2qMgrLzE0VULlaollJ1vpJ-XnZ4MJq-LMlNTyxMriRay8IRmpCo5paZk5mYklqTtYGQFkMNcZSwAAAA",
+    "see_more_about": [
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "What does it mean to be an affiliate?",
+      "snippet": "Definition: A way for a company to sell its products by signing up individuals or companies (\"affiliates\") who market the company's products for a commission. There are two ways to approach affiliate marketing: You can offer an affiliate program to others or you can sign up to be another business's affiliate.",
+      "title": "Affiliate Marketing Definition - Entrepreneur Small Business ...",
+      "link": "https://www.entrepreneur.com/encyclopedia/affiliate-marketing",
+      "displayed_link": "www.entrepreneur.com › encyclopedia › affiliate-marketing"
+    },
+    {
+      "question": "How do I become an affiliate?",
+      "snippet": "Here's a quick recap of what you need to do:Choose your niche.Research different affiliate programs and products.Build a site.Produce excellent content.Build an audience.Promote your affiliate product(s).Repeat steps #4–7 on a continual basis!Oct 17, 2018",
+      "title": "Affiliate Marketing for Beginners: How to Make Your First Affiliate ...",
+      "link": "https://www.affilorama.com/blog/first-affiliate-marketing-sale",
+      "displayed_link": "www.affilorama.com › blog › first-affiliate-marketing-sale"
+    },
+    {
+      "question": "What is an affiliate fee?",
+      "snippet": "Media companies primarily derive their revenues mainly from affiliate fees and advertising. Affiliate fees are the carriage fees paid per month per subscriber by MVPDs (multichannel video programming distributors) like Comcast (CMCSA) and Dish Network (DISH).Mar 15, 2016",
+      "title": "Affiliate Fees and Content Licensing Revenues for the Media Sector",
+      "link": "https://finance.yahoo.com/news/affiliate-fees-content-licensing-revenues-010509891.html",
+      "displayed_link": "finance.yahoo.com › news › affiliate-fees-content-licensing-revenues-01..."
+    },
+    {
+      "question": "Which affiliate program is the best?",
+      "snippet": "Whatever the reason, here's a list of top beginner affiliate programs for those of you just getting started:DreamHost Affiliate Program. ... Amazon Associates. ... eBay Partner Network. ... Target Affiliates. ... AliExpress Affiliate Program.",
+      "title": "The 67+ Best Affiliate Programs of 2019 (Highest Paying)",
+      "link": "https://www.forexreferral.com/best-affiliate-programs",
+      "displayed_link": "www.forexreferral.com › best-affiliate-programs"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The Affiliate (Ascension Book 1) eBook: K.A ... - Amazon.com",
+      "link": "https://www.amazon.com/Affiliate-Ascension-Book-1-ebook/dp/B012RU16BW",
+      "displayed_link": "www.amazon.com › Affiliate-Ascension-Book-1-ebook",
+      "snippet": "That's what happened in The Affiliate. Don't get me wrong—The Affiliate wasn't a bad book. It's a fantasy story and that part was definitely cool. I liked the world that K.A. Linde created, particularly the whole magical element.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4,
+            "reviews": 186
+          },
+          "extensions": [
+            "Rating: 4",
+            "186 reviews"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rQHnarOO2q4J:https://www.amazon.com/Affiliate-Ascension-Book-1-ebook/dp/B012RU16BW+&cd=1&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.amazon.com/Affiliate-Ascension-Book-1-ebook/dp/B012RU16BW+the+affiliate&tbo=1&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQHzAAegQIARAJ"
+    },
+    {
+      "position": 2,
+      "title": "The Affiliate (Ascension, #1) by K.A. Linde - Goodreads",
+      "link": "https://www.goodreads.com/en/book/show/17385231",
+      "displayed_link": "www.goodreads.com › book › show",
+      "snippet": "Start by marking “The Affiliate (Ascension, #1)” as Want to Read: ... When Cyrene receives a mysterious letter and an unreadable book, she finds nothing is as it seems. ... KA Linde did a fantastic job with the first book in this series.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.8,
+            "votes": 2681
+          },
+          "extensions": [
+            "Rating: 3.8",
+            "2,681 votes"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7KsnPNsOGj4J:https://www.goodreads.com/en/book/show/17385231+&cd=2&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Ascension Series by K.A. Linde - Goodreads",
+      "link": "https://www.goodreads.com/series/99780-ascension",
+      "displayed_link": "www.goodreads.com › series › 99780-ascension",
+      "snippet": "The Affiliate (Ascension, #1), The Bound (Ascension, #2), The Consort (Ascension, #3), The Society (Ascension, #4), and The Domina (Ascension, #5)",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8g1GauuAiGYJ:https://www.goodreads.com/series/99780-ascension+&cd=3&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.goodreads.com/series/99780-ascension+the+affiliate&tbo=1&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQHzACegQIAxAJ"
+    },
+    {
+      "position": 4,
+      "title": "Affiliate Marketing Made Simple: A Step-by-Step Guide",
+      "link": "https://neilpatel.com/what-is-affiliate-marketing/",
+      "displayed_link": "neilpatel.com › what-is-affiliate-marketing",
+      "snippet": "(Image source: Top 5 SEO). Passive income. That's the dream, right? Make money while you sleep. For 99% of people, affiliate marketing is how they get started.",
+      "rich_snippet": {
+        "bottom": {
+          "questions": [
+            "What is affiliate marketing?",
+            "How much money can you make as an affiliate marketer?",
+            "What are some of the most popular affilaite networks?",
+            "Is affiliate marketing a pyramid scheme?"
+          ]
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Affiliate marketing - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Affiliate_marketing",
+      "displayed_link": "en.wikipedia.org › wiki › Affiliate_marketing",
+      "snippet": "Affiliate marketing is a type of performance-based marketing in which a business rewards one or more affiliates for each visitor or customer brought by the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Rsi_AOJNSuIJ:https://en.wikipedia.org/wiki/Affiliate_marketing+&cd=14&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Affiliate_marketing+the+affiliate&tbo=1&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQHzANegQIBRAJ"
+    },
+    {
+      "position": 6,
+      "title": "The Affiliate – B&N Readouts - Barnes & Noble",
+      "link": "https://www.barnesandnoble.com/readouts/the-affiliate/",
+      "displayed_link": "www.barnesandnoble.com › readouts › the-affiliate",
+      "snippet": "“Aralyn was selected as an Affiliate, and I'm sure you will be, too.” Cyrene refocused her thoughts, channeling the self-assurance that so often came to her, and ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:a6ZqKGffyKcJ:https://www.barnesandnoble.com/readouts/the-affiliate/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "iTunes - The Affiliate Program - Apple",
+      "link": "https://www.apple.com/itunes/affiliates/",
+      "displayed_link": "www.apple.com › itunes › affiliates",
+      "snippet": "More than just a traditional affiliate program, the Apple Services Performance Partners Program provides unique opportunities for our valued partners. As the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_RvVV7wB3loJ:https://www.apple.com/itunes/affiliates/+&cd=16&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Affiliate Marketing in 2020: What It Is + How Beginners Can Start",
+      "link": "https://www.bigcommerce.com/blog/affiliate-marketing/",
+      "displayed_link": "www.bigcommerce.com › blog › affiliate-marketing",
+      "snippet": "Affiliate marketing is the process of earning commissions for marketing another person's or company's products. Learn more about how it works.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:u3DLER_kwN8J:https://www.bigcommerce.com/blog/affiliate-marketing/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "What is Affiliate Marketing and How can you make money from ...",
+      "link": "https://makeawebsitehub.com/what-is-affiliate-marketing/",
+      "displayed_link": "makeawebsitehub.com › what-is-affiliate-marketing",
+      "snippet": "There are hundreds of affiliate programs available to bloggers and website owners. In this post I cover how you can get started with affiliate marketing.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dmtEjGQveMYJ:https://makeawebsitehub.com/what-is-affiliate-marketing/+&cd=18&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://makeawebsitehub.com/what-is-affiliate-marketing/+the+affiliate&tbo=1&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQHzARegQIBxAJ"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "what is affiliate marketing",
+      "link": "https://www.google.com/search?q=what+is+affiliate+marketing&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ1QIoAHoECBsQAQ"
+    },
+    {
+      "query": "how to start affiliate marketing",
+      "link": "https://www.google.com/search?q=how+to+start+affiliate+marketing&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ1QIoAXoECBsQAg"
+    },
+    {
+      "query": "affiliate company",
+      "link": "https://www.google.com/search?q=affiliate+company&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ1QIoAnoECBsQAw"
+    },
+    {
+      "query": "affiliate marketing companies",
+      "link": "https://www.google.com/search?q=affiliate+marketing+companies&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ1QIoA3oECBsQBA"
+    },
+    {
+      "query": "affiliate marketing examples",
+      "link": "https://www.google.com/search?q=affiliate+marketing+examples&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ1QIoBHoECBsQBQ"
+    },
+    {
+      "query": "affiliate marketing for beginners",
+      "link": "https://www.google.com/search?q=affiliate+marketing+for+beginners&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ1QIoBXoECBsQBg"
+    },
+    {
+      "query": "affiliate marketing amazon",
+      "link": "https://www.google.com/search?q=affiliate+marketing+amazon&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ1QIoBnoECBsQBw"
+    },
+    {
+      "query": "what is affiliate marketing and how does it work",
+      "link": "https://www.google.com/search?q=what+is+affiliate+marketing+and+how+does+it+work&sa=X&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ1QIoB3oECBsQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=the+affiliate&ei=oAgnXt7sDaSYr7wPnLKM0A4&start=10&sa=N&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ8NMDegQIGRBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=the+affiliate&ei=oAgnXt7sDaSYr7wPnLKM0A4&start=10&sa=N&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ8tMDegQIGRAu",
+      "3": "https://www.google.com/search?q=the+affiliate&ei=oAgnXt7sDaSYr7wPnLKM0A4&start=20&sa=N&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ8tMDegQIGRAw",
+      "4": "https://www.google.com/search?q=the+affiliate&ei=oAgnXt7sDaSYr7wPnLKM0A4&start=30&sa=N&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ8tMDegQIGRAy",
+      "5": "https://www.google.com/search?q=the+affiliate&ei=oAgnXt7sDaSYr7wPnLKM0A4&start=40&sa=N&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ8tMDegQIGRA0",
+      "6": "https://www.google.com/search?q=the+affiliate&ei=oAgnXt7sDaSYr7wPnLKM0A4&start=50&sa=N&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ8tMDegQIGRA2",
+      "7": "https://www.google.com/search?q=the+affiliate&ei=oAgnXt7sDaSYr7wPnLKM0A4&start=60&sa=N&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ8tMDegQIGRA4",
+      "8": "https://www.google.com/search?q=the+affiliate&ei=oAgnXt7sDaSYr7wPnLKM0A4&start=70&sa=N&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ8tMDegQIGRA6",
+      "9": "https://www.google.com/search?q=the+affiliate&ei=oAgnXt7sDaSYr7wPnLKM0A4&start=80&sa=N&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ8tMDegQIGRA8",
+      "10": "https://www.google.com/search?q=the+affiliate&ei=oAgnXt7sDaSYr7wPnLKM0A4&start=90&sa=N&ved=2ahUKEwjevPva8ZTnAhUkzIsBHRwZA-oQ8tMDegQIGRA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+affiliate&start=10&token=aac9cf77a45e79b0",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+affiliate&start=10&token=aac9cf77a45e79b0",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+affiliate&start=10&token=aac9cf77a45e79b0",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+affiliate&start=20&token=b18300be8993c2ee",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+affiliate&start=30&token=970453c50c7f4c1a",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+affiliate&start=40&token=9760385c1891de3a",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+affiliate&start=50&token=a6db7b2711fc263d",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+affiliate&start=60&token=1dc132eed8140fa2",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+affiliate&start=70&token=ac40b5ad360bdc3a",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+affiliate&start=80&token=11550e561fc9b031",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+affiliate&start=90&token=42793e63fbc9ff45"
+    }
+  }
+}

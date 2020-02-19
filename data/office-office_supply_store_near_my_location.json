@@ -1,0 +1,317 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:22:55 UTC",
+    "processed_at": "2020-01-21 22:22:55 UTC",
+    "google_url": "https://www.google.com/search?q=office+supply+store+near+my+location&oq=office+supply+store+near+my+location&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 4.23
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supply store near my location",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 3170000000,
+    "time_taken_displayed": 0.54,
+    "query_displayed": "office supply store near my location"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Office Depot® Official Site | Get Your Business Basics‎",
+      "link": "https://www.officedepot.com/a/browse/office-supplies/N=5+1676/",
+      "displayed_link": "www.officedepot.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjQ1bDM3ZXnAhWDkY8KHZRNA8UYABAAGgJzYg&sig=AOD64_35kABV-H2ehVGGF3J_1qOLrxcSJA&q=&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ0Qx6BAgREAE&adurl=",
+      "description": "Buy Office Furniture, Supplies, and Accessories at Low Prices. Shop Now! Let's Get Possible Done. Shop Office Depot® Online Today! Live Chat Available. Check Order Status.",
+      "deal": [
+        "20% off Regular Priced Items",
+        "Valid Jan 19",
+        "Jan 25"
+      ],
+      "1519_blue_lakes_blvd_n_twin_falls_id_open_today_8": [
+        "00 AM – 9"
+      ],
+      "sitelinks": [
+        {
+          "title": "Binders & Accessories",
+          "link": "https://www.officedepot.com/a/browse/binders-and-accessories/N=5+2155/?"
+        },
+        {
+          "title": "Shop Our Deal Center",
+          "link": "https://www.officedepot.com/catalog/search.do?N=5+1676&cbxRefine=549384/"
+        }
+      ]
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supply+store+near+my+location&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=42568670,-114448424,2583&tbm=lcl&sa=X&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQtgN6BAgMEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 42.56867,
+      "longitude": -114.448424,
+      "altitude": 2583
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supply+store+near+my+location&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=42568670,-114448424,2583&tbm=lcl&sa=X&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQjGp6BAgMEEI",
+    "places": [
+      {
+        "position": 1,
+        "title": "Office Depot",
+        "place_id": "18365067647525915845",
+        "lsig": "AB86z5X6CKytmDbs7c7ukrPR2hD8",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5X6CKytmDbs7c7ukrPR2hD8&ludocid=18365067647525915845&q=office+supply+store+near+my+location&tbm=lcl&token=cc123e002725ebaa",
+        "rating": 4.1,
+        "reviews": 116,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (208) 735-8866",
+        "address": "1519 Blue Lakes Blvd N",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 42.589175700000006,
+          "longitude": -114.4632905
+        }
+      },
+      {
+        "position": 2,
+        "title": "Harvey's Office Plus",
+        "place_id": "5728496719164170367",
+        "lsig": "AB86z5VgadVu0sWm90j5k6WzHxxD",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VgadVu0sWm90j5k6WzHxxD&ludocid=5728496719164170367&q=office+supply+store+near+my+location&tbm=lcl&token=16fdfacebc86abca",
+        "rating": 4.5,
+        "reviews": 28,
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 6PM · (208) 734-9560",
+        "address": "1860 Kimberly Rd",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 42.548165,
+          "longitude": -114.44847999999999
+        }
+      },
+      {
+        "position": 3,
+        "title": "Office Value",
+        "place_id": "6914947536247710114",
+        "lsig": "AB86z5UfCAF9CaUbswrx3BKFLAes",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UfCAF9CaUbswrx3BKFLAes&ludocid=6914947536247710114&q=office+supply+store+near+my+location&tbm=lcl&token=a49fb8b78b54d653",
+        "rating": 4,
+        "reviews": 1,
+        "type": "Office supply store",
+        "hours": "Open now · (208) 735-8132",
+        "address": "2487 Kimberly Rd",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 42.5492649,
+          "longitude": -114.4335593
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "Do staples still have stores?",
+      "snippet": "The US owner of Staples has sold the UK arm, which employs 1,100 people across 106 stores, to Hilco for a \"nominal\" sum. Hilco said it was planning to phase out Staples-branded shops over the coming months. Staples also has online and business-to-business operations.Nov 17, 2016",
+      "title": "Staples brand to disappear from UK High Streets - BBC News",
+      "link": "https://www.bbc.co.uk/news/business-38013806",
+      "displayed_link": "www.bbc.co.uk › news › business-38013806"
+    },
+    {
+      "question": "Is Office Depot the same as OfficeMax?",
+      "snippet": "OfficeMax. OfficeMax is an American office supplies retailer founded in 1988. It is now a subsidiary of Office Depot, Inc., which is headquartered in Boca Raton, Florida. ... On February 20, 2013, an all-stock merger between Office Depot and OfficeMax was announced.",
+      "title": "OfficeMax - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/OfficeMax",
+      "displayed_link": "en.wikipedia.org › wiki › OfficeMax"
+    },
+    {
+      "question": "How many Office Depot stores are there?",
+      "snippet": "1,378December 2017",
+      "link": "/search?q=How+many+Office+Depot+stores+are+there%3F&sa=X&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQzmd6BAgOECE"
+    },
+    {
+      "question": "What is Staples called now?",
+      "snippet": "While there has been no official announcement from Hilco on the name change or exactly how many stores will remain open, a rebrand to the new name of Office Outlet has begun. This follows the change of the official name of the company in early January from Staples Retail UK to SUK Retail.Feb 27, 2017",
+      "title": "Staples UK rebrand underway | OPI - Office Products International",
+      "link": "https://www.opi.net/news/region/002-europe/staples-uk-rebrand-underway/",
+      "displayed_link": "www.opi.net › news › region › 002-europe › staples-uk-rebrand-under..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Office Depot in TWIN FALLS,ID - 1519 BLUE LAKES BLVD. N",
+      "link": "https://www.officedepot.com/storelocator/id/twin-falls/officemax-6420/",
+      "displayed_link": "www.officedepot.com › storelocator › twin-falls › officemax-6420",
+      "snippet": "Shop at the Office Depot Store in TWIN FALLS,ID. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9ReR75woWiwJ:https://www.officedepot.com/storelocator/id/twin-falls/officemax-6420/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Find Stores Near You - Office Depot & Office Max",
+      "link": "https://www.officedepot.com/storelocator/findStore.do",
+      "displayed_link": "www.officedepot.com › storelocator › findStore",
+      "snippet": "Enter in your zip code, city or state to find the phone number, store hours, driving directions and location of an Office Depot or OfficeMax Store near you.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NWclddyCd0EJ:https://www.officedepot.com/storelocator/findStore.do+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Office Depot Stores in Twin Falls,ID - Visit Today",
+      "link": "https://www.officedepot.com/storelocator/id/twin-falls/",
+      "displayed_link": "www.officedepot.com › storelocator › twin-falls",
+      "snippet": "... in Twin Falls,ID. Enjoy low prices on products ranging from paper and electronics to furniture and much more. ... Twin Falls, Idaho Store Locations. 1519 BLUE ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AUy46hV2GtIJ:https://www.officedepot.com/storelocator/id/twin-falls/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "1. twin falls, Store #6420 - Office Supplies, Furniture ...",
+      "link": "https://www.officedepot.com/mb/stores/newList.do?state=id&city=twin-falls",
+      "displayed_link": "www.officedepot.com › stores › newList",
+      "snippet": "Shop office supplies, furniture & technology at Office Depot. For paper, ink ... 1 Stores. 1. twin falls, Store #6420. 2.3 miles ... in your area. Find Stores Near Me.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yWncpDE5GyAJ:https://www.officedepot.com/mb/stores/newList.do%3Fstate%3Did%26city%3Dtwin-falls+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Welcome to Harvey's Office Plus - Twin Falls",
+      "link": "http://v501.britlink.com/P277/portal/alias__harveysoffice/tabID__25040/DesktopDefault.aspx",
+      "displayed_link": "v501.britlink.com › portal › tabID__25040 › DesktopDefault",
+      "snippet": "my cart (0): $0.00 ... Office Supplies. Binders & Accessories Boards & Easels Business/Travel Bags ... Store and Showroom. 1860 Kimberly Road, Twin Falls, ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:WpRC1GCEcOgJ:v501.britlink.com/P277/portal/alias__harveysoffice/tabID__25040/DesktopDefault.aspx+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Staples® Store Locator | Find Staples Office Supply Stores ...",
+      "link": "https://stores.staples.com/search",
+      "displayed_link": "stores.staples.com › search",
+      "snippet": "Search for Staples® office supply stores in your area to find location hours, directions, addresses, phone numbers, promotions, features, events and services.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4OqR4A_G35AJ:https://stores.staples.com/search+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Staples® Official Online Store",
+      "link": "https://www.staples.com/",
+      "displayed_link": "www.staples.com",
+      "snippet": "Shop Staples for business essentials, printers, ink, computers, office furniture, printing services, promotional products and more. Solutions for Worklife.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Supplies",
+            "link": "https://www.staples.com/Office-Supplies/cat_SC1"
+          },
+          {
+            "title": "Printing & Marketing Services",
+            "link": "https://www.staples.com/services/printing/"
+          },
+          {
+            "title": "Small Office & Home Office ...",
+            "link": "https://www.staples.com/Small-Office-Home-Office-Furniture-Collections/cat_CL208484"
+          },
+          {
+            "title": "Pens",
+            "link": "https://www.staples.com/Pens/cat_CL110001"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CNR1OwZWsigJ:https://www.staples.com/+&cd=18&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Best 19 Staples Office Supply Store in Twin Falls, ID with ...",
+      "link": "https://www.yellowpages.com/twin-falls-id/staples-office-supply-store",
+      "displayed_link": "www.yellowpages.com › Twin Falls, ID",
+      "date": "19 results",
+      "snippet": "Staples Office Supply Store in Twin Falls on YP.com. See reviews ... They got me what I needed and gave great advice on what to buy. Mower Office ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qvuSZt3ptgQJ:https://www.yellowpages.com/twin-falls-id/staples-office-supply-store+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Staples Office Supply Locations & Hours Near Twin Falls, ID ...",
+      "link": "https://www.yellowpages.com/twin-falls-id/staples-office-supply",
+      "displayed_link": "www.yellowpages.com › Twin Falls, ID",
+      "date": "19 results",
+      "snippet": "Find 19 listings related to Staples Office Supply in Twin Falls on YP.com. See reviews, photos, directions, phone numbers and more for Staples Office Supply locations in Twin Falls, ID. ... Office Equipment & SuppliesStationery Stores. (208) 734- ... They got me what I needed and gave great advice on what to buy.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ykwSPThuuv0J:https://www.yellowpages.com/twin-falls-id/staples-office-supply+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Clos Office Supply - Art Supplies - 150 Main Ave S, Twin Falls ...",
+      "link": "https://www.yelp.com/biz/clos-office-supply-twin-falls",
+      "displayed_link": "www.yelp.com › Shopping › Arts & Crafts › Art Supplies",
+      "snippet": "Clos Office Supply in Twin Falls, reviews by real people. Yelp is a fun ... Best of Yelp Twin Falls – Art Supplies. Girlfriends ... Near Me. Art Supply Store Near Me."
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "office depot",
+      "link": "https://www.google.com/search?q=office+depot&sa=X&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ1QIoAHoECA8QAQ"
+    },
+    {
+      "query": "office depot twin falls",
+      "link": "https://www.google.com/search?q=office+depot+twin+falls&sa=X&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ1QIoAXoECA8QAg"
+    },
+    {
+      "query": "office supply stores near me",
+      "link": "https://www.google.com/search?q=office+supply+stores+near+me&sa=X&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ1QIoAnoECA8QAw"
+    },
+    {
+      "query": "officemax",
+      "link": "https://www.google.com/search?q=officemax&sa=X&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ1QIoA3oECA8QBA"
+    },
+    {
+      "query": "office depot printing",
+      "link": "https://www.google.com/search?q=office+depot+printing&sa=X&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ1QIoBHoECA8QBQ"
+    },
+    {
+      "query": "best buy twin falls",
+      "link": "https://www.google.com/search?q=best+buy+twin+falls&sa=X&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ1QIoBXoECA8QBg"
+    },
+    {
+      "query": "office depot locations near me",
+      "link": "https://www.google.com/search?q=office+depot+locations+near+me&sa=X&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ1QIoBnoECA8QBw"
+    },
+    {
+      "query": "office depo9t",
+      "link": "https://www.google.com/search?q=office+depo9t&sa=X&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ1QIoB3oECA8QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supply+store+near+my+location&ei=wHknXsmSH-eY4-EP6oW50Aw&start=10&sa=N&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ8NMDegQIEBBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supply+store+near+my+location&ei=wHknXsmSH-eY4-EP6oW50Aw&start=10&sa=N&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ8tMDegQIEBAv",
+      "3": "https://www.google.com/search?q=office+supply+store+near+my+location&ei=wHknXsmSH-eY4-EP6oW50Aw&start=20&sa=N&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ8tMDegQIEBAx",
+      "4": "https://www.google.com/search?q=office+supply+store+near+my+location&ei=wHknXsmSH-eY4-EP6oW50Aw&start=30&sa=N&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ8tMDegQIEBAz",
+      "5": "https://www.google.com/search?q=office+supply+store+near+my+location&ei=wHknXsmSH-eY4-EP6oW50Aw&start=40&sa=N&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ8tMDegQIEBA1",
+      "6": "https://www.google.com/search?q=office+supply+store+near+my+location&ei=wHknXsmSH-eY4-EP6oW50Aw&start=50&sa=N&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ8tMDegQIEBA3",
+      "7": "https://www.google.com/search?q=office+supply+store+near+my+location&ei=wHknXsmSH-eY4-EP6oW50Aw&start=60&sa=N&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ8tMDegQIEBA5",
+      "8": "https://www.google.com/search?q=office+supply+store+near+my+location&ei=wHknXsmSH-eY4-EP6oW50Aw&start=70&sa=N&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ8tMDegQIEBA7",
+      "9": "https://www.google.com/search?q=office+supply+store+near+my+location&ei=wHknXsmSH-eY4-EP6oW50Aw&start=80&sa=N&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ8tMDegQIEBA9",
+      "10": "https://www.google.com/search?q=office+supply+store+near+my+location&ei=wHknXsmSH-eY4-EP6oW50Aw&start=90&sa=N&ved=2ahUKEwjJ8qbM3ZXnAhVnzDgGHepCDsoQ8tMDegQIEBA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+my+location&start=10&token=23e27b4b5c154b7d",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+my+location&start=10&token=23e27b4b5c154b7d",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+my+location&start=10&token=23e27b4b5c154b7d",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+my+location&start=20&token=28983254c459003e",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+my+location&start=30&token=068b872089b078d2",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+my+location&start=40&token=41f3224ab352715f",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+my+location&start=50&token=58936d858c3a894d",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+my+location&start=60&token=277e8b538a7ca2bf",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+my+location&start=70&token=10fd6a647188b610",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+my+location&start=80&token=96efbb92209700b5",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+near+my+location&start=90&token=7da8bcc0daea61b8"
+    }
+  }
+}

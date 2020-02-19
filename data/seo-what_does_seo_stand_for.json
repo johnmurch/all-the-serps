@@ -1,0 +1,295 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 13:58:00 UTC",
+    "processed_at": "2020-01-20 13:58:00 UTC",
+    "google_url": "https://www.google.com/search?q=what+does+seo+stand+for&oq=what+does+seo+stand+for&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 7.61
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what does seo stand for",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 93000000,
+    "time_taken_displayed": 0.51,
+    "query_displayed": "what does seo stand for"
+  },
+  "knowledge_graph": {
+    "title": "Search Engine Optimization",
+    "description": "Search engine optimization is the process of increasing the quality and quantity of website traffic by increasing the visibility of a website or a web page to users of a web search engine.\nSEO refers to the improvement of unpaid results and excludes direct traffic/visitors and the purchase of paid placement.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Search_engine_optimization"
+    },
+    "seo_blogs": [
+      {
+        "name": "Search Engine Land",
+        "link": "https://www.google.com/search?q=Search+Engine+Land&stick=H4sIAAAAAAAAAONgFuLUz9U3MLQsTIpX4gIxswyLSswLtESyk630k_Nzc_PzrFLyy_PKE4tSilcxCgLFcnJSk0sy8_P0k3Ly04sXsQoFpyYWJWcouOalZ-alKvgk5qUAABHYxy5YAAAA&sa=X&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQxA0wH3oECBIQFg",
+        "source": "common",
+        "image": "data:image/png;base64,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"
+      },
+      {
+        "name": "SEO Book",
+        "link": "https://www.google.com/search?q=SEO+Book&stick=H4sIAAAAAAAAAONgFuLUz9U3MLQsTIpX4gIxTbNNcy1TtESyk630k_Nzc_PzrFLyy_PKE4tSilcxCgLFcnJSk0sy8_P0k3Ly04sXsXIEu_orOOXnZwMAHAaMnE4AAAA&sa=X&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQxA0wH3oECBIQGA",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "TagliaBlog",
+        "link": "https://www.google.com/search?q=TagliaBlog&stick=H4sIAAAAAAAAAONgFuLUz9U3MLQsTIpX4gIxTZJz0ovStUSyk630k_Nzc_PzrFLyy_PKE4tSilcxCgLFcnJSk0sy8_P0k3Ly04sXsXKFJKbnZCY6AXkAtrcfbVAAAAA&sa=X&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQxA0wH3oECBIQGg",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Google Blogoscoped",
+        "link": "https://www.google.com/search?q=Google+Blogoscoped&stick=H4sIAAAAAAAAAONgFuLUz9U3MLQsTIpXAjPTzM2KkrREspOt9JPzc3Pz86xS8svzyhOLUopXMQoCxXJyUpNLMvPz9JNy8tOLF7EKuefnp-ekKjgBufnFyfkFqSkAzj19dVcAAAA&sa=X&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQxA0wH3oECBIQHA",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      }
+    ],
+    "seo_blogs_link": "https://www.google.com/search?q=SEO+blogs&stick=H4sIAAAAAAAAAONgFuLUz9U3MLQsTIpXQjC1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKAsVyclKTSzLz8_STcvLTixexcga7-iuA2QBuFB5dTgAAAA&sa=X&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQMSgAMB96BAgSEBM",
+    "seo_blogs_stick": "H4sIAAAAAAAAAONgFuLUz9U3MLQsTIpXQjC1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKAsVyclKTSzLz8_STcvLTixexcga7-iuA2QBuFB5dTgAAAA",
+    "see_more_about": [
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "What does SEO stand for in business?",
+      "snippet": "Search Engine Optimization",
+      "title": "5 Uncomplicated Social SEO Tips for Small Businesses | Constant ...",
+      "link": "https://blogs.constantcontact.com/social-seo-tips/",
+      "displayed_link": "blogs.constantcontact.com › social-seo-tips"
+    },
+    {
+      "question": "What does SEO mean in marketing?",
+      "snippet": "search engine optimization",
+      "title": "What Does SEO Mean? Here's Everything You ... - LYFE Marketing",
+      "link": "https://www.lyfemarketing.com/blog/what-does-seo-mean/",
+      "displayed_link": "www.lyfemarketing.com › blog › what-does-seo-mean"
+    },
+    {
+      "question": "What does SEO stand for in texting?",
+      "snippet": "Search Engine Optimization",
+      "title": "What is SEO an acronym for? And why is it important? Discover the ...",
+      "link": "https://www.storyblock.media/blog/what-is-seo-an-acronym-for",
+      "displayed_link": "www.storyblock.media › blog › what-is-seo-an-acronym-for"
+    },
+    {
+      "question": "What is SEO and how it works?",
+      "snippet": "In other words, SEO involves making certain changes to your website design and content that make your site more attractive to a search engine. ... SEO is the process that organizations go through to help make sure that their site ranks high in the search engines for relevant keywords and phrases.Jul 9, 2019",
+      "title": "What is SEO and How Does It Work? [Here's the Answer]",
+      "link": "https://www.lyfemarketing.com/blog/what-is-seo-and-how-it-works/",
+      "displayed_link": "www.lyfemarketing.com › blog › what-is-seo-and-how-it-works"
+    }
+  ],
+  "answer_box": {
+    "type": "dictionary_results",
+    "title": "5 Uncomplicated Social SEO Tips for Small Businesses ...",
+    "link": "https://blogs.constantcontact.com/social-seo-tips/",
+    "snippet": "SEO stands for Search Engine Optimization. And the phrase improve your SEO strategy encompasses the actions taken to ensure your website can be found in a search engine's results page (SERP) when searching for words or phrases relevant to the content on your website.",
+    "thumbnail": "data:image/png;base64,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",
+    "syllables": "SEO",
+    "word_type": "noun",
+    "definitions": [
+      "short for search engine optimization."
+    ],
+    "examples": [
+      "\"digital is now the company's main marketing channel with the majority of investment going on SEO\""
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "What Does SEO Stand For? | SEO for Beginners | StatCounter ...",
+      "link": "https://statcounter.com/insights/seo/what-does-seo-stand-for",
+      "displayed_link": "statcounter.com › insights › seo › what-does-seo-stand-for",
+      "snippet": "As you may know, SEO stands for Search Engine Optimization. But what does that mean? And what does search engine optimization entail? In short, SEO is ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kVUKQaWvgB4J:https://statcounter.com/insights/seo/what-does-seo-stand-for+&cd=19&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://statcounter.com/insights/seo/what-does-seo-stand-for+what+does+seo+stand+for&tbo=1&sa=X&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQHzASegQIARAJ"
+    },
+    {
+      "position": 2,
+      "title": "What Does SEO Stand For? (And How Do I Use It?) - WebFX",
+      "link": "https://www.webfx.com/internet-marketing/what-does-seo-stand-for.html",
+      "displayed_link": "www.webfx.com › internet-marketing › what-does-seo-stand-for",
+      "snippet": "SEO stands for search engine optimization, a strategy that helps increase your ... SEO is the process of improving your website so it ranks higher in search ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What's SEO?",
+            "link": "https://www.webfx.com/internet-marketing/what-does-seo-stand-for.html#what-seo"
+          },
+          {
+            "title": "What makes SEO good or bad?",
+            "link": "https://www.webfx.com/internet-marketing/what-does-seo-stand-for.html#seo-good-bad"
+          },
+          {
+            "title": "SEO strategies for ...",
+            "link": "https://www.webfx.com/internet-marketing/what-does-seo-stand-for.html#seo-beginner-strategies"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Qh8hwSwJWjQJ:https://www.webfx.com/internet-marketing/what-does-seo-stand-for.html+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "What Does SEO Stand For? (+ 7 Beginner's Tips for Ranking a ...",
+      "link": "https://kinsta.com/blog/what-does-seo-stand-for/",
+      "displayed_link": "kinsta.com › blog › what-does-seo-stand-for",
+      "date": "Oct 17, 2019",
+      "snippet": "SEO is short for Search Engine Optimization. It refers to a set of strategies and tactics that focus on driving more traffic from Search Engines to ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IP6NKBIORf8J:https://kinsta.com/blog/what-does-seo-stand-for/+&cd=21&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "5 Uncomplicated Social SEO Tips for Small Businesses ...",
+      "link": "https://blogs.constantcontact.com/social-seo-tips/",
+      "displayed_link": "blogs.constantcontact.com › social-seo-tips",
+      "snippet": "SEO stands for Search Engine Optimization. And the phrase improve your SEO strategy encompasses the actions taken to ensure your website can be found in a search engine's results page (SERP) when searching for words or phrases relevant to the content on your website.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:fMQZ4YtsLcYJ:https://blogs.constantcontact.com/social-seo-tips/+&cd=22&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://blogs.constantcontact.com/social-seo-tips/+what+does+seo+stand+for&tbo=1&sa=X&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQHzAVegQICRAJ"
+    },
+    {
+      "position": 5,
+      "title": "What does SEO stand for - SEO Expert",
+      "link": "https://www.seoexperts.com/what-does-seo-stand-for/",
+      "displayed_link": "www.seoexperts.com › what-does-seo-stand-for",
+      "snippet": "... and great minds, but the word itself stands for Search Engine Optimization. ... SEO can stand for various meanings in today's world, but actually, what does ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KYQ3erD8XTYJ:https://www.seoexperts.com/what-does-seo-stand-for/+&cd=23&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "What does SEO stand for? - Impact",
+      "link": "https://www.impactbnd.com/blog/what-is-seo",
+      "displayed_link": "www.impactbnd.com › blog › what-is-seo",
+      "date": "Oct 9, 2019",
+      "snippet": "What is SEO? How does search engine optimization work? And what are the SEO best practices you need to know to rank well in search ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Xd8LfaUECBQJ:https://www.impactbnd.com/blog/what-is-seo+&cd=24&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "What Does SEO Mean? Here's Everything You Need to Know",
+      "link": "https://www.lyfemarketing.com/blog/what-does-seo-mean/",
+      "displayed_link": "www.lyfemarketing.com › blog › what-does-seo-mean",
+      "date": "Aug 7, 2019",
+      "snippet": "The meaning of SEO (search engine optimization) is the process of making changes to your ... SERP stands for Search Engine Results Page.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nzNAydVZD1QJ:https://www.lyfemarketing.com/blog/what-does-seo-mean/+&cd=25&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "What Is SEO / Search Engine Optimization? - Search Engine ...",
+      "link": "https://searchengineland.com/guide/what-is-seo",
+      "displayed_link": "searchengineland.com › guide › what-is-seo",
+      "snippet": "SEO stands for “search engine optimization.” It is the process of getting traffic from the “free,” “organic,” “editorial” or “natural” search results on search engines.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rcN1h0iDgx4J:https://searchengineland.com/guide/what-is-seo+&cd=26&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "What Does SEO Mean? Discover What You Really Need to ...",
+      "link": "https://alpinewebmedia.com/what-does-seo-stand-for/",
+      "displayed_link": "alpinewebmedia.com › what-does-seo-stand-for",
+      "date": "May 18, 2016",
+      "snippet": "SEO stands for “search engine optimization”. Oddly enough, everyone seems to have heard about and uses the term “SEO” but many do not ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:snEdMAeC2CUJ:https://alpinewebmedia.com/what-does-seo-stand-for/+&cd=27&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "What is SEO? [2020 Tips] - Moz",
+      "link": "https://moz.com/learn/seo/what-is-seo",
+      "displayed_link": "moz.com › SEO Learning Center",
+      "snippet": "SEO stands for Search Engine Optimization, which is the practice of increasing the quantity and quality of traffic to your website through organic search engine ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LkB2hn8PqlIJ:https://moz.com/learn/seo/what-is-seo+&cd=28&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://moz.com/learn/seo/what-is-seo+what+does+seo+stand+for&tbo=1&sa=X&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQHzAbegQIBRAL"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "what does seo stand for in web design and development",
+      "link": "https://www.google.com/search?q=what+does+seo+stand+for+in+web+design+and+development&sa=X&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ1QIoAHoECBAQAQ"
+    },
+    {
+      "query": "what does seo stand for in journalism",
+      "link": "https://www.google.com/search?q=what+does+seo+stand+for+in+journalism&sa=X&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ1QIoAXoECBAQAg"
+    },
+    {
+      "query": "what does seo do",
+      "link": "https://www.google.com/search?q=what+does+seo+do&sa=X&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ1QIoAnoECBAQAw"
+    },
+    {
+      "query": "what does sem stand for in marketing",
+      "link": "https://www.google.com/search?q=what+does+sem+stand+for+in+marketing&sa=X&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ1QIoA3oECBAQBA"
+    },
+    {
+      "query": "how to do seo",
+      "link": "https://www.google.com/search?q=how+to+do+seo&sa=X&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ1QIoBHoECBAQBQ"
+    },
+    {
+      "query": "what is seo and how it works",
+      "link": "https://www.google.com/search?q=what+is+seo+and+how+it+works&sa=X&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ1QIoBXoECBAQBg"
+    },
+    {
+      "query": "what does serp stand for",
+      "link": "https://www.google.com/search?q=what+does+serp+stand+for&sa=X&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ1QIoBnoECBAQBw"
+    },
+    {
+      "query": "seo marketing",
+      "link": "https://www.google.com/search?q=seo+marketing&sa=X&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ1QIoB3oECBAQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what+does+seo+stand+for&ei=7rElXvPzNMSE-gSan6-oAg&start=10&sa=N&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ8NMDegQIFRA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what+does+seo+stand+for&ei=7rElXvPzNMSE-gSan6-oAg&start=10&sa=N&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ8tMDegQIFRAt",
+      "3": "https://www.google.com/search?q=what+does+seo+stand+for&ei=7rElXvPzNMSE-gSan6-oAg&start=20&sa=N&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ8tMDegQIFRAv",
+      "4": "https://www.google.com/search?q=what+does+seo+stand+for&ei=7rElXvPzNMSE-gSan6-oAg&start=30&sa=N&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ8tMDegQIFRAx",
+      "5": "https://www.google.com/search?q=what+does+seo+stand+for&ei=7rElXvPzNMSE-gSan6-oAg&start=40&sa=N&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ8tMDegQIFRAz",
+      "6": "https://www.google.com/search?q=what+does+seo+stand+for&ei=7rElXvPzNMSE-gSan6-oAg&start=50&sa=N&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ8tMDegQIFRA1",
+      "7": "https://www.google.com/search?q=what+does+seo+stand+for&ei=7rElXvPzNMSE-gSan6-oAg&start=60&sa=N&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ8tMDegQIFRA3",
+      "8": "https://www.google.com/search?q=what+does+seo+stand+for&ei=7rElXvPzNMSE-gSan6-oAg&start=70&sa=N&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ8tMDegQIFRA5",
+      "9": "https://www.google.com/search?q=what+does+seo+stand+for&ei=7rElXvPzNMSE-gSan6-oAg&start=80&sa=N&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ8tMDegQIFRA7",
+      "10": "https://www.google.com/search?q=what+does+seo+stand+for&ei=7rElXvPzNMSE-gSan6-oAg&start=90&sa=N&ved=2ahUKEwjzoqzyqpLnAhVEgp4KHZrPCyUQ8tMDegQIFRA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+does+seo+stand+for&start=10&token=fbc1fa233f7483de",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+does+seo+stand+for&start=10&token=fbc1fa233f7483de",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+does+seo+stand+for&start=10&token=fbc1fa233f7483de",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+does+seo+stand+for&start=20&token=001e8e2a9c1c0cd6",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+does+seo+stand+for&start=30&token=4b63cf8c8164faf3",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+does+seo+stand+for&start=40&token=6248857640e7bf03",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+does+seo+stand+for&start=50&token=69de8524c11adea4",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+does+seo+stand+for&start=60&token=bba39822511b9d52",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+does+seo+stand+for&start=70&token=443d38e1a10c5bfc",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+does+seo+stand+for&start=80&token=f513befc5bee86da",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+does+seo+stand+for&start=90&token=3b160e8ff45f618e"
+    }
+  }
+}

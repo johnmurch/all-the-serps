@@ -1,0 +1,397 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 19:44:29 UTC",
+    "processed_at": "2020-01-20 19:44:29 UTC",
+    "google_url": "https://www.google.com/search?q=how+google+tests+software&oq=how+google+tests+software&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 1.95
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "how google tests software",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 217000000,
+    "time_taken_displayed": 0.51,
+    "query_displayed": "how google tests software"
+  },
+  "knowledge_graph": {
+    "title": "How Google Tests Software",
+    "type": "Book by James A. Whittaker, Jason A. Joseph, and Jeff Carollo",
+    "description": "2012 Jolt Award finalist!    Pioneering the Future of Software Test    Do you need to get it right, too? Then, learn from Google. ...",
+    "source": {
+      "name": "Google Books",
+      "link": "https://books.google.com/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&source=kp_book_description"
+    },
+    "originally_published": "2012",
+    "authors": "James A. Whittaker, Jason A. Joseph, Jeff Carollo",
+    "editorial_reviews": [
+      {
+        "title": "Goodreads",
+        "rating": "3.8/5",
+        "link": "https://www.goodreads.com/en/book/show/13105440"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Exploratory Software Testing...",
+        "extensions": [
+          "James A. Whittaker"
+        ],
+        "link": "https://www.google.com/search?q=Exploratory+Software+Testing:+Tips,+Tricks,+Tours,+and+Techniques+to+Guide+Test+Design+James+A.+Whittaker&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKzaowz6hUgvKKzVIyDI21eJzy87ODM1NSyxMrixexZrpWFOTkFyWW5BdVKgTnp5WUJxalKoSkFpdk5qVbKYRkFhTrKIQUZSZng-j80iIglZiXAlSRnJGXWViaWqxQkq_gXgo0EKxLwSW1ODM9T8ErMRco5ainEJ6RWVKSmJ1atIOVEQDh7fsimwAAAA&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQxA0wJ3oECBoQBQ",
+        "source": "bookbook",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "App Quality: Secrets f...",
+        "extensions": [
+          "Jason A. Joseph"
+        ],
+        "link": "https://www.google.com/search?q=App+Quality:+Secrets+for+Agile+App+Teams+Jason+A.+Joseph&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKzaowz6hU4gXxDJMqk3MrzSsrtXic8vOzgzNTUssTK4sXsVo4FhQoBJYm5mSWVFopBKcmF6WWFCuk5RcpOKZn5qQqgKRDUhNzixW8Eovz8xQc9RS88otTCzJ2sDICAPKbxYFrAAAA&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQxA0wJ3oECBoQBw",
+        "source": "bookbook",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABuCAMAAACzxqVeAAAAOVBMVEX////Ozs6fn5+oqKj19fXDw8Ph4eG4uLj8/Pzx8fHc3NzZ2dm8vLyYmJilpaWxsbHq6uqMjIyGhobGDD4dAAAAo0lEQVRYhe3QSQ7DMAgFUGOMh+Apuf9h6ypqV4nUTFIX/y0QG74AYwAAAB4yCdEkTSadmdKFIG/LnNUyF1ubOxEQv10ae6wJo7q4N7BDGokQqy8kZvFtJlO6ZF/HpSHQ73E9SxDJ2Y+plIvl4MTy4omkcg1H9/qIca1nfvQMnw4/eRsR9VuC/ozrqceu6fJx6f0hVaU7tgIAAAAAAAAAAACALS8PAgPM8evSPwAAAABJRU5ErkJggg=="
+      },
+      {
+        "name": "How to Break Software...",
+        "extensions": [
+          "James A. Whittaker"
+        ],
+        "link": "https://www.google.com/search?q=How+to+Break+Software:+A+Practical+Guide+to+Testing&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKzaowz6hU4gXxDJMqcyyMsrIMtXic8vOzgzNTUssTK4sXsRp75JcrlOQrOBWlJmYrBOenlZQnFqVaKTgqBBQlJpdkJifmKLiXApWDFIWkFpdk5qXvYGUEAB8pbs1mAAAA&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQxA0wJ3oECBoQCQ",
+        "source": "bookbook",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "How We Test Software...",
+        "extensions": [
+          "Alan C. Page"
+        ],
+        "link": "https://www.google.com/search?q=How+We+Test+Software+at+Microsoft%C2%AE&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKzaowz6hUgvGqSkxM0rR4nPLzs4MzU1LLEyuLF7Eqe-SXK4SnKoSkFpcoBOenlZQnFqUqJJYo-GYmF-UXAwUOrdvByggA052gkFUAAAA&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQxA0wJ3oECBoQCw",
+        "source": "bookbook",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "A Practitioner's Guide to...",
+        "extensions": [
+          "Lee Copeland"
+        ],
+        "link": "https://www.google.com/search?q=A+Practitioner%27s+Guide+to+Software+Test+Design&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKzaowz6hU4tLP1TcwqTQwTTfU4nHKz88OzkxJLU-sLF7EqueoEFCUmFySWZKZn5dapF6s4F4KlFQoyVcIzk8rKU8sSlUISS0uUXBJLc5Mz9vByggAZWr2Ml4AAAA&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQxA0wJ3oECBoQDQ",
+        "source": "bookbook",
+        "image": "data:image/jpeg;base64,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"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?q=How+Google+Tests+Software&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKzaowz6hUQuFpiWUnW-kn5edngwmr4syU1PLEyuJFrJIe-eUK7vn56TmpCiGpxSXFCsH5aSXliUWpO1gZAUuILUVVAAAA&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQMSgAMCd6BAgaEAE",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLRT9c3NErKzaowz6hUQuFpiWUnW-kn5edngwmr4syU1PLEyuJFrJIe-eUK7vn56TmpCiGpxSXFCsH5aSXliUWpO1gZAUuILUVVAAAA",
+    "see_more_about": [
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "title": "How Google Tests Software",
+      "link": "https://vimeo.com/47959189",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "InfoQ.com",
+      "duration": "39:04",
+      "platform": "Vimeo",
+      "date": "Aug 21, 2012"
+    },
+    {
+      "title": "How Google Tests Software - Things I Learned from Google ...",
+      "link": "https://www.youtube.com/watch?v=U4vvAG_4mjs",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "OnSoftware",
+      "duration": "3:51",
+      "platform": "YouTube",
+      "date": "Nov 7, 2012"
+    },
+    {
+      "title": "How Google Tests Software - Tips from the Book",
+      "link": "https://www.youtube.com/watch?v=q5ThEoYUJrU",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "OnSoftware",
+      "duration": "5:43",
+      "platform": "YouTube",
+      "date": "Nov 7, 2012"
+    },
+    {
+      "title": "How Google Tests Software: Crowdsourced Testing and how ...",
+      "link": "https://www.youtube.com/watch?v=fM1Ff7ArnKE",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRisn6vUfip0BXHZsLCoVfB8lew0jWmaVcn5Q0TwxevorqUq8sdrCWGGpi22w",
+      "channel": "99tests",
+      "duration": "15:16",
+      "platform": "YouTube",
+      "date": "Sep 21, 2016"
+    },
+    {
+      "title": "Testing Engineering@Google & The Release Process for ...",
+      "link": "https://www.youtube.com/watch?v=p9bEc6oC6vw",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAvRqj63yKrnJ42RTIDdrdTPGBoAqbbEpB9Ozu73SPsRtoIo7DH30MXclw",
+      "channel": "GoogleTechTalks",
+      "duration": "1:18:57",
+      "platform": "YouTube",
+      "date": "Nov 3, 2014"
+    },
+    {
+      "title": "How Google Tests Software",
+      "link": "https://www.youtube.com/watch?v=YRYC9VTdSCk",
+      "thumbnail": "https://i.ytimg.com/vi/YRYC9VTdSCk/mqdefault.jpg?sqp=-oaymwEFCM0BEHM&rs=AMzJL3lW-nYbKtwRuA6R4242fsOKSrzgUQ",
+      "channel": "Artur Galeno",
+      "duration": "57:16",
+      "platform": "YouTube",
+      "date": "Mar 23, 2017"
+    },
+    {
+      "title": "How Google Tests Software - Tips from the Book",
+      "link": "https://www.dailymotion.com/video/x2vaa2w",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXPqSjYwantVkxOxTMaDut4F3ibTGujQ5j8tzDzalqPaK5BpV8JkCb9o&usqp=CAI&s",
+      "channel": "London Dirk",
+      "duration": "5:43",
+      "platform": "Dailymotion",
+      "date": "May 22, 2017"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Does Google have manual testers?",
+      "snippet": "Yes! Google does have manual testers working for them and yes, I don't work with Google (but I wish to someday..) ... As the Software testing fundamental always says that “100% Automation is not possible” so the Manual Testing is very important even to a company as big as Google.Jun 15, 2017",
+      "title": "Does Google have manual software testers? - Quora",
+      "link": "https://www.quora.com/Does-Google-have-manual-software-testers",
+      "displayed_link": "www.quora.com › Does-Google-have-manual-software-testers"
+    },
+    {
+      "question": "Does Google have a QA team?",
+      "snippet": "Software Testing is a Focus, Not a Team But despite these specialized roles, there's no \"over the wall\" QA process. \"At Google it's the product teams that own quality, not testers.Feb 20, 2018",
+      "title": "What Growing Teams Can Learn From How Google QA Tests ...",
+      "link": "https://dzone.com/articles/what-growing-teams-can-learn-from-how-google-qa-te",
+      "displayed_link": "dzone.com › articles › what-growing-teams-can-learn-from-how-google..."
+    },
+    {
+      "question": "How does Google test work?",
+      "snippet": "Tests should be independent and repeatable. It's a pain to debug a test that succeeds or fails as a result of other tests. Google C++ Testing Framework isolates the tests by running each of them on a different object. When a test fails, Google C++ Testing Framework allows you to run it in isolation for quick debugging.",
+      "title": "Introduction: Why Google C++ Testing Framework?",
+      "link": "https://chromium.googlesource.com/external/github.com/google/googletest/+/release-1.8.0/googletest/docs/Primer.md",
+      "displayed_link": "chromium.googlesource.com › release-1.8.0 › googletest › docs › Primer"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Interview and Book Review: How Google Tests Software - InfoQ",
+    "date": "Sep 11, 2012",
+    "link": "https://www.infoq.com/articles/how-google-tests-software/",
+    "snippet": "\"How Google Tests Software\" by James Whittaker, Jason Arbon and Jeff Carollo is a book that details exactly what is described on the cover. It is an informative and interesting look beneath the covers of how a large technical organization like Google deals with the complexity of software testing.",
+    "thumbnail": "data:image/jpeg;base64,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"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How Google Tests Software: James A. Whittaker, Jason Arbon ...",
+      "link": "https://www.amazon.com/Google-Tests-Software-James-Whittaker/dp/0321803027",
+      "displayed_link": "www.amazon.com › Google-Tests-Software-James-Whittaker",
+      "snippet": "Then, learn from Google. Legendary testing expert James Whittaker, until recently a Google testing leader, and two top Google experts reveal exactly how Google tests software, offering brand-new best practices you can use even if you're not quite Google's size… yet!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EJzSYHMlJ2wJ:https://www.amazon.com/Google-Tests-Software-James-Whittaker/dp/0321803027+&cd=4&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.amazon.com/Google-Tests-Software-James-Whittaker/dp/0321803027+how+google+tests+software&tbo=1&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQHzADegQIAxAJ"
+    },
+    {
+      "position": 2,
+      "title": "How Google Tests Software 1, James A. Whittaker, Jason ...",
+      "link": "https://www.amazon.com/Google-Tests-Software-James-Whittaker-ebook/dp/B007MQLMF2",
+      "displayed_link": "www.amazon.com › Google-Tests-Software-James-Whittaker-ebook",
+      "snippet": "Editorial Reviews. About the Author. James Whittaker is an engineering director at Google and ... How Google Tests Software 1st Edition, Kindle Edition. by ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.5,
+            "reviews": 65
+          },
+          "extensions": [
+            "Rating: 3.5",
+            "65 reviews"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3cSsHDcPdLoJ:https://www.amazon.com/Google-Tests-Software-James-Whittaker-ebook/dp/B007MQLMF2+&cd=12&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.amazon.com/Google-Tests-Software-James-Whittaker-ebook/dp/B007MQLMF2+how+google+tests+software&tbo=1&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQHzALegQIARAJ"
+    },
+    {
+      "position": 3,
+      "title": "How Google Tests Software - James A. Whittaker, Jason ...",
+      "link": "https://books.google.com/books/about/How_Google_Tests_Software.html?id=vHlTOVTKHeUC",
+      "displayed_link": "books.google.com › ... › General",
+      "snippet": "Legendary testing expert James Whittaker, until recently a Google testing leader, and two top Google experts reveal exactly how Google tests software, offering ...",
+      "related_pages_link": "https://www.google.com/search?q=related:https://books.google.com/books/about/How_Google_Tests_Software.html%3Fid%3DvHlTOVTKHeUC+how+google+tests+software&tbo=1&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQHzAMegQICRAK"
+    },
+    {
+      "position": 4,
+      "title": "How Google Tests Software - InformIT",
+      "link": "https://www.informit.com/content/images/9780321803023/samplepages/0321803027.pdf",
+      "displayed_link": "www.informit.com › content › images › samplepages",
+      "snippet": "In this book, James Whittaker provides a blueprint for Google's suc- cess in the rapidly evolving world of app testing.” “This book is a game changer, from daily releases to heads-up displays. James Whittaker takes a computer-science approach to testing that will be the standard for software companies in the future.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:klYFLfQmtoQJ:https://www.informit.com/content/images/9780321803023/samplepages/0321803027.pdf+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Interview and Book Review: How Google Tests Software - InfoQ",
+      "link": "https://www.infoq.com/articles/how-google-tests-software/",
+      "displayed_link": "www.infoq.com › articles › how-google-tests-software",
+      "date": "Sep 11, 2012",
+      "snippet": "\"How Google Tests Software\" by James Whittaker, Jason Arbon and Jeff Carollo is a book that details exactly what is described on the cover. It is an informative and interesting look beneath the covers of how a large technical organization like Google deals with the complexity of software testing.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XbYU8qEY_2AJ:https://www.infoq.com/articles/how-google-tests-software/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "How Google Tests Software by James A. Whittaker - Goodreads",
+      "link": "https://www.goodreads.com/en/book/show/13105440",
+      "displayed_link": "www.goodreads.com › book › show",
+      "snippet": "How Google Tests Software book. Read 69 reviews from the world's largest community for readers. 2012 Jolt Award finalist! Pioneering the Future of Softwa...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.8,
+            "votes": 830
+          },
+          "extensions": [
+            "Rating: 3.8",
+            "830 votes"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Nj6OvPc627EJ:https://www.goodreads.com/en/book/show/13105440+&cd=22&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "How Google Tests Software",
+      "link": "http://www.xwood.net/docs/pdf/How-Google-Tests-Software_Google%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E4%B9%8B%E9%81%93_%E8%8B%B1%E6%96%87%E7%89%88_201612221734.pdf",
+      "displayed_link": "www.xwood.net › docs › pdf › How-Google-Tests-Software_Google软...",
+      "date": "Dec 22, 2016",
+      "snippet": "But until the paradigm shifts again, How Google Tests Software ... stand how Google met the challenges of testing in the twenty-first century."
+    },
+    {
+      "position": 8,
+      "title": "How Google Tests Software - Part One - Google Testing Blog",
+      "link": "https://testing.googleblog.com/2011/01/how-google-tests-software.html",
+      "displayed_link": "testing.googleblog.com › 2011/01 › how-google-tests-software",
+      "date": "Jan 25, 2011",
+      "snippet": "By James Whittaker This is the first in a series of posts on this topic. The one question I get more than any other is \"How does Google test?",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:oaVo-FOxIucJ:https://testing.googleblog.com/2011/01/how-google-tests-software.html+&cd=24&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://testing.googleblog.com/2011/01/how-google-tests-software.html+how+google+tests+software&tbo=1&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQHzAXegQICBAJ"
+    },
+    {
+      "position": 9,
+      "title": "What Growing Teams Can Learn from How Google QA Tests ...",
+      "link": "https://www.rainforestqa.com/blog/2018-01-11-what-growing-teams-can-learn-about-qa-from-how-google-tests-software/",
+      "displayed_link": "www.rainforestqa.com › blog › 2018-01-11-what-growing-teams-can...",
+      "date": "Jan 11, 2018",
+      "snippet": "We dove into the archives of the Google Testing Blog to discover how other growing teams can learn from how Google approaches software ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-yzROM0pdvYJ:https://www.rainforestqa.com/blog/2018-01-11-what-growing-teams-can-learn-about-qa-from-how-google-tests-software/+&cd=25&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [
+    {
+      "position": 1,
+      "query": "James A. Whittaker booksView 2+ moreView 2+",
+      "results": []
+    },
+    {
+      "position": 2,
+      "query": "Software Testing booksView 15+ moreView 15+",
+      "results": []
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "how google tests software epub",
+      "link": "https://www.google.com/search?q=how+google+tests+software+epub&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ1QIoAHoECB0QAQ"
+    },
+    {
+      "query": "how google test software free pdf",
+      "link": "https://www.google.com/search?q=how+google+test+software+free+pdf&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ1QIoAXoECB0QAg"
+    },
+    {
+      "query": "how google tests software summary",
+      "link": "https://www.google.com/search?q=how+google+tests+software+summary&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ1QIoAnoECB0QAw"
+    },
+    {
+      "query": "how google tests software github",
+      "link": "https://www.google.com/search?q=how+google+tests+software+github&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ1QIoA3oECB0QBA"
+    },
+    {
+      "query": "how microsoft tests software",
+      "link": "https://www.google.com/search?q=how+microsoft+tests+software&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ1QIoBHoECB0QBQ"
+    },
+    {
+      "query": "google test analytics",
+      "link": "https://www.google.com/search?q=google+test+analytics&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ1QIoBXoECB0QBg"
+    },
+    {
+      "query": "how does amazon test software",
+      "link": "https://www.google.com/search?q=how+does+amazon+test+software&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ1QIoBnoECB0QBw"
+    },
+    {
+      "query": "qa testing google",
+      "link": "https://www.google.com/search?q=qa+testing+google&sa=X&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ1QIoB3oECB0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=how+google+tests+software&ei=HgMmXsTgH9jW-QbSjqewDQ&start=10&sa=N&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ8NMDegQIFxBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=how+google+tests+software&ei=HgMmXsTgH9jW-QbSjqewDQ&start=10&sa=N&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ8tMDegQIFxAv",
+      "3": "https://www.google.com/search?q=how+google+tests+software&ei=HgMmXsTgH9jW-QbSjqewDQ&start=20&sa=N&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ8tMDegQIFxAx",
+      "4": "https://www.google.com/search?q=how+google+tests+software&ei=HgMmXsTgH9jW-QbSjqewDQ&start=30&sa=N&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ8tMDegQIFxAz",
+      "5": "https://www.google.com/search?q=how+google+tests+software&ei=HgMmXsTgH9jW-QbSjqewDQ&start=40&sa=N&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ8tMDegQIFxA1",
+      "6": "https://www.google.com/search?q=how+google+tests+software&ei=HgMmXsTgH9jW-QbSjqewDQ&start=50&sa=N&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ8tMDegQIFxA3",
+      "7": "https://www.google.com/search?q=how+google+tests+software&ei=HgMmXsTgH9jW-QbSjqewDQ&start=60&sa=N&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ8tMDegQIFxA5",
+      "8": "https://www.google.com/search?q=how+google+tests+software&ei=HgMmXsTgH9jW-QbSjqewDQ&start=70&sa=N&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ8tMDegQIFxA7",
+      "9": "https://www.google.com/search?q=how+google+tests+software&ei=HgMmXsTgH9jW-QbSjqewDQ&start=80&sa=N&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ8tMDegQIFxA9",
+      "10": "https://www.google.com/search?q=how+google+tests+software&ei=HgMmXsTgH9jW-QbSjqewDQ&start=90&sa=N&ved=2ahUKEwjE5-Go-JLnAhVYa94KHVLHCdYQ8tMDegQIFxA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+google+tests+software&start=10&token=0db0f40f71bb0e21",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+google+tests+software&start=10&token=0db0f40f71bb0e21",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+google+tests+software&start=10&token=0db0f40f71bb0e21",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+google+tests+software&start=20&token=ad1ca006e9be3f94",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+google+tests+software&start=30&token=e9b8b782cafc76d4",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+google+tests+software&start=40&token=ac8c18f950342870",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+google+tests+software&start=50&token=104e200f91eb59cf",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+google+tests+software&start=60&token=a727f68d1a473502",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+google+tests+software&start=70&token=54805c82217beaa3",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+google+tests+software&start=80&token=dee75adb80667f56",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+google+tests+software&start=90&token=6a98abf02722e2f6"
+    }
+  }
+}

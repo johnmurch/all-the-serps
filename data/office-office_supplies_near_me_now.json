@@ -1,0 +1,293 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:23:05 UTC",
+    "processed_at": "2020-01-21 22:23:05 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+near+me+now&oq=office+supplies+near+me+now&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.56
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies near me now",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 3080000000,
+    "time_taken_displayed": 0.65,
+    "query_displayed": "office supplies near me now"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+near+me+now&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36031520,-115038355,5241&tbm=lcl&sa=X&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 36.03152,
+      "longitude": -115.038355,
+      "altitude": 5241
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+near+me+now&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36031520,-115038355,5241&tbm=lcl&sa=X&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQjGp6BAgLEFY",
+    "places": [
+      {
+        "position": 1,
+        "title": "OfficeMaxWhy this ad?",
+        "place_id": "12048202726209354864",
+        "lsig": "AB86z5V91jBya1rurSsA1I6y4zws",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5V91jBya1rurSsA1I6y4zws&ludocid=12048202726209354864&q=office+supplies+near+me+now&tbm=lcl&token=13473e7b32746912",
+        "rating": 3.8,
+        "reviews": 94,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (702) 451-7774",
+        "address": "Henderson, NV",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.059425,
+          "longitude": -115.047671
+        }
+      },
+      {
+        "position": 2,
+        "title": "OfficeMax",
+        "place_id": "12048202726209354864",
+        "lsig": "AB86z5XL2npIJHl1nR2PQ_bOJIrU",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XL2npIJHl1nR2PQ_bOJIrU&ludocid=12048202726209354864&q=office+supplies+near+me+now&tbm=lcl&token=a7efc70d46306a2f",
+        "rating": 3.8,
+        "reviews": 94,
+        "price": "$$",
+        "type": "$$",
+        "address": "Henderson, NV",
+        "phone": "In Stephanie Street Shopping Center",
+        "description": "In stock: office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.0594251,
+          "longitude": -115.04767050000001
+        }
+      },
+      {
+        "position": 3,
+        "title": "Staples",
+        "place_id": "13419206320321830421",
+        "lsig": "AB86z5XDqG8ygaZ55op9tlep0MKW",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XDqG8ygaZ55op9tlep0MKW&ludocid=13419206320321830421&q=office+supplies+near+me+now&tbm=lcl&token=4a417fa49eb825b4",
+        "rating": 4.2,
+        "reviews": 72,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (702) 564-2014",
+        "address": "Henderson, NV",
+        "description": "Sold here: office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.0036158,
+          "longitude": -115.085381
+        }
+      },
+      {
+        "position": 4,
+        "title": "Staples",
+        "place_id": "12640912144282116074",
+        "lsig": "AB86z5VVkGYuz248WyYy_Cg_Pn49",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VVkGYuz248WyYy_Cg_Pn49&ludocid=12640912144282116074&q=office+supplies+near+me+now&tbm=lcl&token=f3aa7bc623a4c551",
+        "rating": 3.9,
+        "reviews": 103,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "Henderson, NV",
+        "phone": "In Lake Mead Crossing",
+        "description": "Sold here: office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.039142,
+          "longitude": -114.99132999999999
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Office Max in HENDERSON,NV - 549 N. STEPHANIE STREET",
+      "link": "https://www.officedepot.com/storelocator/nv/henderson/officemax-6248/",
+      "displayed_link": "www.officedepot.com › storelocator › henderson › officemax-6248",
+      "snippet": "Shop at the Office Max Store in HENDERSON,NV. ... 20% off qualifying reg. price purchase + seating Excl. apply Get Coupon | $29.99 Just Basics™ Paper, 10-reams Shop Now ... from paper, ink and toner, to the latest tech, cleaning & breakroom supplies and more. ... Just ask for me or a member of my management team.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:U5lbwJkakwcJ:https://www.officedepot.com/storelocator/nv/henderson/officemax-6248/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Office Depot in LAS VEGAS,NV - 3636 WEST SAHARA ...",
+      "link": "https://www.officedepot.com/storelocator/nv/las-vegas/office-depot-913/",
+      "displayed_link": "www.officedepot.com › storelocator › las-vegas › office-depot-913",
+      "snippet": "Shop at the Office Depot Store in LAS VEGAS,NV. ... + seating Excl. apply Get Coupon | $29.99 Just Basics™ Paper, 10-reams Shop Now ... When you shop at my Office Depot® in Las Vegas you'll enjoy low prices on office supplies and products, ... Just ask for me, Michael Warholak, or a member of my management team.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:luq9lvRqqHMJ:https://www.officedepot.com/storelocator/nv/las-vegas/office-depot-913/+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Staples® S Green Valley Parkway, Henderson, 89052 | Store ...",
+      "link": "https://stores.staples.com/nv/henderson/675-s-green-valley-parkway",
+      "displayed_link": "stores.staples.com › NV › Henderson",
+      "snippet": "Visit this Henderson Staples® for office supplies & furniture, school supplies, printers, ink & toner, copy paper, computers, ... Open Now - Closes at 9:00 PM.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:T9wmtleC4fcJ:https://stores.staples.com/nv/henderson/675-s-green-valley-parkway+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Staples® West Lake Mead Parkway, Henderson, 89015 ...",
+      "link": "https://stores.staples.com/nv/henderson/280-west-lake-mead-parkway",
+      "displayed_link": "stores.staples.com › NV › Henderson",
+      "snippet": "Visit this Henderson Staples® for office supplies & furniture, school supplies, printers, ink & toner, copy paper, computers, ... Open Now - Closes at 7:00 PM.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jVibc-pOmdgJ:https://stores.staples.com/nv/henderson/280-west-lake-mead-parkway+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Top 10 Best Office Supplies in Las Vegas, NV - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=Office+Supplies&find_loc=Las+Vegas%2C+NV",
+      "displayed_link": "www.yelp.com › search › find_desc=Office+Supplies",
+      "snippet": "Reviews on Office Supplies in Las Vegas, NV - search by hours, location, and more attributes. ... friendly or helpful in any way. Told me to go on my Google…” ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jvmq9kgq49AJ:https://www.yelp.com/search%3Ffind_desc%3DOffice%2BSupplies%26find_loc%3DLas%2BVegas%252C%2BNV+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Top 10 Best Office Supply Store in Las Vegas, NV - Last ...",
+      "link": "https://www.yelp.com/search?find_desc=office+supply+store&find_loc=Las+Vegas%2C+NV",
+      "displayed_link": "www.yelp.com › search › find_desc=office+supply+store",
+      "snippet": "Office Equipment, Printing Services, IT Services & Computer Repair ... Cards & Stationery. 3655 W Sunset Rd, ... Kitchen & Bath, Self Storage, Office Equipment.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wZtYCS2mZ5wJ:https://www.yelp.com/search%3Ffind_desc%3Doffice%2Bsupply%2Bstore%26find_loc%3DLas%2BVegas%252C%2BNV+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Staples Locations in Nevada Las Vegas",
+      "link": "http://www.stapleslocations.us/nevada/las-vegas-89119/",
+      "displayed_link": "www.stapleslocations.us › Staples Store Locator › Nevada",
+      "snippet": "Staples is among the biggest brands that retail best electronics, stationery and ... range before you go shopping for electronics or professional office supplies.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 1.5,
+            "reviews": 15
+          },
+          "extensions": [
+            "Rating: 1.5",
+            "15 reviews"
+          ]
+        }
+      },
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:w8VKidWNv7kJ:www.stapleslocations.us/nevada/las-vegas-89119/+&cd=10&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:www.stapleslocations.us/nevada/las-vegas-89119/+office+supplies+near+me+now&tbo=1&sa=X&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQHzAJegQIBhAL"
+    },
+    {
+      "position": 8,
+      "title": "Office Depot 5915 S Eastern Ave Las Vegas, NV Office ...",
+      "link": "https://www.mapquest.com/us/nevada/office-depot-275474380",
+      "displayed_link": "www.mapquest.com › nevada › office-depot-275474380",
+      "snippet": "Get directions, reviews and information for Office Depot in Las Vegas, NV. ... Find Related Places. Office Supplies Wholesale · Office Supplies · E Commerce.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:A4MGgn7exYsJ:https://www.mapquest.com/us/nevada/office-depot-275474380+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Office Supplies - Walmart",
+      "link": "https://www.walmart.com/cp/office-supplies/1229749",
+      "displayed_link": "www.walmart.com › office-supplies",
+      "snippet": "Shop for Office supplies and products at Walmart.com. Shop for paper, ink, ... Keep track of your busy schedule with handy calendars and planners. Shop now.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Calendars and Planners",
+            "link": "https://www.walmart.com/browse/office-supplies/calendars-and-planners/1229749_8412191"
+          },
+          {
+            "title": "Paper",
+            "link": "https://www.walmart.com/browse/paper/1229749_6562796"
+          },
+          {
+            "title": "Whiteboards",
+            "link": "https://www.walmart.com/browse/office-supplies/whiteboards/1229749_1565348_4161504"
+          },
+          {
+            "title": "Paper Shredders",
+            "link": "https://www.walmart.com/browse/paper-shredders/1229749_2155104"
+          }
+        ]
+      }
+    },
+    {
+      "position": 10,
+      "title": "Office Plus of Nevada",
+      "link": "http://www.officeplusnv.com/",
+      "displayed_link": "www.officeplusnv.com",
+      "snippet": "No information is available for this page.Learn why"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office depot near me",
+      "link": "https://www.google.com/search?q=office+depot+near+me&sa=X&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ1QIoAHoECA4QAQ"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ1QIoAXoECA4QAg"
+    },
+    {
+      "query": "officemax near me",
+      "link": "https://www.google.com/search?q=officemax+near+me&sa=X&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ1QIoAnoECA4QAw"
+    },
+    {
+      "query": "office depot las vegas near me",
+      "link": "https://www.google.com/search?q=office+depot+las+vegas+near+me&sa=X&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ1QIoA3oECA4QBA"
+    },
+    {
+      "query": "office supply store near me",
+      "link": "https://www.google.com/search?q=office+supply+store+near+me&sa=X&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ1QIoBHoECA4QBQ"
+    },
+    {
+      "query": "staples las vegas",
+      "link": "https://www.google.com/search?q=staples+las+vegas&sa=X&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ1QIoBXoECA4QBg"
+    },
+    {
+      "query": "office max las vegas near me",
+      "link": "https://www.google.com/search?q=office+max+las+vegas+near+me&sa=X&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ1QIoBnoECA4QBw"
+    },
+    {
+      "query": "office supplies online",
+      "link": "https://www.google.com/search?q=office+supplies+online&sa=X&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ1QIoB3oECA4QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+near+me+now&ei=ynknXqmiIbLV9AOY3baYAQ&start=10&sa=N&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ8NMDegQIDxA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+near+me+now&ei=ynknXqmiIbLV9AOY3baYAQ&start=10&sa=N&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ8tMDegQIDxAt",
+      "3": "https://www.google.com/search?q=office+supplies+near+me+now&ei=ynknXqmiIbLV9AOY3baYAQ&start=20&sa=N&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ8tMDegQIDxAv",
+      "4": "https://www.google.com/search?q=office+supplies+near+me+now&ei=ynknXqmiIbLV9AOY3baYAQ&start=30&sa=N&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ8tMDegQIDxAx",
+      "5": "https://www.google.com/search?q=office+supplies+near+me+now&ei=ynknXqmiIbLV9AOY3baYAQ&start=40&sa=N&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ8tMDegQIDxAz",
+      "6": "https://www.google.com/search?q=office+supplies+near+me+now&ei=ynknXqmiIbLV9AOY3baYAQ&start=50&sa=N&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ8tMDegQIDxA1",
+      "7": "https://www.google.com/search?q=office+supplies+near+me+now&ei=ynknXqmiIbLV9AOY3baYAQ&start=60&sa=N&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ8tMDegQIDxA3",
+      "8": "https://www.google.com/search?q=office+supplies+near+me+now&ei=ynknXqmiIbLV9AOY3baYAQ&start=70&sa=N&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ8tMDegQIDxA5",
+      "9": "https://www.google.com/search?q=office+supplies+near+me+now&ei=ynknXqmiIbLV9AOY3baYAQ&start=80&sa=N&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ8tMDegQIDxA7",
+      "10": "https://www.google.com/search?q=office+supplies+near+me+now&ei=ynknXqmiIbLV9AOY3baYAQ&start=90&sa=N&ved=2ahUKEwipr4vR3ZXnAhWyKn0KHZiuDRMQ8tMDegQIDxA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+me+now&start=10&token=205adfd69e98b3ca",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+me+now&start=10&token=205adfd69e98b3ca",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+me+now&start=10&token=205adfd69e98b3ca",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+me+now&start=20&token=aa735c2fd0622070",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+me+now&start=30&token=46b2a7fb1c460ad4",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+me+now&start=40&token=d02c325cef5b8dc8",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+me+now&start=50&token=0a4b7a627a044199",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+me+now&start=60&token=c6a6afbed43f2e8a",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+me+now&start=70&token=2547218d529b5347",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+me+now&start=80&token=2160829a7d4fe2b4",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+me+now&start=90&token=c35122664f4ebb54"
+    }
+  }
+}

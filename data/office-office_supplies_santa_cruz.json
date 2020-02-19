@@ -1,0 +1,299 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 23:02:46 UTC",
+    "processed_at": "2020-01-21 23:02:46 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+santa+cruz&oq=office+supplies+santa+cruz&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 1.39
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies santa cruz",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 133000000,
+    "time_taken_displayed": 0.65,
+    "query_displayed": "office supplies santa cruz"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+santa+cruz&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36979955,-122004715,2161&tbm=lcl&sa=X&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQtgN6BAgMEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 36.979955,
+      "longitude": -122.004715,
+      "altitude": 2161
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+santa+cruz&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36979955,-122004715,2161&tbm=lcl&sa=X&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQjGp6BAgMEEY",
+    "places": [
+      {
+        "position": 1,
+        "title": "OfficeMax",
+        "place_id": "2322975011303841894",
+        "lsig": "AB86z5V8qCDcY5-IyQu79D3DP4fZ",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5V8qCDcY5-IyQu79D3DP4fZ&ludocid=2322975011303841894&q=office+supplies+santa+cruz&tbm=lcl&token=eb6feea87b3d6871",
+        "rating": 3.6,
+        "reviews": 59,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "470 River St",
+        "phone": "In Gateway Plaza",
+        "description": "Mainstay for office supplies & more",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.9823802,
+          "longitude": -122.02825019999999
+        }
+      },
+      {
+        "position": 2,
+        "title": "Staples",
+        "place_id": "14648263981423359703",
+        "lsig": "AB86z5VEvPruhL7KDlKMdF9bvfqT",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VEvPruhL7KDlKMdF9bvfqT&ludocid=14648263981423359703&q=office+supplies+santa+cruz&tbm=lcl&token=69b1ba9fcfa8fdb3",
+        "rating": 3.9,
+        "reviews": 62,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (831) 477-9002",
+        "address": "2460 17th Ave",
+        "description": "Brand-name electronics & office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.984943099999995,
+          "longitude": -121.98118000000001
+        }
+      },
+      {
+        "position": 3,
+        "title": "Palace Art & Office Supply",
+        "place_id": "12554310292018888218",
+        "lsig": "AB86z5UsFMvuPfFzg6gX8zYlqvUk",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UsFMvuPfFzg6gX8zYlqvUk&ludocid=12554310292018888218&q=office+supplies+santa+cruz&tbm=lcl&token=060c1396353769c3",
+        "rating": 4.3,
+        "reviews": 113,
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 8PM · (831) 427-1550",
+        "address": "1407 Pacific Ave",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.9749681,
+          "longitude": -122.02661049999999
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Staples® 17th Avenue, Santa Cruz, 95062 | Store Details",
+      "link": "https://stores.staples.com/ca/santa-cruz/2460-17th-avenue",
+      "displayed_link": "stores.staples.com › santa-cruz",
+      "snippet": "Visit this Santa Cruz Staples® for office supplies & furniture, school supplies, printers, ink & toner, copy paper, computers, technology, and more.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Furniture",
+            "link": "https://stores.staples.com/ca/santa-cruz/2460-17th-avenue/office-furniture"
+          },
+          {
+            "title": "2460 17th Avenue, Santa Cruz ...",
+            "link": "https://stores.staples.com/ca/santa-cruz/2460-17th-avenue/tech-services"
+          },
+          {
+            "title": "School Supplies",
+            "link": "https://stores.staples.com/ca/santa-cruz/2460-17th-avenue/school-supplies"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WVtcT8qXpnUJ:https://stores.staples.com/ca/santa-cruz/2460-17th-avenue+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Top 10 Best Office Supplies in Santa Cruz, CA - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=Office+Supplies&find_loc=Santa+Cruz%2C+CA",
+      "displayed_link": "www.yelp.com › search › find_loc=Santa+Cruz,+CA",
+      "snippet": "Reviews on Office Supplies in Santa Cruz, CA - Office Max, Staples, Palace Art ... “Stopped today to buy office supplies , needed to go to the bathroom and I was ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ISiheZkONfoJ:https://www.yelp.com/search%3Ffind_desc%3DOffice%2BSupplies%26find_loc%3DSanta%2BCruz%252C%2BCA+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Office Max in SANTA CRUZ,CA - 470 RIVER STREET",
+      "link": "https://www.officedepot.com/storelocator/ca/santa-cruz/officemax-6523/",
+      "displayed_link": "www.officedepot.com › storelocator › santa-cruz › officemax-6523",
+      "snippet": "OfficeMax santa cruz, CA Store #6523. ... From The Store Manager. When you shop at my OfficeMax® in Santa Cruz you'll enjoy low prices on everything from paper, ink and toner, to the latest tech, cleaning & breakroom supplies and more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-LVMLH0WH18J:https://www.officedepot.com/storelocator/ca/santa-cruz/officemax-6523/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Office Depot Stores in Santa Cruz,CA - Visit Today",
+      "link": "https://www.officedepot.com/storelocator/ca/santa-cruz/",
+      "displayed_link": "www.officedepot.com › storelocator › santa-cruz",
+      "snippet": "Shop at an Office Depot store in Santa Cruz,CA. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PTmkyFpHnRwJ:https://www.officedepot.com/storelocator/ca/santa-cruz/+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Palace Business Solutions | Day-to-day done right.",
+      "link": "https://www.gopalace.com/",
+      "displayed_link": "www.gopalace.com",
+      "snippet": "Office Supplies Office Supplies · Furniture Gallery ... Based in Santa Cruz, we've been supplying local businesses and supporting our community since 1949.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Palace Art",
+            "link": "https://stores.gopalace.com/"
+          },
+          {
+            "title": "Office Supplies",
+            "link": "https://www.gopalace.com/products/office-supplies/"
+          },
+          {
+            "title": "Catalogs",
+            "link": "https://www.gopalace.com/catalogs/"
+          },
+          {
+            "title": "For Schools",
+            "link": "https://www.gopalace.com/products/for-schools/"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:E_bztVENnyQJ:https://www.gopalace.com/+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Palace Art & Office Supply",
+      "link": "https://stores.gopalace.com/",
+      "displayed_link": "stores.gopalace.com",
+      "snippet": "Downtown Santa Cruz and Capitola. prev. next ... Our assortment of art and craft supplies can equip and inspire you. Learn More ». School & Office Supply.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Art Supply",
+            "link": "https://stores.gopalace.com/art-supply/"
+          },
+          {
+            "title": "Current Ad",
+            "link": "https://stores.gopalace.com/whats-new/ads/"
+          },
+          {
+            "title": "Classes & Events",
+            "link": "https://stores.gopalace.com/classes-events/"
+          },
+          {
+            "title": "Our Locations",
+            "link": "http://stores.gopalace.com/about/locations/"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BJh-WQBPLRgJ:https://stores.gopalace.com/+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Palace Art & Office Supply on 41st Ave Ste K ... - Santa Cruz",
+      "link": "https://www.santacruz.com/places/palace-art-and-office-supply-on-41st-ave-ste-k-95010",
+      "displayed_link": "www.santacruz.com › places › palace-art-and-office-supply-on-41st-a...",
+      "snippet": "At Palace Art & Office Supply our friendly, knowledgeable and helpful staff proudly offers a great selection of art and office supplies. At our 41st Avenue location, ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:X2cHNQeukMEJ:https://www.santacruz.com/places/palace-art-and-office-supply-on-41st-ave-ste-k-95010+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Palace Art & Office Supply, Santa Cruz, CA Office Supplies ...",
+      "link": "https://www.c-lineproducts.com/dealer-detail.html?ID=1108",
+      "displayed_link": "www.c-lineproducts.com › dealer-detail",
+      "snippet": "Palace Art & Office Supply, 2606 Chanticleer Avenue, Santa Cruz, CA, 95065 is a dealer of C-Line Products.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:p2KVwNLdmhAJ:https://www.c-lineproducts.com/dealer-detail.html%3FID%3D1108+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Office Supplies | Shop | Downtown Santa Cruz",
+      "link": "https://downtownsantacruz.com/discover/shop/office-supplies",
+      "displayed_link": "downtownsantacruz.com › discover › shop › office-supplies",
+      "snippet": "All Shop Accessories Antiques and Collectibles Apparel Art Supplies / Framing Automotive Beauty / Hair / Nails Bikes Books Catering / Cooking Schools ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:756JydIopOkJ:https://downtownsantacruz.com/discover/shop/office-supplies+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Best 30 Stationary Store in Santa Cruz, CA with Reviews - YP ...",
+      "link": "https://www.yellowpages.com/santa-cruz-ca/stationary-store",
+      "displayed_link": "www.yellowpages.com › Santa Cruz, CA",
+      "date": "39 results",
+      "snippet": "Stationary Store in Santa Cruz on YP.com. See reviews, photos, directions, phone numbers and more for the best Stationery Stores in Santa Cruz, CA.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:egxm8n4HS-8J:https://www.yellowpages.com/santa-cruz-ca/stationary-store+&cd=13&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office depot santa cruz",
+      "link": "https://www.google.com/search?q=office+depot+santa+cruz&sa=X&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "staples santa cruz",
+      "link": "https://www.google.com/search?q=staples+santa+cruz&sa=X&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "palace arts santa cruz",
+      "link": "https://www.google.com/search?q=palace+arts+santa+cruz&sa=X&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "office max santa cruz hours",
+      "link": "https://www.google.com/search?q=office+max+santa+cruz+hours&sa=X&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "stationery store santa cruz",
+      "link": "https://www.google.com/search?q=stationery+store+santa+cruz&sa=X&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "office supplies online",
+      "link": "https://www.google.com/search?q=office+supplies+online&sa=X&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "office depot near me",
+      "link": "https://www.google.com/search?q=office+depot+near+me&sa=X&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+santa+cruz&ei=FoMnXqLhMc24tAbW-YqICA&start=10&sa=N&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ8NMDegQIDhA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+santa+cruz&ei=FoMnXqLhMc24tAbW-YqICA&start=10&sa=N&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ8tMDegQIDhAt",
+      "3": "https://www.google.com/search?q=office+supplies+santa+cruz&ei=FoMnXqLhMc24tAbW-YqICA&start=20&sa=N&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ8tMDegQIDhAv",
+      "4": "https://www.google.com/search?q=office+supplies+santa+cruz&ei=FoMnXqLhMc24tAbW-YqICA&start=30&sa=N&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ8tMDegQIDhAx",
+      "5": "https://www.google.com/search?q=office+supplies+santa+cruz&ei=FoMnXqLhMc24tAbW-YqICA&start=40&sa=N&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ8tMDegQIDhAz",
+      "6": "https://www.google.com/search?q=office+supplies+santa+cruz&ei=FoMnXqLhMc24tAbW-YqICA&start=50&sa=N&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ8tMDegQIDhA1",
+      "7": "https://www.google.com/search?q=office+supplies+santa+cruz&ei=FoMnXqLhMc24tAbW-YqICA&start=60&sa=N&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ8tMDegQIDhA3",
+      "8": "https://www.google.com/search?q=office+supplies+santa+cruz&ei=FoMnXqLhMc24tAbW-YqICA&start=70&sa=N&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ8tMDegQIDhA5",
+      "9": "https://www.google.com/search?q=office+supplies+santa+cruz&ei=FoMnXqLhMc24tAbW-YqICA&start=80&sa=N&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ8tMDegQIDhA7",
+      "10": "https://www.google.com/search?q=office+supplies+santa+cruz&ei=FoMnXqLhMc24tAbW-YqICA&start=90&sa=N&ved=2ahUKEwiixIvA5pXnAhVNHM0KHda8AoEQ8tMDegQIDhA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+santa+cruz&start=10&token=1e9cc9ebf94f7deb",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+santa+cruz&start=10&token=1e9cc9ebf94f7deb",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+santa+cruz&start=10&token=1e9cc9ebf94f7deb",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+santa+cruz&start=20&token=fe250f67743747e7",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+santa+cruz&start=30&token=49ad7c4b6a0a89e5",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+santa+cruz&start=40&token=775df88a7c9d6b9f",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+santa+cruz&start=50&token=9941874a45f26985",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+santa+cruz&start=60&token=bfef027d0c1fbcbe",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+santa+cruz&start=70&token=90e67f239a4619f0",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+santa+cruz&start=80&token=baa1c662e55392ca",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+santa+cruz&start=90&token=a3de65d57e868854"
+    }
+  }
+}

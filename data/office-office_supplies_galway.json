@@ -1,0 +1,298 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:32:52 UTC",
+    "processed_at": "2020-01-21 22:32:52 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+galway&oq=office+supplies+galway&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.9
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies galway",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 23000000,
+    "time_taken_displayed": 0.41,
+    "query_displayed": "office supplies galway"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+galway&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=53280271,-9040099,2248&tbm=lcl&sa=X&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 53.280271,
+      "longitude": -9.040099,
+      "altitude": 2248
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+galway&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=53280271,-9040099,2248&tbm=lcl&sa=X&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQjGp6BAgLEDw",
+    "places": [
+      {
+        "position": 1,
+        "title": "Kelly Office Supplies Limited",
+        "place_id": "853604007476675347",
+        "lsig": "AB86z5Ukyuz9dkhuoa2UNP_jM2Sk",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Ukyuz9dkhuoa2UNP_jM2Sk&ludocid=853604007476675347&q=office+supplies+galway&tbm=lcl&token=a446d8442d8ee516",
+        "rating": 4.4,
+        "reviews": 23,
+        "type": "Office supply store",
+        "hours": "Closed ⋅ Opens 9AM Wed · +353 91 584 381",
+        "address": "Nile Lodge, Lower Salthill",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 53.267576999999996,
+          "longitude": -9.066445
+        }
+      },
+      {
+        "position": 2,
+        "title": "Elwood Office",
+        "place_id": "9874185355229137393",
+        "lsig": "AB86z5XW6OXFRxBHKjQiCgPKhFwt",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XW6OXFRxBHKjQiCgPKhFwt&ludocid=9874185355229137393&q=office+supplies+galway&tbm=lcl&token=8c204ec8b0740da7",
+        "rating": 4.8,
+        "reviews": 16,
+        "type": "Office supply store",
+        "hours": "Closed ⋅ Opens 9AM Wed · +353 91 730 077",
+        "address": "Liosbaun Retail Centre, Tuam Rd",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 53.286048799999996,
+          "longitude": -9.0344944
+        }
+      },
+      {
+        "position": 3,
+        "title": "Elwood Office Furniture Showroom",
+        "place_id": "4688228581195348383",
+        "lsig": "AB86z5XKuVF5TDcvYMw3eB-LQ9hN",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XKuVF5TDcvYMw3eB-LQ9hN&ludocid=4688228581195348383&q=office+supplies+galway&tbm=lcl&token=390fbc223f92e69b",
+        "rating": 0,
+        "type": "Office furniture store",
+        "hours": "Closed ⋅ Opens 9AM Wed · +353 91 730 077",
+        "address": "Apartment 5, 53°17'34. 9°00'49., Cluain Riocaird",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 53.29296600000001,
+          "longitude": -9.013753999999999
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Kelly Office Supplies",
+      "link": "https://www.kellyofficesupplies.ie/",
+      "displayed_link": "www.kellyofficesupplies.ie",
+      "snippet": "Kelly Office Supplies Ltd is a premier Stationery and Office furniture supplier with over 40 years' experience in the industry.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Furniture",
+            "link": "https://www.kellyofficesupplies.ie/our-entire-catalogue-downloads"
+          },
+          {
+            "title": "Office Supplies",
+            "link": "http://shop.kellyofficesupplies.ie/storefront/home"
+          },
+          {
+            "title": "Kelly Office Supplies",
+            "link": "https://www.kellyofficesupplies.ie/#new-page-section"
+          },
+          {
+            "title": "Our Process",
+            "link": "https://www.kellyofficesupplies.ie/#our-process-section"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MchJkcHcXHIJ:https://www.kellyofficesupplies.ie/+&cd=4&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.kellyofficesupplies.ie/+office+supplies+galway&tbo=1&sa=X&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQHzADegQIAxAH"
+    },
+    {
+      "position": 2,
+      "title": "Elwood Office Supplies",
+      "link": "http://www.elwood.ie/",
+      "displayed_link": "www.elwood.ie",
+      "snippet": "With over 16 years in the business, and with a combined experience of 100s of years, Elwood Office Supplies brings you one of the largest office supplies ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Online Catalogue",
+            "link": "http://www.elwood.ie/elwood-office-supplies-online-catalogue"
+          },
+          {
+            "title": "Contact",
+            "link": "http://www.elwood.ie/contact-1"
+          },
+          {
+            "title": "Elwood Picks",
+            "link": "http://www.elwood.ie/elwoods-office-supplies-product-catalogue"
+          }
+        ]
+      },
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:tnFfrgQJKkEJ:www.elwood.ie/+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Online Catalogue — Elwood Office Supplies",
+      "link": "http://www.elwood.ie/elwood-office-supplies-online-catalogue",
+      "displayed_link": "www.elwood.ie › elwood-office-supplies-online-catalogue",
+      "snippet": "Elwood Office Supplies offers one of the biggest range of products in Ireland. You can find out all your office needs in one place. Just look them up and call ... stationery-small.jpg. Elwood Office ... Tuam Road, Galway. Furniture Showroom",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:XxGrlxuXkjIJ:www.elwood.ie/elwood-office-supplies-online-catalogue+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Ultimate Office – Bringing your office to life",
+      "link": "https://www.ultimate.ie/",
+      "displayed_link": "www.ultimate.ie",
+      "snippet": "... are dealing with a reliable, honest and ethical company with a sustainable, audited supply chain. ... Unit 10, Glenrock Business Campus, Ballybane, Galway.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office",
+            "link": "https://www.ultimate.ie/ultimate-office/"
+          },
+          {
+            "title": "Interiors",
+            "link": "https://www.ultimate.ie/interiors/"
+          },
+          {
+            "title": "Hygiene",
+            "link": "https://www.ultimate.ie/ultimate-hygiene/"
+          },
+          {
+            "title": "Workwear",
+            "link": "https://www.ultimate.ie/ultimate-workwear/"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:i-aM311wotoJ:https://www.ultimate.ie/+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Galway Stationery Supplies - Home | Facebook",
+      "link": "https://www.facebook.com/galwaystationeryonline/",
+      "displayed_link": "www.facebook.com › Places › Galway, Ireland › Graphic Designer",
+      "snippet": "Galway Stationery Supplies. Retail Company in Galway, Ireland. Lake Pleasant Modern Landscaped Garden. Gardener. Herterich's Pork Butchers. Butcher Shop. Catherina Cunnane - Journalist. Editor. Ultimate Office & Interiors. Home State Bank/The Citizens State Bank. Shake Milkshake Bar. Great DIY Deals Ireland. ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dqBgCQhoOn0J:https://www.facebook.com/galwaystationeryonline/+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Marvoy",
+      "link": "http://www.marvoy.ie/",
+      "displayed_link": "www.marvoy.ie",
+      "snippet": "Home meta description.",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:acXsFMCdbUoJ:www.marvoy.ie/+&cd=9&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:www.marvoy.ie/+office+supplies+galway&tbo=1&sa=X&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQHzAIegQIBhAH"
+    },
+    {
+      "position": 7,
+      "title": "Office Supplies Galway | Office Furniture | Office Stationery",
+      "link": "https://cleveroffice.ie/office-furniture-galway/",
+      "displayed_link": "cleveroffice.ie › office-furniture-galway",
+      "date": "Mar 26, 2018",
+      "snippet": "Leading supplier of high quality office supplies including modern office furniture for the home and business and a wide range of online ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6D6xMknW-oIJ:https://cleveroffice.ie/office-furniture-galway/+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "HuntOffice.ie: Office Supplies Ireland",
+      "link": "https://www.huntoffice.ie/",
+      "displayed_link": "www.huntoffice.ie",
+      "snippet": "Office Supplies throughout Ireland, get your office supplies delivered direct to your door at discounted prices.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MlqkqIFmxEkJ:https://www.huntoffice.ie/+&cd=11&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.huntoffice.ie/+office+supplies+galway&tbo=1&sa=X&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQHzAKegQICBAH"
+    },
+    {
+      "position": 9,
+      "title": "Bryan S Ryan: Office Supplies, Photocopiers, Managed Print ...",
+      "link": "https://bryansryan.ie/",
+      "displayed_link": "bryansryan.ie",
+      "snippet": "Bryan S Ryan delivers the best value on Office Supplies, Photocopiers and Managed Print ... With offices in Dublin, Galway & Cork offering a nationwide service.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jiOaxWcoXiwJ:https://bryansryan.ie/+&cd=12&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://bryansryan.ie/+office+supplies+galway&tbo=1&sa=X&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQHzALegQIChAH"
+    },
+    {
+      "position": 10,
+      "title": "Office Supplies Galway, Office Furniture Galway Ireland",
+      "link": "http://www.galway-ireland.ie/office-supplies.htm",
+      "displayed_link": "www.galway-ireland.ie › office-supplies",
+      "snippet": "Office Equipment, Stationery, Office Supplies and Furniture for Galway City and Galway County Ireland.",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:sbyQHN30lowJ:www.galway-ireland.ie/office-supplies.htm+&cd=13&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:www.galway-ireland.ie/office-supplies.htm+office+supplies+galway&tbo=1&sa=X&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQHzAMegQICRAJ"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "kelly office supplies galway opening hours",
+      "link": "https://www.google.com/search?q=kelly+office+supplies+galway+opening+hours&sa=X&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ1QIoAHoECAwQAQ"
+    },
+    {
+      "query": "ultimate office supplies",
+      "link": "https://www.google.com/search?q=ultimate+office+supplies&sa=X&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ1QIoAXoECAwQAg"
+    },
+    {
+      "query": "elwood furniture",
+      "link": "https://www.google.com/search?q=elwood+furniture&sa=X&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ1QIoAnoECAwQAw"
+    },
+    {
+      "query": "office supplies ireland",
+      "link": "https://www.google.com/search?q=office+supplies+ireland&sa=X&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ1QIoA3oECAwQBA"
+    },
+    {
+      "query": "marvoy stationery",
+      "link": "https://www.google.com/search?q=marvoy+stationery&sa=X&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ1QIoBHoECAwQBQ"
+    },
+    {
+      "query": "office supplies castlebar",
+      "link": "https://www.google.com/search?q=office+supplies+castlebar&sa=X&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ1QIoBXoECAwQBg"
+    },
+    {
+      "query": "office furniture supplies",
+      "link": "https://www.google.com/search?q=office+furniture+supplies&sa=X&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ1QIoBnoECAwQBw"
+    },
+    {
+      "query": "hunt office supplies",
+      "link": "https://www.google.com/search?q=hunt+office+supplies&sa=X&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ1QIoB3oECAwQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+galway&ei=FXwnXtj8LNKU4-EP2p-q2AE&start=10&sa=N&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ8NMDegQIDRA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+galway&ei=FXwnXtj8LNKU4-EP2p-q2AE&start=10&sa=N&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ8tMDegQIDRAt",
+      "3": "https://www.google.com/search?q=office+supplies+galway&ei=FXwnXtj8LNKU4-EP2p-q2AE&start=20&sa=N&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ8tMDegQIDRAv",
+      "4": "https://www.google.com/search?q=office+supplies+galway&ei=FXwnXtj8LNKU4-EP2p-q2AE&start=30&sa=N&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ8tMDegQIDRAx",
+      "5": "https://www.google.com/search?q=office+supplies+galway&ei=FXwnXtj8LNKU4-EP2p-q2AE&start=40&sa=N&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ8tMDegQIDRAz",
+      "6": "https://www.google.com/search?q=office+supplies+galway&ei=FXwnXtj8LNKU4-EP2p-q2AE&start=50&sa=N&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ8tMDegQIDRA1",
+      "7": "https://www.google.com/search?q=office+supplies+galway&ei=FXwnXtj8LNKU4-EP2p-q2AE&start=60&sa=N&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ8tMDegQIDRA3",
+      "8": "https://www.google.com/search?q=office+supplies+galway&ei=FXwnXtj8LNKU4-EP2p-q2AE&start=70&sa=N&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ8tMDegQIDRA5",
+      "9": "https://www.google.com/search?q=office+supplies+galway&ei=FXwnXtj8LNKU4-EP2p-q2AE&start=80&sa=N&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ8tMDegQIDRA7",
+      "10": "https://www.google.com/search?q=office+supplies+galway&ei=FXwnXtj8LNKU4-EP2p-q2AE&start=90&sa=N&ved=2ahUKEwiY24rp35XnAhVSyjgGHdqPChsQ8tMDegQIDRA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+galway&start=10&token=ef5551b67ced2734",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+galway&start=10&token=ef5551b67ced2734",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+galway&start=10&token=ef5551b67ced2734",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+galway&start=20&token=c22a4df5b901058d",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+galway&start=30&token=b86549e809ea5039",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+galway&start=40&token=a7fb6805a7936335",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+galway&start=50&token=53e733ad7e559c7c",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+galway&start=60&token=2983b40a5ddfad63",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+galway&start=70&token=acc34dd9bba3bcd2",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+galway&start=80&token=66e575afbaf1b6b0",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+galway&start=90&token=477e6381f71db178"
+    }
+  }
+}

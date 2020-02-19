@@ -1,0 +1,332 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 21:09:56 UTC",
+    "processed_at": "2020-01-20 21:09:56 UTC",
+    "google_url": "https://www.google.com/search?q=solar+energy+car&oq=solar+energy+car&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 6.13
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "solar energy car",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 259000000,
+    "time_taken_displayed": 0.88,
+    "query_displayed": "solar energy car"
+  },
+  "knowledge_graph": {
+    "title": "Solar car",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "description": "A solar car is a solar vehicle used for land transport. Solar cars usually run on only power from the sun, although some models will supplement that power using a battery, or use solar panels to recharge batteries or run auxiliary systems for a car that mainly uses battery power.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Solar_car"
+    }
+  },
+  "inline_videos": [
+    {
+      "title": "Lightyear One: The first solar-powered car you can buy",
+      "link": "https://www.youtube.com/watch?v=WEjQkkrsY5Y",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "CNET",
+      "duration": "3:55",
+      "platform": "YouTube",
+      "date": "Jun 28, 2019"
+    },
+    {
+      "title": "Inside The $170K Solar Car That Drives 500 Miles On One ...",
+      "link": "https://www.youtube.com/watch?v=8waCBiwtvMs",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Business Insider",
+      "duration": "4:55",
+      "platform": "YouTube",
+      "date": "Jul 26, 2019"
+    },
+    {
+      "title": "Yes, this car is solar-powered. But it still has a plug",
+      "link": "https://www.cnn.com/videos/business/2019/06/26/solar-powered-electric-car-orig.cnn",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "",
+      "duration": "1:04",
+      "platform": "CNN.com",
+      "date": "Jun 26, 2019"
+    },
+    {
+      "title": "Lightyear One solar powered electric car - exclusive first look ...",
+      "link": "https://www.youtube.com/watch?v=bSbWwn_YCr8",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQoIn1dZTtKNGLXpd9Luk27rItGfL1QFiyyYB6QzGb8WK8PsIUFMP_qI6SSQ",
+      "channel": "fullychargedshow",
+      "duration": "21:46",
+      "platform": "YouTube",
+      "date": "Jun 25, 2019"
+    },
+    {
+      "title": "Solar panel car to go on sale in 2019",
+      "link": "https://www.youtube.com/watch?v=rJD-ezbC5QU",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCQz3ry5VH2tU2_vpGQQ-7ieALteq1pwBJJXKIY3Anl76xKcsZpqdsBOw0wuJ8",
+      "channel": "euronews (in English)",
+      "duration": "0:55",
+      "platform": "YouTube",
+      "date": "Aug 13, 2018"
+    },
+    {
+      "title": "Lightyear One - World's First Long Range Solar Powered Car",
+      "link": "https://www.youtube.com/watch?v=x7qNGRZn_n0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7OL-ja4Zx3zJjHIIa7f5A_1GO7wFdNWhtfF63Ifzkx45W-gvXHS353vkhzAFO",
+      "channel": "Wonder World",
+      "duration": "4:42",
+      "platform": "YouTube",
+      "date": "Nov 8, 2019"
+    },
+    {
+      "title": "What It's Like To Drive A Solar-Powered Car",
+      "link": "https://www.youtube.com/watch?v=fBoRaFy8y3k",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwDLBsZMOnrmRu2sD2BjKomAeNC41WbTNQ9fwh2ohjIaKo8PAU77si8luq",
+      "channel": "Jalopnik",
+      "duration": "5:50",
+      "platform": "YouTube",
+      "date": "May 13, 2019"
+    },
+    {
+      "title": "The First Solar Car – Sono Motors Sion (2019) Tesla killer?",
+      "link": "https://www.youtube.com/watch?v=ETvNiHCoilE",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoClb3YUc2iUvjQ5jz2Htyij8J5ITz46G_Qeuer2DNALBaWRTHgUPWfBKGTQ",
+      "channel": "YOUCAR",
+      "duration": "3:08",
+      "platform": "YouTube",
+      "date": "Jan 5, 2018"
+    },
+    {
+      "title": "Solar powered cars",
+      "link": "https://www.youtube.com/watch?v=kwZ3XDX9vMs",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvAWirD1xrmDT-TcJl-WhUDQU6ubMlrG43w20c-BM8tH2uS9ZkX57OlTdwqw",
+      "channel": "Mashable Deals",
+      "duration": "1:39",
+      "platform": "YouTube",
+      "date": "Oct 5, 2017"
+    },
+    {
+      "title": "This Solar Powered Electric Car Idea is Epic: But Here's Why It ...",
+      "link": "https://www.youtube.com/watch?v=y89RKORO6Lc",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPnnG1dumKP4NX3zr2VlFbjXxcF9d33Vqxb9dTVZVTGa-nziPaKFi6xTB-",
+      "channel": "Transport Evolved",
+      "duration": "7:20",
+      "platform": "YouTube",
+      "date": "Nov 26, 2018"
+    }
+  ],
+  "top_stories": [
+    {
+      "title": "Lightyear One: Hands-on with a solar-powered car with 440-mile range",
+      "link": "https://venturebeat.com/2020/01/19/lightyear-one-hands-on-with-a-solar-powered-car-with-440-mile-range/",
+      "source": "VentureBeat",
+      "date": "1 day ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdXF-NYIAhOkRn9eIlZCwrI9M1o-Zf-Yx50qdp69egQB2zH6uTAuqX3G6HwPGirbgbDlsaTQ&usqp=CAI&s"
+    },
+    {
+      "title": "Exploring 2019 Trends In Solar, Energy Storage, & e-Mobility",
+      "link": "https://cleantechnica.com/2020/01/19/exploring-2019-trends-in-solar-energy-storage-e-mobility/",
+      "source": "CleanTechnica",
+      "date": "18 hours ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRowAx2eD2_ax_Xrc2Zu9FLMhmdWOjgLi3LsiJKhsZPrV3zCujbYjAyzB6SWVmX--1dKB8XNg&usqp=CAI&s"
+    },
+    {
+      "title": "Germany's Sono says has raised 50 mln euros for solar powered car",
+      "link": "https://af.reuters.com/article/energyOilNews/idAFL8N29P1NW",
+      "source": "Reuters Africa",
+      "date": "11 hours ago"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=solar+energy+car&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQt8YBKAF6BAgFEA0",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+car&tbm=nws&token=5fa61828c4ddff65",
+  "related_questions": [
+    {
+      "question": "How much is a solar powered car?",
+      "snippet": "The nationwide average for the cost of solar equipment is $4/watt. You'll also need two Tesla Powerwall 7-kWh batteries for charging the car, which cost $3,000 each plus $1,000 for installation. So we'll multiply each system size by $4,000 and add $7,000.Jan 17, 2019",
+      "title": "How much does it cost to charge an electric car with solar power?",
+      "link": "https://www.solarpowerrocks.com/affordable-solar/how-much-solar-do-i-need-to-charge-my-electric-car/",
+      "displayed_link": "www.solarpowerrocks.com › affordable-solar › how-much-solar-do-i-ne..."
+    },
+    {
+      "question": "How does a solar car work?",
+      "snippet": "True solar-powered cars are actually electric vehicles that are powered by solar panels . The panels are used produce electricity by converting the sun's rays into energy, which is then stored in solar batteries. The car runs by using the energy that is stored in the batteries.",
+      "title": "How Do Solar Cars Work? - Solar Power",
+      "link": "https://www.solarpoweristhefuture.com/how-do-solar-cars-work.shtml",
+      "displayed_link": "www.solarpoweristhefuture.com › how-do-solar-cars-work"
+    },
+    {
+      "question": "Can solar power power car?",
+      "snippet": "If you drove a solar-powered car, that auto dream would come true. ... Instead of using a battery, some solar cars direct the power straight to an electric motor. Solar cars can accomplish this through photovoltaic cells (PVC). PVCs are the components in solar paneling that convert the sun's energy to electricity.",
+      "title": "How can solar panels power a car? | HowStuffWorks",
+      "link": "https://auto.howstuffworks.com/fuel-efficiency/vehicles/solar-cars.htm",
+      "displayed_link": "auto.howstuffworks.com › fuel-efficiency › vehicles › solar-cars"
+    },
+    {
+      "question": "How fast can a solar powered car go?",
+      "snippet": "The lighter the vehicle, the less work the motor has to do to move the car. Vehicles tend to be flat and wide to maximize surface area while still being aerodynamic. Many solar-powered cars have a maximum speed between 40 and 60 miles per hour (64.4 and 96.6 kilometers per hour).",
+      "title": "How fast can solar cars go? | HowStuffWorks",
+      "link": "https://science.howstuffworks.com/science-vs-myth/everyday-myths/how-fast-can-solar-cars-go.htm",
+      "displayed_link": "science.howstuffworks.com › science-vs-myth › everyday-myths › how-..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "All You Need to Know about Solar-Powered Cars",
+      "link": "https://interestingengineering.com/all-you-need-to-know-about-solar-powered-cars",
+      "displayed_link": "interestingengineering.com › all-you-need-to-know-about-solar-powe...",
+      "date": "Nov 1, 2019",
+      "snippet": "With renewed interest in renewable and sustainable energy systems, solar-powered cars have come to the forefront. Many automobile ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rjTtZJyTSkQJ:https://interestingengineering.com/all-you-need-to-know-about-solar-powered-cars+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Toyota working on solar-powered e-car that can 'run forever ...",
+      "link": "https://www.businessinsider.com/toyota-solar-powered-e-car-never-needs-charging-2019-9",
+      "displayed_link": "www.businessinsider.com › toyota-solar-powered-e-car-never-needs-c...",
+      "date": "Sep 19, 2019",
+      "snippet": "Toyota, Sharp, and NEDO have teamed up to manufacture a unique car that could \"run forever\", according to Bloomberg. There have been promising advances in developing thin enough solar panels for curved surfaces, as well as in tech for charging vehicles while they're in motion.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pla2NcesAJ0J:https://www.businessinsider.com/toyota-solar-powered-e-car-never-needs-charging-2019-9+&cd=23&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Solar car - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Solar_car",
+      "displayed_link": "en.wikipedia.org › wiki › Solar_car",
+      "snippet": "A solar car is a solar vehicle used for land transport. Solar cars usually run on only power from the sun, although some models will supplement that power using a battery, or use solar panels to recharge batteries or run auxiliary systems for a car that ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Solar array",
+            "link": "https://en.wikipedia.org/wiki/Solar_car#Solar_array"
+          },
+          {
+            "title": "Races",
+            "link": "https://en.wikipedia.org/wiki/Solar_car#Races"
+          },
+          {
+            "title": "Speed record",
+            "link": "https://en.wikipedia.org/wiki/Solar_car#Speed_record"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mLNE-hVeCWYJ:https://en.wikipedia.org/wiki/Solar_car+&cd=24&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Solar_car+solar+energy+car&tbo=1&sa=X&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQHzAXegQIARAJ"
+    },
+    {
+      "position": 4,
+      "title": "Lightyear One is a solar powered car, sort of - CNN - CNN.com",
+      "link": "https://www.cnn.com/2019/06/26/business/lightyear-one-solar-powered-car/index.html",
+      "displayed_link": "www.cnn.com › 2019/06/26 › business › lightyear-one-solar-powered-car",
+      "date": "Jun 26, 2019",
+      "snippet": "New York (CNN Business) The Lightyear One is a car with solar panels stretching across its roof to charge the electric vehicle's batteries."
+    },
+    {
+      "position": 5,
+      "title": "First Solar-Powered Car To Be Introduced in Late 2019 ...",
+      "link": "https://earth911.com/eco-watch/energy/first-solar-powered-car/",
+      "displayed_link": "earth911.com › eco-watch › energy › first-solar-powered-car",
+      "date": "Dec 7, 2018",
+      "snippet": "The first solar-powered car is expected to hit the European market in 2019. The Sono Motors Sion will have 330 monocrystalline solar cells in ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ayQesqUtw0sJ:https://earth911.com/eco-watch/energy/first-solar-powered-car/+&cd=26&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "How can solar panels power a car? | HowStuffWorks",
+      "link": "https://auto.howstuffworks.com/fuel-efficiency/vehicles/solar-cars.htm",
+      "displayed_link": "auto.howstuffworks.com › ... › Fuel Efficiency › Fuel-efficient Vehicles",
+      "snippet": "If there's no such thing as a free lunch, how about a free ride? Think of how wonderful it would be if your car could continue running without you spending a dime ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:fNGxjqGc9dgJ:https://auto.howstuffworks.com/fuel-efficiency/vehicles/solar-cars.htm+&cd=27&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Tesla's Musk says solar panels on cars make ... - CNBC.com",
+      "link": "https://www.cnbc.com/2019/09/28/teslas-musk-rejects-solar-on-cars-its-not-stopping-toyota-hyundai.html",
+      "displayed_link": "www.cnbc.com › 2019/09/28 › teslas-musk-rejects-solar-on-cars-its-n...",
+      "date": "Sep 28, 2019",
+      "snippet": "Elon Musk has said that a car is the \"least efficient\" place to put solar panels, but that is not stopping major automakers, including Hyundai and ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ZA4JhtqgHMQJ:https://www.cnbc.com/2019/09/28/teslas-musk-rejects-solar-on-cars-its-not-stopping-toyota-hyundai.html+&cd=28&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Hyundai releases car with solar panel roof - BBC News",
+      "link": "https://www.bbc.com/news/technology-49249884",
+      "displayed_link": "www.bbc.com › news › technology-49249884",
+      "date": "Aug 6, 2019",
+      "snippet": "Hyundai has released a version of its Sonata hybrid that has solar panels to help charge its battery. The Korean car maker said up to 60% of ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:n8rNWKQ01VUJ:https://www.bbc.com/news/technology-49249884+&cd=29&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "solar powered car project",
+      "link": "https://www.google.com/search?q=solar+powered+car+project&sa=X&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ1QIoAHoECA4QAQ"
+    },
+    {
+      "query": "solar powered car for sale",
+      "link": "https://www.google.com/search?q=solar+powered+car+for+sale&sa=X&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ1QIoAXoECA4QAg"
+    },
+    {
+      "query": "are solar cars on the market",
+      "link": "https://www.google.com/search?q=are+solar+cars+on+the+market&sa=X&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ1QIoAnoECA4QAw"
+    },
+    {
+      "query": "how do solar cars work",
+      "link": "https://www.google.com/search?q=how+do+solar+cars+work&sa=X&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ1QIoA3oECA4QBA"
+    },
+    {
+      "query": "solar car information",
+      "link": "https://www.google.com/search?q=solar+car+information&sa=X&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ1QIoBHoECA4QBQ"
+    },
+    {
+      "query": "solar car pdf",
+      "link": "https://www.google.com/search?q=solar+car+pdf&sa=X&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ1QIoBXoECA4QBg"
+    },
+    {
+      "query": "sion solar car",
+      "link": "https://www.google.com/search?q=sion+solar+car&sa=X&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ1QIoBnoECA4QBw"
+    },
+    {
+      "query": "lightyear car",
+      "link": "https://www.google.com/search?q=lightyear+car&sa=X&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ1QIoB3oECA4QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=solar+energy+car&ei=KRcmXuumH9-q0PEP_7ezuAc&start=10&sa=N&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ8NMDegQIEhBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=solar+energy+car&ei=KRcmXuumH9-q0PEP_7ezuAc&start=10&sa=N&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ8tMDegQIEhAu",
+      "3": "https://www.google.com/search?q=solar+energy+car&ei=KRcmXuumH9-q0PEP_7ezuAc&start=20&sa=N&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ8tMDegQIEhAw",
+      "4": "https://www.google.com/search?q=solar+energy+car&ei=KRcmXuumH9-q0PEP_7ezuAc&start=30&sa=N&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ8tMDegQIEhAy",
+      "5": "https://www.google.com/search?q=solar+energy+car&ei=KRcmXuumH9-q0PEP_7ezuAc&start=40&sa=N&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ8tMDegQIEhA0",
+      "6": "https://www.google.com/search?q=solar+energy+car&ei=KRcmXuumH9-q0PEP_7ezuAc&start=50&sa=N&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ8tMDegQIEhA2",
+      "7": "https://www.google.com/search?q=solar+energy+car&ei=KRcmXuumH9-q0PEP_7ezuAc&start=60&sa=N&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ8tMDegQIEhA4",
+      "8": "https://www.google.com/search?q=solar+energy+car&ei=KRcmXuumH9-q0PEP_7ezuAc&start=70&sa=N&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ8tMDegQIEhA6",
+      "9": "https://www.google.com/search?q=solar+energy+car&ei=KRcmXuumH9-q0PEP_7ezuAc&start=80&sa=N&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ8tMDegQIEhA8",
+      "10": "https://www.google.com/search?q=solar+energy+car&ei=KRcmXuumH9-q0PEP_7ezuAc&start=90&sa=N&ved=2ahUKEwir37S3i5PnAhVfFTQIHf_bDHcQ8tMDegQIEhA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+car&start=10&token=ce540689f862add4",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+car&start=10&token=ce540689f862add4",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+car&start=10&token=ce540689f862add4",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+car&start=20&token=679bf94146c50478",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+car&start=30&token=f5c193ce635a64fb",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+car&start=40&token=7cdec2f99fb93bfd",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+car&start=50&token=e91bc76294e8e396",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+car&start=60&token=c7aaae85dbd79ca1",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+car&start=70&token=3a527cb5d42c7c90",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+car&start=80&token=cde90342e86d0ebc",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+car&start=90&token=7a4dcdba2d7cb3fb"
+    }
+  }
+}

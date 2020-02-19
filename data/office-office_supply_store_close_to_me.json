@@ -1,0 +1,351 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:43:46 UTC",
+    "processed_at": "2020-01-21 22:43:46 UTC",
+    "google_url": "https://www.google.com/search?q=office+supply+store+close+to+me&oq=office+supply+store+close+to+me&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 5.22
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supply store close to me",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 2610000000,
+    "time_taken_displayed": 0.72,
+    "query_displayed": "office supply store close to me"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supply+store+close+to+me&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=28735418,-82224391,35438&tbm=lcl&sa=X&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQtgN6BAgMEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 28.735418,
+      "longitude": -82.224391,
+      "altitude": 35438
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supply+store+close+to+me&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=28735418,-82224391,35438&tbm=lcl&sa=X&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQjGp6BAgMEFk",
+    "places": [
+      {
+        "position": 1,
+        "title": "OfficeMaxWhy this ad?",
+        "place_id": "16969184289632141320",
+        "lsig": "AB86z5X-zDU-VOzB58suuaVMJ9Ay",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5X-zDU-VOzB58suuaVMJ9Ay&ludocid=16969184289632141320&q=office+supply+store+close+to+me&tbm=lcl&token=f8a75eb98a904b3f",
+        "rating": 4.2,
+        "reviews": 64,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (352) 726-0779",
+        "address": "Inverness, FL",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 28.855973,
+          "longitude": -82.38849400000001
+        }
+      },
+      {
+        "position": 2,
+        "title": "Office Depot",
+        "place_id": "8889160894845623091",
+        "lsig": "AB86z5X8nRE3bigtcRkeCX0B3b0g",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5X8nRE3bigtcRkeCX0B3b0g&ludocid=8889160894845623091&q=office+supply+store+close+to+me&tbm=lcl&token=6368e0e541aa7f37",
+        "rating": 4.4,
+        "reviews": 99,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "Brooksville, FL",
+        "phone": "In Coastal Landing Shopping Center",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 28.5357241,
+          "longitude": -82.5079605
+        }
+      },
+      {
+        "position": 3,
+        "title": "Staples",
+        "place_id": "16149662157382048890",
+        "lsig": "AB86z5W910CIl2InuGmoSYV6B8zg",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5W910CIl2InuGmoSYV6B8zg&ludocid=16149662157382048890&q=office+supply+store+close+to+me&tbm=lcl&token=9d3da0bb98132834",
+        "rating": 3.5,
+        "reviews": 85,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "Lady Lake, FL",
+        "phone": "In Rolling Acres Plaza",
+        "description": "Brand-name electronics & office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 28.935111999999997,
+          "longitude": -81.94082300000001
+        }
+      },
+      {
+        "position": 4,
+        "title": "OfficeMax",
+        "place_id": "16969184289632141320",
+        "lsig": "AB86z5VOCLYMTxGprNLLIKcWcwPK",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VOCLYMTxGprNLLIKcWcwPK&ludocid=16969184289632141320&q=office+supply+store+close+to+me&tbm=lcl&token=7b9e333fb928a06f",
+        "rating": 4.2,
+        "reviews": 64,
+        "price": "$$",
+        "type": "$$",
+        "hours": "Open ⋅ Closes 9PM · (352) 726-0779",
+        "address": "Inverness, FL",
+        "description": "Mainstay for office supplies & more",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 28.855973,
+          "longitude": -82.3884936
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "Is Office Depot the same as OfficeMax?",
+      "snippet": "OfficeMax. OfficeMax is an American office supplies retailer founded in 1988. It is now a subsidiary of Office Depot, Inc., which is headquartered in Boca Raton, Florida. ... On February 20, 2013, an all-stock merger between Office Depot and OfficeMax was announced.",
+      "title": "OfficeMax - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/OfficeMax",
+      "displayed_link": "en.wikipedia.org › wiki › OfficeMax"
+    },
+    {
+      "question": "What is Staples called now?",
+      "snippet": "While there has been no official announcement from Hilco on the name change or exactly how many stores will remain open, a rebrand to the new name of Office Outlet has begun. This follows the change of the official name of the company in early January from Staples Retail UK to SUK Retail.Feb 27, 2017",
+      "title": "Staples UK rebrand underway | OPI - Office Products International",
+      "link": "https://www.opi.net/news/region/002-europe/staples-uk-rebrand-underway/",
+      "displayed_link": "www.opi.net › news › region › 002-europe › staples-uk-rebrand-under..."
+    },
+    {
+      "question": "Is Office Depot the same as Staples?",
+      "snippet": "Staples announced its plan to acquire Office Depot in February of 2015, for what was valued at the time to be $6.3 billion in cash and stock. ... The Journal points out that Staples and Office Depot tried to merge back in 1997 and were also blocked back then.May 10, 2016",
+      "title": "Staples and Office Depot are calling off their merger - The Verge",
+      "link": "https://www.theverge.com/2016/5/10/11653664/staples-office-depot-acquisition-blocked-federal-judge",
+      "displayed_link": "www.theverge.com › staples-office-depot-acquisition-blocked-federal-ju..."
+    },
+    {
+      "question": "How many Office Depot stores are there?",
+      "snippet": "1,378December 2017",
+      "link": "/search?q=How+many+Office+Depot+stores+are+there%3F&sa=X&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQzmd6BAgNEC8"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Office Depot in TAMPA,FL - 211 N DALE MABRY HWY",
+      "link": "https://www.officedepot.com/storelocator/fl/tampa/office-depot-201/",
+      "displayed_link": "www.officedepot.com › storelocator › tampa › office-depot-201",
+      "snippet": "Shop at the Office Depot Store in TAMPA,FL. Enjoy low prices on products ranging from paper and electronics to furniture and much more. ... Free next-day shipping on qualifying $45 orders · Free pickup in 1 hour · 20+ Employee Businesses ... Just ask for me, Kenny Maxwell, or a member of my management team. We'll be ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:fvviywOLansJ:https://www.officedepot.com/storelocator/fl/tampa/office-depot-201/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Find Stores Near You - Office Depot & Office Max",
+      "link": "https://www.officedepot.com/storelocator/findStore.do",
+      "displayed_link": "www.officedepot.com › storelocator › findStore",
+      "snippet": "Enter in your zip code, city or state to find the phone number, store hours, driving directions and location of an Office Depot or OfficeMax Store near you.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NWclddyCd0EJ:https://www.officedepot.com/storelocator/findStore.do+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Top 10 Best Office Supply Store in Tampa, FL - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=office+supply+store&find_loc=Tampa%2C+FL",
+      "displayed_link": "www.yelp.com › search › find_desc=office+supply+store",
+      "snippet": "\"Troy\" made it so hard for me to get an estimate and ship my package in the UPS ... “Never have I been in an office supply store with so many associates and still ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VDgp-btZvdoJ:https://www.yelp.com/search%3Ffind_desc%3Doffice%2Bsupply%2Bstore%26find_loc%3DTampa%252C%2BFL+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Staples® Official Online Store",
+      "link": "https://www.staples.com/",
+      "displayed_link": "www.staples.com",
+      "snippet": "Shop Staples for business essentials, printers, ink, computers, office furniture, printing services, promotional products and more. Solutions for Worklife.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Supplies",
+            "link": "https://www.staples.com/Office-Supplies/cat_SC1"
+          },
+          {
+            "title": "Printing & Marketing Services",
+            "link": "https://www.staples.com/services/printing/"
+          },
+          {
+            "title": "Small Office & Home Office ...",
+            "link": "https://www.staples.com/Small-Office-Home-Office-Furniture-Collections/cat_CL208484"
+          },
+          {
+            "title": "Pens",
+            "link": "https://www.staples.com/Pens/cat_CL110001"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CNR1OwZWsigJ:https://www.staples.com/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Staples® Store Locator | Find Staples Office Supply Stores ...",
+      "link": "https://stores.staples.com/search",
+      "displayed_link": "stores.staples.com › search",
+      "snippet": "Search for Staples® office supply stores in your area to find location hours, directions, addresses, phone numbers, promotions, features, events and services.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4OqR4A_G35AJ:https://stores.staples.com/search+&cd=16&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Office Supplies - Walmart",
+      "link": "https://www.walmart.com/cp/office-supplies/1229749",
+      "displayed_link": "www.walmart.com › office-supplies",
+      "snippet": "Shop for Office supplies and products at Walmart.com. Shop for paper, ink, toner, printers, pens, staplers, and more. Save money. Live better.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Calendars and Planners",
+            "link": "https://www.walmart.com/browse/office-supplies/calendars-and-planners/1229749_8412191"
+          },
+          {
+            "title": "Paper",
+            "link": "https://www.walmart.com/browse/paper/1229749_6562796"
+          },
+          {
+            "title": "Whiteboards",
+            "link": "https://www.walmart.com/browse/office-supplies/whiteboards/1229749_1565348_4161504"
+          },
+          {
+            "title": "Paper Shredders",
+            "link": "https://www.walmart.com/browse/paper-shredders/1229749_2155104"
+          }
+        ]
+      }
+    },
+    {
+      "position": 7,
+      "title": "Crawford Office Supply",
+      "link": "https://www.crawfordofficesupply.com/",
+      "displayed_link": "www.crawfordofficesupply.com",
+      "snippet": "Crawford Office Supply. ... HP Qualified Partner Chamber of Commerce NFIB. © 2020-2021 Crawford Office Supply, All Rights Reserved. Powered by SITS Erp.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:807hiolJpwEJ:https://www.crawfordofficesupply.com/+&cd=18&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "5 Best Office Supply Stores (Online/Near Me) - SME Pals",
+      "link": "https://smepals.com/office-supply-stores",
+      "displayed_link": "smepals.com › office-supply-stores",
+      "date": "Nov 11, 2019",
+      "snippet": "Finding good deals on quality office supplies that can be ordered online and available for in-store pickup within hours (or quickly & cheaply ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LNL_ukW0PsMJ:https://smepals.com/office-supply-stores+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "OfficeSupply.com",
+      "link": "https://www.officesupply.com/",
+      "displayed_link": "www.officesupply.com",
+      "snippet": "Shop office supplies for business, school & home! Paper, ink, toner, binders, pens, electronics, cleaning, crafts and snacks with fast, free shipping!",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Coupons",
+            "link": "https://www.officesupply.com/coupons"
+          },
+          {
+            "title": "Office Supplies",
+            "link": "https://www.officesupply.com/office-supplies/c200002.html"
+          },
+          {
+            "title": "Help Me",
+            "link": "https://www.officesupply.com/contact"
+          },
+          {
+            "title": "Sign in to Your Account",
+            "link": "https://www.officesupply.com/signin"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:A6b5UtOZuigJ:https://www.officesupply.com/+&cd=20&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.officesupply.com/+office+supply+store+close+to+me&tbo=1&sa=X&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQHzATegQIAhAH"
+    },
+    {
+      "position": 10,
+      "title": "Office Depot is closing 50 stores: list - Business Insider",
+      "link": "https://www.businessinsider.com/office-depot-closing-stores-list-2019-4",
+      "displayed_link": "www.businessinsider.com › office-depot-closing-stores-list-2019-4",
+      "date": "May 8, 2019",
+      "snippet": "Office Depot is closing 50 stores — see if your store is on the list ... The company told Business Insider last month that it plans to close 50 stores ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jLIIfLS-us0J:https://www.businessinsider.com/office-depot-closing-stores-list-2019-4+&cd=21&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ1QIoAHoECA4QAQ"
+    },
+    {
+      "query": "office depot near me",
+      "link": "https://www.google.com/search?q=office+depot+near+me&sa=X&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ1QIoAXoECA4QAg"
+    },
+    {
+      "query": "office supply store near me",
+      "link": "https://www.google.com/search?q=office+supply+store+near+me&sa=X&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ1QIoAnoECA4QAw"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ1QIoA3oECA4QBA"
+    },
+    {
+      "query": "officemax near me",
+      "link": "https://www.google.com/search?q=officemax+near+me&sa=X&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ1QIoBHoECA4QBQ"
+    },
+    {
+      "query": "office depot locations near me",
+      "link": "https://www.google.com/search?q=office+depot+locations+near+me&sa=X&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ1QIoBXoECA4QBg"
+    },
+    {
+      "query": "office max",
+      "link": "https://www.google.com/search?q=office+max&sa=X&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ1QIoBnoECA4QBw"
+    },
+    {
+      "query": "office depot near me now",
+      "link": "https://www.google.com/search?q=office+depot+near+me+now&sa=X&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ1QIoB3oECA4QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supply+store+close+to+me&ei=o34nXojgJsqe5gKx8rfQCQ&start=10&sa=N&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ8NMDegQIDxBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supply+store+close+to+me&ei=o34nXojgJsqe5gKx8rfQCQ&start=10&sa=N&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ8tMDegQIDxAu",
+      "3": "https://www.google.com/search?q=office+supply+store+close+to+me&ei=o34nXojgJsqe5gKx8rfQCQ&start=20&sa=N&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ8tMDegQIDxAw",
+      "4": "https://www.google.com/search?q=office+supply+store+close+to+me&ei=o34nXojgJsqe5gKx8rfQCQ&start=30&sa=N&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ8tMDegQIDxAy",
+      "5": "https://www.google.com/search?q=office+supply+store+close+to+me&ei=o34nXojgJsqe5gKx8rfQCQ&start=40&sa=N&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ8tMDegQIDxA0",
+      "6": "https://www.google.com/search?q=office+supply+store+close+to+me&ei=o34nXojgJsqe5gKx8rfQCQ&start=50&sa=N&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ8tMDegQIDxA2",
+      "7": "https://www.google.com/search?q=office+supply+store+close+to+me&ei=o34nXojgJsqe5gKx8rfQCQ&start=60&sa=N&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ8tMDegQIDxA4",
+      "8": "https://www.google.com/search?q=office+supply+store+close+to+me&ei=o34nXojgJsqe5gKx8rfQCQ&start=70&sa=N&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ8tMDegQIDxA6",
+      "9": "https://www.google.com/search?q=office+supply+store+close+to+me&ei=o34nXojgJsqe5gKx8rfQCQ&start=80&sa=N&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ8tMDegQIDxA8",
+      "10": "https://www.google.com/search?q=office+supply+store+close+to+me&ei=o34nXojgJsqe5gKx8rfQCQ&start=90&sa=N&ved=2ahUKEwjIvfGg4pXnAhVKj1kKHTH5DZoQ8tMDegQIDxA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+close+to+me&start=10&token=040d0471b5dbf846",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+close+to+me&start=10&token=040d0471b5dbf846",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+close+to+me&start=10&token=040d0471b5dbf846",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+close+to+me&start=20&token=b78f57edd9f5c172",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+close+to+me&start=30&token=d8ca6d1fa22cd79d",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+close+to+me&start=40&token=410bf7848dc39b42",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+close+to+me&start=50&token=5d6452d4b0b99c84",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+close+to+me&start=60&token=6cbd3d73673b2a52",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+close+to+me&start=70&token=8ca2cc7518217a7e",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+close+to+me&start=80&token=50d32a4bf95f3c1c",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+store+close+to+me&start=90&token=c0da32ee470d1320"
+    }
+  }
+}

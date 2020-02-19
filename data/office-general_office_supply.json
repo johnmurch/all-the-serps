@@ -1,0 +1,284 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:20:13 UTC",
+    "processed_at": "2020-01-21 22:20:13 UTC",
+    "google_url": "https://www.google.com/search?q=general+office+supply&oq=general+office+supply&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 3.12
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "general office supply",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 2120000000,
+    "time_taken_displayed": 0.65,
+    "query_displayed": "general office supply"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=general+office+supply&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=32689641,-96924615,538559&tbm=lcl&sa=X&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQtgN6BAgLEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 32.689641,
+      "longitude": -96.924615,
+      "altitude": 538559
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "title": "General Office Supply",
+        "place_id": "10761254641199526011",
+        "lsig": "AB86z5X1DvTZVvNbQc3QHEsLQZ3k",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5X1DvTZVvNbQc3QHEsLQZ3k&ludocid=10761254641199526011&q=general+office+supply&tbm=lcl&token=ffef3cd5b261fe20",
+        "rating": "A",
+        "links": {
+          "website": "http://www.generalofficesupply.net/",
+          "directions": "https://www.google.com/maps/dir//General+Office+Supply,+3045+W+Pinhook+Rd,+Lafayette,+LA+70508/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x86249c8e26003957:0x9557a814a238b07b?sa=X"
+        },
+        "address": "Lafayette, LA",
+        "hours": "Closes soon ⋅ 5PM",
+        "gps_coordinates": {
+          "latitude": 30.171640900000003,
+          "longitude": -91.999
+        }
+      },
+      {
+        "position": 2,
+        "title": "General Office Supply Inc",
+        "place_id": "16833966053747489003",
+        "lsig": "AB86z5WH3oEL-HgpTotTUUvMQe5W",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WH3oEL-HgpTotTUUvMQe5W&ludocid=16833966053747489003&q=general+office+supply&tbm=lcl&token=1f2043bdb7a8a8d6",
+        "rating": "B",
+        "links": {
+          "website": "http://www.general-officesupply.com/",
+          "directions": "https://www.google.com/maps/dir//General+Office+Supply+Inc,+1020+SW+8th+Ave,+Amarillo,+TX+79101/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x87014e514760cb47:0xe99e42ef8a9a78eb?sa=X"
+        },
+        "address": "Amarillo, TX",
+        "hours": "Closes soon ⋅ 5PM",
+        "gps_coordinates": {
+          "latitude": 35.207643,
+          "longitude": -101.8502309
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "What are general office supplies?",
+      "snippet": "General Office SuppliesPens.Pencils.Folders.Binders.Printer paper.Notebooks.Planners.Calendar.More items...•Dec 2, 2018",
+      "title": "The Definitive Office Supplies Checklist for Small Businesses - Small ...",
+      "link": "https://smallbiztrends.com/2018/12/office-supplies-checklist-small-business.html",
+      "displayed_link": "smallbiztrends.com › 2018/12 › office-supplies-checklist-small-business"
+    },
+    {
+      "question": "Why do we need office supplies?",
+      "snippet": "Having the right office supplies is essential for the day to day running of your business. Objects such as pens, pencils, paper, calculators and other office equipment such as printers, need to be available for your employees to work productively and efficiently.May 30, 2014",
+      "title": "The Importance of Everyday Stationery | OfficeXpress",
+      "link": "http://www.officexpress.co.uk/everyday-stationery/",
+      "displayed_link": "www.officexpress.co.uk › everyday-stationery"
+    },
+    {
+      "question": "How do I track office supplies?",
+      "snippet": "Organizing Tip: How to Keep Track of Office SuppliesMake a detailed master list of supplies. ... Store items in a central location. ... Schedule a routine supply check. ... Take advantage of office supply rewards programs.",
+      "title": "How to Keep Track of Office Supplies | The Order Expert",
+      "link": "https://www.theorderexpert.com/organizing-tip-how-keep-track-office-supplies/",
+      "displayed_link": "www.theorderexpert.com › organizing-tip-how-keep-track-office-supplies"
+    },
+    {
+      "question": "What are consumable office supplies?",
+      "snippet": "Consumables are products that consumers use recurrently, i.e., items which \"get used up\" or discarded. For example consumable office supplies are such products as paper, pens, file folders, Post-it notes, and toner or ink cartridges.",
+      "title": "Consumables - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Consumables",
+      "displayed_link": "en.wikipedia.org › wiki › Consumables"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "General Office Supply - Amarillo",
+      "link": "http://www.general-officesupply.com/",
+      "displayed_link": "www.general-officesupply.com",
+      "snippet": "No information is available for this page.Learn why",
+      "related_pages_link": "https://www.google.com/search?q=related:www.general-officesupply.com/+general+office+supply&tbo=1&sa=X&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQHzACegQIARAG"
+    },
+    {
+      "position": 2,
+      "title": "General Supplies - Office Supply America - San Antonio",
+      "link": "https://www.officesupplyamerica.com/Categories/Office-Supplies/General-Supplies.aspx",
+      "displayed_link": "www.officesupplyamerica.com › Categories › General-Supplies",
+      "snippet": "Office Supply America, Office Supplies, Office Furniture, H.P. TONERS, INKJET, PRINT CARTRIDGES, HON FURNITURE, GLOBAL ... General Supplies ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8norroIo77YJ:https://www.officesupplyamerica.com/Categories/Office-Supplies/General-Supplies.aspx+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "General Office Supply | Home - Lafayette",
+      "link": "http://www.generalofficesupply.net/",
+      "displayed_link": "www.generalofficesupply.net",
+      "snippet": "General Office Supply is your full-service supplier for office solutions. We have served Lafayette surrounding parishes with the Acadiana region for over 80 years ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Contact",
+            "link": "http://www.generalofficesupply.net/General/contact-us"
+          },
+          {
+            "title": "Catalog",
+            "link": "http://www.generalofficesupply.net/Acadiana/catalog"
+          },
+          {
+            "title": "Shop Now",
+            "link": "http://www.generalofficesupply.net/General/online-user-registration-general"
+          },
+          {
+            "title": "About Us",
+            "link": "http://www.generalofficesupply.net/General/about-us"
+          }
+        ]
+      },
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:IW-O1jGf30cJ:www.generalofficesupply.net/+&cd=5&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:www.generalofficesupply.net/+general+office+supply&tbo=1&sa=X&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQHzAEegQIBBAH"
+    },
+    {
+      "position": 4,
+      "title": "General Office Supply - Home | Facebook",
+      "link": "https://www.facebook.com/genoffsupp69/",
+      "displayed_link": "www.facebook.com › Places › Amarillo, Texas › Business Service",
+      "snippet": "General Office Supply, Amarillo, TX. 379 likes · 2 talking about this · 54 were here. Amarillo-area office supply, office furniture and office machine...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.7,
+            "votes": 5
+          },
+          "extensions": [
+            "Rating: 4.7",
+            "5 votes"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:F_YMCKz08EUJ:https://www.facebook.com/genoffsupp69/+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Office Supplies Checklist - Staples",
+      "link": "https://www.staples.com/sbd/content/checklist/o-r/officesupplies.html",
+      "displayed_link": "www.staples.com › sbd › content › checklist › officesupplies",
+      "snippet": "Staples office organization expert Maria Gracia recommends making copies of this page and using it as your office supplies checklist or duplicate a similar form ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:oJvnWo2IHhwJ:https://www.staples.com/sbd/content/checklist/o-r/officesupplies.html+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "General Office Supply - Office Equipment - 3045 W Pinhook ...",
+      "link": "https://www.yelp.com/biz/general-office-supply-lafayette",
+      "displayed_link": "www.yelp.com › Shopping › Office Equipment",
+      "snippet": "Specialties: General Office Supply is the best partner for any company that needs office supplies, furniture , and ... Office Equipment; Closed • 8:00 am - 5:00 pm."
+    },
+    {
+      "position": 7,
+      "title": "General Office Supply Co Inc - Company Profile and News ...",
+      "link": "https://www.bloomberg.com/profile/company/1345293D:US",
+      "displayed_link": "www.bloomberg.com › profile › company",
+      "snippet": "Company profile page for General Office Supply Co Inc including stock price, company news, press releases, executives, board members, and contact ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:O8M_RuvT-r8J:https://www.bloomberg.com/profile/company/1345293D:US+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Office Supply Inc - Office Supplies and Office Products at ...",
+      "link": "https://www.officesupplyinc.com/",
+      "displayed_link": "www.officesupplyinc.com",
+      "snippet": "Save on over 70,000 Office Supply Items and Business Products at low factory direct prices! Please choose a product ... General Office Supplies · Healthcare ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:P9pFlK__F9YJ:https://www.officesupplyinc.com/+&cd=18&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Office supplies - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Office_supplies",
+      "displayed_link": "en.wikipedia.org › wiki › Office_supplies",
+      "snippet": "Office supplies are consumables and equipment regularly used in offices by businesses and ... Office supplies are typically divided by type of product and general use. Some of the many different office supply products include. Blank sheet ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KB5PF4MdeesJ:https://en.wikipedia.org/wiki/Office_supplies+&cd=19&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Office_supplies+general+office+supply&tbo=1&sa=X&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQHzASegQIBhAJ"
+    },
+    {
+      "position": 10,
+      "title": "General List of Office Supplies Needed for a New Business",
+      "link": "https://bizfluent.com/list-6367698-general-supplies-needed-new-business.html",
+      "displayed_link": "bizfluent.com › Start Your Business › Office Supplies",
+      "snippet": "A general list of office supplies for a new business helps you get your venture off to a great start. A thorough checklist includes all types of stock, but also sparks ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HdLf6B1ETy0J:https://bizfluent.com/list-6367698-general-supplies-needed-new-business.html+&cd=20&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "general office supply amarillo",
+      "link": "https://www.google.com/search?q=general+office+supply+amarillo&sa=X&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "general office supplies list",
+      "link": "https://www.google.com/search?q=general+office+supplies+list&sa=X&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "office depot",
+      "link": "https://www.google.com/search?q=office+depot&sa=X&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "common office supplies list",
+      "link": "https://www.google.com/search?q=common+office+supplies+list&sa=X&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "acadiana office supply",
+      "link": "https://www.google.com/search?q=acadiana+office+supply&sa=X&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "office supplies list pdf",
+      "link": "https://www.google.com/search?q=office+supplies+list+pdf&sa=X&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "office supplies lafayette la",
+      "link": "https://www.google.com/search?q=office+supplies+lafayette+la&sa=X&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "staples",
+      "link": "https://www.google.com/search?q=staples&sa=X&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=general+office+supply&ei=HnknXuShJuuC4-EP4LCquAs&start=10&sa=N&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ8NMDegQIDxBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=general+office+supply&ei=HnknXuShJuuC4-EP4LCquAs&start=10&sa=N&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ8tMDegQIDxAu",
+      "3": "https://www.google.com/search?q=general+office+supply&ei=HnknXuShJuuC4-EP4LCquAs&start=20&sa=N&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ8tMDegQIDxAw",
+      "4": "https://www.google.com/search?q=general+office+supply&ei=HnknXuShJuuC4-EP4LCquAs&start=30&sa=N&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ8tMDegQIDxAy",
+      "5": "https://www.google.com/search?q=general+office+supply&ei=HnknXuShJuuC4-EP4LCquAs&start=40&sa=N&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ8tMDegQIDxA0",
+      "6": "https://www.google.com/search?q=general+office+supply&ei=HnknXuShJuuC4-EP4LCquAs&start=50&sa=N&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ8tMDegQIDxA2",
+      "7": "https://www.google.com/search?q=general+office+supply&ei=HnknXuShJuuC4-EP4LCquAs&start=60&sa=N&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ8tMDegQIDxA4",
+      "8": "https://www.google.com/search?q=general+office+supply&ei=HnknXuShJuuC4-EP4LCquAs&start=70&sa=N&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ8tMDegQIDxA6",
+      "9": "https://www.google.com/search?q=general+office+supply&ei=HnknXuShJuuC4-EP4LCquAs&start=80&sa=N&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ8tMDegQIDxA8",
+      "10": "https://www.google.com/search?q=general+office+supply&ei=HnknXuShJuuC4-EP4LCquAs&start=90&sa=N&ved=2ahUKEwjkqI7_3JXnAhVrwTgGHWCYCrcQ8tMDegQIDxA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=general+office+supply&start=10&token=3441238602b555d0",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=general+office+supply&start=10&token=3441238602b555d0",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=general+office+supply&start=10&token=3441238602b555d0",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=general+office+supply&start=20&token=12b6b696eb170e06",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=general+office+supply&start=30&token=feb9af8925d78a7d",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=general+office+supply&start=40&token=e6eb00df9dd7c61b",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=general+office+supply&start=50&token=52ecd320ac1f759e",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=general+office+supply&start=60&token=f62c4d5b87cbd52c",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=general+office+supply&start=70&token=5abcd4a1660edad6",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=general+office+supply&start=80&token=7abd42fa6085ae8b",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=general+office+supply&start=90&token=4524c83c2d7edcfd"
+    }
+  }
+}

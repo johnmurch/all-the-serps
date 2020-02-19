@@ -1,0 +1,310 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:57:48 UTC",
+    "processed_at": "2020-01-21 22:57:48 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+sf&oq=office+supplies+sf&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 6.49
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies sf",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 154000000,
+    "time_taken_displayed": 0.58,
+    "query_displayed": "office supplies sf"
+  },
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "White PoppinPod Kolo 1 with Stool",
+      "price": "$7,298.00",
+      "extracted_price": 7298,
+      "link": "https://poppinpod.poppin.com/White-PoppinPod-Kolo-1-with-Stool-107263+%3A+107262.html",
+      "source": "Poppin",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 2,
+      "title": "HP 61 Economy Black Original Ink Cartridge (B3B07AN)",
+      "price": "$17.84",
+      "extracted_price": 17.84,
+      "link": "https://store.hp.com/us/en/pdp/hp-61-economy-black-original-ink-cartridge",
+      "source": "hp.com",
+      "rating": 4.6,
+      "reviews": 9000,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 3,
+      "title": "HP 63 - Black Ink Cartridges - (1Vv45An) - At Staples",
+      "price": "$18.49",
+      "extracted_price": 18.49,
+      "link": "https://www.staples.com/hp-63-black-economy-ink-cartridge-1vv45an/product_24316179",
+      "source": "Staples",
+      "rating": 4.6,
+      "reviews": 9000,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+sf&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=37778069,-122430866,2678&tbm=lcl&sa=X&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 37.778069,
+      "longitude": -122.430866,
+      "altitude": 2678
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+sf&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=37778069,-122430866,2678&tbm=lcl&sa=X&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQjGp6BAgLEEo",
+    "places": [
+      {
+        "position": 1,
+        "title": "Office Depot",
+        "place_id": "4614521948898005815",
+        "lsig": "AB86z5V_3pE6yRhbwCVDOnrgHUfM",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5V_3pE6yRhbwCVDOnrgHUfM&ludocid=4614521948898005815&q=office+supplies+sf&tbm=lcl&token=d43acc537012973a",
+        "rating": 3.9,
+        "reviews": 139,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 8PM · (415) 777-1728",
+        "address": "33 3rd St",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 37.7871397,
+          "longitude": -122.4026086
+        }
+      },
+      {
+        "position": 2,
+        "title": "OfficeMax",
+        "place_id": "17416132052288578304",
+        "lsig": "AB86z5XMYucbyWnLLs82nfXpGmrW",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XMYucbyWnLLs82nfXpGmrW&ludocid=17416132052288578304&q=office+supplies+sf&tbm=lcl&token=338749d6bed50f97",
+        "rating": 3.7,
+        "reviews": 209,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (415) 252-7611",
+        "address": "1750 Harrison St",
+        "description": "Mainstay for office supplies & more",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 37.768999,
+          "longitude": -122.4142516
+        }
+      },
+      {
+        "position": 3,
+        "title": "Office Depot",
+        "place_id": "8514421037069475288",
+        "lsig": "AB86z5W6Z2Iw81e7Z2EBp7NOXwto",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5W6Z2Iw81e7Z2EBp7NOXwto&ludocid=8514421037069475288&q=office+supplies+sf&tbm=lcl&token=03bf9ea6b0190bcc",
+        "rating": 3.7,
+        "reviews": 146,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (415) 831-1080",
+        "address": "3700 GEARY BOULEVARD, GEARY BLVD &, Arguello Blvd",
+        "description": "Mainstay for office supplies & more",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 37.781459,
+          "longitude": -122.4591236
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Top 10 Best Office Supplies in San Francisco, CA - Last ...",
+      "link": "https://www.yelp.com/search?find_desc=Office+Supplies&find_loc=San+Francisco%2C+CA",
+      "displayed_link": "www.yelp.com › search › find_desc=Office+Supplies",
+      "snippet": "OfficeMax. 1.9 mi. 135 reviews. $$ Office Equipment. OfficeMax. 1.3 mi. 146 reviews. $$ Office Equipment. Office Depot. 2.6 mi. 81 reviews. Patrick & Company. 2.8 mi. 55 reviews. Staples. 2.3 mi. 117 reviews. Patrick & Company. 2.7 mi. 20 reviews. Office Depot. 6.0 mi. 80 reviews. Gable's Stationery. 2.7 mi. 86 reviews.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:x9nH_AYLp5kJ:https://www.yelp.com/search%3Ffind_desc%3DOffice%2BSupplies%26find_loc%3DSan%2BFrancisco%252C%2BCA+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Top 10 Best Office Supply Store in San Francisco, CA - Last ...",
+      "link": "https://www.yelp.com/search?find_desc=Office+Supply+Store&find_loc=San+Francisco%2C+CA",
+      "displayed_link": "www.yelp.com › search › find_desc=Office+Supply+Store",
+      "snippet": "OfficeMax. 1.9 mi. 135 reviews. $$ Office Equipment. Patrick & Company. 2.8 mi. 55 reviews. OfficeMax. 1.3 mi. 146 reviews. Patrick & Company. 2.7 mi. 20 reviews. Office Depot. 2.6 mi. 81 reviews. Staples. 2.3 mi. 117 reviews. Kelly Paper Store. 1.5 mi. 47 reviews. Advance Office Machines. 2.4 mi. 22 reviews.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:47lkDkplX34J:https://www.yelp.com/search%3Ffind_desc%3DOffice%2BSupply%2BStore%26find_loc%3DSan%2BFrancisco%252C%2BCA+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Staples® Van Ness Ave, San Francisco, 94109 | Store Details",
+      "link": "https://stores.staples.com/ca/san-francisco/1700-van-ness-ave",
+      "displayed_link": "stores.staples.com › CA › San Francisco",
+      "snippet": "Visit this San Francisco Staples® for office supplies & furniture, school supplies, printers, ink & toner, copy paper, computers, technology, and more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FTrh01oyXUwJ:https://stores.staples.com/ca/san-francisco/1700-van-ness-ave+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Office Max in SAN FRANCISCO,CA - 1750 HARRISON STREET",
+      "link": "https://www.officedepot.com/storelocator/ca/san-francisco/officemax-6368/",
+      "displayed_link": "www.officedepot.com › storelocator › san-francisco › officemax-6368",
+      "snippet": "Shop at the Office Max Store in SAN FRANCISCO,CA. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:d6tz5xAx5ToJ:https://www.officedepot.com/storelocator/ca/san-francisco/officemax-6368/+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Office Depot in SAN FRANCISCO,CA - 3700 GEARY ...",
+      "link": "https://www.officedepot.com/storelocator/ca/san-francisco/office-depot-6498/",
+      "displayed_link": "www.officedepot.com › storelocator › office-depot-6498",
+      "snippet": "Shop at the Office Depot Store in SAN FRANCISCO,CA. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mp9mM69AjSsJ:https://www.officedepot.com/storelocator/ca/san-francisco/office-depot-6498/+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Patrick & Co",
+      "link": "https://www.patrickandco.com/",
+      "displayed_link": "www.patrickandco.com",
+      "snippet": "Office supplies, over 30000 discount office supplies, office furniture, and business supplies. Patrick & Co: Everything you need for the office with brands like ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Locations",
+            "link": "https://www.patrickandco.com/locations"
+          },
+          {
+            "title": "Office",
+            "link": "https://www.patrickandco.com/Categories/Office.aspx"
+          },
+          {
+            "title": "Stamps & Stamp Supplies",
+            "link": "https://www.patrickandco.com/Categories/Office/Stamps-and-Stamp-Supplies.aspx"
+          },
+          {
+            "title": "Food Service",
+            "link": "https://www.patrickandco.com/Categories/Food-Service.aspx"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rz8laGPI-8sJ:https://www.patrickandco.com/+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Patrick & Co Locations - Patrick & Co",
+      "link": "https://www.patrickandco.com/locations",
+      "displayed_link": "www.patrickandco.com › locations",
+      "snippet": "Please Wait... Full Site · Contact Us · Order Status · My Account · Sign In/Create Account · Patrick & Co · Shopping CartShopping Cart. 0 Product $0.00. My Cart.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rcel2bBVHr4J:https://www.patrickandco.com/locations+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "The 7 Best Paper and Office Supplies Stores in San Francisco",
+      "link": "https://foursquare.com/top-places/san-francisco/best-places-office-supplies",
+      "displayed_link": "foursquare.com › top-places › best-places-office-supplies",
+      "date": "Aug 22, 2015",
+      "snippet": "We did the research so that you don't have to. Paper Tree and MaiDo are on the list. See what other places made the cut.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Ama7scQVRiIJ:https://foursquare.com/top-places/san-francisco/best-places-office-supplies+&cd=11&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://foursquare.com/top-places/san-francisco/best-places-office-supplies+office+supplies+sf&tbo=1&sa=X&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQHzAKegQICRAJ"
+    },
+    {
+      "position": 9,
+      "title": "Office Supplies | San Francisco | blaisdells.com",
+      "link": "http://blaisdells.com/",
+      "displayed_link": "blaisdells.com",
+      "snippet": "Blaisdell's carries all the office essentials you need for a productive workday. ... We have hundreds of styles and brands of office furniture and the product ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:F6K3GkSGmLcJ:blaisdells.com/+&cd=12&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:blaisdells.com/+office+supplies+sf&tbo=1&sa=X&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQHzALegQIChAH",
+      "missing": [
+        "sf"
+      ],
+      "must_include": {
+        "word": "sf",
+        "link": "https://www.google.com/search?q=office+supplies+%22sf%22&sa=X&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ5t4CMAt6BAgKEAk"
+      }
+    },
+    {
+      "position": 10,
+      "title": "Patrick & Company 615 Mission St San Francisco, CA Office ...",
+      "link": "https://www.mapquest.com/us/california/patrick-company-353267805",
+      "displayed_link": "www.mapquest.com › california › patrick-company-353267805",
+      "snippet": "There's no need to spend my money at those ugly, big-box office stores when I can choose from several Patrick ... Get to know your local office supply store.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BbI-Jjq96BAJ:https://www.mapquest.com/us/california/patrick-company-353267805+&cd=13&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "office depot",
+      "link": "https://www.google.com/search?q=office+depot&sa=X&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "office supply store near me",
+      "link": "https://www.google.com/search?q=office+supply+store+near+me&sa=X&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "office depot san francisco",
+      "link": "https://www.google.com/search?q=office+depot+san+francisco&sa=X&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "office depot near me",
+      "link": "https://www.google.com/search?q=office+depot+near+me&sa=X&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "staples",
+      "link": "https://www.google.com/search?q=staples&sa=X&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "officemax",
+      "link": "https://www.google.com/search?q=officemax&sa=X&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+sf&ei=8YEnXrPbH8LH4-EPu-yJ4Ag&start=10&sa=N&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ8NMDegQIDhBi",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+sf&ei=8YEnXrPbH8LH4-EPu-yJ4Ag&start=10&sa=N&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ8tMDegQIDhBQ",
+      "3": "https://www.google.com/search?q=office+supplies+sf&ei=8YEnXrPbH8LH4-EPu-yJ4Ag&start=20&sa=N&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ8tMDegQIDhBS",
+      "4": "https://www.google.com/search?q=office+supplies+sf&ei=8YEnXrPbH8LH4-EPu-yJ4Ag&start=30&sa=N&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ8tMDegQIDhBU",
+      "5": "https://www.google.com/search?q=office+supplies+sf&ei=8YEnXrPbH8LH4-EPu-yJ4Ag&start=40&sa=N&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ8tMDegQIDhBW",
+      "6": "https://www.google.com/search?q=office+supplies+sf&ei=8YEnXrPbH8LH4-EPu-yJ4Ag&start=50&sa=N&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ8tMDegQIDhBY",
+      "7": "https://www.google.com/search?q=office+supplies+sf&ei=8YEnXrPbH8LH4-EPu-yJ4Ag&start=60&sa=N&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ8tMDegQIDhBa",
+      "8": "https://www.google.com/search?q=office+supplies+sf&ei=8YEnXrPbH8LH4-EPu-yJ4Ag&start=70&sa=N&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ8tMDegQIDhBc",
+      "9": "https://www.google.com/search?q=office+supplies+sf&ei=8YEnXrPbH8LH4-EPu-yJ4Ag&start=80&sa=N&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ8tMDegQIDhBe",
+      "10": "https://www.google.com/search?q=office+supplies+sf&ei=8YEnXrPbH8LH4-EPu-yJ4Ag&start=90&sa=N&ved=2ahUKEwjzl5605ZXnAhXC4zgGHTt2AowQ8tMDegQIDhBg"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+sf&start=10&token=0576b74b48873a2c",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+sf&start=10&token=0576b74b48873a2c",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+sf&start=10&token=0576b74b48873a2c",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+sf&start=20&token=78cc559df5d19a3d",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+sf&start=30&token=c58ad51afc3bf084",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+sf&start=40&token=84b11244849f84e6",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+sf&start=50&token=540a32387d649aa8",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+sf&start=60&token=79d3b0e67b0da326",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+sf&start=70&token=abd8b5049548051d",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+sf&start=80&token=afa843e4a4789cfd",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+sf&start=90&token=089d63ba30e9dae9"
+    }
+  }
+}

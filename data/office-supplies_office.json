@@ -1,0 +1,351 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:19:15 UTC",
+    "processed_at": "2020-01-21 22:19:15 UTC",
+    "google_url": "https://www.google.com/search?q=supplies+office&oq=supplies+office&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.2
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "supplies office",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 3730000000,
+    "time_taken_displayed": 0.46,
+    "query_displayed": "supplies office"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Office Depot® Official Site | Restock Your Office Supplies‎",
+      "link": "https://www.officedepot.com/a/browse/office-supplies/N=5+1676/",
+      "displayed_link": "www.officedepot.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjA4Kbj3JXnAhXVko8KHXUiDC8YABAAGgJzYg&sig=AOD64_1vZm1X6SymXmzNWEazCO1UrSuxLQ&q=&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q0Qx6BAgUEAE&adurl=",
+      "description": "Buy Office Furniture, Supplies, and Accessories at Low Prices. Shop Now! Let's Get Possible Done. Shop Office Depot® Online Today! Check Order Status. Download App. Store Locator. Live Chat Available. Brands: Harland Clarke, LUX, Scholastic, Avery, ComplyRight, 3M, BIC.",
+      "sitelinks": [
+        {
+          "title": "Plan The Best Year Yet",
+          "link": "https://www.officedepot.com/a/browse/calendars-and-planners/N=5+1131206+549384&viewAllSkus=true/"
+        },
+        {
+          "title": "Shop Our Deal Center",
+          "link": "https://www.officedepot.com/catalog/search.do?N=5+1676&cbxRefine=549384/"
+        }
+      ]
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=supplies+office&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36874845,-95797200,23896&tbm=lcl&sa=X&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0QtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 36.874845,
+      "longitude": -95.7972,
+      "altitude": 23896
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=supplies+office&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36874845,-95797200,23896&tbm=lcl&sa=X&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0QjGp6BAgLEEA",
+    "places": [
+      {
+        "position": 1,
+        "title": "Mc Carty's the Office Store",
+        "place_id": "5314136959654141869",
+        "lsig": "AB86z5VCsoOthQLyOseE4BVGnLH6",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VCsoOthQLyOseE4BVGnLH6&ludocid=5314136959654141869&q=supplies+office&tbm=lcl&token=c804a3ef2b3f5c7e",
+        "rating": 0,
+        "type": "Office supply store",
+        "hours": "Closes soon ⋅ 5PM · (620) 251-6169",
+        "address": "Coffeyville, KS",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 37.035216,
+          "longitude": -95.61810969999999
+        }
+      },
+      {
+        "position": 2,
+        "title": "Ettingers Office Supply Co",
+        "place_id": "1269000280347462908",
+        "lsig": "AB86z5W_DIlzMPJ9-3jqYwA8pnWV",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5W_DIlzMPJ9-3jqYwA8pnWV&ludocid=1269000280347462908&q=supplies+office&tbm=lcl&token=da91ee7ecb30f5a7",
+        "rating": 4.6,
+        "reviews": 5,
+        "type": "Office supply store",
+        "hours": "Closes soon ⋅ 5PM · (918) 336-1911",
+        "address": "Bartlesville, OK",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.751290999999995,
+          "longitude": -95.97629189999999
+        }
+      },
+      {
+        "position": 3,
+        "title": "Staples",
+        "place_id": "3840119617244773416",
+        "lsig": "AB86z5UPiXj4rBmYuHAJj0O1K3Eu",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UPiXj4rBmYuHAJj0O1K3Eu&ludocid=3840119617244773416&q=supplies+office&tbm=lcl&token=f4abd12010a753f2",
+        "rating": 3.7,
+        "reviews": 47,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 8PM · (918) 335-9135",
+        "address": "Bartlesville, OK",
+        "description": "Brand-name electronics & office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.714475,
+          "longitude": -95.93451499999999
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "see_more_about": [
+      {
+        "title": null
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "What are basic office supplies?",
+      "snippet": "List of Basic Office SuppliesPrinter Paper. This is necessary for any important documents that you want to print out or copy.Notebooks. These can be used for handwritten notes or personal reminders.Graph Paper. ... Planner. ... Sticky Notes. ... Sticky Tabs. ... Scissors. ... Tape.More items...•Jun 6, 2018",
+      "title": "Essential Office Supplies You May Need to Start Your Business ...",
+      "link": "https://smallbiztrends.com/2018/06/basic-office-supplies.html",
+      "displayed_link": "smallbiztrends.com › 2018/06 › basic-office-supplies"
+    },
+    {
+      "question": "What do they sell at Staples?",
+      "snippet": "In addition to selling office supplies, business machines, and tech services, Staples also offers a copy and print center for photocopies, digital printing, faxing, custom business cards, custom rubber stamps, promotional products, binding, lamination, folding, cutting and engraved products.",
+      "title": "Staples Inc. - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Staples_Inc.",
+      "displayed_link": "en.wikipedia.org › wiki › Staples_Inc"
+    },
+    {
+      "question": "Is OfficeMax Office Depot?",
+      "snippet": "OfficeMax. OfficeMax is an American office supplies retailer founded in 1988. It is now a subsidiary of Office Depot, Inc., which is headquartered in Boca Raton, Florida. As of December 2012, OfficeMax operated 941 stores in 47 states, Puerto Rico, the U.S. Virgin Islands and Mexico.",
+      "title": "OfficeMax - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/OfficeMax",
+      "displayed_link": "en.wikipedia.org › wiki › OfficeMax"
+    },
+    {
+      "question": "Is Quill owned by Staples?",
+      "snippet": "Quill Corporation is a United States office supply retailer, founded in 1956, and headquartered in Lincolnshire, Illinois. ... Quill is owned by Staples, Inc., and is recognized as their most profitable division, accounting for about 25% of the company's net income.",
+      "title": "Quill Corporation - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Quill_Corporation",
+      "displayed_link": "en.wikipedia.org › wiki › Quill_Corporation"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "STAPLES® Office Supplies and Office Products",
+      "link": "https://www.staples.com/Office-Supplies/cat_SC1",
+      "displayed_link": "www.staples.com › Office-Supplies › cat_SC1",
+      "snippet": "Start with Staples® and be an office superhero. Get everything from office supplies to exclusives including writing, filing and other popular office products.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Writing Supplies",
+            "link": "https://www.staples.com/Writing-Supplies/cat_CG11"
+          },
+          {
+            "title": "Office Basics",
+            "link": "https://www.staples.com/Office-Basics/cat_CG1036"
+          },
+          {
+            "title": "Desk Organizers & Accessories",
+            "link": "https://www.staples.com/Desk-Organizers-Accessories/cat_CG22"
+          },
+          {
+            "title": "Folders & Filing",
+            "link": "https://www.staples.com/Folders-Filing/cat_CG3539"
+          }
+        ]
+      }
+    },
+    {
+      "position": 2,
+      "title": "Office Supplies | Quill.com",
+      "link": "https://www.quill.com/office-supplies/cbu/2.html",
+      "displayed_link": "www.quill.com › office-supplies › cbu",
+      "snippet": "Shop daily deals on office supplies, like file folders, labels, pens, paper clips, note pads and more. Get fast, free shipping on business supplies. Order now!",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Desk Organizers",
+            "link": "https://www.quill.com/desk-organizers/cbl/1551.html"
+          },
+          {
+            "title": "File Folders",
+            "link": "https://www.quill.com/file-folders/cbl/116.html"
+          },
+          {
+            "title": "Calendars",
+            "link": "https://www.quill.com/calendars/cbl/26736.html"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pQuu5fI6VdQJ:https://www.quill.com/office-supplies/cbu/2.html+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "OfficeSupply.com",
+      "link": "https://www.officesupply.com/",
+      "displayed_link": "www.officesupply.com",
+      "snippet": "Shop office supplies for business, school & home! Paper, ink, toner, binders, pens, electronics, cleaning, crafts and snacks with fast, free shipping!",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Coupons",
+            "link": "https://www.officesupply.com/coupons"
+          },
+          {
+            "title": "Office Supplies",
+            "link": "https://www.officesupply.com/office-supplies/c200002.html"
+          },
+          {
+            "title": "Filing Supplies",
+            "link": "https://www.officesupply.com/office-supplies/filing-supplies/c200172.html"
+          },
+          {
+            "title": "Office Suites",
+            "link": "https://www.officesupply.com/office-furniture/desks-tables/office-suites/c200243.html"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:A6b5UtOZuigJ:https://www.officesupply.com/+&cd=6&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.officesupply.com/+supplies+office&tbo=1&sa=X&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0QHzAFegQICBAH"
+    },
+    {
+      "position": 4,
+      "title": "Buy Office Supplies and Products - Office Depot & OfficeMax",
+      "link": "https://www.officedepot.com/a/browse/office-supplies/N=5+1676/",
+      "displayed_link": "www.officedepot.com › browse › office-supplies",
+      "snippet": "Doing what you do best starts with having the right office supplies for the job. Sign documents, handcraft blueprints and take down meeting minutes with pens, ...",
+      "rich_snippet": {
+        "bottom": {
+          "questions": [
+            "What are some must-have office supplies?",
+            "What office products can I use to stay organized?"
+          ]
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Office Supplies - Walmart",
+      "link": "https://www.walmart.com/cp/office-supplies/1229749",
+      "displayed_link": "www.walmart.com › office-supplies",
+      "snippet": "Shop for Office supplies and products at Walmart.com. Shop for paper, ink, toner, printers, pens, staplers, and more. Save money. Live better."
+    },
+    {
+      "position": 6,
+      "title": "Office Products | Shop Amazon.com",
+      "link": "https://www.amazon.com/Office-Products/b?ie=UTF8&node=1064954",
+      "displayed_link": "www.amazon.com › Office-Products",
+      "snippet": "Printers & Print Supplies. Projectors ... Deals in Office Electronics & Supplies. Amazon Dash ... HP Printer Paper Office 20lb, 8.5 x 11, 1 Ream, 500 Sheets,. #2.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-dkEoIwyRd0J:https://www.amazon.com/Office-Products/b%3Fie%3DUTF8%26node%3D1064954+&cd=10&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.amazon.com/Office-Products/b%3Fie%3DUTF8%26node%3D1064954+supplies+office&tbo=1&sa=X&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0QHzAJegQIChAJ"
+    },
+    {
+      "position": 7,
+      "title": "Discount Office Supplies, Office Paper Products Legal Supplies",
+      "link": "https://www.bulkofficesupply.com/",
+      "displayed_link": "www.bulkofficesupply.com",
+      "snippet": "Wholesale Prices, Get Big Savings! Office and School Supplies at discount and wholesale prices. Bulk Office Supply for over 20% off regular \"super store\" prices.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3ZhGs13K158J:https://www.bulkofficesupply.com/+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Office Supplies - Shoplet.com",
+      "link": "https://www.shoplet.com/office/",
+      "displayed_link": "www.shoplet.com › office",
+      "snippet": "Find discount office supplies for your business or home at Shoplet.com. Browse general office supplies, pens and pencils, binders, envelopes and mailers, desk ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yFKJmQBLxSEJ:https://www.shoplet.com/office/+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "W.B. Mason",
+      "link": "https://www.wbmason.com/",
+      "displayed_link": "www.wbmason.com",
+      "snippet": "Shop W.B. Mason for all your office supply, ink and toner, furniture, technology, break room and janitorial needs. Free same-day, next-day delivery.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NTc1f6O9pSAJ:https://www.wbmason.com/+&cd=13&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office supplies list",
+      "link": "https://www.google.com/search?q=office+supplies+list&sa=X&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q1QIoAHoECBEQAQ"
+    },
+    {
+      "query": "staples office supplies",
+      "link": "https://www.google.com/search?q=staples+office+supplies&sa=X&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q1QIoAXoECBEQAg"
+    },
+    {
+      "query": "office depot",
+      "link": "https://www.google.com/search?q=office+depot&sa=X&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q1QIoAnoECBEQAw"
+    },
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q1QIoA3oECBEQBA"
+    },
+    {
+      "query": "office supply store near me",
+      "link": "https://www.google.com/search?q=office+supply+store+near+me&sa=X&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q1QIoBHoECBEQBQ"
+    },
+    {
+      "query": "office max",
+      "link": "https://www.google.com/search?q=office+max&sa=X&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q1QIoBXoECBEQBg"
+    },
+    {
+      "query": "office supplies wholesale",
+      "link": "https://www.google.com/search?q=office+supplies+wholesale&sa=X&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q1QIoBnoECBEQBw"
+    },
+    {
+      "query": "quill office supplies",
+      "link": "https://www.google.com/search?q=quill+office+supplies&sa=X&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q1QIoB3oECBEQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=supplies+office&ei=5HgnXv6gDYOZ4-EPkYOn6Aw&start=10&sa=N&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q8NMDegQIEhBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=supplies+office&ei=5HgnXv6gDYOZ4-EPkYOn6Aw&start=10&sa=N&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q8tMDegQIEhAv",
+      "3": "https://www.google.com/search?q=supplies+office&ei=5HgnXv6gDYOZ4-EPkYOn6Aw&start=20&sa=N&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q8tMDegQIEhAx",
+      "4": "https://www.google.com/search?q=supplies+office&ei=5HgnXv6gDYOZ4-EPkYOn6Aw&start=30&sa=N&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q8tMDegQIEhAz",
+      "5": "https://www.google.com/search?q=supplies+office&ei=5HgnXv6gDYOZ4-EPkYOn6Aw&start=40&sa=N&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q8tMDegQIEhA1",
+      "6": "https://www.google.com/search?q=supplies+office&ei=5HgnXv6gDYOZ4-EPkYOn6Aw&start=50&sa=N&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q8tMDegQIEhA3",
+      "7": "https://www.google.com/search?q=supplies+office&ei=5HgnXv6gDYOZ4-EPkYOn6Aw&start=60&sa=N&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q8tMDegQIEhA5",
+      "8": "https://www.google.com/search?q=supplies+office&ei=5HgnXv6gDYOZ4-EPkYOn6Aw&start=70&sa=N&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q8tMDegQIEhA7",
+      "9": "https://www.google.com/search?q=supplies+office&ei=5HgnXv6gDYOZ4-EPkYOn6Aw&start=80&sa=N&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q8tMDegQIEhA9",
+      "10": "https://www.google.com/search?q=supplies+office&ei=5HgnXv6gDYOZ4-EPkYOn6Aw&start=90&sa=N&ved=2ahUKEwj-oqHj3JXnAhWDzDgGHZHBCc0Q8tMDegQIEhA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=supplies+office&start=10&token=a883439b61232ab4",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=supplies+office&start=10&token=a883439b61232ab4",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=supplies+office&start=10&token=a883439b61232ab4",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=supplies+office&start=20&token=427863fac53d1a63",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=supplies+office&start=30&token=a5157de5976296a6",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=supplies+office&start=40&token=0433b44fba71e971",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=supplies+office&start=50&token=9aef3af005de7630",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=supplies+office&start=60&token=019bc2f84b214eaf",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=supplies+office&start=70&token=11f7f205b0c34bc9",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=supplies+office&start=80&token=ba651c33f870e369",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=supplies+office&start=90&token=f17a961ae0dec6eb"
+    }
+  }
+}

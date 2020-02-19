@@ -1,0 +1,242 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 23:04:48 UTC",
+    "processed_at": "2020-01-21 23:04:48 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+berkeley&oq=office+supplies+berkeley&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.95
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies berkeley",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 47600000,
+    "time_taken_displayed": 0.54,
+    "query_displayed": "office supplies berkeley"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+berkeley&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=37868642,-122276868,2437&tbm=lcl&sa=X&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 37.868642,
+      "longitude": -122.276868,
+      "altitude": 2437
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+berkeley&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=37868642,-122276868,2437&tbm=lcl&sa=X&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQjGp6BAgLEEU",
+    "places": [
+      {
+        "position": 1,
+        "title": "Office Depot",
+        "place_id": "13733406557621909740",
+        "lsig": "AB86z5WL4k3JurntVd8O4B2CoGqN",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WL4k3JurntVd8O4B2CoGqN&ludocid=13733406557621909740&q=office+supplies+berkeley&tbm=lcl&token=8ea22863c5ff78b3",
+        "rating": 3.5,
+        "reviews": 83,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (510) 982-0663",
+        "address": "1318 Tenth St",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 37.8795898,
+          "longitude": -122.2974295
+        }
+      },
+      {
+        "position": 2,
+        "title": "Berkeley Office Interiors",
+        "place_id": "16793633562599004825",
+        "lsig": "AB86z5V9uD53sjIe2z0rfsNd3fO2",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5V9uD53sjIe2z0rfsNd3fO2&ludocid=16793633562599004825&q=office+supplies+berkeley&tbm=lcl&token=4b3f27dc553c8dfc",
+        "rating": 4.5,
+        "reviews": 8,
+        "type": "Office furniture store",
+        "hours": "Open ⋅ Closes 6PM · (510) 898-1499",
+        "address": "843 Gilman St",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 37.879775699999996,
+          "longitude": -122.30081519999999
+        }
+      },
+      {
+        "position": 3,
+        "title": "Elmwood Stationers",
+        "place_id": "5087403877636540134",
+        "lsig": "AB86z5UW6rEkhRcfnItmXjPh6I4l",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UW6rEkhRcfnItmXjPh6I4l&ludocid=5087403877636540134&q=office+supplies+berkeley&tbm=lcl&token=eacc3daacb0cf062",
+        "rating": 4.9,
+        "reviews": 13,
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 6PM · (510) 841-3073",
+        "address": "2947 College Ave",
+        "description": "Boutique for office & art supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 37.857509799999995,
+          "longitude": -122.25292080000001
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Top 10 Best Office Supplies in Berkeley, CA - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=Office+Supplies&find_loc=Berkeley%2C+CA",
+      "displayed_link": "https://www.yelp.com › search › find_loc=Berkeley,+CA",
+      "snippet": "Office Depot. 1.4 mi. 56 reviews. $$ Office Equipment. Berkeley Outlet. 1.6 mi. 22 reviews. Office Depot. 2.9 mi. 97 reviews. Payn's Stationery. 1.6 mi. 49 reviews. Artist & Craftsman Supply. 0.6 mi. 109 reviews. The Campus Store. 0.9 mi. 14 reviews. The Ink Stone. 1.0 mi. 47 reviews. Ecology Center Store. 1.0 mi. 23 ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:H35LzxtzY6YJ:https://www.yelp.com/search%3Ffind_desc%3DOffice%2BSupplies%26find_loc%3DBerkeley%252C%2BCA+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Top 10 Best Office Supply Store in Berkeley, CA - Last ...",
+      "link": "https://www.yelp.com/search?find_desc=Office+Supply+Store&find_loc=Berkeley%2C+CA",
+      "displayed_link": "https://www.yelp.com › search › find_loc=Berkeley,+CA",
+      "snippet": "Reviews on Office Supply Store in Berkeley, CA - Office Depot, Berkeley Outlet, Staples, Berkeley Shreds, Payn's Stationery, The Campus Store, Elmwood ..."
+    },
+    {
+      "position": 3,
+      "title": "Office Depot in BERKELEY,CA - 1318 TENTH STREET",
+      "link": "https://www.officedepot.com/storelocator/ca/berkeley/office-depot-3306/",
+      "displayed_link": "https://www.officedepot.com › storelocator › berkeley › office-depot-3306",
+      "snippet": "Office Depot berkeley, CA Store #3306. ... When you shop at my Office Depot® in Berkeley you’ll enjoy low prices on office supplies and products, including everything from paper, ink and toner, to the latest technology, cleaning and breakroom supplies and more. ... No matter how you shop ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JHpv9JQQ4UUJ:https://www.officedepot.com/storelocator/ca/berkeley/office-depot-3306/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Office Depot Stores in Berkeley,CA - Visit Today",
+      "link": "https://www.officedepot.com/storelocator/ca/berkeley/",
+      "displayed_link": "https://www.officedepot.com › storelocator › berkeley",
+      "snippet": "Shop at an Office Depot store in Berkeley,CA. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KgX5IWM6XOsJ:https://www.officedepot.com/storelocator/ca/berkeley/+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Elmwood Stationers",
+      "link": "http://www.elmwoodstationers.com/",
+      "displayed_link": "www.elmwoodstationers.com",
+      "snippet": "Elmwood Stationers carries everyday office supplies, school supplies, as well as ... has served the residents of the historic Elmwood District of Berkeley, CA.",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:dOHeA6bxSjUJ:www.elmwoodstationers.com/+&cd=8&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:www.elmwoodstationers.com/+office+supplies+berkeley&tbo=1&sa=X&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQHzAHegQIARAF"
+    },
+    {
+      "position": 6,
+      "title": "Office Supplies Berkeley, CA :: Office Equipment",
+      "link": "https://www.howtocorp.com/office-supplies/california/berkeley",
+      "displayed_link": "https://www.howtocorp.com › office-supplies › california › berkeley",
+      "snippet": "Office Supplies in Berkeley offer office equipment, office accessories & ink refills alongside the full suite of Office Supplies to both local and national clients.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NB5cgmefChEJ:https://www.howtocorp.com/office-supplies/california/berkeley+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Payn's Stationery – Serving our community for more than 60 ...",
+      "link": "http://paynsstationery.com/",
+      "displayed_link": "paynsstationery.com",
+      "snippet": "Payn's Stationery has been serving the local community for almost SEVEN ... Payn's Stationery was affected by Berkeley's Chain Pharmacy Wars of 2014.",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:fju3KDJyKbQJ:paynsstationery.com/+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Office Depot 1318 10th St Berkeley, CA Office Supplies ...",
+      "link": "https://www.mapquest.com/us/california/office-depot-630489797",
+      "displayed_link": "https://www.mapquest.com › california › office-depot-630489797",
+      "snippet": "Get directions, reviews and information for Office Depot in Berkeley, CA.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_2XoAPcvPy0J:https://www.mapquest.com/us/california/office-depot-630489797+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Berkeley office supply store a victim of changing times – East ...",
+      "link": "https://www.eastbaytimes.com/2013/06/26/berkeley-office-supply-store-a-victim-of-changing-times/",
+      "displayed_link": "https://www.eastbaytimes.com › 2013/06/26 › berkeley-office-supply-store...",
+      "date": "Jun 26, 2013",
+      "snippet": "“I feel like downtown Berkeley has changed so much that this kind of retail doesn't work anymore,” said Shows. “The real basic office supplies ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GCvpzlnN1YcJ:https://www.eastbaytimes.com/2013/06/26/berkeley-office-supply-store-a-victim-of-changing-times/+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Staples® Berkeley Plaza, Goldsboro, 27534 | Store Details",
+      "link": "https://stores.staples.com/nc/goldsboro/1101b-berkeley-plaza",
+      "displayed_link": "https://stores.staples.com › NC › Goldsboro",
+      "snippet": "Visit this Goldsboro Staples® for office supplies & furniture, school supplies, printers, ink & toner, copy paper, computers, technology, and more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TgaVxANsflUJ:https://stores.staples.com/nc/goldsboro/1101b-berkeley-plaza+&cd=13&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office depot berkeley",
+      "link": "https://www.google.com/search?q=office+depot+berkeley&sa=X&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "office depot near me",
+      "link": "https://www.google.com/search?q=office+depot+near+me&sa=X&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "1318 tenth street berkeley ca 94710",
+      "link": "https://www.google.com/search?q=1318+tenth+street+berkeley+ca+94710&sa=X&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "staples berkeley",
+      "link": "https://www.google.com/search?q=staples+berkeley&sa=X&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "officemax near me",
+      "link": "https://www.google.com/search?q=officemax+near+me&sa=X&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "office supply emeryville",
+      "link": "https://www.google.com/search?q=office+supply+emeryville&sa=X&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+berkeley&ei=kYMnXsWeGf2O4-EP5u6GiAY&start=10&sa=N&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ8NMDegQIDhA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+berkeley&ei=kYMnXsWeGf2O4-EP5u6GiAY&start=10&sa=N&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ8tMDegQIDhAt",
+      "3": "https://www.google.com/search?q=office+supplies+berkeley&ei=kYMnXsWeGf2O4-EP5u6GiAY&start=20&sa=N&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ8tMDegQIDhAv",
+      "4": "https://www.google.com/search?q=office+supplies+berkeley&ei=kYMnXsWeGf2O4-EP5u6GiAY&start=30&sa=N&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ8tMDegQIDhAx",
+      "5": "https://www.google.com/search?q=office+supplies+berkeley&ei=kYMnXsWeGf2O4-EP5u6GiAY&start=40&sa=N&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ8tMDegQIDhAz",
+      "6": "https://www.google.com/search?q=office+supplies+berkeley&ei=kYMnXsWeGf2O4-EP5u6GiAY&start=50&sa=N&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ8tMDegQIDhA1",
+      "7": "https://www.google.com/search?q=office+supplies+berkeley&ei=kYMnXsWeGf2O4-EP5u6GiAY&start=60&sa=N&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ8tMDegQIDhA3",
+      "8": "https://www.google.com/search?q=office+supplies+berkeley&ei=kYMnXsWeGf2O4-EP5u6GiAY&start=70&sa=N&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ8tMDegQIDhA5",
+      "9": "https://www.google.com/search?q=office+supplies+berkeley&ei=kYMnXsWeGf2O4-EP5u6GiAY&start=80&sa=N&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ8tMDegQIDhA7",
+      "10": "https://www.google.com/search?q=office+supplies+berkeley&ei=kYMnXsWeGf2O4-EP5u6GiAY&start=90&sa=N&ved=2ahUKEwiFq8b65pXnAhV9xzgGHWa3AWEQ8tMDegQIDhA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+berkeley&start=10&token=b8007501426a9064",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+berkeley&start=10&token=b8007501426a9064",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+berkeley&start=10&token=b8007501426a9064",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+berkeley&start=20&token=fc9178b1352505ae",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+berkeley&start=30&token=0e97d8e891a33a3b",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+berkeley&start=40&token=1f1e8f29434b639c",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+berkeley&start=50&token=36aec6362779f9a0",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+berkeley&start=60&token=5c9eb1cb33e1669e",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+berkeley&start=70&token=ed5b561e544ff4c6",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+berkeley&start=80&token=7307b81bf038b77e",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+berkeley&start=90&token=c9ad57a6dc892299"
+    }
+  }
+}

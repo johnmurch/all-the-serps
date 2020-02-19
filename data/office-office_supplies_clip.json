@@ -1,0 +1,262 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:59:28 UTC",
+    "processed_at": "2020-01-21 22:59:28 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+clip&oq=office+supplies+clip&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 3.03
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies clip",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 750000000,
+    "time_taken_displayed": 0.41,
+    "query_displayed": "office supplies clip"
+  },
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Large Binder Clips 320 Pack 6 Assorted Sizes Plus 200 Count Paper Clips for Paper Clamps Office School and Home Supplies",
+      "price": "$10.99",
+      "extracted_price": 10.99,
+      "link": "https://www.amazon.com/Binder-Assorted-Clamps-Office-Supplies/dp/B07QX5WJVH?source=ps-sl-shoppingads-lpcontext&psc=1",
+      "source": "Amazon.com",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 2,
+      "title": "Advantus Advantus 75300 Panel Wall Clips Fabric Panels, wht, pk4.",
+      "price": "$2.66",
+      "extracted_price": 2.66,
+      "link": "https://www.zoro.com/advantus-panel-wall-clips-fabric-panels-wht-pk4-75300/i/G7489216/feature-product",
+      "source": "Zoro",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": [
+        "15% off $100+"
+      ]
+    },
+    {
+      "position": 3,
+      "title": "American Metalcraft ALMH4 4 1/2\" Round Aluminum Alligator Clip Card Holder",
+      "price": "$2.29",
+      "extracted_price": 2.29,
+      "link": "https://www.webstaurantstore.com/american-metalcraft-almh4-4-1-2-round-aluminum-alligator-clip-card-holder/124ALMH4.html?utm_source=Google&utm_medium=cpc&utm_campaign=GoogleShopping",
+      "source": "WebstaurantStore.com",
+      "rating": 4.9,
+      "reviews": 14,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAHlBMVEVHcEwGBhYOCQ8UDgsSDQkSDQcXDxAbEQ8PCgUOCQONxKU4AAAACnRSTlMAMjtKX3MUJJa8DeJJ0gAAAqVJREFUaIHtmttuwyAMhsEHDO//wrNDSNP2bpP5LzJLW6NM1bffR0go5ffWjP/w7T+YqHaFkLuwYkSPrlIR4NYHKyHItQ8SCJn7qArxtuiomDh7TZEYiCyMIDdvIwohm0vG1DPJYEw9iwyqkO4ZZOkCIKtjxwB4u3lR8UD0sOpFZUwAMkdREYLsCaaVCNBJVIYIA/q2J9hQbbqfbLH66whve2p3ZQSZxScVQcg8hBGam5OpEnPbTSYfFqaNZDuZXW5BkJuTOzl5v7edrNRZAHGWSjqGAhYGZlZ7Z8jmppj42gBCbr4ewmiOxQFkW+XuRj0y8N4NyrCY0SByQZTzYU1Q5PJA8jO9jXnqWR6ZYY/0NsM048hPzG1+ouYHZhjr9m3VIu/fPi8yTDP9e3sn+YGaAQ+lTvv39k7Deftf804DVhXmZX+JKYki47xdgZqfF2fQQZYSswpFfmaGPa974jLsiVVFmGOABaW5ubGS/94JtVor+Y8ozyvbgrcDeph0WZdUs+FGdAq+NF+WGfQWXLpEv5HjZiL4kkuTLHfNlSjJ5W2qfeFvcV7sHHK9hfj4J97IlIheYq/c1t4/Nacctmhc7+nl1x+5HZZEpjcIEcvHLQ9ARmk15il5hTreudM7OmfX0YgX2D/DvsisOd4+aK9EnuR73N37KWQLrlnoradmuvXScD7nkR3d2hHt0+Gr0OIv4YQ0bwfF2WaTe5p7IibnQU4An5qdXO0sqohrYO26kUU+q/fkzDi/sjuT/KGZXmBLJbeZyrYU0pviTHJZZPtCT8kR+Jx1SYiuy930JTpP8poZM8pf7j4GSBK4xAnTM5/eynlFOfXklK3GfRTVMTKu5pm97r3aNkc9H1l3nPDdsdFpczTPCTGVp6/zb3Q769pb9i+pP1fxD0ByvAfuAAAAAElFTkSuQmCC",
+      "extensions": []
+    },
+    {
+      "position": 4,
+      "title": "Staples Medium Binder Clips, Medium, Black, 12/Pack (15351)",
+      "price": "$2.09",
+      "extracted_price": 2.09,
+      "link": "https://www.staples.com/Staples-Binder-Clips-Medium-1-1-4-Width-5-8-Capacity-Black/product_103549",
+      "source": "Staples",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": [
+        "$15 off $60+"
+      ]
+    }
+  ],
+  "knowledge_graph": {
+    "see_more_about": [
+      {
+        "title": null
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "What are the things called that hold paper together?",
+      "snippet": "A brass fastener, brad, paper fastener or split pin is a stationery item used for securing multiple sheets of paper together. A patent of the fastener was issued in 1866 to George W McGill.",
+      "title": "Brass fastener - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Brass_fastener",
+      "displayed_link": "en.wikipedia.org › wiki › Brass_fastener"
+    },
+    {
+      "question": "What do you do with binder clips?",
+      "snippet": "16 clever uses for binder clipsKeep unruly wires tamed.Fasten together a fabulous storage unit.Display memorabilia and ephemera.Store horizontal bottles securely in the refrigerator.Turn a magnet into a magnet clip.Make industrial-chic wine charms.Hang art without hurting it.Use as a money clip.More items...•Nov 30, 2012",
+      "title": "16 clever uses for binder clips | MNN - Mother Nature Network",
+      "link": "https://www.mnn.com/lifestyle/responsible-living/stories/16-clever-uses-for-binder-clips",
+      "displayed_link": "www.mnn.com › lifestyle › responsible-living › stories › 16-clever-uses-..."
+    },
+    {
+      "question": "What size is a #1 paper clip?",
+      "snippet": "I have seen this “Jumbo” refer to paper clips from 1 & 3/8 inches long (or 1.375 inches long), through and including Type #4 size paper clip, all the way up to a 2 inch long paper clip.",
+      "title": "paper clips - www.secretarialadvice.com",
+      "link": "http://www.secretarialadvice.com/home/p/paper-clips",
+      "displayed_link": "www.secretarialadvice.com › home › paper-clips"
+    },
+    {
+      "question": "What is the biggest size binder clip?",
+      "snippet": "Extra large binder clip has an approximate width of 60mm (2.4\") and a capacity to hold up to 250 sheets. These jumbo binder clips are ideal for organizing and holding together a large stack of documents and files. The loops at the apex are designed to prevent the steel edges from cutting into the paper.",
+      "title": "Lion Extra Large Binder Clip, 2.4\" Wide, 1-3/4 ... - Amazon.com",
+      "link": "https://www.amazon.com/Lion-Extra-Binder-Capacity-CS-450/dp/B003CF8WM8",
+      "displayed_link": "www.amazon.com › Lion-Extra-Binder-Capacity-CS-450"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "office supplies - Clips / Clips, Clamps & Rings ... - Amazon.com",
+      "link": "https://www.amazon.com/office-supplies-Clips-Clamps-Rings/s?k=office+supplies&rh=n%3A705361011",
+      "displayed_link": "www.amazon.com › office-supplies-Clips-Clamps-Rings › k=office+s...",
+      "date": "Results 1 24 of 973",
+      "snippet": "AUSTOR 145 PCS Binder Clips Black Paper Clamps Assorted 6 Sizes Paper Clips with Box for Office, School and Home Supplies.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GExTjjMNeeoJ:https://www.amazon.com/office-supplies-Clips-Clamps-Rings/s%3Fk%3Doffice%2Bsupplies%26rh%3Dn%253A705361011+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Binder Clips at Office Depot OfficeMax",
+      "link": "https://www.officedepot.com/a/browse/binder-clips/N=5+581683/",
+      "displayed_link": "www.officedepot.com › browse › binder-clips",
+      "snippet": "Nothing beats a binder clip when it comes to organizing large amounts of files. Shop Office Depot & OfficeMax for great deals on binder clips today. ... From basic office supplies such as printer paper and labels to office equipment like file ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "White Binder Clips",
+            "link": "https://www.officedepot.com/a/browse/white-binder-clips/N=5+581683&cbxRefine=305069/"
+          },
+          {
+            "title": "Office Depot Brand Binder ...",
+            "link": "https://www.officedepot.com/a/products/825190/Office-Depot-Brand-Binder-Clips-Medium/"
+          },
+          {
+            "title": "Binder Clips - Office Depot",
+            "link": "https://www.officedepot.com/a/browse/binder-clips/N=5+581683&cbxRefine=391705/"
+          }
+        ]
+      }
+    },
+    {
+      "position": 3,
+      "title": "Clips at Office Depot OfficeMax",
+      "link": "https://www.officedepot.com/a/browse/clips/N=5+1155046/",
+      "displayed_link": "www.officedepot.com › School Supplies › Basic Supplies",
+      "snippet": "Group papers or documents together with paper or binder clips from Office Depot OfficeMax. Shop for all of your favorite organizational necessities today!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:z-EuUS76Yp0J:https://www.officedepot.com/a/browse/clips/N%3D5%2B1155046/+&cd=3&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Clips, Pins & Magnets | Binder Clips, Paper Clips | Staples",
+      "link": "https://www.staples.com/Clips-Fasteners/cat_CL10102",
+      "displayed_link": "www.staples.com › Office Supplies › Office Basics",
+      "snippet": "Office Supplies ... Maintain excellent office and home organization with a variety of clips and fasteners. ... Office + Style Paper Clips, 42 Pack (OS-LARGEPC).",
+      "rich_snippet": {
+        "bottom": {
+          "questions": [
+            "Shop Our Top Rated Clips & Fasteners",
+            "The 5 Lowest Priced Clips & Fasteners In 2020",
+            "The Best Clips & Fastener Brands We Carry"
+          ]
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Paper Clips | Staples",
+      "link": "https://www.staples.com/Paper-Clip/cat_CL10102/8x8ye",
+      "displayed_link": "www.staples.com › Office Supplies › Office Basics",
+      "snippet": "Paper clips are to an office supplies list what the wheel is to industry and commerce. Both are indispensable. Today's clips have come a long way from their ..."
+    },
+    {
+      "position": 6,
+      "title": "Binder Clips at Bulk Office Supply",
+      "link": "https://www.bulkofficesupply.com/binderclips.aspx",
+      "displayed_link": "www.bulkofficesupply.com › binderclips",
+      "snippet": "Stock up on binder clips for powerful hold of large stacks of paper at Bulk Office Supply.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-rz6g5jQlJcJ:https://www.bulkofficesupply.com/binderclips.aspx+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Office supplies clip | Etsy",
+      "link": "https://www.etsy.com/market/office_supplies_clip?ref=rlte_stm_7",
+      "displayed_link": "www.etsy.com › market › office_supplies_clip",
+      "snippet": "Check out our office supplies clip selection for the very best in unique or custom, handmade pieces from our shops."
+    },
+    {
+      "position": 8,
+      "title": "Colorful Paperclips, Binder Clips, Pins & Tacks | Poppin",
+      "link": "https://www.poppin.com/desktop-supplies/clips-pins-and-tacks/",
+      "displayed_link": "www.poppin.com › desktop-supplies › clips-pins-and-tacks",
+      "snippet": "Shop our Colorful Paperclips, Binder Clips, Pins & Tacks now at Poppin.com. ... Office Supplies ... Modern Assorted Small Binder Clips, Set of 20. $4. Quickview ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LTtTqUSTN-QJ:https://www.poppin.com/desktop-supplies/clips-pins-and-tacks/+&cd=17&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "binder clips",
+      "link": "https://www.google.com/search?q=binder+clips&sa=X&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "bulldog clips",
+      "link": "https://www.google.com/search?q=bulldog+clips&sa=X&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "office depot",
+      "link": "https://www.google.com/search?q=office+depot&sa=X&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "paper clips",
+      "link": "https://www.google.com/search?q=paper+clips&sa=X&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "metal binder clips",
+      "link": "https://www.google.com/search?q=metal+binder+clips&sa=X&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "binder clips sizes",
+      "link": "https://www.google.com/search?q=binder+clips+sizes&sa=X&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "office supplies online",
+      "link": "https://www.google.com/search?q=office+supplies+online&sa=X&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "binder clips walmart",
+      "link": "https://www.google.com/search?q=binder+clips+walmart&sa=X&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+clip&ei=UYInXrOlI4WE4-EPjK2-0AU&start=10&sa=N&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ8NMDegUIEBCFAQ",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+clip&ei=UYInXrOlI4WE4-EPjK2-0AU&start=10&sa=N&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ8tMDegQIEBBz",
+      "3": "https://www.google.com/search?q=office+supplies+clip&ei=UYInXrOlI4WE4-EPjK2-0AU&start=20&sa=N&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ8tMDegQIEBB1",
+      "4": "https://www.google.com/search?q=office+supplies+clip&ei=UYInXrOlI4WE4-EPjK2-0AU&start=30&sa=N&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ8tMDegQIEBB3",
+      "5": "https://www.google.com/search?q=office+supplies+clip&ei=UYInXrOlI4WE4-EPjK2-0AU&start=40&sa=N&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ8tMDegQIEBB5",
+      "6": "https://www.google.com/search?q=office+supplies+clip&ei=UYInXrOlI4WE4-EPjK2-0AU&start=50&sa=N&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ8tMDegQIEBB7",
+      "7": "https://www.google.com/search?q=office+supplies+clip&ei=UYInXrOlI4WE4-EPjK2-0AU&start=60&sa=N&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ8tMDegQIEBB9",
+      "8": "https://www.google.com/search?q=office+supplies+clip&ei=UYInXrOlI4WE4-EPjK2-0AU&start=70&sa=N&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ8tMDegQIEBB_",
+      "9": "https://www.google.com/search?q=office+supplies+clip&ei=UYInXrOlI4WE4-EPjK2-0AU&start=80&sa=N&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ8tMDegUIEBCBAQ",
+      "10": "https://www.google.com/search?q=office+supplies+clip&ei=UYInXrOlI4WE4-EPjK2-0AU&start=90&sa=N&ved=2ahUKEwjzkYXi5ZXnAhUFwjgGHYyWD1oQ8tMDegUIEBCDAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+clip&start=10&token=e725f3004e3127a2",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+clip&start=10&token=e725f3004e3127a2",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+clip&start=10&token=e725f3004e3127a2",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+clip&start=20&token=765ee503e923a396",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+clip&start=30&token=cccb6b8f63863c10",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+clip&start=40&token=739af39ebb939170",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+clip&start=50&token=b3b49973009c7ae4",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+clip&start=60&token=8b027930b3080a59",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+clip&start=70&token=21f82bc7a9869568",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+clip&start=80&token=89f7e7be7fb39d50",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+clip&start=90&token=4d0c41859530fa3d"
+    }
+  }
+}

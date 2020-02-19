@@ -1,0 +1,745 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 15:52:57 UTC",
+    "processed_at": "2020-01-21 15:52:57 UTC",
+    "google_url": "https://www.google.com/search?q=best+travel+laptop&oq=best+travel+laptop&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 3.4
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best travel laptop",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 354000000,
+    "time_taken_displayed": 0.76,
+    "query_displayed": "best travel laptop"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Microsoft® Surface Pro X | Ultra-Thin & Always Connected‎",
+      "link": "https://www.microsoft.com/en-us/p/surface-pro-x/8vdnrp2m6hhc",
+      "displayed_link": "www.microsoft.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjdrL23hpXnAhXJqJYKHQFrBL4YABAAGgJ0bA&sig=AOD64_1ng1J23us2H0nAi9iwv58aEM1I9A&q=&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q0Qx6BAgNEAE&adurl=",
+      "description": "Get the Thinnest 2-in-1 LTE Laptop Designed To Impress With Surface Pro X. Free Shipping. Touchscreen. Windows Hello. Windows 10. Models: Surface Pro X, Surface Pro 7, Surface Laptop 3, Surface Go, Surface Book 2.",
+      "sitelinks": [
+        {
+          "title": "Surface Pro 7",
+          "link": "https://www.microsoft.com/en-us/p/surface-pro-7/8N17J0M5ZZQS?"
+        },
+        {
+          "title": "See All Surface Computers",
+          "link": "https://www.microsoft.com/en-us/surface?"
+        },
+        {
+          "title": "Surface Laptop 3",
+          "link": "https://www.microsoft.com/en-us/p/surface-laptop-3/8VFGGH1R94TM?"
+        },
+        {
+          "title": "Surface Book 2",
+          "link": "https://www.microsoft.com/en-us/p/surface-book-2/8mcpzjjcc98c?"
+        },
+        {
+          "title": "Surface Go",
+          "link": "https://www.microsoft.com/en-us/p/surface-go/8v9dp4lnknsz?"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Surface Go, 64GB SSD, Intel 44157, 4GB RAM, Silver, 10\" Touchscreen Display, Microsoft, Computer",
+      "price": "$399.00",
+      "extracted_price": 399,
+      "link": "https://www.microsoft.com/en-us/p/surface-go/8V9DP4LNKNSZ/L8M8?source=googleshopping",
+      "source": "Microsoft Store",
+      "rating": 4.5,
+      "reviews": 2000,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 2,
+      "title": "Surface Laptop 3, 1TB SSD, AMD Ryzen 7 3780U, 32GB RAM, Black, 15\" Touchscreen Display, Microsoft, Computer",
+      "price": "$2,799.00",
+      "extracted_price": 2799,
+      "link": "https://www.microsoft.com/en-us/p/surface-laptop-3/8VFGGH1R94TM/F7SJ?source=googleshopping",
+      "source": "Microsoft Store",
+      "rating": 4.6,
+      "reviews": 82,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 3,
+      "title": "Dell XPS 13 9380 Business Laptop 13.3 inch Notebook - 8GB - 256GB - Windows 10 Pro",
+      "price": "$949.00",
+      "extracted_price": 949,
+      "link": "https://www.dell.com/en-us/work/shop/cty/pdp/spd/xps-13-9380-laptop/cax13w10p1c603s",
+      "source": "Dell",
+      "rating": 3.6,
+      "reviews": 553,
+      "thumbnail": "data:image/webp;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 4,
+      "title": "Google Pixelbook Go (Intel Core m3, 8GB RAM, 64GB Storage Full HD Display) Just Black",
+      "price": "$649.00",
+      "extracted_price": 649,
+      "link": "https://store.google.com/us/product/pixelbook_go?sku=_pixelbook_go_intel_core_m3_8gb_ram_64gb_black",
+      "source": "Google Store",
+      "rating": 4.8,
+      "reviews": 57,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    }
+  ],
+  "knowledge_graph": {
+    "see_more_about": [
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      }
+    ]
+  },
+  "inline_products": [
+    {
+      "position": 1,
+      "title": "Dell XPS 13 9350",
+      "link": "https://www.google.com/search?q=dell+xps+13+9350&stick=H4sIAAAAAAAAAOPgUuLRT9c3LDSzLCgxqMhKErAwTzMwMjFJNjBLtEwzTjScwcR4iYVD7JGE8oMf_1s6WBkXsQqkpObkKFQUFCsYGitYGpsafGBlBADV4IRdSQAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QoYACMA96BAgUEAU",
+      "price": 900,
+      "rating": 4.5,
+      "reviews": 159,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=dell+xps+13+9350&stick=H4sIAAAAAAAAAOPgUuLRT9c3LDSzLCgxqMhKErAwTzMwMjFJNjBLtEwzTjScwcR4iYVD7JGE8oMf_1s6WBkXsQqkpObkKFQUFCsYGitYGpsafGBlBADV4IRdSQAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QvIMEMA96BAgUEAQ",
+      "editorial_reviews": [
+        {
+          "title": "Dell XPS 13 review (2018): compact compromises",
+          "link": "https://www.theverge.com/2018/3/16/17125558/dell-xps-13-review-2018-laptop-battery-specs-price",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAilBMVEVHcEza2tru7ubX19er0t/X4N3a2toxKZDU19bV1tWJLpjW1tbpSp1qZaV+eqzh4dzW1tbsDo7W1tbpO5jmAItFPZfyJJUsOpX0AIzT2NZ1caftAInb29fU3tn0AIbU0NIgLpGXH4/qL5Q1L5LlXaPYt8jhe67cnbzgfq9YU53VydBeKpC8FY3XB4weTJyUAAAAGXRSTlMAPBlsEkcf4u3IN57BguBxneFz6+GaW8HyDZ7YNgAAAJVJREFUGJVlj9kWgjAMRIMUbHHfjSFN2cHl/39PkIOi3pd5m7kD8Es0HbHfBbC8DDQusYWGVRwzxx1NZnPeAmhJ5yoMJwt3t1fdlgRYUtRmdrMlBl2tQdoAHNyD0Lx2JljRUWWJrTDsl9ecnk+OUp4NLljYpJ3Et5zPOVHO/kdXC5Hokb+HdY3e+JERMV8XlYj6+93zBNdNDJAzrbCkAAAAAElFTkSuQmCC",
+          "source": "The Verge",
+          "description": "The keyboard on the new model is slightly less mushy than before, and its full-travel keys are a joy to type on."
+        },
+        {
+          "title": "10 Best Travel Laptops (MUST READ! • November 2019)",
+          "link": "https://www.thebrokebackpacker.com/best-travel-laptop-for-digital-nomads/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEHRSTlMAzqiKQl41sfsi8CmYFnLlOV5LdQAAAF9JREFUGJWFj1sSgCAIACEFnxX3P21CqdU0034ILgoDwD9b6FQyEWSCbyGlibRo5tgKrE+8ZgSkAYbAmtvBU+wYJQcPty9l9KBTmHftbkMkZnmKCzYRO2hN19RZP3c9ANp/B4+4PKYrAAAAAElFTkSuQmCC",
+          "source": "The Broke Backpacker"
+        }
+      ],
+      "specifications": {
+        "resolution": "3200 x 1800 – 1920 x 1080",
+        "screen_size": "13.3 inches",
+        "extensions": [
+          "Windows OS",
+          "2.3 GHz",
+          "128 – 512 GB",
+          "Intel GPU",
+          "4 GB – 16 GB RAM"
+        ]
+      }
+    },
+    {
+      "position": 2,
+      "title": "Dell XPS 13 9380",
+      "link": "https://www.google.com/search?q=dell+xps+13+9380&stick=H4sIAAAAAAAAAOPgUuLVT9c3NMwwjTc1tbQoTBIwNLW0TDQ3NTBLTk02MElOnMHEeImFQ-yRhPKDH_9bOlgZF7EKpKTm5ChUFBQrGBorWBpbGHxgZQQAWXBFnEoAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QoYACMA96BAgUEBo",
+      "price": 950,
+      "rating": 3.6,
+      "reviews": 553,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=dell+xps+13+9380&stick=H4sIAAAAAAAAAOPgUuLVT9c3NMwwjTc1tbQoTBIwNLW0TDQ3NTBLTk02MElOnMHEeImFQ-yRhPKDH_9bOlgZF7EKpKTm5ChUFBQrGBorWBpbGHxgZQQAWXBFnEoAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QvIMEMA96BAgUEBk",
+      "editorial_reviews": [
+        {
+          "title": "Dell XPS 13 (9380) Review & Rating",
+          "link": "https://www.pcmag.com/review/365771/dell-xps-13-9380",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAV1BMVEX////gAADhAAD40NDiAADiAwjiAAb52Nj+9vb409P87Oz0t7f2xMTjGBrlNjj2wMD86Onyq6vwnp/zsLDujI3xpaXnS0zwmpvoW1zkJij++Pn98vLztLXqoxTnAAAAh0lEQVQYlW3P0RaCIBAE0NmJRUUrtChT//87WyCth/ZlzrkHFgZKsaH3LKHgNYQQR8oU23Cjh3TIc59KJEJOwAPoLRTopIC2BXjA+YCmgqvghmGqO57Alg8KqQVs5i6DfKAfZ2nsyrH0JczwfeXi9C+4X2Dav85hXQw8U1zWzcqptXaqutd/A2b7BMDtffhbAAAAAElFTkSuQmCC",
+          "source": "PCMag.com",
+          "description": "Travel is somewhat shallow, but there's good feedback as the keys hit home."
+        },
+        {
+          "title": "Best Travel Laptops For 2020 - Budget & High-End",
+          "link": "https://www.indietraveller.co/best-travel-laptops/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAApVBMVEVHcEwNdoUWmZoPdIT/cXj/dXwPdYT/cnr+dHv/c3vpdHr/dHwGdoX/cXkNc4MTwLMPtqz///8yiZYAwbMGgIsPd4URiJACb34sxroTl5kIqqUAm5ofvbLvd379rbH/a3J818/93NRrq7GBo53/l5bc5+j/6dlcvrn0+Pq1iYuxkpEVeYcwp6j9lWSNdYA0n6PO3+Kh09OGyceXv3++4+Cwj5CviIo+SEELAAAAC3RSTlMA2R+ToR2j2JP8HU7DRaAAAADKSURBVBiVNY9FlsMwEETbSWxJEbPMEB7m+x9tlOeZvyroRRdApsSIEIRL+GNHOacZvls9onw4PnM6Die09plZz8dBn8d8U2bbv8RFaz2PlJaAKb+1jsWg9fLDKQbEH9omB9fperbfHAHprWwWc7qoi/60PQFysLWIbx+ta78meyCAGuaZiZOVSr0rhQC7OphHYaWUTXx1GPZMdCkI51J6MoztASqhkgzMdNJ7X91fLVjqmPFKBV+sYypZGybqIKr/uZtt4X2x3dz1L9smEHlrMSBxAAAAAElFTkSuQmCC",
+          "source": "Indie Traveller"
+        }
+      ],
+      "specifications": {
+        "resolution": "1920 x 1080",
+        "screen_size": "13.3 inches",
+        "extensions": [
+          "Windows OS",
+          "1.8 GHz",
+          "256 GB – 1 TB",
+          "8 GB – 16 GB RAM",
+          "Intel CPU"
+        ]
+      }
+    },
+    {
+      "position": 3,
+      "title": "Apple MacBook Air (13\", Mid 2019)",
+      "link": "https://www.google.com/search?q=apple+macbook+air+(13%22,+mid+2019)&stick=H4sIAAAAAAAAAOPgUuLVT9c3NMyoMos3L8uoShIwSzQ2t0g0SjQ0TTK0NDVPncHEeImFQ-yRhPKDH_9bOlgZF7EqJhYU5KQq5CYmJ-XnZyskZhYpaBgaK-ko5GamKBgZGFpqfmBlBABgAGWLWwAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QoYACMA96BAgUEC8",
+      "price": 1100,
+      "rating": 4.8,
+      "reviews": 4710,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=apple+macbook+air+(13%22,+mid+2019)&stick=H4sIAAAAAAAAAOPgUuLVT9c3NMyoMos3L8uoShIwSzQ2t0g0SjQ0TTK0NDVPncHEeImFQ-yRhPKDH_9bOlgZF7EqJhYU5KQq5CYmJ-XnZyskZhYpaBgaK-ko5GamKBgZGFpqfmBlBABgAGWLWwAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QvIMEMA96BAgUEC4",
+      "editorial_reviews": [
+        {
+          "title": "Apple MacBook Air (2019) - Full Review and Benchmarks",
+          "link": "https://www.laptopmag.com/reviews/laptops/apple-macbook-air-2019",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7UlEQVQ4jZ2RMU4DMRRE3/82SCsSRZyAhp6CCtGBOEEOkCpKnQvQch/qjahpaWnSpFk6pBBiO3GKEARobXZ3GhffbzSakcl0UQI3lxeFjEenHFS9Be4fKjKKREoL3OZ+ZSTuSO60I4yzgjPQyeAAOyvtDX7CrRP8hVslqIMbJ0jBjRLkYG8FmwKLQrm6PmGjEFQIChsDDihf1yy34Axpg35PGQ0Htbfq8Z1yvu42I0C0NSX6EBsbLCPfPchkuogAxghn58dsreANBIVgBP/1BrPv4VPhufJ8qPzuYCXwMnfJtjMzytN/U6VuTpntAIGxfGUIPJS7AAAAAElFTkSuQmCC",
+          "source": "Laptop Mag",
+          "description": "The Air's keys feature 0.7 millimeters of travel, which is quite short (we look for at least 1.5 mm)."
+        },
+        {
+          "title": "The Best Travel and Digital Nomad Laptops of 2019",
+          "link": "https://toomanyadapters.com/best-travel-laptops/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEVHcEw5OTkvLy8nJyc1NTUxMTEpKSkvLy9kZGQ5OTgoKCgeHh1CQkEiIiI7OzokJCQMDAweHh4pKSk2NjUAAAA6Ojk6OjkODg4JCQk3NzcGBgYfHx82NjUNDQ0FBQY4ODgkJCQ0NDMAAAACAgILfHV5AAAAIXRSTlMAkDdjfCGMKwpUgq1FoRbzvkDV9e+brpDQ2IR0+cPm7JfeV9q8AAAAnElEQVQYlW1PRxKDMAyUccc2vUOKxP//GAVSLuxBozZbAC7hovfR/eceD4hzspVpRUSMos0rC1DTlGbvEJ2f00Q1jNIGfh8GLsHKESzR0iLaDPGxEGmAG935qgRi31HFpHrvFCIAL7u9eMvklFiSpROtH1vgcdvQf23psnhmq7fBNfJ0VoZc1mCUKdWxKAyYhqkaUNkvHHdaXwd/Ab/yC17h1RmVAAAAAElFTkSuQmCC",
+          "source": "Too Many Adapters"
+        }
+      ],
+      "specifications": {
+        "resolution": "2560 x 1600",
+        "screen_size": "13.3 inches",
+        "extensions": [
+          "Retina Display",
+          "Mac OS",
+          "1.6 GHz",
+          "128 – 256 GB",
+          "8 GB – 16 GB RAM"
+        ]
+      }
+    },
+    {
+      "position": 4,
+      "title": "Apple MacBook Air (13\", Mid 2017)",
+      "link": "https://www.google.com/search?q=apple+macbook+air+(13%22,+mid+2017)&stick=H4sIAAAAAAAAAOPgUuLVT9c3NExPTi8yyCqvSBIwNzM2sjBItDAwMLJIMjJLm8HEeImFQ-yRhPKDH_9bOlgZF7EqJhYU5KQq5CYmJ-XnZyskZhYpaBgaK-ko5GamKBgZGJprfmBlBAB02oPfWwAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QoYACMA96BAgUEEQ",
+      "price": 750,
+      "rating": 4.8,
+      "reviews": 14418,
+      "thumbnail": "data:image/webp;base64,UklGRsYFAABXRUJQVlA4ILoFAABQHgCdASqEAGYAPjkMjkciEREN0CADhLOAakJalm0IfgP+10OnO9rk8wnjv2Z/+v9VWbUiY/zPqndoHwN+reBMUVhysa2q0rDNBA4R/sqZQyckSIwFogU4156pAbUSwTZR4mdh8rSXpDs0+PIkXGxBLT4Jn6GjGt6UHKyQigWK48yOKDd/3gPKlbbKyXyJ/SPCsWlXP/P0ZWvA52ZCDAFf/VsJuDmAbS2tqamHlro1tEFeQ16ZJQyE7I8gSh/8l+rVc/e2/4bKVZjTHmNhawLzu6XehTHU5+mWNhyYzzI3d7Z8eoHq9cOmvopTcdQlVi96ogZ31Fb3aDQIAAD+/3Yi1fvsvDgVnsjPH2B9wQFufeRP0hPqTcFaccpJ1Wf+BZ0UV8O/HkgxoZKLdAKMWG8XH0XBTpwSNfnQ1VrncJab0QlnyeOljBuAlrxrhqFH8FvwP7tevh/8pVf+TjNaeyNvM+n4SAI5BMS8EAhwO1+Yd/NxYGiXbfj0DH4dl99uz2b/AMVp1NBu2ufg41ROAL2fG0t0/BmeRu2fY6sZR0mE9cO8J7vy+vDhO9iDuSubMeQctfUAHl3aSGLsLNaTqKE3LSuPD++FmafL4UtCAceNJcZLHJ0Mnv4c86h2RaVuV+Kc32b97txMWHPgpxFlAC63Q8sEZzKmmhJAV6QITMT8phCS4Sjg5+Lcf9VoliI3k6B6TONQt2o3VllYmckMxnUp/Bt+3GskLePE9Aw50gs1OIoxWe6dgVAbC8GM3JIZlPO3Cc9z5sWX6aGL4VJl+0Myjt5EA71hRvFXUPZTpQ8x9gHc/kHOyw4oaWXW4QH3ZxNxx5V2xcks1NMvsvbMSwmqufxwMlIhex2lccmqXah2IFfFKBMCbs4lKxEjgeHlEpo/j0+YWyazotTc5mnF32hDti3g9WSFVeIP1vQn7Z1sLfL3N2qCjwqIns0aH6EgydTbVSlIfZIfbNC4F6zW1h2goC59PDsNVgkX8ZEO0Xjigo1JRYm05FICGFqpH4Jh4+XjSM300ykpE+MIT3lQX/Hsw26iAITl9dmBrJgBSEtfuMaRdvzxW92ohtJis6xSii2hKvfxp3VCEf3y1QYLOZOPaJ+NYqvj8m3/xEEfpO54BZxdCJucbD3710jyewhAovSlYu8tZwYt5BOJ+FkyueHZ6/AE/z9HlUUFqFL/7mFCs1DJ2B1y15fpzGQTG8Ia7GQCrYV+ews/Cs7LP+FLf1PvoWqhYbJbEkfLNm5n9PLK9J9LwYTgeIPy98nB4HpT7CyulChQt2qynF1mvORXlBPrV4S3pSyL/JCoMX6qm60t0e6POaMGYy9rSXX+XAANTvxQDcxy5ZdUxIBgS1c6YzDZ+tjkLNYSgBP7gjiDeguJrg+D1HTlQ5rLRKfovBsl3da+wixptB/qMSglSa/+U8U/NBmVYlZUWVWtxVWsz8QSPHB8+LYxmN/+cXm5BlEbuCzNTA5pOxgHz2o8MkhAjaOs+6b9H5Q9v4NfIgDRhAK6FSqiLStnmFVrRL9HXbzifebcFUaA3BOoM3RpYpZdqI34Stt5EqUEczqeeH2tdUkpK6Ydkc2/VegIhH7uYI1iTrXft98RhJ2D2ziGxS7iwYEzXajUIBjrg83QkqQpPQlLwN41e9gsJHD6lf20IIfX/wO4IPZpw+L+evxtOZPMHyTcdYJYCn69gG38ezdNaQ1vsKnHjvY9QGsiVEG9DdhT3Ndv/E0E7TvuuGeGXCxWS2yhI7lYYMBGvuPg9BDbn54FI1qywN/kmJbz8MQf27EEqsvTbGukg9O5yFIjLHdw3wGtcJdu/uepNEcOe6e+aHRKh5Ok8WRPpg3X+StIhHU5NiSvY4+21qn30NumXE+sgNGb3xVUiUd3/2jAIxNW1SPLY0az1mLyQzL+a33BO+M+VwPEu/LjEjEK6pymCsqeysklYs2l2AAQ8gAAAA==",
+      "thumbnail_link": "https://www.google.com/search?q=apple+macbook+air+(13%22,+mid+2017)&stick=H4sIAAAAAAAAAOPgUuLVT9c3NExPTi8yyCqvSBIwNzM2sjBItDAwMLJIMjJLm8HEeImFQ-yRhPKDH_9bOlgZF7EqJhYU5KQq5CYmJ-XnZyskZhYpaBgaK-ko5GamKBgZGJprfmBlBAB02oPfWwAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QvIMEMA96BAgUEEM",
+      "editorial_reviews": [
+        {
+          "title": "Apple MacBook Air (13-inch, 2017) Review: It's Still Good",
+          "link": "https://www.laptopmag.com/reviews/laptops/apple-macbook-air-13-inch",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7UlEQVQ4jZ2RMU4DMRRE3/82SCsSRZyAhp6CCtGBOEEOkCpKnQvQch/qjahpaWnSpFk6pBBiO3GKEARobXZ3GhffbzSakcl0UQI3lxeFjEenHFS9Be4fKjKKREoL3OZ+ZSTuSO60I4yzgjPQyeAAOyvtDX7CrRP8hVslqIMbJ0jBjRLkYG8FmwKLQrm6PmGjEFQIChsDDihf1yy34Axpg35PGQ0Htbfq8Z1yvu42I0C0NSX6EBsbLCPfPchkuogAxghn58dsreANBIVgBP/1BrPv4VPhufJ8qPzuYCXwMnfJtjMzytN/U6VuTpntAIGxfGUIPJS7AAAAAElFTkSuQmCC",
+          "source": "Laptop Mag",
+          "description": "The MacBook Air offers a pleasant typing experience, with keys that actually feel like they're moving -- something…"
+        },
+        {
+          "title": "The Best Travel Laptops for Backpackers and Digital Nomads (2019)",
+          "link": "https://gobackpacking.com/laptop-travel/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcExEREQmJiZISEikpKQ0NDRtbm4VFRUAAACtra3///8BbIbCwMAAPU8BYXkBiKjHx8cASl2bm5uAgIDr6+r7+vqpqKjl5OQAChKoq6u7urlcWVjOzs4BocZrd3wBdZKIjI5OdYH19fUJVmmxsrInU2EkOD8BWG3S0tFESkwAJjcEm74fa4AHbjhcAAAACnRSTlMA1onW0on+mR36RaVyZwAAALhJREFUGJU1T9kCgjAMmzqOpWxj4xaQQ8Hz/7/PDTRvTdMmYcwhDrgQPIjZD1GKDV20zwdgudjENll+2vbAOBglRZed4TRxiq7Wb01hiwxpzALktZakhzB0ChwZx01JpUzbruMMcCbQKBp6Soq5dE7CE3fq++u5yJON4BiJyDzzrvIEd0+rl7zSNJYbcfS2tVH6U5fFDd7WBVvoLg3JwgLRHv2i5TpNtsThV+6R+PvGRv+6rn74r/8FFOcNlHym6+0AAAAASUVORK5CYII=",
+          "source": "Go Backpacking"
+        }
+      ],
+      "specifications": {
+        "resolution": "1440 x 900",
+        "screen_size": "13.3 inches",
+        "extensions": [
+          "Mac OS",
+          "1.8 GHz",
+          "128 – 512 GB",
+          "Intel GPU",
+          "8 GB RAM",
+          "Intel CPU"
+        ]
+      }
+    },
+    {
+      "position": 5,
+      "title": "Microsoft Surface Book",
+      "link": "https://www.google.com/search?q=microsoft+surface+book&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwqN8-zTMpOSeJPtkg0MEg1S0lNtExLTU2dwcR4iYVD7JGE8oMf_1s6WBkXsYrlZiYX5Rfnp5UoFJcWpSUmpyok5ednf2BlBAAHWmvDTwAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QoYACMA96BAgUEFo",
+      "price": 690,
+      "rating": 4.5,
+      "reviews": 636,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=microsoft+surface+book&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwqN8-zTMpOSeJPtkg0MEg1S0lNtExLTU2dwcR4iYVD7JGE8oMf_1s6WBkXsYrlZiYX5Rfnp5UoFJcWpSUmpyok5ednf2BlBAAHWmvDTwAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QvIMEMA96BAgUEFk",
+      "editorial_reviews": [
+        {
+          "title": "Microsoft Surface Book review",
+          "link": "https://www.techradar.com/reviews/pc-mac/laptops-portable-pcs/laptops-and-netbooks/microsoft-surface-book-1306306/review",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGFBMVEUvbpH////L2+PmJIqdu8mXt8hWiabl7fH40NWQAAAAPElEQVQYlWNgIAswMjLiF2AEASDJApOACTDCVTIyMoGFWRnYUATYkQxhghK4BJgghjIxMDMjOQRFgDQAADTFAGtdZbnzAAAAAElFTkSuQmCC",
+          "source": "TechRadar",
+          "description": "The keyboard itself offers a luxurious 1.6mm of key travel that caps off with a satisfying thwack when you bottom…"
+        },
+        {
+          "title": "10 Best Travel Laptops (MUST READ! • November 2019)",
+          "link": "https://www.thebrokebackpacker.com/best-travel-laptop-for-digital-nomads/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEHRSTlMAzqiKQl41sfsi8CmYFnLlOV5LdQAAAF9JREFUGJWFj1sSgCAIACEFnxX3P21CqdU0034ILgoDwD9b6FQyEWSCbyGlibRo5tgKrE+8ZgSkAYbAmtvBU+wYJQcPty9l9KBTmHftbkMkZnmKCzYRO2hN19RZP3c9ANp/B4+4PKYrAAAAAElFTkSuQmCC",
+          "source": "The Broke Backpacker"
+        }
+      ],
+      "specifications": {
+        "operating_system": "Windows OS",
+        "screen_size": "13.5 inches",
+        "extensions": [
+          "2.6 GHz",
+          "128 GB – 1 TB",
+          "Intel GPU, NVIDIA GPU",
+          "8 GB – 16 GB RAM"
+        ]
+      }
+    },
+    {
+      "position": 6,
+      "title": "Microsoft Surface Book 2 (13)",
+      "link": "https://www.google.com/search?q=microsoft+surface+book+2+(13)&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEyrys6KN8mJTxIwSjOwTElJSTRKNE5NSUsyncHEeImFQ-yRhPKDH_9bOlgZF7HK5mYmF-UX56eVKBSXFqUlJqcqJOXnZysYKWgYGmt-YGUEACw6lN9XAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QoYACMA96BAgUEG4",
+      "price": 970,
+      "rating": 4.6,
+      "reviews": 2236,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=microsoft+surface+book+2+(13)&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEyrys6KN8mJTxIwSjOwTElJSTRKNE5NSUsyncHEeImFQ-yRhPKDH_9bOlgZF7HK5mYmF-UX56eVKBSXFqUlJqcqJOXnZysYKWgYGmt-YGUEACw6lN9XAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QvIMEMA96BAgUEG0",
+      "editorial_reviews": [
+        {
+          "title": "Microsoft Surface Book 2 review: beauty and brawn, but with limits",
+          "link": "https://www.theverge.com/2017/11/16/16658466/microsoft-surface-book-2-review",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAilBMVEVHcEza2tru7ubX19er0t/X4N3a2toxKZDU19bV1tWJLpjW1tbpSp1qZaV+eqzh4dzW1tbsDo7W1tbpO5jmAItFPZfyJJUsOpX0AIzT2NZ1caftAInb29fU3tn0AIbU0NIgLpGXH4/qL5Q1L5LlXaPYt8jhe67cnbzgfq9YU53VydBeKpC8FY3XB4weTJyUAAAAGXRSTlMAPBlsEkcf4u3IN57BguBxneFz6+GaW8HyDZ7YNgAAAJVJREFUGJVlj9kWgjAMRIMUbHHfjSFN2cHl/39PkIOi3pd5m7kD8Es0HbHfBbC8DDQusYWGVRwzxx1NZnPeAmhJ5yoMJwt3t1fdlgRYUtRmdrMlBl2tQdoAHNyD0Lx2JljRUWWJrTDsl9ecnk+OUp4NLljYpJ3Et5zPOVHO/kdXC5Hokb+HdY3e+JERMV8XlYj6+93zBNdNDJAzrbCkAAAAAElFTkSuQmCC",
+          "source": "The Verge",
+          "description": "It's a far better experience than smaller laptops as there isn't any flex underneath the full-travel keys, and the…"
+        },
+        {
+          "title": "Best Travel Laptops For 2020 - Budget & High-End",
+          "link": "https://www.indietraveller.co/best-travel-laptops/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAApVBMVEVHcEwNdoUWmZoPdIT/cXj/dXwPdYT/cnr+dHv/c3vpdHr/dHwGdoX/cXkNc4MTwLMPtqz///8yiZYAwbMGgIsPd4URiJACb34sxroTl5kIqqUAm5ofvbLvd379rbH/a3J818/93NRrq7GBo53/l5bc5+j/6dlcvrn0+Pq1iYuxkpEVeYcwp6j9lWSNdYA0n6PO3+Kh09OGyceXv3++4+Cwj5CviIo+SEELAAAAC3RSTlMA2R+ToR2j2JP8HU7DRaAAAADKSURBVBiVNY9FlsMwEETbSWxJEbPMEB7m+x9tlOeZvyroRRdApsSIEIRL+GNHOacZvls9onw4PnM6Die09plZz8dBn8d8U2bbv8RFaz2PlJaAKb+1jsWg9fLDKQbEH9omB9fperbfHAHprWwWc7qoi/60PQFysLWIbx+ta78meyCAGuaZiZOVSr0rhQC7OphHYaWUTXx1GPZMdCkI51J6MoztASqhkgzMdNJ7X91fLVjqmPFKBV+sYypZGybqIKr/uZtt4X2x3dz1L9smEHlrMSBxAAAAAElFTkSuQmCC",
+          "source": "Indie Traveller"
+        }
+      ],
+      "specifications": {
+        "operating_system": "Windows OS",
+        "screen_size": "13.5 inches",
+        "extensions": [
+          "Convertible",
+          "2.6 GHz",
+          "256 GB – 1 TB",
+          "Intel GPU, NVIDIA GPU"
+        ]
+      }
+    },
+    {
+      "position": 7,
+      "title": "Samsung Chromebook 3 (11.6)",
+      "link": "https://www.google.com/search?q=samsung+chromebook+3+(11.6)&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEzOyTBJyUlKShIwTrZMMk8xNzY2Nko2MUqznMHEeImFQ-yRhPKDH_9bOlgZF7FKFyfmFpfmpSskZxTl56Ym5ednKxgraBga6plpfmBlBADyEuywVQAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QoYACMA96BQgUEIIB",
+      "price": 99,
+      "rating": 4.6,
+      "reviews": 15324,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=samsung+chromebook+3+(11.6)&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEzOyTBJyUlKShIwTrZMMk8xNzY2Nko2MUqznMHEeImFQ-yRhPKDH_9bOlgZF7FKFyfmFpfmpSskZxTl56Ym5ednKxgraBga6plpfmBlBADyEuywVQAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QvIMEMA96BQgUEIEB",
+      "editorial_reviews": [
+        {
+          "title": "Samsung Chromebook 3 Review: Full Review and Benchmarks",
+          "link": "https://www.laptopmag.com/reviews/laptops/samsung-chromebook-3",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7UlEQVQ4jZ2RMU4DMRRE3/82SCsSRZyAhp6CCtGBOEEOkCpKnQvQch/qjahpaWnSpFk6pBBiO3GKEARobXZ3GhffbzSakcl0UQI3lxeFjEenHFS9Be4fKjKKREoL3OZ+ZSTuSO60I4yzgjPQyeAAOyvtDX7CrRP8hVslqIMbJ0jBjRLkYG8FmwKLQrm6PmGjEFQIChsDDihf1yy34Axpg35PGQ0Htbfq8Z1yvu42I0C0NSX6EBsbLCPfPchkuogAxghn58dsreANBIVgBP/1BrPv4VPhufJ8qPzuYCXwMnfJtjMzytN/U6VuTpntAIGxfGUIPJS7AAAAAElFTkSuQmCC",
+          "source": "Laptop Mag",
+          "description": "Because the Samsung Chromebook 3 uses Chrome OS, there is ample free space on its 32GB eMMc flash memory for your…"
+        },
+        {
+          "title": "8 Best Travel Laptops for Digital Nomads (2019)",
+          "link": "https://www.roadaffair.com/best-travel-laptop/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAASFBMVEUeiNj////J4vX7/f5OoeDP5fbx9/zU6Peaye3Z6viLweoljNk2ldzC3/RZp+KEvumt0/BzteYwkdujzu+52vN4uOfn8vuQxOubZJr1AAAAc0lEQVQYlY2PSRLDIAwEp42BYJY4ZOH/Pw0B+5KT56CSpqSeknRJ6806TNjiHFPm0DINP/pyN1CG4fIOD2kZ9XeiAFWxY9LBBKvUF7Yj5AntZXDvM/XTaeCqNBkVTLQQWnan4VV6KGbGajdNKh67XnvsX1+P/ALp1VUbTgAAAABJRU5ErkJggg==",
+          "source": "Road Affair"
+        }
+      ],
+      "specifications": {
+        "resolution": "1366 x 768",
+        "screen_size": "11.6 inches",
+        "extensions": [
+          "Netbook",
+          "Chrome OS",
+          "1.6 GHz",
+          "16 – 32 GB",
+          "Intel GPU",
+          "Intel CPU"
+        ]
+      }
+    },
+    {
+      "position": 8,
+      "title": "Acer Chromebook R 13 CB5",
+      "link": "https://www.google.com/search?q=acer+chromebook+r+13+cb5&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2TTdMMcgzSxJIMbNITDUwsUw0TksySzIynsHEeImFQ-yRhPKDH_9bOlgZF7FKJCanFikkZxTl56Ym5ednKxQpGBorJCeZfmBlBABuAAakUgAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QoYACMA96BQgUEJgB",
+      "price": 300,
+      "rating": 4.4,
+      "reviews": 358,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=acer+chromebook+r+13+cb5&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2TTdMMcgzSxJIMbNITDUwsUw0TksySzIynsHEeImFQ-yRhPKDH_9bOlgZF7FKJCanFikkZxTl56Ym5ednKxQpGBorJCeZfmBlBABuAAakUgAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QvIMEMA96BQgUEJcB",
+      "editorial_reviews": [
+        {
+          "title": "Acer Chromebook 13 Review",
+          "link": "https://www.digitaltrends.com/laptop-reviews/acer-chromebook-13-review/",
+          "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgBBgkIBwgBCgkLAQoDDQwBARsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5Oi0BCgoKAQwBGg8PGjclEyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3K//AABEIABAAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAEBQP/xAAiEAACAgIBAwUAAAAAAAAAAAABAwIGBAUHABExCBIXQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAG/8QAHBEAAQMFAAAAAAAAAAAAAAAAAQIGBwARISIj/9oADAMBAAIRAxEAPwDTUa3I5tzFrWm6yUbwvCmys1gkQBPk9L2WA7grIatqrjFcbgzChOzVogTAPnpGn2kfTWucZR5LPfklW2Hx5bPb37fR/Opm12eVzflNYxl3kqV1ZmwXZbOSIAnx0ns+1Pw40oGpMQKiMEHpX//Z",
+          "source": "Digital Trends",
+          "description": "There's a typical island keyboard with black chiclet keys, and it provides a snappy feel with enough travel that…"
+        },
+        {
+          "title": "10 Best Travel Laptops – 2019 | BLW",
+          "link": "https://bestlaptopsworld.com/best-travel-laptops/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAOVBMVEVHcEwZlMwjkL0TlMYcoc8zlcIYkcotpcgAqdsAR4szqdJLtdY7lbEoj8EUqtQlh7ZLtNUalMsVk9A4WDZhAAAAEnRSTlMA4TQ7frD0t54flFEUmddUVe+6d83tAAAAVUlEQVQYlZ2PSw6AMAhEC4XWaj/a+x9WwJAujb7FTBhYDCH8ArNDNte+OX1ocNK63VWPFcTvQbEgcnHo2REApJREs9XgxswYUayxFKnXFORCbeL7YzdYagMe7ZAdaQAAAABJRU5ErkJggg==",
+          "source": "BestLaptopsWorld.com"
+        }
+      ],
+      "specifications": {
+        "resolution": "1920 x 1080",
+        "screen_size": "13.3 inches",
+        "extensions": [
+          "Netbook",
+          "Chrome OS",
+          "Convertible",
+          "2.1 GHz",
+          "32 – 64 GB",
+          "4 GB RAM"
+        ]
+      }
+    },
+    {
+      "position": 9,
+      "title": "Apple MacBook Pro (Retina, 13\", Early 2015)",
+      "link": "https://www.google.com/search?q=apple+macbook+pro+(retina,+13%22,+early+2015)&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEyqTMnKjTe3SBKwSDZPNTMyAeJkCwNDI5MZTIyXWDjEHkkoP_jxv6WDlXERq3ZiQUFOqkJuYnJSfn62QkFRvoJGUWpJZl6ijoKhsZKOQmpiUU6lgpGBoanmB1ZGAKj_l7BlAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QoYACMA96BQgUEK4B",
+      "rating": 4.8,
+      "reviews": 12215,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=apple+macbook+pro+(retina,+13%22,+early+2015)&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEyqTMnKjTe3SBKwSDZPNTMyAeJkCwNDI5MZTIyXWDjEHkkoP_jxv6WDlXERq3ZiQUFOqkJuYnJSfn62QkFRvoJGUWpJZl6ijoKhsZKOQmpiUU6lgpGBoanmB1ZGAKj_l7BlAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QvIMEMA96BQgUEK0B",
+      "editorial_reviews": [
+        {
+          "title": "MacBook Pro review (2015)",
+          "link": "https://www.theverge.com/2015/4/9/8375735/apple-macbook-pro-retina-review-2015",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAilBMVEVHcEza2tru7ubX19er0t/X4N3a2toxKZDU19bV1tWJLpjW1tbpSp1qZaV+eqzh4dzW1tbsDo7W1tbpO5jmAItFPZfyJJUsOpX0AIzT2NZ1caftAInb29fU3tn0AIbU0NIgLpGXH4/qL5Q1L5LlXaPYt8jhe67cnbzgfq9YU53VydBeKpC8FY3XB4weTJyUAAAAGXRSTlMAPBlsEkcf4u3IN57BguBxneFz6+GaW8HyDZ7YNgAAAJVJREFUGJVlj9kWgjAMRIMUbHHfjSFN2cHl/39PkIOi3pd5m7kD8Es0HbHfBbC8DDQusYWGVRwzxx1NZnPeAmhJ5yoMJwt3t1fdlgRYUtRmdrMlBl2tQdoAHNyD0Lx2JljRUWWJrTDsl9ecnk+OUp4NLljYpJ3Et5zPOVHO/kdXC5Hokb+HdY3e+JERMV8XlYj6+93zBNdNDJAzrbCkAAAAAElFTkSuQmCC",
+          "source": "The Verge",
+          "description": "Right: 2015 Retina MacBook Pro with new Force Touch trackpad."
+        },
+        {
+          "title": "The Best Travel Laptops for Backpackers and Digital Nomads (2019)",
+          "link": "https://gobackpacking.com/laptop-travel/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAh1BMVEVHcExEREQmJiZISEikpKQ0NDRtbm4VFRUAAACtra3///8BbIbCwMAAPU8BYXkBiKjHx8cASl2bm5uAgIDr6+r7+vqpqKjl5OQAChKoq6u7urlcWVjOzs4BocZrd3wBdZKIjI5OdYH19fUJVmmxsrInU2EkOD8BWG3S0tFESkwAJjcEm74fa4AHbjhcAAAACnRSTlMA1onW0on+mR36RaVyZwAAALhJREFUGJU1T9kCgjAMmzqOpWxj4xaQQ8Hz/7/PDTRvTdMmYcwhDrgQPIjZD1GKDV20zwdgudjENll+2vbAOBglRZed4TRxiq7Wb01hiwxpzALktZakhzB0ChwZx01JpUzbruMMcCbQKBp6Soq5dE7CE3fq++u5yJON4BiJyDzzrvIEd0+rl7zSNJYbcfS2tVH6U5fFDd7WBVvoLg3JwgLRHv2i5TpNtsThV+6R+PvGRv+6rn74r/8FFOcNlHym6+0AAAAASUVORK5CYII=",
+          "source": "Go Backpacking"
+        }
+      ],
+      "specifications": {
+        "resolution": "2560 x 1600",
+        "screen_size": "13.3 inches",
+        "extensions": [
+          "Retina Display",
+          "Mac OS",
+          "128 – 512 GB",
+          "Intel GPU",
+          "8 GB – 16 GB RAM"
+        ]
+      }
+    },
+    {
+      "position": 10,
+      "title": "ASUS Chromebook Flip C302",
+      "link": "https://www.google.com/search?q=asus+chromebook+flip+c302&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2SzG1tCgpSxKwTEkxSUsxS0w1tUhLTUtKmcHEeImFQ-yRhPKDH_9bOlgZF7FKJhaXFiskZxTl56Ym5ednK6TlZBYoJBsbGH1gZQQAIRToxFMAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QoYACMA96BQgUEMMB",
+      "rating": 4.7,
+      "reviews": 281,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=asus+chromebook+flip+c302&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2SzG1tCgpSxKwTEkxSUsxS0w1tUhLTUtKmcHEeImFQ-yRhPKDH_9bOlgZF7FKJhaXFiskZxTl56Ym5ednK6TlZBYoJBsbGH1gZQQAIRToxFMAAAA&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QvIMEMA96BQgUEMIB",
+      "editorial_reviews": [
+        {
+          "title": "Asus Chromebook Flip C302 Review",
+          "link": "https://www.ign.com/articles/2018/03/02/asus-chromebook-flip-c302-review",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABmklEQVQ4jX2TIW8UQRiGn4+cptxUkCBqOgrR7JL0BIb0kgNTktrqGuoQ5VdgkJjqsyRg6CaHQxwJc6lADaaiCeL22v6BF3Ezy16zy7jZeb9nvvedb42eVZf+CJikbeVC/NSlG/QBJJ2Y2WHa7gCdALt36yNgBXwAnksamRmS5sB3M3sLDF2IN7nmQav4IbCSBLAARmZrvpmNwBZJukraTQBwm8RTicuWlQThEpi2tRsAiVPgBXC2vYgBGCcgEmMXYgDOkua0yaAu/ZGkE+Cxme2n72MX4re69BMAF2K1LPyBGbN0/gP4A5wPJE2Aw9xu8j2rS//KhXiR8nkJfG1Z2k+6q0EOqu33f6uth/UcVBI7XRaWxe7EzHAhXiyL3TEwS4BsoWpwdenfAL+A6EK8rkt/AI3nnMkTSd7MnroQP0JrkOrS5/6nEu9BP++1+wx4BxynYA0252ArZXBsxl5HNnu5GNjKZw3AhXhnZsN1AQUwl5RfZi6pSLChC/GuCZWeVZf+M/+e98v24vfrLl3v3wicA1cAZlb1if4CXSetgH2lI0YAAAAASUVORK5CYII=",
+          "source": "IGN Entertainment",
+          "description": "The keys have very little travel, just 1.4 mm, which makes quickly typing out a long email or report a breeze."
+        },
+        {
+          "title": "Best Laptop for Travel Blogging – World Travel Family Travel Blog",
+          "link": "https://worldtravelfamily.com/best-laptop-for-travel-blogging/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA9lBMVEX///8AAAD//Pj//P/z+/37/f7++/n6/fn//vj4//fw//f59fPu8PGusreTlJZwbmyampeur63/9/44PUEnLTM/P0BQQ0kwKzA9PUOinKNtZ2YoJylmbHFZXWBDPz0mIiALBhRYZmdLWlkmLSpmbGX2/vA5NzZkZmi9q6fpzcHgz7u1sp5NU0ZOW1VUWVaAdXLBwMFLSkiCg4XOwsDNt63KmobkqYb/x6X/4cqWh4BTT1prNiDFfGLXbVKrVDz/7+uSoKbR1tI+Ixrmva82My2yqqCvmo/ImpNxXlPMzs1FOC+Sa2hwZWqUnZWpr6lNUFEPExbQ2NKi9OIhAAAA8ElEQVQYlR2Pa1OCQABF74oLGCgshSnbipWx0YNAKksro6drxdL//zMxnY/3zNyZgy7tmAb+sWy7twMKB25/4Hk+cxEEAQwH/u5eSIb74WhsGLQdIn4gJvFUHh4dz3ongJdIIU7Ts/OLy6y4AvLCS+bl9c3t4u5+uFzm8Ekm3HL18PiUrsVo+gxmVcDLavFK3gDVeQerfIB8pJ8bAmNc1RgwqRBtN1/bGfJv9gMWc+JiQkhBXRLHNRzBddNXrMxzXvDMao80kQ0XknNBhLLaliprJJ9rHXKh2kRKYdVZonUSMbPV6FLTtuGoXwdmx6L0DyieHSFW95osAAAAAElFTkSuQmCC",
+          "source": "World Travel Family"
+        }
+      ],
+      "specifications": {
+        "resolution": "1920 x 1080",
+        "screen_size": "12.5 inches",
+        "extensions": [
+          "Netbook",
+          "Chrome OS",
+          "Convertible",
+          "0.9 GHz",
+          "32 – 64 GB",
+          "Intel GPU"
+        ]
+      }
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the best portable laptop?",
+      "snippet": "The best lightweight laptops and ultraportable laptops available in 2019Huawei Matebook 13. Absolutely one of the best lightweight laptops in the world, from any angle. ... Acer Swift 7. ... Dell XPS 13. ... HP Spectre 13. ... Apple MacBook Air. ... Asus ZenBook UX310. ... Microsoft Surface Book 2. ... Lenovo IdeaPad S310.More items...•Sep 16, 2019",
+      "title": "Best lightweight laptops 2019: get the best ultraportable laptop | T3",
+      "link": "https://www.t3.com/features/best-ultraportable-laptop-best-lightweight-laptop",
+      "displayed_link": "www.t3.com › features › best-ultraportable-laptop-best-lightweight-laptop"
+    },
+    {
+      "question": "What is the lightest laptop 2019?",
+      "snippet": "Tested: The Lightest Laptops for 2019HP Envy 13 (2019) MSRP: $749.99. ... LG gram 15 (15Z980) MSRP: $1999.00. ... Acer Swift 5. MSRP: $999.99. ... Asus ZenBook 13 (UX333) MSRP: $849.99. ... Microsoft Surface Laptop 2. MSRP: $999.00. ... VAIO SX14. MSRP: $1299.00. ... Acer Swift 7 (2019) MSRP: $1699.99. ... VAIO SX12. MSRP: $1199.00.More items...•Sep 10, 2019",
+      "title": "Tested: The Lightest Laptops for 2019 | PCMag.com",
+      "link": "https://www.pcmag.com/roundup/367714/tested-the-lightest-laptops",
+      "displayed_link": "www.pcmag.com › roundup › tested-the-lightest-laptops"
+    },
+    {
+      "question": "Do I need a laptop for travel?",
+      "snippet": "If you start your own travel blog, then carrying a computer is a no-brainer—you need a laptop with you. ... If you're planning to travel the world, this might be the perfect opportunity to force yourself offline. The fact is, most travelers these days have a smartphone, so bringing a laptop might be overkill for your trip.Jul 17, 2019",
+      "title": "Should You Travel with a Laptop? - Considerations for International ...",
+      "link": "https://alittleadrift.com/should-you-travel-with-laptop/",
+      "displayed_link": "alittleadrift.com › should-you-travel-with-laptop"
+    },
+    {
+      "question": "What laptop is better than a MacBook Pro?",
+      "snippet": "Overall Winner: Dell XPS 13 Namely, the Dell laptop has a thinner, sleeker (and frankly, sexier) design than the MacBook Pro, and its keyboard is more comfortable to type on. If you simply need the most powerful laptop on the market (or prefer macOS over Windows 10), then the MacBook Pro remains the best choice.Jan 20, 2019",
+      "title": "Dell XPS 13 vs. MacBook Pro: Which Laptop Wins? - Laptop Mag",
+      "link": "https://www.laptopmag.com/articles/2019-dell-xps-13-vs-2018-macbook-pro",
+      "displayed_link": "www.laptopmag.com › articles › 2019-dell-xps-13-vs-2018-macbook-pro"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "The Best Travel and Digital Nomad Laptops of 2020",
+    "link": "https://toomanyadapters.com/best-travel-laptops/",
+    "snippet": "Best Travel Laptop: Dell XPS 13 (9380)Runner-Up, Best Travel Laptop: Apple Macbook Air.Best on a Budget: Lenovo Flex 14.Best Value for Money: Acer Spin 3.Best 2-in-1 Laptop: Lenovo Yoga C940.Best for Traveling Light: Microsoft Surface Go.Best Windows Tablet: Microsoft Surface Pro 7.Jan 12, 2020",
+    "thumbnail": "data:image/jpeg;base64,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"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The Best Travel and Digital Nomad Laptops of 2020",
+      "link": "https://toomanyadapters.com/best-travel-laptops/",
+      "displayed_link": "toomanyadapters.com › best-travel-laptops",
+      "date": "Jan 12, 2020",
+      "snippet": "Best Travel Laptop: Dell XPS 13 (9380) Runner-Up, Best Travel Laptop: Apple Macbook Air. Best on a Budget: Lenovo Flex 14. Best Value for Money: Acer Spin 3. Best 2-in-1 Laptop: Lenovo Yoga C940. Best for Traveling Light: Microsoft Surface Go. Best Windows Tablet: Microsoft Surface Pro 7.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best Travel Laptop: Dell ...",
+            "link": "https://toomanyadapters.com/best-travel-laptops/#best-travel-laptop-dell-xps-13-9380"
+          },
+          {
+            "title": "Runner-Up, Best Travel ...",
+            "link": "https://toomanyadapters.com/best-travel-laptops/#runner-up-best-travel-laptop-apple-macbook-air"
+          },
+          {
+            "title": "Best on a Budget: Lenovo ...",
+            "link": "https://toomanyadapters.com/best-travel-laptops/#best-on-a-budget-lenovo-flex-14"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-qJO_wAlapgJ:https://toomanyadapters.com/best-travel-laptops/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "10 Best Travel Laptops (MUST READ! • January 2020)",
+      "link": "https://www.thebrokebackpacker.com/best-travel-laptop-for-digital-nomads/",
+      "displayed_link": "www.thebrokebackpacker.com › best-travel-laptop-for-digital-nomads",
+      "date": "6 days ago",
+      "snippet": "Quick answer: The Best Portable Travel Laptops. Best Lightweight Laptop –Macbook Air. Best Laptop for Professionals – 12 Inch MacBook Pro. Best Midrange Laptop – Dell XPS 13″ Best Value Laptop – Microsoft Surface Book. Best Budget Laptop – Lenovo Idea Pad 110S. Best Travel Tablet – Microsoft Surface Pro 4.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Quick answer: The Best ...",
+            "link": "https://www.thebrokebackpacker.com/best-travel-laptop-for-digital-nomads/#Quick_answer_The_Best_Portable_Travel_Laptops"
+          },
+          {
+            "title": "What Specs to Consider ...",
+            "link": "https://www.thebrokebackpacker.com/best-travel-laptop-for-digital-nomads/#What_Specs_to_Consider_Before_Buying_the_Best_Travel_Laptop"
+          },
+          {
+            "title": "Best Overall Laptop for ...",
+            "link": "https://www.thebrokebackpacker.com/best-travel-laptop-for-digital-nomads/#Best_Overall_Laptop_for_Travel_MacBook_Air"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yhBmXi0BQA8J:https://www.thebrokebackpacker.com/best-travel-laptop-for-digital-nomads/+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Best Travel Laptops For 2020 - Budget & High-End • Indie ...",
+      "link": "https://www.indietraveller.co/best-travel-laptops/",
+      "displayed_link": "www.indietraveller.co › best-travel-laptops",
+      "date": "Jul 16, 2019",
+      "snippet": "Whether you are a digital nomad, frequent traveler, or a budget backpacker — with this guide, I will point you to some of the best travel laptops ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What laptop to get?",
+            "link": "https://www.indietraveller.co/best-travel-laptops/#tab1"
+          },
+          {
+            "title": "Best travel laptops (pro)",
+            "link": "https://www.indietraveller.co/best-travel-laptops/#tab2"
+          },
+          {
+            "title": "Best travel laptops (budget)",
+            "link": "https://www.indietraveller.co/best-travel-laptops/#tab3"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GgaLuhADof8J:https://www.indietraveller.co/best-travel-laptops/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Best Ultraportable Laptops for 2020 - CNET",
+      "link": "https://www.cnet.com/topics/laptops/best-laptops/ultraportables/",
+      "displayed_link": "www.cnet.com › topics › laptops › best-laptops › ultraportables",
+      "date": "Dec 26, 2019",
+      "snippet": "CNET editors choose and review the best thin and light laptops, ... brings new performance possibilities to those who want to travel light.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2AUdDwMiWvkJ:https://www.cnet.com/topics/laptops/best-laptops/ultraportables/+&cd=15&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.cnet.com/topics/laptops/best-laptops/ultraportables/+best+travel+laptop&tbo=1&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QHzAOegQIChAJ"
+    },
+    {
+      "position": 5,
+      "title": "Best Ultrabooks 2020: Lightweight and Travel Laptops ...",
+      "link": "https://www.laptopmag.com/best-ultrabooks",
+      "displayed_link": "www.laptopmag.com › best-ultrabooks",
+      "date": "4 days ago",
+      "snippet": "Here are our favorite Ultrabooks: thin and light Windows-laptops that are portable and ideal for travel (and an excellent alternative to Apple's ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3BG37fa5O6AJ:https://www.laptopmag.com/best-ultrabooks+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "8 Best Travel Laptops in 2020 | Road Affair",
+      "link": "https://www.roadaffair.com/best-travel-laptop/",
+      "displayed_link": "www.roadaffair.com › best-travel-laptop",
+      "date": "Dec 24, 2019",
+      "snippet": "Searching for the the best laptop for travel? We've compiled a list of the best travel laptops & ultrabooks for every type of traveler.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5
+          },
+          "extensions": [
+            "Rating: 5",
+            "Review by Editorial Staff"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:csSGq-w1cxgJ:https://www.roadaffair.com/best-travel-laptop/+&cd=18&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.roadaffair.com/best-travel-laptop/+best+travel+laptop&tbo=1&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8QHzARegQICRAJ"
+    },
+    {
+      "position": 7,
+      "title": "Travel Laptops - Best Buy",
+      "link": "https://www.bestbuy.com/site/shop/travel-laptops",
+      "displayed_link": "www.bestbuy.com › ... › MacBook Air Directory",
+      "snippet": "Shop for travel laptops at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FvmbQMRnozUJ:https://www.bestbuy.com/site/shop/travel-laptops+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Best Travel Laptops 2020 : Which Make and Model is Best?",
+      "link": "https://southeastasiabackpacker.com/best-travel-laptop/",
+      "displayed_link": "southeastasiabackpacker.com › best-travel-laptop",
+      "date": "Dec 16, 2019",
+      "snippet": "If you are a backpacker looking for the best travel laptop, you'll need to think about weight, size, battery life, storage capacity & COST!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Slu5ExYCS0EJ:https://southeastasiabackpacker.com/best-travel-laptop/+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "10 Best Travel Laptops – 2020 | BLW - BestLaptopsWorld.com",
+      "link": "https://bestlaptopsworld.com/best-travel-laptops/",
+      "displayed_link": "bestlaptopsworld.com › Best Laptops For...",
+      "snippet": "A regular laptop and a travel friendly laptop are both very different things. And that's why here we have listed 10 of the best travel laptops."
+    },
+    {
+      "position": 10,
+      "title": "Best Cheap Travel Laptops in 2020 - January 2020 Best of ...",
+      "link": "https://www.technobezz.com/best/best-cheap-travel-laptops-buy/",
+      "displayed_link": "www.technobezz.com › best › best-cheap-travel-laptops-buy",
+      "snippet": "Here are some of the best cheap travel laptops for you. So, keep reading this article and you will definitely get the budget laptop for you.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8cNnTqoNEnEJ:https://www.technobezz.com/best/best-cheap-travel-laptops-buy/+&cd=22&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [
+    {
+      "position": 1,
+      "query": "Top travel laptopsView 3+ moreView 3+",
+      "results": []
+    },
+    {
+      "position": 2,
+      "query": "Laptop brands listView 3+ moreView 3+",
+      "results": []
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "best travel laptop for photographers",
+      "link": "https://www.google.com/search?q=best+travel+laptop+for+photographers&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q1QIoAHoECBIQAQ"
+    },
+    {
+      "query": "best travel laptop under 500",
+      "link": "https://www.google.com/search?q=best+travel+laptop+under+500&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q1QIoAXoECBIQAg"
+    },
+    {
+      "query": "best laptop for travel blogging",
+      "link": "https://www.google.com/search?q=best+laptop+for+travel+blogging&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q1QIoAnoECBIQAw"
+    },
+    {
+      "query": "best lightweight laptop",
+      "link": "https://www.google.com/search?q=best+lightweight+laptop&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q1QIoA3oECBIQBA"
+    },
+    {
+      "query": "best laptops 2019",
+      "link": "https://www.google.com/search?q=best+laptops+2019&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q1QIoBHoECBIQBQ"
+    },
+    {
+      "query": "lightest laptop",
+      "link": "https://www.google.com/search?q=lightest+laptop&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q1QIoBXoECBIQBg"
+    },
+    {
+      "query": "slim laptop",
+      "link": "https://www.google.com/search?q=slim+laptop&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q1QIoBnoECBIQBw"
+    },
+    {
+      "query": "dell laptops",
+      "link": "https://www.google.com/search?q=dell+laptops&sa=X&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q1QIoB3oECBIQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+travel+laptop&ei=Wh4nXtOlM9KtoASQ_ZX4Bg&start=10&sa=N&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q8NMDegQIExBz",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+travel+laptop&ei=Wh4nXtOlM9KtoASQ_ZX4Bg&start=10&sa=N&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q8tMDegQIExBh",
+      "3": "https://www.google.com/search?q=best+travel+laptop&ei=Wh4nXtOlM9KtoASQ_ZX4Bg&start=20&sa=N&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q8tMDegQIExBj",
+      "4": "https://www.google.com/search?q=best+travel+laptop&ei=Wh4nXtOlM9KtoASQ_ZX4Bg&start=30&sa=N&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q8tMDegQIExBl",
+      "5": "https://www.google.com/search?q=best+travel+laptop&ei=Wh4nXtOlM9KtoASQ_ZX4Bg&start=40&sa=N&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q8tMDegQIExBn",
+      "6": "https://www.google.com/search?q=best+travel+laptop&ei=Wh4nXtOlM9KtoASQ_ZX4Bg&start=50&sa=N&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q8tMDegQIExBp",
+      "7": "https://www.google.com/search?q=best+travel+laptop&ei=Wh4nXtOlM9KtoASQ_ZX4Bg&start=60&sa=N&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q8tMDegQIExBr",
+      "8": "https://www.google.com/search?q=best+travel+laptop&ei=Wh4nXtOlM9KtoASQ_ZX4Bg&start=70&sa=N&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q8tMDegQIExBt",
+      "9": "https://www.google.com/search?q=best+travel+laptop&ei=Wh4nXtOlM9KtoASQ_ZX4Bg&start=80&sa=N&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q8tMDegQIExBv",
+      "10": "https://www.google.com/search?q=best+travel+laptop&ei=Wh4nXtOlM9KtoASQ_ZX4Bg&start=90&sa=N&ved=2ahUKEwjTura3hpXnAhXSFogKHZB-BW8Q8tMDegQIExBx"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+laptop&start=10&token=6751763ac1eb1811",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+laptop&start=10&token=6751763ac1eb1811",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+laptop&start=10&token=6751763ac1eb1811",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+laptop&start=20&token=1d4e5ced589800f0",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+laptop&start=30&token=ae6de899db149da3",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+laptop&start=40&token=b42bf321a5e0af2b",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+laptop&start=50&token=a05b47fff1473178",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+laptop&start=60&token=cbf0896c74b47c6d",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+laptop&start=70&token=d22749ed459e7736",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+laptop&start=80&token=4e79f0c9593237dc",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+laptop&start=90&token=7aa411890e4426fb"
+    }
+  }
+}

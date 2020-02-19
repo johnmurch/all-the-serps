@@ -1,0 +1,351 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:55:23 UTC",
+    "processed_at": "2020-01-21 22:55:23 UTC",
+    "google_url": "https://www.google.com/search?q=la+office+supplies&oq=la+office+supplies&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.37
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "la office supplies",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 2690000000,
+    "time_taken_displayed": 0.51,
+    "query_displayed": "la office supplies"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Office Supplies | In Stock. Ships Today | ULINE.com‎",
+      "link": "https://www.uline.com/Cls_40/Office-Furniture-and-Supplies",
+      "displayed_link": "www.uline.com/Office-Supplies",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwioyfDs5JXnAhWZBXIKHfVSBnIYABAAGgJzZg&sig=AOD64_1UkiCzoenOMOPstA3xzOtoqAnUFw&q=&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ0Qx6BAgMEAE&adurl=",
+      "description": "Huge Catalog! Over 36,000 Products. Same Day Shipping From 11 Locations. Fast Delivery. 11 Locations.",
+      "sitelinks": [
+        {
+          "title": "Office Furniture",
+          "link": "https://www.uline.com/Grp_270/Office-Furniture?pricode=WA3671&Sitelink=office_furniture"
+        },
+        {
+          "title": "File Folders",
+          "link": "https://www.uline.com/Grp_53/File-Folders?pricode=WA3671&Sitelink=file_folders"
+        },
+        {
+          "title": "File Cabinets",
+          "link": "https://www.uline.com/Grp_159/File-Cabinets-and-Mailroom?pricode=WA3671&Sitelink=file_cabinets"
+        },
+        {
+          "title": "Office Envelopes",
+          "link": "https://www.uline.com/Grp_32/Paper-Office-Envelopes?pricode=WA3671&Sitelink=office_envelopes"
+        },
+        {
+          "title": "Breakroom Supplies",
+          "link": "https://www.uline.com/Grp_114/Breakroom-Supplies?pricode=WA3671&Sitelink=breakroom_supplies"
+        },
+        {
+          "title": "Pens",
+          "link": "https://www.uline.com/Grp_409/Pens?pricode=WA3671&Sitelink=pens"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Office Supplies | Order Online At Office Depot® | OfficeDepot.com‎",
+      "link": "https://www.officedepot.com/a/browse/office-supplies/N=5+1676/",
+      "displayed_link": "www.officedepot.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwioyfDs5JXnAhWZBXIKHfVSBnIYABADGgJzZg&sig=AOD64_3l11u9is8bSrHoXcv3H_-uv9kTag&q=&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ0Qx6BAgNEAE&adurl=",
+      "description": "Shop For Office Supplies Online At OfficeDepot.com & Save Today! Check Order Status. Store Locator. Live Chat Available. Download App. Brands: Harland Clarke, LUX, Scholastic, Avery, ComplyRight, 3M, AT-A-GLANCE, BIC, Dymo, HP.",
+      "sitelinks": [
+        {
+          "title": "Shop Our Deal Center",
+          "link": "https://www.officedepot.com/catalog/search.do?N=5+1676&cbxRefine=549384/"
+        },
+        {
+          "title": "Plan The Best Year Yet",
+          "link": "https://www.officedepot.com/a/browse/calendars-and-planners/N=5+1131206+549384&viewAllSkus=true/"
+        },
+        {
+          "title": "Binders & Accessories",
+          "link": "https://www.officedepot.com/a/browse/binders-and-accessories/N=5+2155/?"
+        }
+      ]
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=la+office+supplies&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=34052082,-118352034,8111&tbm=lcl&sa=X&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQtgN6BAgHEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 34.052082,
+      "longitude": -118.352034,
+      "altitude": 8111
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=la+office+supplies&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=34052082,-118352034,8111&tbm=lcl&sa=X&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQjGp6BAgHEEU",
+    "places": [
+      {
+        "position": 1,
+        "title": "Staples",
+        "place_id": "10001755954226559123",
+        "lsig": "AB86z5UbDSlkayaxRH44TBp8LjkC",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UbDSlkayaxRH44TBp8LjkC&ludocid=10001755954226559123&q=la+office+supplies&tbm=lcl&token=c7373f14473bb6ed",
+        "rating": 4,
+        "reviews": 310,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (213) 738-9837",
+        "address": "Los Angeles, CA",
+        "description": "Brand-name electronics & office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 34.0638396,
+          "longitude": -118.2926167
+        }
+      },
+      {
+        "position": 2,
+        "title": "Bluebird Office Supplies",
+        "place_id": "1072804763500430516",
+        "lsig": "AB86z5WkS5QUrq2esfUQHV-eawmq",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WkS5QUrq2esfUQHV-eawmq&ludocid=1072804763500430516&q=la+office+supplies&tbm=lcl&token=a2a8e68c8df8b9d0",
+        "rating": 4.8,
+        "reviews": 5,
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 6:30PM · (310) 477-0700",
+        "address": "Los Angeles, CA",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 34.0403249,
+          "longitude": -118.2650837
+        }
+      },
+      {
+        "position": 3,
+        "title": "Bluebird Office Supplies",
+        "place_id": "14750283230597552888",
+        "lsig": "AB86z5XME11_fsNkAm7BuSRcfUj5",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XME11_fsNkAm7BuSRcfUj5&ludocid=14750283230597552888&q=la+office+supplies&tbm=lcl&token=f4bda40a4074b70e",
+        "rating": 4.6,
+        "reviews": 7,
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 6:30PM · (310) 477-0700",
+        "address": "Los Angeles, CA",
+        "description": "Basic shop for office goods & furniture",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 34.0411527,
+          "longitude": -118.4389849
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Louisiana Office Products",
+      "link": "https://www.laop.com/",
+      "displayed_link": "www.laop.com",
+      "snippet": "Office products and furniture delivered quickly to your door. ... family-owned and operated company has been serving the greater New orleans LA community.",
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Office Supplies",
+            "link": "https://www.laop.com/supplies/office-supplies",
+            "snippet": "Quality Office Supplies with Louisiana Office Products. Need ..."
+          },
+          {
+            "title": "School Supplies",
+            "link": "https://www.laop.com/supplies/school-supplies",
+            "snippet": "School Supplies for Every Occasion. Schools often need ..."
+          },
+          {
+            "title": "Office Furniture",
+            "link": "https://www.laop.com/furniture/office-furniture",
+            "snippet": "Office Furniture: Desks, Conference Tables, Cabinets ..."
+          },
+          {
+            "title": "Login | Office Supplies, Ink ...",
+            "link": "https://shop.laop.com/Authentication/Login",
+            "snippet": "Registered Users. *User Name: *Password: Login. Forgot ..."
+          },
+          {
+            "title": "Furniture",
+            "link": "https://www.laop.com/furniture",
+            "snippet": "Furniture. Need an office face lift or just accessories to blend in with ..."
+          },
+          {
+            "title": "Breakroom Supplies",
+            "link": "https://www.laop.com/supplies/breakroom-and-cleaning-supplies",
+            "snippet": "Breakroom Supplies at Louisiana Office Products. Trying to think ..."
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YEJ-VVS1hVcJ:https://www.laop.com/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Louisiana Office Supply Company",
+      "link": "https://www.losco.com/",
+      "displayed_link": "www.losco.com",
+      "snippet": "No information is available for this page.Learn why"
+    },
+    {
+      "position": 3,
+      "title": "Louisiana Office Supply Compan, Baton Rouge, LA Office ...",
+      "link": "http://www.c-lineproducts.com/dealer-detail.html?ID=433",
+      "displayed_link": "www.c-lineproducts.com › dealer-detail",
+      "snippet": "Louisiana Office Supply Compan, 5550 Florida Blvd., Baton Rouge, LA, 70806 is a dealer of C-Line Products.",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:g1s-6oeLuMkJ:www.c-lineproducts.com/dealer-detail.html%3FID%3D433+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Los Angeles Office Supplies | OnTimeSupplies.com",
+      "link": "https://www.ontimesupplies.com/los-angeles-office-supplies.html",
+      "displayed_link": "www.ontimesupplies.com › Local Warehouses",
+      "snippet": "Los Angeles Office Supplies -- get fast delivery or will-call pick up on more than 40000 discount office supplies at OnTimeSupplies.com your online local Los ...",
+      "sitelinks": {
+        "list": [
+          {
+            "date": "Local Pick Up‎: ‎YES*"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "warehouse_redlands_ave_perris_ca": 4555
+          },
+          "extensions": [
+            "Warehouse‎: ‎4555 Redlands Ave; Perris, CA 9...",
+            "Local Pick Up‎: ‎YES*"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:G_1smPovhyoJ:https://www.ontimesupplies.com/los-angeles-office-supplies.html+&cd=13&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.ontimesupplies.com/los-angeles-office-supplies.html+la+office+supplies&tbo=1&sa=X&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQHzAMegQIBRAL"
+    },
+    {
+      "position": 5,
+      "title": "Top 10 Best Office Supplies in Los Angeles, CA - Last ...",
+      "link": "https://www.yelp.com/search?find_desc=Office+Supplies&find_loc=Los+Angeles%2C+CA",
+      "displayed_link": "www.yelp.com › search › find_desc=Office+Supplies",
+      "snippet": "Reviews on Office Supplies in Los Angeles, CA - search by hours, location, and more ... Office Equipment, Printing Services, IT Services & Computer Repair.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jt0FpcernIsJ:https://www.yelp.com/search%3Ffind_desc%3DOffice%2BSupplies%26find_loc%3DLos%2BAngeles%252C%2BCA+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "AnB Stationery - Office Supplies Los Angeles CA",
+      "link": "http://www.anbstationery.com/",
+      "displayed_link": "www.anbstationery.com",
+      "snippet": "Popular categories. Office Supplies · Office Machines · Great American Art · Rubberstamps · Office Furniture · Janitorial · Breakroom · Technology ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Contact Us",
+            "link": "https://anbstationery.com/content.aspx?l=0,1,1477,3502"
+          },
+          {
+            "title": "Office Supplies",
+            "link": "https://anbstationery.com/office-supplies/1_3/s"
+          },
+          {
+            "title": "Furniture",
+            "link": "https://anbstationery.com/furniture/1_2/s"
+          },
+          {
+            "title": "Technology",
+            "link": "https://anbstationery.com/technology/1_4/s"
+          }
+        ]
+      },
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:RgiSeh8wOzsJ:www.anbstationery.com/+&cd=15&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:www.anbstationery.com/+la+office+supplies&tbo=1&sa=X&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQHzAOegQIBhAH"
+    },
+    {
+      "position": 7,
+      "title": "General Office Supply | Home",
+      "link": "http://www.generalofficesupply.net/",
+      "displayed_link": "www.generalofficesupply.net",
+      "snippet": "General Office Supply is your full-service supplier for office solutions. We have served Lafayette surrounding parishes with the Acadiana region for over 80 years ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:IW-O1jGf30cJ:www.generalofficesupply.net/+&cd=16&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:www.generalofficesupply.net/+la+office+supplies&tbo=1&sa=X&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQHzAPegQIBBAH"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "louisiana office supply school supplies",
+      "link": "https://www.google.com/search?q=louisiana+office+supply+school+supplies&sa=X&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ1QIoAHoECAoQAQ"
+    },
+    {
+      "query": "office depot",
+      "link": "https://www.google.com/search?q=office+depot&sa=X&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ1QIoAXoECAoQAg"
+    },
+    {
+      "query": "losco",
+      "link": "https://www.google.com/search?q=losco&sa=X&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ1QIoAnoECAoQAw"
+    },
+    {
+      "query": "staples",
+      "link": "https://www.google.com/search?q=staples&sa=X&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ1QIoA3oECAoQBA"
+    },
+    {
+      "query": "office depot baton rouge",
+      "link": "https://www.google.com/search?q=office+depot+baton+rouge&sa=X&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ1QIoBHoECAoQBQ"
+    },
+    {
+      "query": "office furniture near me",
+      "link": "https://www.google.com/search?q=office+furniture+near+me&sa=X&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ1QIoBXoECAoQBg"
+    },
+    {
+      "query": "office supply store near me",
+      "link": "https://www.google.com/search?q=office+supply+store+near+me&sa=X&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ1QIoBnoECAoQBw"
+    },
+    {
+      "query": "hon office furniture",
+      "link": "https://www.google.com/search?q=hon+office+furniture&sa=X&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ1QIoB3oECAoQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=la+office+supplies&ei=W4EnXoDgL8qX4-EPzbOKuAo&start=10&sa=N&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ8NMDegQICxBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=la+office+supplies&ei=W4EnXoDgL8qX4-EPzbOKuAo&start=10&sa=N&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ8tMDegQICxAu",
+      "3": "https://www.google.com/search?q=la+office+supplies&ei=W4EnXoDgL8qX4-EPzbOKuAo&start=20&sa=N&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ8tMDegQICxAw",
+      "4": "https://www.google.com/search?q=la+office+supplies&ei=W4EnXoDgL8qX4-EPzbOKuAo&start=30&sa=N&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ8tMDegQICxAy",
+      "5": "https://www.google.com/search?q=la+office+supplies&ei=W4EnXoDgL8qX4-EPzbOKuAo&start=40&sa=N&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ8tMDegQICxA0",
+      "6": "https://www.google.com/search?q=la+office+supplies&ei=W4EnXoDgL8qX4-EPzbOKuAo&start=50&sa=N&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ8tMDegQICxA2",
+      "7": "https://www.google.com/search?q=la+office+supplies&ei=W4EnXoDgL8qX4-EPzbOKuAo&start=60&sa=N&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ8tMDegQICxA4",
+      "8": "https://www.google.com/search?q=la+office+supplies&ei=W4EnXoDgL8qX4-EPzbOKuAo&start=70&sa=N&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ8tMDegQICxA6",
+      "9": "https://www.google.com/search?q=la+office+supplies&ei=W4EnXoDgL8qX4-EPzbOKuAo&start=80&sa=N&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ8tMDegQICxA8",
+      "10": "https://www.google.com/search?q=la+office+supplies&ei=W4EnXoDgL8qX4-EPzbOKuAo&start=90&sa=N&ved=2ahUKEwjA-ers5JXnAhXKyzgGHc2ZAqcQ8tMDegQICxA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=la+office+supplies&start=10&token=e11ab682282e7da3",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=la+office+supplies&start=10&token=e11ab682282e7da3",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=la+office+supplies&start=10&token=e11ab682282e7da3",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=la+office+supplies&start=20&token=f8d0544a059a8c31",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=la+office+supplies&start=30&token=d8c0488bfe875246",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=la+office+supplies&start=40&token=0bab2a27d85b2253",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=la+office+supplies&start=50&token=7e1b80d2676baa07",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=la+office+supplies&start=60&token=112d590860515602",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=la+office+supplies&start=70&token=c69a43a1965fdec9",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=la+office+supplies&start=80&token=653614ee2e527e9c",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=la+office+supplies&start=90&token=c9ba5f5075a604c1"
+    }
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:18:38 UTC",
+    "processed_at": "2020-01-21 22:18:38 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+calgary&oq=office+supplies+calgary&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.54
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies calgary",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 135000000,
+    "time_taken_displayed": 0.51,
+    "query_displayed": "office supplies calgary"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "bottom",
+      "title": "Office Supplies | In Stock. Ships Today‎",
+      "link": "https://www.uline.com/Cls_40/Office-Furniture-and-Supplies",
+      "displayed_link": "www.uline.com/Office-Supplies",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwj4wcjR3JXnAhVYNSsKHdxBBeEYABADGgJzZg&sig=AOD64_2zHh0hclSGAxdBTR5JNRBq0Wexpg&q=&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ0Qx6BAgPEAE&adurl=",
+      "description": "Huge Catalog! Over 36,000 Products. Same Day Shipping From 11 Locations. Fast Delivery. 11 Locations.",
+      "sitelinks": [
+        {
+          "title": "Office Furniture",
+          "link": "https://www.uline.com/Grp_270/Office-Furniture?pricode=WA3671&Sitelink=office_furniture"
+        },
+        {
+          "title": "File Folders",
+          "link": "https://www.uline.com/Grp_53/File-Folders?pricode=WA3671&Sitelink=file_folders"
+        },
+        {
+          "title": "File Cabinets",
+          "link": "https://www.uline.com/Grp_159/File-Cabinets-and-Mailroom?pricode=WA3671&Sitelink=file_cabinets"
+        },
+        {
+          "title": "Office Envelopes",
+          "link": "https://www.uline.com/Grp_32/Paper-Office-Envelopes?pricode=WA3671&Sitelink=office_envelopes"
+        },
+        {
+          "title": "Breakroom Supplies",
+          "link": "https://www.uline.com/Grp_114/Breakroom-Supplies?pricode=WA3671&Sitelink=breakroom_supplies"
+        },
+        {
+          "title": "Pens",
+          "link": "https://www.uline.com/Grp_409/Pens?pricode=WA3671&Sitelink=pens"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Office Home & Student 2019",
+      "price": "$149.99",
+      "extracted_price": 149.99,
+      "link": "https://www.microsoft.com/en-us/p/office-home--student-2019/CFQ7TTC0K7C8/0002?source=googleshopping",
+      "source": "Microsoft Store",
+      "rating": 4.5,
+      "reviews": 72,
+      "thumbnail": "data:image/webp;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 2,
+      "title": "Office Depot Copy And Print Paper, Letter Size (8 1/2\" x 11\"), 20 Lb, Bright White, Ream Of 500 Sheets, Case Of 3 Reams",
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "link": "https://www.officedepot.com/a/products/925382/Office-Depot-Copy-And-Print-Paper/",
+      "source": "Office Depot",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAY1BMVEXBAA/BAA8OBAQWBgcPCAgGAgKHAAdHcEy9AA8HAwOIAAesAQ22AA2NAAicAAoeBggoBgd9AAbPABN4AQUYBAZ3AAW5AA6SBAlnBAZpAwUNAwVyAgasAAyeAgqxAA0QAwQxAwNrdjlkAAAAIXRSTlPf5SRJER3nAOAY76PlxeMwPODgt17K8Ftwj3SjtobJk8kdk20qAAAIGElEQVRoge2Z62KjrBaGlUPUaAasRPGY3v9V7ncBHmKSzny7M/VPlhYRcT2sA0jbKDlKojf5TX6T3+Q3+U1+k/8LmVWn8qlUVzrodFJuSqo8l1Of/SFZ9OeTl7MXDMNpxf1pJ+7x0g+10/LK3ErS/hF5PPvXy2vVQnpIdbm2WitlykVXoFattVWFHtT3UkH6Fk0WDWjpDeemJx1V81uyPZ+vpM7atr+U52Al2qprefJjsZzbFl6vUOHG9XRtPRxjteYt0WnEretQeq+U+ktyZp2KakE6004lmYInXUvqTNtfz2VvNTcQS5TqGiJBeVCRt4ylNzTvVz2VfE1WGDc58eS6n6Gnb8lZVVl6x0Orc3JvtLaX4Pdd9M89V9oCixGW20d47QVZmpPPpqp3QqYsUV1Sx1mGYVxDrIPWO8LJp2NoLN3pn9gn5KZywArZVHqNgPW2cqlCb57LqocPriGlq/DI3ft+VXVab0LPRTz8XDY7si7Pu5E72+wymQh7uV4vCGHvlFTWWxY6hint7tqeMoNScjG4/LWwL2pDZtXDRJ39ttYD5PzMwU9ulhaCLv52CnoRyKJdA+Iv/jiVPQ0dC9alrEq6VufqhGt18WtTRansHmAdo1pY3NyT3nXxBi+lb/DhjjCDfx0gTRI19ccRUqvIFtEBEv/ikf11BDkC2RxE1hE/hnxiR5HPMtKnY8hZxMpDyGUSsWNsBlkeYnMMsjjM28kh5PQwcnQ9ihwfR/48ivxB5Gu8H0/szn9LrkCuVmQxFUDmQzzkxfBP0Wm/JcdjIpKxblieJ+OQpLEz3v34wlfqOtS+I3ELcr+MA9gxsYKNUowNr0emU63yeNS6mRoUg1JNOmZswA3av0MuiHybVUzJUE9Jrpt6zOohGZJp1KpJ6joZRjElo63FKJskzRM4ZZq+ZXPabck1y3KVFEQWIAMwaTXkcZ3kjcSwmjpT44TxJHWO83s2E7ldtoDx2DTp0DR506A2wvqiUU2NW1vYpmnwKI5zpYcYffL0W2QLcrduPrepFMfPMiya77456wpDO/0n2974q9rfmG6/OJF/fiOWfjjyIdveXxrkQzafJ3UYmYF8yLb3LA8if5wFyOqID/SZfnM/ZKvvyIdse8ujyB+OfMRGLD2MjO22I8c/L57cDvkPyzBY/zdAJlbJnoj8z7J5d6ltIJ0Kf33Uj8qZk3B5JWp3XSv3sh+WuM1kLnbGsU1Jl60Wo32F71FqU0q26CDwHTvbkO3qY82yjGmZqUyrjHkuN5I0Ki4VSpyZ1lJ3LwwMvvLUubLGgApxY7O3ZzLreMdxdqrruDGdkuyWKUO+0DfDb+qGZ7rrjDHo9Zq78dimMkddilu2I4vO0QUqwOGuE0bJjGgyu2USg2IoDEcbM6+TwJvrbb4Dz7l2E4GsPFmKjiqdQAWuzYwEO5PKMMPAkkwb3HKN0UhPliGibCU9hHWPdeT5L+tqibIRme60QBBh4k2wG8+k5rAeHlKiY0Tmzg/Zbc6fxUi2tZK9BmficyZTWvkmxJAJ0xmhEGVGDsdb3GjpfZ5xCRdoaDVKmdWVs53P7d1xsyxZyIrNKeaWEioYrEcqE1m62YYgrJOebWpMLie7Y2evwFuymsmGayQQOVQF5xPW6dCPPnxm30z1eSyzRy4sW8iU3I4tjBfOl27hzY0JXwC3RsrsGdUvoiuZBycLJBRiKdiut/yTtfvBu/4rcP9J8C1LbmNa+QCH44XI/R350rtWBrds+/BmJ+sgbnc2uybNEGiVvZSgXD76Uq5Pg8V57aSYpc6cY+lcvW2czThoVdbsC7tf+OJZHg25HccmD9y0qL3L8SNvmwwT28/nM/mC/PSZEENTNzinIZ/yKU3TWswUdudtbzP/nug7m4uRF2ODw455kaZFIryzheruyUESf5Hi/hoMF4/eoREL5SuzE3CTTEMz5XaY8nwaLLxdJPMb/AmZafo+KCwhXGiDhUVoLGfM+L2DwDfbaEz6MAkEl5z5AXHXugGLZCpqF18f5mCzG7bu7mcViaJlhBksYRgMrWUgG3w3O2eQwGagM8mNc8UzzUFz4+QUJqHNvBx585MpBXYqUooxuOn0pc3C4PusOwPVACvTYZ7Bms5/wUHmGkt5p7nW4iYFuimsts5mHUbn1wVELaW/MeVjPSDFJ9SmFWK2uR28DU0Jx+dfaKE4tj6A0U3owBQcDBpmHqpaYAAQhlzgQmUh6iH6SWpH2xRNOlj6O5fNp0Y/khdvS6jUPhYZbb2UpgIlBKNCkwZVYWugNWf4unLuWjAgGoPyIXZGJ0VeDNOYFuOAiVWkw5AEdydGP9oMzaB4MmqaVhasLZzaNdnMaBBAEp/RLpQ8I+F3P9BN5if1ToamDRv7jm/jvIR/mSv7ipg/K7+RbP8WKadjZiS31WaTfFuEL6A3EeHuocc8jm6N8xhT2hf/Smp/1PO1XL1t49RLHE/uV706p7LI5/bfSeGLYt8eP1VwXb1twyvxmDfDOI756C6j/VPybgyzTPkwkeCC3B4Gry7+3MR57k+8Zqz5QJdh+j/Id4Jfjy92nMYc36sWpW/92JB5kUZuNAPNvaHAD6RG7XtkrJywc5pgMsop2PzxybbkILGPTRzNtb8gcUxmRVHQFsWf2bqS1N7m6K+QfiN3ZFZHM/YH4NGnWMiyDiZHP8GO3AbQk7M63vx/wv/DYv7XBcKDA6ULfZo+iX18X49dmkTz4RR4La4Gb6/kpL38pNgN+Qh5k9/kN/lNfpPf5Df5lfwPLQFvRQfUmgIAAAAASUVORK5CYII=",
+      "extensions": [
+        "20% off",
+        "$15.99 with code"
+      ]
+    },
+    {
+      "position": 3,
+      "title": "90-Degree Corner Connector Table (30\" D)",
+      "price": "$130.99",
+      "extracted_price": 130.99,
+      "link": "https://www.schooloutfitters.com/catalog/product_info/pfam_id/PFAM42508/products_id/PRO53937?sc_cid=Google_BAL-89966&CAWELAID=320012570000056528",
+      "source": "School Outfitters",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAG1BMVEVADQAKCwAQBQBHcExBDQAYCgBADAA7DAA9DACLKqt8AAAACXRSTlNcWmMA6THeiLaiprYfAAAFbklEQVRogcWbi3rbIAyFEamcvv8TL9x0AQwC04zkWxp38+9zJGEse+41HYg4/0vrw02ozn8GALjj/AEZA9a5z9t5+PDDTwfxN2RMYp2LwAB38TNuPCO/R8bCS8zC5wM4Ir8hIySt4pX5+mii/if4hvz23nspl/5wWbXUn0KyxW/dRvS+0InlWL44ovLLGIBVfC/OoY6i6eQ7Wy6+yM8S/wV+N8MgfWa4905yneKJuLuywYYfzSREJu81SWyTFqQEmNbeiIy+HhqlcLwpjTDvDeWPyE5RpfciwSSypsfx/r3ersM3a4bwZv9rVhcauNdPGr81acFtKPTCv8XR4fz+yHG9pXQrGRTYRH9rbq18TbMEC/U9fLQ5Wn1p4W6ZrJmNem3zm0DqI+leJA/AhV6kZ5uvKwOLcsLjquYRGHLZfehv0nkpnhiLmgWzA4bkS1b9KWLhchJ98WH8LpAHYgVY51jBt2n2s+R2HyfB3dKq8BdFek5+2+ijGUXhLeSX748OeMTt4C+r2+8BHaBv8xCPEzJpLguUPt3OTXBDPRM56L+h24nhhO3CRUM+bdg0F/tr+qLcsFah05WJDMDbBH2DK3DG3NbbEZajWwk2k5vFzBZ3mdwsInGD60LMjOQU0JCJ1bHuGR0nWAsZhMviWLfkRm4sfknoklnuAZvjCjmdyubkblKt2cwHmWc7m2ZouZtyo15eSEzJrxr8gMvLic/L4LZCb2JjVwNycsE6GbeqKAkGouYT6oLbuzbnhAaQiisnu2SyeV9vSmjGLpD3bS4ZHcFA6WUk79ssA5zspgMwkB/IJS6JLukFMCM/sTn800z1paL4muQ1JD+xOXJ5eI5xMn5EdvNGgEUvuS2jPCA/sjnMWFANWcxw7zbK/tqW3rtBdd0lUxP9ONgX8T3yM5tLgH0PylNJdcKIZGpsbnLbADuRZEDTKNZkdNRQ3eNmMHrJVTmeyrkli8uFVbqfZBbXMlRTWIqz27pWmXD1MTQnjJLbqZG/z+0fgCjmpqi4nvOVWtzlKhdFkKsIi++vG3KIN8O3fL7JLOjNYM28jSN4EEdcLQnjexDl5nq0c666gaPgZsEepc7eRMLrIQM5buxcmQea4mZYRyrx2O7m7Dy7omuU+yrA9xarQym9BwuZ+391YiWwEZ/nzNLiWNCs4L6qpLhr7EVYDJJSJ9lcM+FJL1D5js/J1VSN3TmsRy4tawa3gBujiwvaxunakzRXaEJhkTvOr2qeRrPbmQuFnvfnUmwNo+7rLOU2CHht5kQwtLtciHNql3ihmXAz2fO7sbMMEzcQUuxMRreC7eQX5ZfSnNATfKe7s0Tmu3Aqzn4+Y1q4M7J8s6Qxd/JUjoksg1w0TwU/es5AaaZYz5ArTk/IJbGhcvuE4CGZVjFeVNUpwXPNLHlOPvAkSxziCsHm9uoTPCOyes3Ii9wZmZsrE80bjywZNU/I69wjbtumaTsZeZ1OVyjHnB6ShcvpGuGk00OyUfPBp/EUWUwnffI216KZZR8UPCWzZkV2B8AzzXJdctDpOdnfZthmERvJlNqdmeT587X3q6aqO63Jj7kjzdScbqvqyAPNkqy1lDsQ/D4ouCLH/SN/87Kc/VHBr0az2LW6z8VxPvbouCKrvRNVaT7FrTOsFGuoVjFx0Tx28lF92X0Me8ec0YXry23ctk18kJz6RshKZZzBWy+YNsilLYpM5KLuNAGOkUOG8Y+qpKC583KWrAZ6NWc2jfG/I5eAs/HfI+eOIZ0kv0l+pf5njvSXybIPefa//FiKFPPEcraybNMDlir7OvmVK/y/kNOp7P+Q8ewpY4V8Nr0X3f6zlcFw+G7X+hvk5t7118h1U/7h+AfYdXeq6mBAWQAAAABJRU5ErkJggg==",
+      "extensions": []
+    },
+    {
+      "position": 4,
+      "title": "Microsoft Office Home and Business 2016 PC Instant Download",
+      "price": "$198.49",
+      "extracted_price": 198.49,
+      "link": "https://www.trustedtechteam.com/products/microsoft-office-home-and-business-2016-pc-instant-download?dfw_tracker=22777-39907859274",
+      "source": "Trusted Tech T...",
+      "rating": 4.6,
+      "reviews": 341,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 5,
+      "title": "Microsoft Office 2019 Professional - For Windows 10 (Digital Delivery) - New Year Special Offer",
+      "price": "$59.99",
+      "extracted_price": 59.99,
+      "link": "https://www.appsute.com/product/microsoft-office-2019-professional-for-windows-10-downloadable-digital-delivery/?gtmarketing=special",
+      "source": "AppSute",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+calgary&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=51073737,-114011733,2415&tbm=lcl&sa=X&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 51.073737,
+      "longitude": -114.011733,
+      "altitude": 2415
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+calgary&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=51073737,-114011733,2415&tbm=lcl&sa=X&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQjGp6BAgLED4",
+    "places": [
+      {
+        "position": 1,
+        "title": "Dynamic Office Products",
+        "place_id": "9488187331288644937",
+        "lsig": "AB86z5W1iiBdW-MXQ4MiYYM65htB",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5W1iiBdW-MXQ4MiYYM65htB&ludocid=9488187331288644937&q=office+supplies+calgary&tbm=lcl&token=317098469b83bad3",
+        "rating": 4.6,
+        "reviews": 9,
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 4:30PM · +1 403-209-5757",
+        "address": "2923 5 Ave NE",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 51.05596,
+          "longitude": -113.991835
+        }
+      },
+      {
+        "position": 2,
+        "title": "RMCP Office Supply",
+        "place_id": "14912127751443680023",
+        "lsig": "AB86z5VnctNlDgmxffW1I5klb_CL",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VnctNlDgmxffW1I5klb_CL&ludocid=14912127751443680023&q=office+supplies+calgary&tbm=lcl&token=6f1ce6529cd1ff2a",
+        "rating": 4.3,
+        "reviews": 17,
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 5PM · +1 403-216-7283",
+        "address": "1313 44 Ave NE",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 51.0915156,
+          "longitude": -114.03163160000001
+        }
+      },
+      {
+        "position": 3,
+        "title": "Source Office Furniture - Calgary",
+        "place_id": "15663843879320101035",
+        "lsig": "AB86z5WcJl6ejhiHCbVpMBSokWv2",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WcJl6ejhiHCbVpMBSokWv2&ludocid=15663843879320101035&q=office+supplies+calgary&tbm=lcl&token=606d70f8815a8dda",
+        "rating": 4.3,
+        "reviews": 63,
+        "type": "Office furniture store",
+        "hours": "Open ⋅ Closes 5:30PM · +1 403-735-0559",
+        "address": "1248 36 Ave NE",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 51.0859016,
+          "longitude": -114.0312926
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Office Supplies - Dynamic Office Products",
+      "link": "https://www.dynamicofficeproducts.com/eOfficeProducts/home.php?cat=3",
+      "displayed_link": "www.dynamicofficeproducts.com › eOfficeProducts",
+      "snippet": "Office Supplies ... Company Info; 2923 5th Ave,Calgary,AB; Toll Free: 1-800-824-2668; Phone: 403-209-5757; Fax: 403.292.0040; Office Hours: Monday - Friday ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:tbb5_f7VhBMJ:https://www.dynamicofficeproducts.com/eOfficeProducts/home.php%3Fcat%3D3+&cd=4&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.dynamicofficeproducts.com/eOfficeProducts/home.php%3Fcat%3D3+office+supplies+calgary&tbo=1&sa=X&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQHzADegQIARAJ"
+    },
+    {
+      "position": 2,
+      "title": "Office Supplies | Grand & Toy",
+      "link": "https://www.grandandtoy.com/EN/search/pages/catalog/Office-Supplies/_/N-af2",
+      "displayed_link": "www.grandandtoy.com › pages › catalog › Office-Supplies › N-af2",
+      "snippet": "Grand & Toy has provided Canadian businesses with premium office supplies for over 130 years. Our product selection includes quality pens and paper, reliable shredders, laminating machines and other office machines, as well as, durable filing folders, binders and report covers ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Machines & Supplies",
+            "link": "https://www.grandandtoy.com/EN/search/pages/category/Office-Machines-Supplies/_/N-bcc"
+          },
+          {
+            "title": "Office Paper & Printing Supplies",
+            "link": "https://www.grandandtoy.com/EN/search/pages/category/Office-Paper-Printing-Supplies/_/N-ajw"
+          },
+          {
+            "title": "Stamps & Supplies",
+            "link": "https://www.grandandtoy.com/EN/search/pages/category/Stamps-Supplies/_/N-alc"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Gz29FxI-KzEJ:https://www.grandandtoy.com/EN/search/pages/catalog/Office-Supplies/_/N-af2+&cd=5&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.grandandtoy.com/EN/search/pages/catalog/Office-Supplies/_/N-af2+office+supplies+calgary&tbo=1&sa=X&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQHzAEegQIAhAJ"
+    },
+    {
+      "position": 3,
+      "title": "Top 10 Best Office Supply Store in Calgary, AB - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=office+supply+store&find_loc=Calgary%2C+AB",
+      "displayed_link": "www.yelp.com › search › find_loc=Calgary,+AB",
+      "snippet": "Calgary Business Supply. Office Equipment. (403) 454-4820. 319 Shawbrooke Circle SW. Staples. 12 reviews. $$Office Equipment. (403) 263-0200. 1215 9th Avenue SW. Staples. 5 reviews. $$Office Equipment. (403) 509-3265. Staples. 9 reviews. $$Office Equipment. (403) 259-6928. Staples. 5 reviews. $$Office Equipment. (403) ..."
+    },
+    {
+      "position": 4,
+      "title": "Staples® Official Online Store",
+      "link": "https://www.staples.com/",
+      "displayed_link": "www.staples.com",
+      "snippet": "Shop Staples for business essentials, printers, ink, computers, office furniture, printing services, promotional products and more. Solutions for Worklife.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CNR1OwZWsigJ:https://www.staples.com/+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Office Supplies Calgary - Discount Office Supplies - Office ...",
+      "link": "http://www.calgarybusinesssupply.com/OfficeSupplies.html",
+      "displayed_link": "www.calgarybusinesssupply.com › OfficeSupplies",
+      "snippet": "Discount Office Products - Discount Office Supplies - Contact us Today to Set up Special Pricing for Your Business. Sub-Categories. --- Select Sub-Category ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:gsUzlI3TXEkJ:www.calgarybusinesssupply.com/OfficeSupplies.html+&cd=8&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:www.calgarybusinesssupply.com/OfficeSupplies.html+office+supplies+calgary&tbo=1&sa=X&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQHzAHegQIBRAJ"
+    },
+    {
+      "position": 6,
+      "title": "Canadian Office Supplies",
+      "link": "https://canadianofficesupplies.com/",
+      "displayed_link": "canadianofficesupplies.com",
+      "snippet": "Copyright © Canadian Office Supplies. All Rights Reserved. All trademarks, product names, company names and logos cited herein are the property of their ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PhhiAAQu4AcJ:https://canadianofficesupplies.com/+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Office Depot & OfficeMax - Free Next Business Day Shipping",
+      "link": "https://www.officedepot.com/",
+      "displayed_link": "www.officedepot.com",
+      "snippet": "Low prices on office supplies, furniture, paper, electronics, ink and on print & technology services. Free next business day shipping on qualifying orders $45+.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-4drVp7VwDIJ:https://www.officedepot.com/+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Office Supplies | Costco - Costco Wholesale",
+      "link": "https://www.costco.ca/office-supplies.html",
+      "displayed_link": "www.costco.ca › office-supplies",
+      "snippet": "Office Products | Office Supplies.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "General Supplies",
+            "link": "https://www.costco.ca/general-supplies.html"
+          },
+          {
+            "title": "Filing Supplies",
+            "link": "https://www.costco.ca/filing-supplies.html"
+          },
+          {
+            "title": "Art Supplies",
+            "link": "https://www.costco.ca/art-supplies.html"
+          },
+          {
+            "title": "Writing Instruments",
+            "link": "https://www.costco.ca/writing-instruments.html"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jY48tkehAlwJ:https://www.costco.ca/office-supplies.html+&cd=11&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.costco.ca/office-supplies.html+office+supplies+calgary&tbo=1&sa=X&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQHzAKegQICBAJ"
+    },
+    {
+      "position": 9,
+      "title": "Office Supplies | Walmart Canada",
+      "link": "https://www.walmart.ca/en/office-stationery-crafts-party-supplies/office-supplies/N-1024",
+      "displayed_link": "www.walmart.ca › ... › Office, Crafts & Party Supplies › Office Supplies",
+      "date": "Items 1 60 of 6000",
+      "snippet": "Browse a variety of office supplies & basics at great prices. Make Walmart.ca you're office supply store - Shop now!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6BimAt_9JcQJ:https://www.walmart.ca/en/office-stationery-crafts-party-supplies/office-supplies/N-1024+&cd=12&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.walmart.ca/en/office-stationery-crafts-party-supplies/office-supplies/N-1024+office+supplies+calgary&tbo=1&sa=X&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQHzALegQIChAL"
+    },
+    {
+      "position": 10,
+      "title": "Office Supplies & Solutions: Greater Toronto & Calgary Areas",
+      "link": "https://shopeveryday.ca/",
+      "displayed_link": "shopeveryday.ca",
+      "snippet": "Everyday Office is here to help you with everything needed to keep your workspace organized, promote your business & get the most of your new products.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ObjQDNT84oAJ:https://shopeveryday.ca/+&cd=13&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://shopeveryday.ca/+office+supplies+calgary&tbo=1&sa=X&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQHzAMegQIBhAH"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office supplies calgary downtown",
+      "link": "https://www.google.com/search?q=office+supplies+calgary+downtown&sa=X&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "grand and toy calgary",
+      "link": "https://www.google.com/search?q=grand+and+toy+calgary&sa=X&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "office depot calgary",
+      "link": "https://www.google.com/search?q=office+depot+calgary&sa=X&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "staples",
+      "link": "https://www.google.com/search?q=staples&sa=X&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "staples calgary",
+      "link": "https://www.google.com/search?q=staples+calgary&sa=X&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "office supplies canada",
+      "link": "https://www.google.com/search?q=office+supplies+canada&sa=X&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "office supplies vancouver",
+      "link": "https://www.google.com/search?q=office+supplies+vancouver&sa=X&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+calgary&ei=v3gnXrFPzpjj4Q_qsKKwBg&start=10&sa=N&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ8NMDegUIDhCCAQ",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+calgary&ei=v3gnXrFPzpjj4Q_qsKKwBg&start=10&sa=N&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ8tMDegQIDhBw",
+      "3": "https://www.google.com/search?q=office+supplies+calgary&ei=v3gnXrFPzpjj4Q_qsKKwBg&start=20&sa=N&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ8tMDegQIDhBy",
+      "4": "https://www.google.com/search?q=office+supplies+calgary&ei=v3gnXrFPzpjj4Q_qsKKwBg&start=30&sa=N&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ8tMDegQIDhB0",
+      "5": "https://www.google.com/search?q=office+supplies+calgary&ei=v3gnXrFPzpjj4Q_qsKKwBg&start=40&sa=N&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ8tMDegQIDhB2",
+      "6": "https://www.google.com/search?q=office+supplies+calgary&ei=v3gnXrFPzpjj4Q_qsKKwBg&start=50&sa=N&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ8tMDegQIDhB4",
+      "7": "https://www.google.com/search?q=office+supplies+calgary&ei=v3gnXrFPzpjj4Q_qsKKwBg&start=60&sa=N&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ8tMDegQIDhB6",
+      "8": "https://www.google.com/search?q=office+supplies+calgary&ei=v3gnXrFPzpjj4Q_qsKKwBg&start=70&sa=N&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ8tMDegQIDhB8",
+      "9": "https://www.google.com/search?q=office+supplies+calgary&ei=v3gnXrFPzpjj4Q_qsKKwBg&start=80&sa=N&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ8tMDegQIDhB-",
+      "10": "https://www.google.com/search?q=office+supplies+calgary&ei=v3gnXrFPzpjj4Q_qsKKwBg&start=90&sa=N&ved=2ahUKEwjxqsLR3JXnAhVOzDgGHWqYCGYQ8tMDegUIDhCAAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+calgary&start=10&token=c02e1e42ebbce18e",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+calgary&start=10&token=c02e1e42ebbce18e",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+calgary&start=10&token=c02e1e42ebbce18e",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+calgary&start=20&token=59f063c7df86bc25",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+calgary&start=30&token=3f6e87efe28cd8cc",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+calgary&start=40&token=7be94f96b95cb690",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+calgary&start=50&token=a9bb2c47ef20dc5b",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+calgary&start=60&token=4531be97db67285c",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+calgary&start=70&token=81f1ce82b7690887",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+calgary&start=80&token=be8a152e29580f2c",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+calgary&start=90&token=dffefb7b3e0fa765"
+    }
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:33:59 UTC",
+    "processed_at": "2020-01-21 22:33:59 UTC",
+    "google_url": "https://www.google.com/search?q=office+supply+stores+tucson&oq=office+supply+stores+tucson&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 5.39
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supply stores tucson",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 22100000,
+    "time_taken_displayed": 0.62,
+    "query_displayed": "office supply stores tucson"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supply+stores+tucson&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=32235538,-110930555,5607&tbm=lcl&sa=X&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 32.235538,
+      "longitude": -110.930555,
+      "altitude": 5607
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supply+stores+tucson&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=32235538,-110930555,5607&tbm=lcl&sa=X&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQjGp6BAgLEEY",
+    "places": [
+      {
+        "position": 1,
+        "title": "OfficeMax",
+        "place_id": "12371328087261905626",
+        "lsig": "AB86z5X5XuzYQRPJAbSLvwD1WRuM",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5X5XuzYQRPJAbSLvwD1WRuM&ludocid=12371328087261905626&q=office+supply+stores+tucson&tbm=lcl&token=de651cdc516f62c8",
+        "rating": 4,
+        "reviews": 176,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "Tucson, AZ",
+        "phone": "In Broadview Commons",
+        "description": "Mainstay for office supplies & more",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 32.2204061,
+          "longitude": -110.8736393
+        }
+      },
+      {
+        "position": 2,
+        "title": "Roadrunner Office Supply",
+        "place_id": "17270026946612843650",
+        "lsig": "AB86z5WODeOLV8bk7IyyukLeaC8q",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WODeOLV8bk7IyyukLeaC8q&ludocid=17270026946612843650&q=office+supply+stores+tucson&tbm=lcl&token=e21bfbec366c536d",
+        "rating": 4.8,
+        "reviews": 21,
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 6PM · (520) 574-4500",
+        "address": "Tucson, AZ",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 32.25067,
+          "longitude": -110.987472
+        }
+      },
+      {
+        "position": 3,
+        "title": "Office Depot",
+        "place_id": "7025248913448998789",
+        "lsig": "AB86z5WnIFbpmoY6Efi-D0jtVejc",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WnIFbpmoY6Efi-D0jtVejc&ludocid=7025248913448998789&q=office+supply+stores+tucson&tbm=lcl&token=5ee5d1c559a11b36",
+        "rating": 3.9,
+        "reviews": 109,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "Tucson, AZ",
+        "phone": "In Century 20 El Con and XD",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 32.2220341,
+          "longitude": -110.919276
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Top 10 Best Office Supplies in Tucson, AZ - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=office+supplies&find_loc=Tucson%2C+AZ",
+      "displayed_link": "www.yelp.com › search › find_loc=Tucson,+AZ",
+      "snippet": "Reviews on Office Supplies in Tucson, AZ - Office Depot, Gibson's Office ... Although the name says \"Office Products\", the office supply side of the store…”.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BaJ-PXyEehQJ:https://www.yelp.com/search%3Ffind_desc%3Doffice%2Bsupplies%26find_loc%3DTucson%252C%2BAZ+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Office Max in TUCSON,AZ - 5550 EAST BROADWAY BLVD",
+      "link": "https://www.officedepot.com/storelocator/az/tucson/officemax-6290/",
+      "displayed_link": "www.officedepot.com › storelocator › tucson › officemax-6290",
+      "snippet": "Shop at the Office Max Store in TUCSON,AZ. ... OfficeMax tucson, AZ Store #6290 ... ink and toner, to the latest tech, cleaning & breakroom supplies and more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-wCEw9R-wYAJ:https://www.officedepot.com/storelocator/az/tucson/officemax-6290/+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Best 30 Office Supply Stores in Tucson, AZ with Reviews - YP ...",
+      "link": "https://www.yellowpages.com/tucson-az/office-supply-stores",
+      "displayed_link": "www.yellowpages.com › Tucson, AZ",
+      "date": "77 results",
+      "snippet": "Office Supply Stores in Tucson, AZ. Tucson Glass & Mirror Co. Office Equipment & SuppliesBuilding SpecialtiesGlass-Auto, Plate, Window, Etc. Tuller Trophy & Awards. Office Equipment & SuppliesMetalsTrophies, Plaques & Medals. Off The Wall Furniture Solutions. Arizona Printer Services. P S Enterprises. Staples. Gibson's ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yqTC8xpXJlMJ:https://www.yellowpages.com/tucson-az/office-supply-stores+&cd=6&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.yellowpages.com/tucson-az/office-supply-stores+office+supply+stores+tucson&tbo=1&sa=X&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQHzAFegQIARAL"
+    },
+    {
+      "position": 4,
+      "title": "Roadrunner Office Supply, Inc.",
+      "link": "https://roadrunnerofficesupply.com/",
+      "displayed_link": "roadrunnerofficesupply.com",
+      "snippet": "Roadrunner Office Supply, LLC is a local Tucson business owned and operated by the Gerber Family since January of 2008. After operating a similar business ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Supplies",
+            "link": "https://roadrunnerofficesupply.com/office-supplies/1_3/s"
+          },
+          {
+            "title": "Technology",
+            "link": "https://roadrunnerofficesupply.com/technology/1_4/s"
+          },
+          {
+            "title": "Maintenance & Breakroom",
+            "link": "https://roadrunnerofficesupply.com/maintenance-and-breakroom/1_2/s"
+          },
+          {
+            "title": "Furniture",
+            "link": "https://roadrunnerofficesupply.com/furniture/1_1/s"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wSBHmvTFIyoJ:https://roadrunnerofficesupply.com/+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Gibson's Office Supply",
+      "link": "https://gibsonsaz.com/",
+      "displayed_link": "gibsonsaz.com",
+      "snippet": "Your #1 Source for all things Office. Office Supply & Breakroom. Free, next day delivery on all of your essential supply needs ... Tucson: 520-622-6738. Phoenix: ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Gibson's Office Solutions",
+            "link": "https://shop.gibsonsaz.com/"
+          },
+          {
+            "title": "Office Supply & Breakroom",
+            "link": "https://gibsonsaz.com/office-supply/"
+          },
+          {
+            "title": "Office Furniture Gallery",
+            "link": "https://gibsonsaz.com/office-furniture-gallery/"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mo9ttDvVcNkJ:https://gibsonsaz.com/+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Staples Locations in Arizona Tucson",
+      "link": "http://www.stapleslocations.us/arizona/tucson-85719/",
+      "displayed_link": "www.stapleslocations.us › Staples Store Locator › Arizona",
+      "snippet": "Address and map directing you to the Arizona Tucson location is available on the ... In this store of Staples you can find out the price range of the all products ... that retail best electronics, stationery and office supplies in the whole country.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.5,
+            "reviews": 41
+          },
+          "extensions": [
+            "Rating: 3.5",
+            "41 reviews"
+          ]
+        }
+      },
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:U7C5C3Rx8TAJ:www.stapleslocations.us/arizona/tucson-85719/+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Staples® 6230 East Broadway Suite 100 Tucson, AZ | Weekly ...",
+      "link": "http://weeklyad.staples.com/StaplesSD/WeeklyAd?storeid=2598245",
+      "displayed_link": "weeklyad.staples.com › StaplesSD › WeeklyAd › storeid=2598245",
+      "snippet": "Shop sales & deals at Staples on 6230 East Broadway Suite 100 Tucson, AZ. Weekly Ad features office supplies, school supplies, printer ink, office furniture, laptops, copy paper, ... Unfortunately, there are no current Weekly Ads for your store.",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:m8440TRVtZwJ:weeklyad.staples.com/StaplesSD/WeeklyAd%3Fstoreid%3D2598245+&cd=10&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:weeklyad.staples.com/StaplesSD/WeeklyAd%3Fstoreid%3D2598245+office+supply+stores+tucson&tbo=1&sa=X&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQHzAJegQIChAJ"
+    },
+    {
+      "position": 8,
+      "title": "Officemax 555 E Wetmore Rd Tucson, AZ Office Supplies ...",
+      "link": "https://www.mapquest.com/us/arizona/officemax-273050538",
+      "displayed_link": "www.mapquest.com › arizona › officemax-273050538",
+      "snippet": "Get directions, reviews and information for Officemax in Tucson, AZ. ... Office Supplies Wholesale ... We walked around the store and couldn't find them.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QEFyjiPLWN4J:https://www.mapquest.com/us/arizona/officemax-273050538+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Office supply stores in or near Nogales, Arizona AZ",
+      "link": "http://office-supply-stores.find-near-me.info/in/nogales-az",
+      "displayed_link": "office-supply-stores.find-near-me.info › nogales-az",
+      "snippet": "Office Depot Tucson AZ is located approximately 55 miles from Nogales. Regarded as one of the best Office supply stores in Nogales area, Office Depot Tucson ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:q7WExH4SA40J:office-supply-stores.find-near-me.info/in/nogales-az+&cd=12&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:office-supply-stores.find-near-me.info/in/nogales-az+office+supply+stores+tucson&tbo=1&sa=X&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQHzALegQIBRAJ"
+    },
+    {
+      "position": 10,
+      "title": "Staples closing its three Tucson stores | Business News ...",
+      "link": "https://tucson.com/business/staples-closing-its-three-tucson-stores/article_f15cb02b-9a79-5157-b953-2d2acbb36106.html",
+      "displayed_link": "tucson.com › business › staples-closing-its-three-tucson-stores",
+      "date": "Dec 30, 2014",
+      "snippet": "Tucson office-supply stores are taking another hit, as Staples prepares to close its three stores here on Feb. 28. The company says the closures ..."
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office depot tucson",
+      "link": "https://www.google.com/search?q=office+depot+tucson&sa=X&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "office max tucson",
+      "link": "https://www.google.com/search?q=office+max+tucson&sa=X&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "staples tucson",
+      "link": "https://www.google.com/search?q=staples+tucson&sa=X&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "office supply stores near me",
+      "link": "https://www.google.com/search?q=office+supply+stores+near+me&sa=X&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "officemax",
+      "link": "https://www.google.com/search?q=officemax&sa=X&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "roadrunner office supply",
+      "link": "https://www.google.com/search?q=roadrunner+office+supply&sa=X&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supply+stores+tucson&ei=W3wnXtTHM5C5tAailJ3ICg&start=10&sa=N&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ8NMDegQIDhA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supply+stores+tucson&ei=W3wnXtTHM5C5tAailJ3ICg&start=10&sa=N&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ8tMDegQIDhAt",
+      "3": "https://www.google.com/search?q=office+supply+stores+tucson&ei=W3wnXtTHM5C5tAailJ3ICg&start=20&sa=N&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ8tMDegQIDhAv",
+      "4": "https://www.google.com/search?q=office+supply+stores+tucson&ei=W3wnXtTHM5C5tAailJ3ICg&start=30&sa=N&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ8tMDegQIDhAx",
+      "5": "https://www.google.com/search?q=office+supply+stores+tucson&ei=W3wnXtTHM5C5tAailJ3ICg&start=40&sa=N&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ8tMDegQIDhAz",
+      "6": "https://www.google.com/search?q=office+supply+stores+tucson&ei=W3wnXtTHM5C5tAailJ3ICg&start=50&sa=N&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ8tMDegQIDhA1",
+      "7": "https://www.google.com/search?q=office+supply+stores+tucson&ei=W3wnXtTHM5C5tAailJ3ICg&start=60&sa=N&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ8tMDegQIDhA3",
+      "8": "https://www.google.com/search?q=office+supply+stores+tucson&ei=W3wnXtTHM5C5tAailJ3ICg&start=70&sa=N&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ8tMDegQIDhA5",
+      "9": "https://www.google.com/search?q=office+supply+stores+tucson&ei=W3wnXtTHM5C5tAailJ3ICg&start=80&sa=N&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ8tMDegQIDhA7",
+      "10": "https://www.google.com/search?q=office+supply+stores+tucson&ei=W3wnXtTHM5C5tAailJ3ICg&start=90&sa=N&ved=2ahUKEwiU4cGK4JXnAhWQHM0KHSJKB6kQ8tMDegQIDhA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+stores+tucson&start=10&token=9d3c6deb1c275bd0",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+stores+tucson&start=10&token=9d3c6deb1c275bd0",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+stores+tucson&start=10&token=9d3c6deb1c275bd0",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+stores+tucson&start=20&token=7e4df24167e47f28",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+stores+tucson&start=30&token=a8fec95e42449656",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+stores+tucson&start=40&token=9717be1b97e511b6",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+stores+tucson&start=50&token=0d960f453f4fa89d",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+stores+tucson&start=60&token=ad59c5c0c85b59d3",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+stores+tucson&start=70&token=101af6a7cf7553ce",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+stores+tucson&start=80&token=837e6c4616a4e24a",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+stores+tucson&start=90&token=4d26a403416d9824"
+    }
+  }
+}

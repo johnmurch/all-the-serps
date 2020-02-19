@@ -1,0 +1,274 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 22:35:01 UTC",
+    "processed_at": "2020-01-20 22:35:01 UTC",
+    "google_url": "https://www.google.com/search?q=solar+energy+maine&oq=solar+energy+maine&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 1.95
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "solar energy maine",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 13500000,
+    "time_taken_displayed": 0.51,
+    "query_displayed": "solar energy maine"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=solar+energy+maine&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=44201533,-70149124,63445&tbm=lcl&sa=X&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQtgN6BAgMEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 44.201533,
+      "longitude": -70.149124,
+      "altitude": 63445
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=solar+energy+maine&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=44201533,-70149124,63445&tbm=lcl&sa=X&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQjGp6BAgMEDY",
+    "places": [
+      {
+        "position": 1,
+        "title": "Maine Solar Solutions",
+        "place_id": "17229250011149616350",
+        "lsig": "AB86z5WugLn4uWxxemKSEmV1-u7j",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WugLn4uWxxemKSEmV1-u7j&ludocid=17229250011149616350&q=solar+energy+maine&tbm=lcl&token=6e00d2d374f3b23c",
+        "rating": 5,
+        "reviews": 14,
+        "type": "Solar energy equipment supplier",
+        "hours": "Closed ⋅ Opens 7:30AM Tue · (207) 464-8073",
+        "address": "Durham, ME",
+        "website": "https://mainesolarsolutions.com/",
+        "gps_coordinates": {
+          "latitude": 43.9167499,
+          "longitude": -70.1365004
+        }
+      },
+      {
+        "position": 2,
+        "title": "ReVision Energy",
+        "place_id": "16902986275507725260",
+        "lsig": "AB86z5V3iwH0b-EBqWvN3oJDyPbr",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5V3iwH0b-EBqWvN3oJDyPbr&ludocid=16902986275507725260&q=solar+energy+maine&tbm=lcl&token=1aafa4fbba906c3e",
+        "rating": 5,
+        "reviews": 29,
+        "type": "Solar energy equipment supplier",
+        "hours": "Closed ⋅ Opens 9AM Tue · (207) 221-6342",
+        "address": "South Portland, ME",
+        "website": "https://www.revisionenergy.com/",
+        "gps_coordinates": {
+          "latitude": 43.642512499999995,
+          "longitude": -70.310983
+        }
+      },
+      {
+        "position": 3,
+        "title": "Maine Solar",
+        "place_id": "2978929682574836864",
+        "lsig": "AB86z5V1RwMEEv6xWYSv3fm9ru9t",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5V1RwMEEv6xWYSv3fm9ru9t&ludocid=2978929682574836864&q=solar+energy+maine&tbm=lcl&token=72dbc94b1e298ce2",
+        "rating": 5,
+        "reviews": 3,
+        "type": "Solar energy equipment supplier",
+        "hours": "(207) 491-3461",
+        "address": "Starks, ME",
+        "website": "http://www.mainesolar.com/",
+        "gps_coordinates": {
+          "latitude": 44.7605541,
+          "longitude": -69.9872661
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "see_more_about": []
+  },
+  "related_questions": [
+    {
+      "question": "Where is solar energy used in Maine?",
+      "snippet": "Solar power in Maine on rooftops can provide electricity used in Maine with 6,300 MW of solar panels. Maine and Vermont are tied for the second highest in the country, behind California, for rooftop solar potential.",
+      "title": "Solar power in Maine - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Solar_power_in_Maine",
+      "displayed_link": "en.wikipedia.org › wiki › Solar_power_in_Maine"
+    },
+    {
+      "question": "How much do solar panels cost in Maine?",
+      "snippet": "What is the current average solar panel cost in Maine based on current offers? As of September 2019, the average cost of solar panels per watt in Maine is $3.58/watt. A typical 8000 watt (8 kW) solar system is $28,660 before the federal solar credit and $20,062 after claiming the federal solar tax credit.",
+      "title": "Solar Panel Cost in Maine | Solar-Estimate.org",
+      "link": "https://www.solar-estimate.org/solar-panel-cost/maine",
+      "displayed_link": "www.solar-estimate.org › solar-panel-cost › maine"
+    },
+    {
+      "question": "Is solar power a natural resource?",
+      "snippet": "Solar energy is a renewable resource, and many technologies can harvest it directly for use in homes, businesses, schools, and hospitals. Some solar energy technologies include photovoltaic cells and panels, concentrated solar energy, and solar architecture.Nov 19, 2012",
+      "title": "solar energy | National Geographic Society",
+      "link": "https://www.nationalgeographic.org/encyclopedia/solar-energy/",
+      "displayed_link": "www.nationalgeographic.org › encyclopedia › solar-energy"
+    },
+    {
+      "question": "How many solar panels do I need?",
+      "snippet": "How many solar panels do I need? System size comparisonSystem size (kW)Average annual production (kWh)Estimated number of solar panels7 kW9,9092810 kW14,1654012 kW16,9874815 kW21,234692 more rows•Jan 18, 2019",
+      "title": "How Many Solar Panels Do I Need in 2019? | EnergySage",
+      "link": "https://news.energysage.com/how-many-solar-panels-do-i-need/",
+      "displayed_link": "news.energysage.com › how-many-solar-panels-do-i-need"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "What You Need to Know to Go Solar in Maine in 2019",
+      "link": "https://www.revisionenergy.com/locations/go-solar-in-maine/",
+      "displayed_link": "www.revisionenergy.com › locations › go-solar-in-maine",
+      "snippet": "That's right, solar energy is today the most cost-effective way for homes, businesses, and municipalities in Maine to get control over their energy bills and lock in ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0lBq0tbKD9wJ:https://www.revisionenergy.com/locations/go-solar-in-maine/+&cd=5&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.revisionenergy.com/locations/go-solar-in-maine/+solar+energy+maine&tbo=1&sa=X&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQHzAEegQIARAJ"
+    },
+    {
+      "position": 2,
+      "title": "Maine Solar Power - Renewable Energy Source",
+      "link": "https://www.efficiencymaine.com/renewable-energy/solar-electric/",
+      "displayed_link": "www.efficiencymaine.com › renewable-energy › solar-electric",
+      "snippet": "Solar electric or photovoltaic (PV) systems reliably produce electricity in Maine and have become an increasingly more affordable renewable energy option.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yPQnmhxCAKEJ:https://www.efficiencymaine.com/renewable-energy/solar-electric/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Switching to Solar Power in Maine: Incentives, Environment ...",
+      "link": "https://www.nrcm.org/programs/climate/clean-energy/solar-power-in-maine/",
+      "displayed_link": "www.nrcm.org › programs › climate › clean-energy › solar-power-in-...",
+      "snippet": "Solar power is a clean, pollution-free, renewable energy source that is available statewide. Maine has tremendous potential for solar power, but in the past decade we have fallen behind while other states in the region (and places around the world) have enjoyed the environmental and economic benefits of solar.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BJMc4ALDnlYJ:https://www.nrcm.org/programs/climate/clean-energy/solar-power-in-maine/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Maine Solar | SEIA",
+      "link": "https://www.seia.org/state-solar-policy/maine-solar",
+      "displayed_link": "www.seia.org › state-solar-policy › maine-solar",
+      "snippet": "Get facts and figures on the growth of solar energy in Maine, including companies, projects, and policy resources.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Qkk_ofXnUNsJ:https://www.seia.org/state-solar-policy/maine-solar+&cd=16&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Solar Panels Maine | Solar Power Maine | Solar Panel Cost ...",
+      "link": "https://mainesolarsolutions.com/",
+      "displayed_link": "mainesolarsolutions.com",
+      "snippet": "Maine Solar Solutions brings clean and renewable energy to Maine with residential and commercial solar electric (PV) system installation.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sgpDlzL5MgsJ:https://mainesolarsolutions.com/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Maine Solar Panels | 2020 Pricing & Savings | EnergySage",
+      "link": "https://www.energysage.com/solar-panels/me/",
+      "displayed_link": "www.energysage.com › solar-panels",
+      "date": "Jun 8, 2019",
+      "snippet": "What interest is there for solar panels in Maine and how much can they save you? Check out our list of top solar companies, incentives, and ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8R4vJ1SaK14J:https://www.energysage.com/solar-panels/me/+&cd=18&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.energysage.com/solar-panels/me/+solar+energy+maine&tbo=1&sa=X&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQHzARegQIBxAJ"
+    },
+    {
+      "position": 7,
+      "title": "Solar power in Maine - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Solar_power_in_Maine",
+      "displayed_link": "en.wikipedia.org › wiki › Solar_power_in_Maine",
+      "snippet": "Solar power in Maine on rooftops can provide electricity used in Maine with 6,300 MW of solar panels. Maine and Vermont are tied for the second highest in the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wGp2jyNf4Q4J:https://en.wikipedia.org/wiki/Solar_power_in_Maine+&cd=19&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Solar_power_in_Maine+solar+energy+maine&tbo=1&sa=X&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQHzASegQIChAJ"
+    },
+    {
+      "position": 8,
+      "title": "2020 Guide to Solar Panels in Maine | Incentives, Rebates ...",
+      "link": "https://www.solarpowerrocks.com/maine/",
+      "displayed_link": "www.solarpowerrocks.com › maine",
+      "snippet": "This page is a guide for homeowners who are interested in solar panels in Maine. We cover Maine solar incentives, cost, payback time, and more!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yh4tDUpd1zQJ:https://www.solarpowerrocks.com/maine/+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Solar Panel Cost in Maine | Solar-Estimate.org",
+      "link": "https://www.solar-estimate.org/solar-panel-cost/maine",
+      "displayed_link": "www.solar-estimate.org › Solar Panel Cost",
+      "snippet": "As of January 2020, the average cost of solar panels per watt in Maine is $2.64/watt. Click here for more specific information on solar pricing in your area.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7EFacMlNBZoJ:https://www.solar-estimate.org/solar-panel-cost/maine+&cd=21&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "A bright future for solar energy in Maine | WGME",
+      "link": "http://wgme.com/news/local/a-bright-future-for-solar-energy-in-maine",
+      "displayed_link": "wgme.com › news › local › a-bright-future-for-solar-energy-in-maine",
+      "date": "Nov 21, 2019",
+      "snippet": "PORTLAND (WGME) -- Solar energy is gaining traction in Maine. Solar panels are now installed at the Blaine House, and more are going up ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:qlajdFhPg_kJ:wgme.com/news/local/a-bright-future-for-solar-energy-in-maine+&cd=22&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "are solar panels worth it in maine",
+      "link": "https://www.google.com/search?q=are+solar+panels+worth+it+in+maine&sa=X&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "what is the potential for using solar power in maine",
+      "link": "https://www.google.com/search?q=what+is+the+potential+for+using+solar+power+in+maine&sa=X&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "maine solar legislation 2019",
+      "link": "https://www.google.com/search?q=maine+solar+legislation+2019&sa=X&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "maine solar laws",
+      "link": "https://www.google.com/search?q=maine+solar+laws&sa=X&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "maine solar policy",
+      "link": "https://www.google.com/search?q=maine+solar+policy&sa=X&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "sundog solar",
+      "link": "https://www.google.com/search?q=sundog+solar&sa=X&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "maine solar property tax",
+      "link": "https://www.google.com/search?q=maine+solar+property+tax&sa=X&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "maine solar net metering",
+      "link": "https://www.google.com/search?q=maine+solar+net+metering&sa=X&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=solar+energy+maine&ei=FSsmXra2LMv89AOvn6mIBA&start=10&sa=N&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ8NMDegQIEhBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=solar+energy+maine&ei=FSsmXra2LMv89AOvn6mIBA&start=10&sa=N&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ8tMDegQIEhAu",
+      "3": "https://www.google.com/search?q=solar+energy+maine&ei=FSsmXra2LMv89AOvn6mIBA&start=20&sa=N&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ8tMDegQIEhAw",
+      "4": "https://www.google.com/search?q=solar+energy+maine&ei=FSsmXra2LMv89AOvn6mIBA&start=30&sa=N&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ8tMDegQIEhAy",
+      "5": "https://www.google.com/search?q=solar+energy+maine&ei=FSsmXra2LMv89AOvn6mIBA&start=40&sa=N&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ8tMDegQIEhA0",
+      "6": "https://www.google.com/search?q=solar+energy+maine&ei=FSsmXra2LMv89AOvn6mIBA&start=50&sa=N&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ8tMDegQIEhA2",
+      "7": "https://www.google.com/search?q=solar+energy+maine&ei=FSsmXra2LMv89AOvn6mIBA&start=60&sa=N&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ8tMDegQIEhA4",
+      "8": "https://www.google.com/search?q=solar+energy+maine&ei=FSsmXra2LMv89AOvn6mIBA&start=70&sa=N&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ8tMDegQIEhA6",
+      "9": "https://www.google.com/search?q=solar+energy+maine&ei=FSsmXra2LMv89AOvn6mIBA&start=80&sa=N&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ8tMDegQIEhA8",
+      "10": "https://www.google.com/search?q=solar+energy+maine&ei=FSsmXra2LMv89AOvn6mIBA&start=90&sa=N&ved=2ahUKEwj2lLG3npPnAhVLPn0KHa9PCkEQ8tMDegQIEhA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+maine&start=10&token=a74ef3dd5cac661c",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+maine&start=10&token=a74ef3dd5cac661c",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+maine&start=10&token=a74ef3dd5cac661c",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+maine&start=20&token=f560c8c01107b2eb",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+maine&start=30&token=e881b182a2ed41f7",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+maine&start=40&token=16f87abcbd1a4b55",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+maine&start=50&token=486aaa34f0f4c524",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+maine&start=60&token=e39e2de9bb294a4b",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+maine&start=70&token=64a1ca34c4a7c76f",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+maine&start=80&token=05ab78a665dfa203",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+maine&start=90&token=41fb4444becfee85"
+    }
+  }
+}

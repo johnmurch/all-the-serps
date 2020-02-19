@@ -1,0 +1,336 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 14:52:50 UTC",
+    "processed_at": "2020-01-21 14:52:50 UTC",
+    "google_url": "https://www.google.com/search?q=about+affiliate+marketing&oq=about+affiliate+marketing&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 1.87
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "about affiliate marketing",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 579000000,
+    "time_taken_displayed": 0.55,
+    "query_displayed": "about affiliate marketing"
+  },
+  "knowledge_graph": {
+    "title": "Marketing de afiliación (Affiliate marketing)",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "description": "Marketing de afiliación es una rama del marketing online que se basa en la consecución de resultados. Las empresas o sitios web, llamados afiliados, se encargan de publicitar a los comerciantes mediante la publicación de sus anuncios o promociones.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://es.wikipedia.org/wiki/Marketing_de_afiliaci%C3%B3n"
+    }
+  },
+  "inline_videos": [
+    {
+      "title": "Affiliate Marketing For Beginners (EXPLAINED IN PLAIN ...",
+      "link": "https://www.youtube.com/watch?v=2ETEK0ut7gI",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Project Life Mastery",
+      "duration": "16:11",
+      "platform": "YouTube",
+      "date": "20 ago. 2016"
+    },
+    {
+      "title": "What is Affiliate Marketing?",
+      "link": "https://www.youtube.com/watch?v=2CQtB5qyQ0M",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Instapage",
+      "duration": "1:45",
+      "platform": "YouTube",
+      "date": "27 sep. 2016"
+    },
+    {
+      "title": "Can You Still Make a Living Off Affiliate Marketing in 2019 ...",
+      "link": "https://www.youtube.com/watch?v=NYIj66KP-Tk",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Neil Patel",
+      "duration": "6:00",
+      "platform": "YouTube",
+      "date": "15 abr. 2019"
+    },
+    {
+      "title": "What is Affiliate Marketing And How Can You Leverage It",
+      "link": "https://www.youtube.com/watch?v=4ZrSmfo16sk",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB3O8vThGFEgNOskVnFv5v5OVO61rzJaz6SnSGxbKYb9jq0xm8jUOf_Z-aNg",
+      "channel": "Neil Patel",
+      "duration": "4:19",
+      "platform": "YouTube",
+      "date": "6 jul. 2017"
+    },
+    {
+      "title": "The Easiest Way to Get Started With Affiliate Marketing | A ...",
+      "link": "https://www.youtube.com/watch?v=vFWskR9I_bM",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTotyPVEomWpYkk8erRBoB7xFs_nClIEKY2zLVUVdeDNg_VJ7UEGu_6ztUi",
+      "channel": "Neil Patel",
+      "duration": "5:52",
+      "platform": "YouTube",
+      "date": "12 sep. 2019"
+    },
+    {
+      "title": "Is Affiliate Marketing A Scam? The Truth About Affiliate ...",
+      "link": "https://www.youtube.com/watch?v=eU7ZDRJ-VrU",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPn8NpZVDtPokub9IOo4wuilSNdEdQ0YBiDUtIDQmHSJLAYLGBWjOzaMKr",
+      "channel": "Freedom Influencer",
+      "duration": "17:47",
+      "platform": "YouTube",
+      "date": "8 ago. 2019"
+    },
+    {
+      "title": "How to Start Affiliate Marketing in India - A Beginner's Guide",
+      "link": "https://www.youtube.com/watch?v=rkhjh_VtepA",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9BfKSiorcETTnW-YbGrIL32nJ0y5z1oc7y2324qpsMt7RUvQanoQjUvbu-A",
+      "channel": "FastRupee",
+      "duration": "6:10",
+      "platform": "YouTube",
+      "date": "2 ene. 2016"
+    },
+    {
+      "title": "How Much Does It Cost To Start Affiliate Marketing?",
+      "link": "https://www.youtube.com/watch?v=1JoH0uBZss4",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSh_sht9ygCG92Y0tK61N7FHRlMF3nsUdCdMjEEOl76gWXQTfh6SHdsEv2C",
+      "channel": "Project Life Mastery",
+      "duration": "26:34",
+      "platform": "YouTube",
+      "date": "12 jul. 2019"
+    },
+    {
+      "title": "How To Get Started With Affiliate Marketing For Beginners",
+      "link": "https://www.youtube.com/watch?v=VuH1GWOGUc0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa6k5RoBJeFdGdcydOIMGRvcNGilRQhB98BPIGhtOFdXSnMD6_uNW8Fp2zPw",
+      "channel": "Project Life Mastery",
+      "duration": "22:43",
+      "platform": "YouTube",
+      "date": "18 feb. 2019"
+    },
+    {
+      "title": "Passive Income: Does Affiliate Marketing Really Work?",
+      "link": "https://www.youtube.com/watch?v=Eo7ED5yi3cU",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjokkvEgMpkgZyG-CyxAs47eyRVl7CA83gH2jD95Mbfi-LTwdJbzryCkf_A",
+      "channel": "Roberto Blake",
+      "duration": "10:28",
+      "platform": "YouTube",
+      "date": "25 dic. 2016"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How do I become an affiliate marketer?",
+      "snippet": "Here's How to Start Affiliate Marketing on Your Blog in 8 Steps:Step 1: Create a Website or A Blog.Step 2: Choose an Industry, and then Niche Down.Step 3: Research Products in Your Niche that You Can Review.Step 4: Sign Up for the Amazon Affiliate Program.Más elementos…•25 ene. 2019",
+      "title": "How to Start Affiliate Marketing for Beginners (A Step by Step Guide)",
+      "link": "https://www.locationrebel.com/how-to-start-affiliate-marketing/",
+      "displayed_link": "www.locationrebel.com › how-to-start-affiliate-marketing"
+    },
+    {
+      "question": "What is affiliate marketing and how does it work for beginners?",
+      "snippet": "Affiliate marketing is the process by which an affiliate earns a commission for marketing another person's or company's products. The affiliate simply searches for a product they enjoy, then promotes that product and earns a piece of the profit from each sale they make.",
+      "title": "Affiliate Marketing in 2019: What It Is + How Beginners Can Start",
+      "link": "https://www.bigcommerce.com/blog/affiliate-marketing/",
+      "displayed_link": "www.bigcommerce.com › blog › affiliate-marketing"
+    },
+    {
+      "question": "Can you make money from affiliate marketing?",
+      "snippet": "Yes, you can make money through affiliate marketing. Good money. And, yes, you can even make money while you sleep. ... If you're already into affiliate marketing, you'll probably still find something in here you haven't thought of before.11 may. 2019",
+      "title": "How to Make Money While You Sleep With Affiliate Marketing",
+      "link": "https://optinmonster.com/get-started-with-affiliate-marketing/",
+      "displayed_link": "optinmonster.com › get-started-with-affiliate-marketing"
+    },
+    {
+      "question": "Which affiliate program is the best?",
+      "snippet": "Whatever the reason, here's a list of top beginner affiliate programs for those of you just getting started:DreamHost Affiliate Program. ... Amazon Associates. ... eBay Partner Network. ... Target Affiliates. ... AliExpress Affiliate Program.",
+      "title": "The 67+ Best Affiliate Programs of 2019 (Highest Paying)",
+      "link": "https://www.forexreferral.com/best-affiliate-programs",
+      "displayed_link": "www.forexreferral.com › best-affiliate-programs"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Affiliate Marketing in 2020: What It Is + How Beginners Can Start",
+      "link": "https://www.bigcommerce.com/blog/affiliate-marketing/",
+      "displayed_link": "www.bigcommerce.com › blog › affiliate-marketi...",
+      "snippet": "Affiliate marketing is the process by which an affiliate earns a commission for marketing another person's or company's products. The affiliate simply searches for a product they enjoy, then promotes that product and earns a piece of the profit from each sale they make.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How Does Affiliate ...",
+            "link": "https://www.bigcommerce.com/blog/affiliate-marketing/#how-does-affiliate-marketing-work"
+          },
+          {
+            "title": "Common Types of Affiliate ...",
+            "link": "https://www.bigcommerce.com/blog/affiliate-marketing/#common-types-of-affiliate-marketing-channels"
+          },
+          {
+            "title": "What Affiliate Marketing ...",
+            "link": "https://www.bigcommerce.com/blog/affiliate-marketing/#what-affiliate-marketing-strategies-should-you-employ-in-2020"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:u3DLER_kwN8J:https://www.bigcommerce.com/blog/affiliate-marketing/+&cd=1&hl=es-419&ct=clnk&gl=ec"
+    },
+    {
+      "position": 2,
+      "title": "Affiliate Marketing Made Simple: A Step-by-Step Guide",
+      "link": "https://neilpatel.com/what-is-affiliate-marketing/",
+      "displayed_link": "neilpatel.com › what-is-affiliate-marketing",
+      "snippet": "Affiliate marketing is the process of earning a commission by promoting other people's (or company's) products. You find a product you like, promote it to others and earn a piece of the profit for each sale that you make.",
+      "rich_snippet": {
+        "bottom": {
+          "questions": [
+            "What is affiliate marketing?",
+            "How much money can you make as an affiliate marketer?",
+            "What are some of the most popular affilaite networks?",
+            "Is affiliate marketing a pyramid scheme?"
+          ]
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Affiliate marketing - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Affiliate_marketing",
+      "displayed_link": "en.wikipedia.org › wiki › Affiliate_marketing",
+      "snippet": "Affiliate marketing is a type of performance-based marketing in which a business rewards one or more affiliates for each visitor or customer brought by the affiliate's own marketing efforts.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Category:Affiliate marketing",
+            "link": "https://en.wikipedia.org/wiki/Category:Affiliate_marketing"
+          },
+          {
+            "title": "Affiliate",
+            "link": "https://en.wikipedia.org/wiki/Affiliate_(commerce)"
+          },
+          {
+            "title": "Referral marketing",
+            "link": "https://en.wikipedia.org/wiki/Referral_marketing"
+          },
+          {
+            "title": "Pay per sale",
+            "link": "https://en.wikipedia.org/wiki/Pay_per_sale"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Rsi_AOJNSuIJ:https://en.wikipedia.org/wiki/Affiliate_marketing+&cd=12&hl=es-419&ct=clnk&gl=ec",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Affiliate_marketing+about+affiliate+marketing&tbo=1&sa=X&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0QHzALegQIARAJ"
+    },
+    {
+      "position": 4,
+      "title": "20+ Best Affiliate Marketing Platforms and Networks of 2020 ...",
+      "link": "https://makeawebsitehub.com/affiliate-marketing-networks/",
+      "displayed_link": "makeawebsitehub.com › affiliate-marketing-netw...",
+      "snippet": "There are literally hundreds of affiliate programs available to bloggers and online affiliates. In this post I cover the best affiliate marketing networks and programs ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:aedN2w77ZFQJ:https://makeawebsitehub.com/affiliate-marketing-networks/+&cd=13&hl=es-419&ct=clnk&gl=ec",
+      "related_pages_link": "https://www.google.com/search?q=related:https://makeawebsitehub.com/affiliate-marketing-networks/+about+affiliate+marketing&tbo=1&sa=X&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0QHzAMegQIBxAJ"
+    },
+    {
+      "position": 5,
+      "title": "Can You Really Make Money with Affiliate Marketing?",
+      "link": "https://www.thebalancesmb.com/can-you-really-make-money-with-affiliate-marketing-1794168",
+      "displayed_link": "www.thebalancesmb.com › ... › Ideas",
+      "snippet": "Check out the truth about affiliate marketing including pros/cons, and tips to getting started and succeeding in affiliate marketing.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:aCOscJyPEbkJ:https://www.thebalancesmb.com/can-you-really-make-money-with-affiliate-marketing-1794168+&cd=24&hl=es-419&ct=clnk&gl=ec"
+    },
+    {
+      "position": 6,
+      "title": "What is Affiliate Marketing & How Does It Work? - ShoutMeLoud",
+      "link": "https://www.shoutmeloud.com/what-is-affiliate-marketing.html",
+      "displayed_link": "www.shoutmeloud.com › Affiliate Marketing",
+      "snippet": "Affiliate marketing is the most profitable way to make money online. Want to understand what is Affiliate marketing? Keep reading to learn everything about this ...",
+      "rich_snippet": {
+        "bottom": {
+          "questions": [
+            "How much money you can make as an affiliate marketer?",
+            "Is it important to have a blog for affiliate promotion?",
+            "How much does it cost to join an affiliate program?",
+            "What qualifications do I need to become an affiliate marketer?",
+            "Is affiliate marketing harmful or illegal?"
+          ]
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Affiliate Marketing for Beginners: 7 Steps to Success - Ahrefs",
+      "link": "https://ahrefs.com/blog/affiliate-marketing/",
+      "displayed_link": "ahrefs.com › blog › affiliate-marketing",
+      "date": "hace 5 días",
+      "snippet": "Affiliate marketing is where you promote other companies' products to earn a comission. Learn how to get started in 7 simple steps.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sPWFZ1Yq57UJ:https://ahrefs.com/blog/affiliate-marketing/+&cd=27&hl=es-419&ct=clnk&gl=ec"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "affiliate marketing amazon",
+      "link": "https://www.google.com/search?q=affiliate+marketing+amazon&sa=X&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q1QIoAHoECBcQAQ"
+    },
+    {
+      "query": "affiliate marketing examples",
+      "link": "https://www.google.com/search?q=affiliate+marketing+examples&sa=X&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q1QIoAXoECBcQAg"
+    },
+    {
+      "query": "affiliate traduccion",
+      "link": "https://www.google.com/search?q=affiliate+traduccion&sa=X&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q1QIoAnoECBcQAw"
+    },
+    {
+      "query": "affiliate marketing course",
+      "link": "https://www.google.com/search?q=affiliate+marketing+course&sa=X&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q1QIoA3oECBcQBA"
+    },
+    {
+      "query": "world marketing affiliate platform",
+      "link": "https://www.google.com/search?q=world+marketing+affiliate+platform&sa=X&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q1QIoBHoECBcQBQ"
+    },
+    {
+      "query": "affiliate marketing instagram",
+      "link": "https://www.google.com/search?q=affiliate+marketing+instagram&sa=X&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q1QIoBXoECBcQBg"
+    },
+    {
+      "query": "it money world marketing affiliate platform",
+      "link": "https://www.google.com/search?q=it+money+world+marketing+affiliate+platform&sa=X&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q1QIoBnoECBcQBw"
+    },
+    {
+      "query": "affiliate online marketing",
+      "link": "https://www.google.com/search?q=affiliate+online+marketing&sa=X&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q1QIoB3oECBcQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=about+affiliate+marketing&ei=QhAnXsLGNrLomAXHw4LoAg&start=10&sa=N&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q8NMDegQIFRBE",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=about+affiliate+marketing&ei=QhAnXsLGNrLomAXHw4LoAg&start=10&sa=N&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q8tMDegQIFRAy",
+      "3": "https://www.google.com/search?q=about+affiliate+marketing&ei=QhAnXsLGNrLomAXHw4LoAg&start=20&sa=N&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q8tMDegQIFRA0",
+      "4": "https://www.google.com/search?q=about+affiliate+marketing&ei=QhAnXsLGNrLomAXHw4LoAg&start=30&sa=N&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q8tMDegQIFRA2",
+      "5": "https://www.google.com/search?q=about+affiliate+marketing&ei=QhAnXsLGNrLomAXHw4LoAg&start=40&sa=N&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q8tMDegQIFRA4",
+      "6": "https://www.google.com/search?q=about+affiliate+marketing&ei=QhAnXsLGNrLomAXHw4LoAg&start=50&sa=N&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q8tMDegQIFRA6",
+      "7": "https://www.google.com/search?q=about+affiliate+marketing&ei=QhAnXsLGNrLomAXHw4LoAg&start=60&sa=N&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q8tMDegQIFRA8",
+      "8": "https://www.google.com/search?q=about+affiliate+marketing&ei=QhAnXsLGNrLomAXHw4LoAg&start=70&sa=N&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q8tMDegQIFRA-",
+      "9": "https://www.google.com/search?q=about+affiliate+marketing&ei=QhAnXsLGNrLomAXHw4LoAg&start=80&sa=N&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q8tMDegQIFRBA",
+      "10": "https://www.google.com/search?q=about+affiliate+marketing&ei=QhAnXsLGNrLomAXHw4LoAg&start=90&sa=N&ved=2ahUKEwjC74L_-JTnAhUyNKYKHcehAC0Q8tMDegQIFRBC"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=about+affiliate+marketing&start=10&token=d56b829c838de203",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=about+affiliate+marketing&start=10&token=d56b829c838de203",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=about+affiliate+marketing&start=10&token=d56b829c838de203",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=about+affiliate+marketing&start=20&token=cff1baf0b244d10f",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=about+affiliate+marketing&start=30&token=9c381e54df205f1c",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=about+affiliate+marketing&start=40&token=953a2a657920809b",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=about+affiliate+marketing&start=50&token=e46c2e06ab52f3a0",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=about+affiliate+marketing&start=60&token=037eced0f202e30a",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=about+affiliate+marketing&start=70&token=ae963f32f5408bdb",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=about+affiliate+marketing&start=80&token=2fc308fef9e33cb4",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=about+affiliate+marketing&start=90&token=cf323ddbccd39457"
+    }
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 21:08:03 UTC",
+    "processed_at": "2020-01-20 21:08:03 UTC",
+    "google_url": "https://www.google.com/search?q=solar+energy+plant&oq=solar+energy+plant&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 16.94
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "solar energy plant",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 574000000,
+    "time_taken_displayed": 0.66,
+    "query_displayed": "solar energy plant"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=solar+energy+plant&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=35090079,-81227919,57902&tbm=lcl&sa=X&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4QtgN6BAgLEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 35.090079,
+      "longitude": -81.227919,
+      "altitude": 57902
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=solar+energy+plant&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=35090079,-81227919,57902&tbm=lcl&sa=X&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4QjGp6BAgLEC8",
+    "places": [
+      {
+        "position": 1,
+        "title": "Duke Energy Monroe Solar Facility",
+        "place_id": "276679528531469662",
+        "lsig": "AB86z5Xa0ek8nZ-P-wTxe4O2aHgE",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Xa0ek8nZ-P-wTxe4O2aHgE&ludocid=276679528531469662&q=solar+energy+plant&tbm=lcl&token=31532a45f1f06c1d",
+        "rating": 0,
+        "type": "Solar photovoltaic power plant",
+        "address": "Monroe, NC",
+        "website": "#",
+        "gps_coordinates": {
+          "latitude": 34.9262242,
+          "longitude": -80.6234253
+        }
+      },
+      {
+        "position": 2,
+        "title": "Renew Solar",
+        "place_id": "3662396226380926510",
+        "lsig": "AB86z5UBWB3V1r_n52UHrqmbwv8p",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UBWB3V1r_n52UHrqmbwv8p&ludocid=3662396226380926510&q=solar+energy+plant&tbm=lcl&token=834b52c3c8f71f59",
+        "rating": 1,
+        "reviews": 3,
+        "type": "Solar energy equipment supplier",
+        "hours": "(704) 269-8665",
+        "address": "Charlotte, NC",
+        "website": "http://thinkrenew.com/",
+        "gps_coordinates": {
+          "latitude": 35.230137299999996,
+          "longitude": -80.83954179999999
+        }
+      },
+      {
+        "position": 3,
+        "title": "Rutherford Farm Solar",
+        "place_id": "7953708169714166908",
+        "lsig": "AB86z5XTZZtYBTdu4MkDA8JYmHHo",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XTZZtYBTdu4MkDA8JYmHHo&ludocid=7953708169714166908&q=solar+energy+plant&tbm=lcl&token=8370cf175b783783",
+        "rating": 5,
+        "reviews": 2,
+        "type": "Solar photovoltaic power plant",
+        "hours": "Open now",
+        "address": "Forest City, NC",
+        "website": "#",
+        "gps_coordinates": {
+          "latitude": 35.253934799999996,
+          "longitude": -81.832413
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "top_stories": [
+    {
+      "title": "Qatar to build new solar power plant",
+      "link": "https://www.aljazeera.com/ajimpact/qatar-build-solar-power-plant-200120061111553.html",
+      "source": "Al Jazeera",
+      "date": "12 hours ago",
+      "thumbnail": "data:image/jpeg;base64,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"
+    },
+    {
+      "title": "Qatar to develop 800 MW solar power plant with Total, Marubeni",
+      "link": "https://www.spglobal.com/platts/en/market-insights/latest-news/oil/011920-qatar-to-develop-800-mw-solar-power-plant-with-total-marubeni",
+      "source": "S&P Global",
+      "date": "1 day ago"
+    },
+    {
+      "title": "Qatar to build solar power plant with Total and Marubeni",
+      "link": "https://www.reuters.com/article/uk-qatar-energy-solar/qatar-to-build-solar-power-plant-with-total-and-marubeni-idUSKBN1ZI0BA",
+      "source": "Reuters",
+      "date": "1 day ago",
+      "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADgAZQMBEQACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAAEBQIDBgcA/8QAOBAAAgEDAgMFBwEGBwAAAAAAAQIDAAQRBSEGEjETQVFhgQcUInGRodIyM0JFo8HRFRY1UoLh4v/EABoBAAIDAQEAAAAAAAAAAAAAAAABAgMEBQb/xAAvEQACAQMCAwcCBwEAAAAAAAAAAQIDBBESIRMxQQUyUWFxkfChsSIjgcHR4fEU/9oADAMBAAIRAxEAPwDl2mrrOrTONKiIRdicDA9T302wQ/sdG43tJTLazpHIRjmyucfSo68D05GK2ftHbpqeP+a/jT4jFoRMaX7SG/i383/zRxGPQiX+C+0lv4x/PP40a2GlHhw/7RgMDWFA8BOfxpKQ8eZ7/L3tGA/1demP25/GjWwx5njoXtH79WU/ObPn/tp62GPMg2je0XGDqSkeAkH40aww/EDudA49lGJ7vtR4NKCPuKNbFpAn4Z4xH6ljb1T+1GsMAl5onFNtC8s1sGVRluQKxx8qNbDSLI54p1Dt8Dd+5FW5yQwdu4c0aDS7OJIowgUbDHT/ALqKQmzQwx83TrTYFwQjrSyBai5ppASbkjRnkcIijJZjgD1oaQ0m3hCa64s0C2yDqMchHdErOPqoIqDnDxNsOz7qfKHvt9xXccfadFvHEZ1z0jZg30ZAPvU4ulLnLH6BLs28is6M+jQ30PiPTNcylnK6TgZaCZeVwPHwPoTU3Twsp5XkZJwqQeJxa9RqyVHSQyVMtRGUuopgCXMKyoVahrIsnMeJuBveNRaewkSDnyZEZSRzeIx41XyLNmdQhwRVhWFQ5VgRSY0FD49yKQEZ5orWBpp3CRoNyas5IXVLxMpey2+t3GDp1xqHKfhSSVlRPPlXb1JzXLd26ksU4NncpUZW0cuaj6Lf3e/sEQ8LwzAe8aJp0KnqBJJzfY/1q+EKz70UiqV9p7tWT9gfWeCtDt9Nubs9vbdjE0jGKUsNhnGGzWiNuptIgu2K8N3hrzX8HMre6eGVJYpHilQ5V0bBU+Rq+t2ZVp7wefua6HblvXWitHTnx3R1LgniWXVllsdQ2vrcZzjlMig4OR3MD1+dZ6VRy2fMydo2MaDVSn3X9P6NLIKskcxFTCkMocUxAU8KSMC6g4oaTDcjYOXLMXznu8KjkMDWLfv3pgFxLjJJoQGb45d2023EZIXtxzY8cHFb7JRlKSl4GC/c4xjKPR/4W6FrUMtnFbJ7vbXKjAjf4Ul+Tdx+efWqK9nKivyVsaKF7GvL897v58WwVd8QJYSKmo2dzbk/vABkPrXLnfKm8VYtfVHWhYOqs0pp/RmU9oPFFvd6cum6dIzdsQ07cpGFG4X1O/yHnXZ7N01lxo8uhzLyEqMuHLmc/wBNX3jUIYivMOcFh4qDk/att3cxt6Mqj6ffoVW9tKvVjTj1+M6ZovbanxeuqdmqckLrL2YwMdFB8T/byry1nWnWqOTWx6W8jC3s+Cn12Ni/SukzhFO3fVZIplAHQ0wF9y0fOOYnPlQ2gAbWQoQy9RUAHlnMJQAn6u8UZGMQSF3HSpkRdqEMNzYzR3CM8ZUkhP1bb7edWQk4STiKpCM4uMuRkbvQ2S2F3ZXEV5ZsMiSJgcDzHdXWp3UZPTJYZxq1nKKzHdC0azqVgRHb3TmLl/ZuA6EfI/0qydvSq95FdO4rUu7ISmwWfmmeV+d2LMTjqTVkKcYRUYrCQSu6jk5S3Y64U0WSOSRodJW7aQjF1cuyRxr4ADr9+6sF9RoVElVfLodGyvLiLzSjjPU6VaxLb2qRqsS4G/ZJyLnyFc6MYRWILCNrlOTzN5ZMnIzTEUSdai0SQHcy8uy9ag2MVyt8W9IAaA7CgQzs3KsGXqOlNIY9ju0mhIcBXx1HfRjAFCHcCpZAF1ThDTdSYylZLeVjlmixhj4kEY+mKup3MoFU6SkIZ/Z3Y9uryaje8o/dj5Uz64NX/wDbPGyIK3j1NNo2iabptsEtLVcg/rkJdj6neqJ1qk+8yUaMI8kG3HQGqixFSnKEUwZVG/UHupgym4fY4qMuQIWzP1xVZIBdt6ACo4raKPLRPzd2W76WcgONGt4mT41Uk9M028Alkr4q00w6VdahDdz25hh+BImwC2ds/X7VRVk0sqWDdZaXUVOUE8vmZTh6C+uLS01G+129jWSTIiXB5hzYUetR/EqeuUmbKzpKu6NOkn8/Y32oatd29s8x0lvd1XmL9sM8vjjrSVWeM6djLG2pSlo4m/oZrVuJLhbKPUNO0p7uzMLSySmdY+z5SeYYO5xjuq7ivTqSyhQsocR0qk8SzjlnJPhbiG/1mOKVdHMVlIzD3j3lTjGf3cZ6jFShVlPfGwrqzpUMriZkumCOscX21pcyILd5bS3dUuLmPcRsTjp3jO3XxxSlWSfkSpdnSnBPOJPkvEjrnEI0m0tbuGOO4t7iQKXD7BSpORjrsDU51NKTRXa2fHnKEnhpDMOO02OxqwxEpEBFMBbdIseDvjO9VtYYFLQxHB3+tPAH/9k="
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=solar+energy+plant&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Qt8YBKAF6BAgFEA0",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+plant&tbm=nws&token=4015f61f8ac4e91d",
+  "related_questions": [
+    {
+      "question": "What is solar energy power plant?",
+      "snippet": "A solar power plant is based on the conversion of sunlight into electricity, either directly using photovoltaics (PV), or indirectly using concentrated solar power (CSP). Concentrated solar power systems use lenses, mirrors, and tracking systems to focus a large area of sunlight into a small beam.",
+      "title": "Solar power plant - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/Solar_power_plant",
+      "displayed_link": "simple.wikipedia.org › wiki › Solar_power_plant"
+    },
+    {
+      "question": "How does a solar energy plant work?",
+      "snippet": "Solar thermal power (electricity) generation systems collect and concentrate sunlight to produce the high temperature heat needed to generate electricity. All solar thermal power systems have solar energy collectors with two main components: reflectors (mirrors) that capture and focus sunlight onto a receiver.Jan 3, 2019",
+      "title": "Solar thermal power plants - U.S. Energy Information Administration ...",
+      "link": "https://www.eia.gov/energyexplained/solar/solar-thermal-power-plants.php",
+      "displayed_link": "www.eia.gov › energyexplained › solar › solar-thermal-power-plants"
+    },
+    {
+      "question": "What is the biggest solar plant in the world?",
+      "snippet": "In 2016, the largest photovoltaic power station in the world was the 850 MW Longyangxia Dam Solar Park, in Gonghe County, Qinghai, China.",
+      "title": "List of photovoltaic power stations - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/List_of_photovoltaic_power_stations",
+      "displayed_link": "en.wikipedia.org › wiki › List_of_photovoltaic_power_stations"
+    },
+    {
+      "question": "How much energy does a solar power plant produce in a year?",
+      "snippet": "The Ivanpah solar plant has a capacity of almost 400 megawatts (MW), which is enough to power 140,000 homes. An equivalent fossil fuel powered plant would produce this same amount of energy while emitting 400,000 metric tons of carbon dioxide per year.Feb 16, 2014",
+      "title": "9 Things to Know About the World's Largest Solar Plant in California",
+      "link": "https://www.mic.com/articles/82417/9-things-to-know-about-the-world-s-largest-solar-plant-in-california",
+      "displayed_link": "www.mic.com › articles › 9-things-to-know-about-the-world-s-largest-s..."
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Solar power - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Solar_power",
+    "snippet": "Solar power is the conversion of energy from sunlight into electricity, either directly using photovoltaics (PV), indirectly using concentrated solar power, or a combination. ... The 392 MW Ivanpah installation is the largest concentrating solar power plant in the world, located in the Mojave Desert of California."
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The biggest solar power plants in the world - Power Technology",
+      "link": "https://www.power-technology.com/features/the-worlds-biggest-solar-power-plants/",
+      "displayed_link": "www.power-technology.com › features › the-worlds-biggest-solar-po...",
+      "date": "Jan 10, 2020",
+      "snippet": "Globally, solar is one of the fastest-growing energy sources. Power-technology.com profiles the largest operational solar power plants in the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:SItDiW3XIkkJ:https://www.power-technology.com/features/the-worlds-biggest-solar-power-plants/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Solar power - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Solar_power",
+      "displayed_link": "en.wikipedia.org › wiki › Solar_power",
+      "snippet": "Solar power is the conversion of energy from sunlight into electricity, either directly using photovoltaics (PV), indirectly using concentrated solar power, or a combination. ... The 392 MW Ivanpah installation is the largest concentrating solar power plant in the world, located in the Mojave Desert of California.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Solar power in the United States",
+            "link": "https://en.wikipedia.org/wiki/Solar_power_in_the_United_States"
+          },
+          {
+            "title": "Solar power by country",
+            "link": "https://en.wikipedia.org/wiki/Solar_power_by_country"
+          },
+          {
+            "title": "Solar energy",
+            "link": "https://en.wikipedia.org/wiki/Solar_energy"
+          },
+          {
+            "title": "Solar",
+            "link": "https://en.wikipedia.org/wiki/Solar_power_in_Canada"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:a5nXtFS9GaoJ:https://en.wikipedia.org/wiki/Solar_power+&cd=5&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Solar_power+solar+energy+plant&tbo=1&sa=X&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4QHzAEegQIBBAJ"
+    },
+    {
+      "position": 3,
+      "title": "Solar power plant - Simple English Wikipedia, the free ...",
+      "link": "https://simple.wikipedia.org/wiki/Solar_power_plant",
+      "displayed_link": "simple.wikipedia.org › wiki › Solar_power_plant",
+      "snippet": "A solar power plant is based on the conversion of sunlight into electricity, either directly using photovoltaics (PV), or indirectly using concentrated solar power ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:m9-LraStnRUJ:https://simple.wikipedia.org/wiki/Solar_power_plant+&cd=14&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://simple.wikipedia.org/wiki/Solar_power_plant+solar+energy+plant&tbo=1&sa=X&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4QHzANegQIAhAJ"
+    },
+    {
+      "position": 4,
+      "title": "Solar thermal power plants - U.S. Energy Information ... - EIA",
+      "link": "https://www.eia.gov/energyexplained/solar/solar-thermal-power-plants.php",
+      "displayed_link": "www.eia.gov › energyexplained › solar › solar-thermal-power-plants",
+      "date": "Jan 3, 2019",
+      "snippet": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6JsGiI54WV0J:https://www.eia.gov/energyexplained/solar/solar-thermal-power-plants.php+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "How Does a Solar Power Plant Work? - Interesting Engineering",
+      "link": "https://interestingengineering.com/how-does-a-solar-power-plant-work",
+      "displayed_link": "interestingengineering.com › how-does-a-solar-power-plant-work",
+      "date": "Nov 2, 2018",
+      "snippet": "A solar power plant is any type of facility that converts sunlight either directly, like Photovoltaics, or indirectly, like Solar Thermal plants, into ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hGbQ5k0EnT4J:https://interestingengineering.com/how-does-a-solar-power-plant-work+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Top 5 Largest Solar Power Plants of the World | SolarInsure",
+      "link": "https://www.solarinsure.com/largest-solar-power-plants",
+      "displayed_link": "www.solarinsure.com › largest-solar-power-plants",
+      "date": "Apr 11, 2019",
+      "snippet": "This makes it the largest solar power plant at a single location, taking the title from the Topaz Solar Farm in California, which has a capacity of ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rg2lWKyfKfMJ:https://www.solarinsure.com/largest-solar-power-plants+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "About Solar Energy | SEIA",
+      "link": "https://www.seia.org/initiatives/about-solar-energy",
+      "displayed_link": "www.seia.org › initiatives › about-solar-energy",
+      "snippet": "Solar energy is a very flexible energy technology: it can be built as distributed generation (located at or near the point of use) or as a central-station, utility-scale ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:veSbb4tMb6oJ:https://www.seia.org/initiatives/about-solar-energy+&cd=21&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Utility Scale Solar Power Plant Technology | SunPower Oasis ...",
+      "link": "https://us.sunpower.com/utility-scale-solar-power-plants",
+      "displayed_link": "us.sunpower.com › utility-scale-solar-power-plants",
+      "snippet": "SunPower Oasis is a custom, utility scale solar power plant platform built to work as a single product, with each component precision engineered to benefit the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:z0T0zKhlDCYJ:https://us.sunpower.com/utility-scale-solar-power-plants+&cd=22&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "What is Solar Energy and How Do Solar Panels Work ...",
+      "link": "https://us.sunpower.com/what-solar-energy-and-how-do-solar-panels-work",
+      "displayed_link": "us.sunpower.com › what-solar-energy-and-how-do-solar-panels-work",
+      "snippet": "Solar energy works by capturing the sun's energy and turning it into electricity for your home or business. Our sun is a natural nuclear reactor. It releases tiny ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kG32CDqbeXIJ:https://us.sunpower.com/what-solar-energy-and-how-do-solar-panels-work+&cd=23&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "working of solar power plant",
+      "link": "https://www.google.com/search?q=working+of+solar+power+plant&sa=X&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q1QIoAHoECAwQAQ"
+    },
+    {
+      "query": "solar power plant working principle",
+      "link": "https://www.google.com/search?q=solar+power+plant+working+principle&sa=X&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q1QIoAXoECAwQAg"
+    },
+    {
+      "query": "solar power plant pdf",
+      "link": "https://www.google.com/search?q=solar+power+plant+pdf&sa=X&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q1QIoAnoECAwQAw"
+    },
+    {
+      "query": "solar power plant in india",
+      "link": "https://www.google.com/search?q=solar+power+plant+in+india&sa=X&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q1QIoA3oECAwQBA"
+    },
+    {
+      "query": "solar power plant diagram",
+      "link": "https://www.google.com/search?q=solar+power+plant+diagram&sa=X&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q1QIoBHoECAwQBQ"
+    },
+    {
+      "query": "solar power plant cost",
+      "link": "https://www.google.com/search?q=solar+power+plant+cost&sa=X&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q1QIoBXoECAwQBg"
+    },
+    {
+      "query": "solar thermal power plant in india",
+      "link": "https://www.google.com/search?q=solar+thermal+power+plant+in+india&sa=X&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q1QIoBnoECAwQBw"
+    },
+    {
+      "query": "world largest solar power plant list",
+      "link": "https://www.google.com/search?q=world+largest+solar+power+plant+list&sa=X&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q1QIoB3oECAwQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=solar+energy+plant&ei=whYmXtXCEM3G0PEP1P2k8Ac&start=10&sa=N&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q8NMDegQIDxBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=solar+energy+plant&ei=whYmXtXCEM3G0PEP1P2k8Ac&start=10&sa=N&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q8tMDegQIDxAv",
+      "3": "https://www.google.com/search?q=solar+energy+plant&ei=whYmXtXCEM3G0PEP1P2k8Ac&start=20&sa=N&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q8tMDegQIDxAx",
+      "4": "https://www.google.com/search?q=solar+energy+plant&ei=whYmXtXCEM3G0PEP1P2k8Ac&start=30&sa=N&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q8tMDegQIDxAz",
+      "5": "https://www.google.com/search?q=solar+energy+plant&ei=whYmXtXCEM3G0PEP1P2k8Ac&start=40&sa=N&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q8tMDegQIDxA1",
+      "6": "https://www.google.com/search?q=solar+energy+plant&ei=whYmXtXCEM3G0PEP1P2k8Ac&start=50&sa=N&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q8tMDegQIDxA3",
+      "7": "https://www.google.com/search?q=solar+energy+plant&ei=whYmXtXCEM3G0PEP1P2k8Ac&start=60&sa=N&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q8tMDegQIDxA5",
+      "8": "https://www.google.com/search?q=solar+energy+plant&ei=whYmXtXCEM3G0PEP1P2k8Ac&start=70&sa=N&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q8tMDegQIDxA7",
+      "9": "https://www.google.com/search?q=solar+energy+plant&ei=whYmXtXCEM3G0PEP1P2k8Ac&start=80&sa=N&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q8tMDegQIDxA9",
+      "10": "https://www.google.com/search?q=solar+energy+plant&ei=whYmXtXCEM3G0PEP1P2k8Ac&start=90&sa=N&ved=2ahUKEwjVq5eGi5PnAhVNIzQIHdQ-CX4Q8tMDegQIDxA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+plant&start=10&token=5155b2a3a433feff",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+plant&start=10&token=5155b2a3a433feff",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+plant&start=10&token=5155b2a3a433feff",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+plant&start=20&token=c29a75f6d6ece87a",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+plant&start=30&token=1f10323bb12acc90",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+plant&start=40&token=154e20a3123839ab",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+plant&start=50&token=545954958a5378ed",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+plant&start=60&token=d6507ca4fec73ae1",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+plant&start=70&token=33487dd4b9a15504",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+plant&start=80&token=3d87b5d296d77e28",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+plant&start=90&token=005ef3c93e6b0633"
+    }
+  }
+}

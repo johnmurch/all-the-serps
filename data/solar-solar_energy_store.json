@@ -1,0 +1,336 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 22:22:04 UTC",
+    "processed_at": "2020-01-20 22:22:04 UTC",
+    "google_url": "https://www.google.com/search?q=solar+energy+store&oq=solar+energy+store&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 4.5
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "solar energy store",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 242000000,
+    "time_taken_displayed": 0.68,
+    "query_displayed": "solar energy store"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=solar+energy+store&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=35119911,-97292930,289326&tbm=lcl&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0QtgN6BAgLEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 35.119911,
+      "longitude": -97.29293,
+      "altitude": 289326
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=solar+energy+store&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=35119911,-97292930,289326&tbm=lcl&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0QjGp6BAgLEDU",
+    "places": [
+      {
+        "position": 1,
+        "title": "Solar Survivor Shop",
+        "place_id": "1868477241025443378",
+        "lsig": "AB86z5VkjChj0h8FPfiQzyLFjRvp",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VkjChj0h8FPfiQzyLFjRvp&ludocid=1868477241025443378&q=solar+energy+store&tbm=lcl&token=ac8ecaec5b3a43ee",
+        "rating": 0,
+        "type": "Solar energy equipment supplier",
+        "hours": "(316) 554-8452",
+        "address": "Wichita, KS",
+        "website": "#",
+        "gps_coordinates": {
+          "latitude": 37.60284000000001,
+          "longitude": -97.379475
+        }
+      },
+      {
+        "position": 2,
+        "title": "The PowerStore Inc",
+        "place_id": "1189137640485370022",
+        "lsig": "AB86z5XmXu1mSfHVFUEthTzxaov1",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XmXu1mSfHVFUEthTzxaov1&ludocid=1189137640485370022&q=solar+energy+store&tbm=lcl&token=b0463ffb9c6309f5",
+        "rating": 4.7,
+        "reviews": 24,
+        "type": "Solar energy equipment supplier",
+        "hours": "Closes soon ⋅ 5PM · (817) 779-7210",
+        "address": "Alvarado, TX",
+        "website": "http://www.thepowerstore.com/",
+        "gps_coordinates": {
+          "latitude": 32.518932,
+          "longitude": -97.14983869999999
+        }
+      },
+      {
+        "position": 3,
+        "title": "Off-Grid Energy Solutions",
+        "place_id": "10325894458697740349",
+        "lsig": "AB86z5WmhElmubf1ZDBHINkt_vWb",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WmhElmubf1ZDBHINkt_vWb&ludocid=10325894458697740349&q=solar+energy+store&tbm=lcl&token=73fa0b2abebeff77",
+        "rating": 5,
+        "reviews": 1,
+        "type": "Solar energy equipment supplier",
+        "hours": "Closes soon ⋅ 5PM · (316) 258-0268",
+        "address": "Wichita, KS",
+        "website": "#",
+        "description": "\"I was so excited to see this store here in Wichita, KS! This is a MUST...\"",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 37.720891,
+          "longitude": -97.436022
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "Can solar energy be stored?",
+      "snippet": "Storing Photovoltaic Energy Solar panels can not produce energy at night or during cloudy periods. But rechargeable batteries can store electricity: the photovoltaic panels charge the battery during the day, and this power can be drawn upon in the evening.Dec 12, 2016",
+      "title": "How is Solar Energy Stored? | Solar Tribune",
+      "link": "https://solartribune.com/how-to-store-solar-energy/",
+      "displayed_link": "solartribune.com › how-to-store-solar-energy"
+    },
+    {
+      "question": "How much does it cost to store solar energy?",
+      "snippet": "Like solar, you can think of the costs as both a gross price and a price per relative capacity. Solar batteries range from $5,000 to $7,000+ and from $400 dollars per kilowatt hour (kWh) to $750/kWh.May 13, 2019",
+      "title": "2019 Cost of Solar Panel Batteries | EnergySage",
+      "link": "https://www.energysage.com/solar/solar-energy-storage/what-do-solar-batteries-cost/",
+      "displayed_link": "www.energysage.com › solar › solar-energy-storage › what-do-solar-bat..."
+    },
+    {
+      "question": "What is solar energy storage?",
+      "snippet": "Solar Battery Storage Definition: A device that reserves energy for later consumption that is charged by a connected solar system. The stored electricity is consumed after sundown, during energy demand peaks, or during a power outage. Most common on residential or commercial buildings.Apr 30, 2018",
+      "title": "Solar Battery Storage - Definition | Solar Terms | Sunrun",
+      "link": "https://www.sunrun.com/go-solar-center/solar-terms/definition/solar-battery-storage",
+      "displayed_link": "www.sunrun.com › go-solar-center › definition › solar-battery-storage"
+    },
+    {
+      "question": "How many solar batteries are needed to power a house?",
+      "snippet": "So, simple math would dictate that the average Aussie would need about 11kWh of solar battery storage to offset all their night usage. If you are using original Tesla Powerwall (6.4kWh battery), then you'd need 2 of them. The new Powerwall however, has 13.2kWh capacity and costs around $8,750.",
+      "title": "How Many Batteries Do You Need? - SolarQuotes",
+      "link": "https://www.solarquotes.com.au/battery-storage/sizing/",
+      "displayed_link": "www.solarquotes.com.au › battery-storage › sizing"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Solar Panels, Solar Power Systems, Off-Grid & DIY Solar | altE",
+      "link": "https://www.altestore.com/store/",
+      "displayed_link": "www.altestore.com › store",
+      "snippet": "Specializing in off-grid, grid-tie and DIY solar power since 1999. Shop our wide selection of solar panels, solar power systems and accessories. ... Featured Solar Panels & Solar Gear.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Solar Panels",
+            "link": "https://www.altestore.com/store/solar-panels-c541/"
+          },
+          {
+            "title": "Solar Power Systems",
+            "link": "https://www.altestore.com/store/solar-power-systems-c447/"
+          },
+          {
+            "title": "Deep Cycle Batteries",
+            "link": "https://www.altestore.com/store/deep-cycle-batteries-c434/"
+          },
+          {
+            "title": "Inverters",
+            "link": "https://www.altestore.com/store/inverters-c497/"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KOXKvWZdwWcJ:https://www.altestore.com/store/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "The Solar Store Home Page | The Solar Store",
+      "link": "https://thesolarstore.com/",
+      "displayed_link": "thesolarstore.com",
+      "snippet": "From Solar Panels to Inverters. The Solar Store offers everything you need to live off grid. Click now to shop our huge selection of solar power systems!",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Products",
+            "link": "https://thesolarstore.com/all-products.php"
+          },
+          {
+            "title": "Contact Us",
+            "link": "https://thesolarstore.com/contact_us.php"
+          },
+          {
+            "title": "Solar Water Pumping",
+            "link": "https://thesolarstore.com/solar-water-pumping-c-53.html"
+          },
+          {
+            "title": "PV Solar Panels",
+            "link": "https://thesolarstore.com/pv-solar-panels-c-21.html"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:F1mvV-KnJrYJ:https://thesolarstore.com/+&cd=5&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://thesolarstore.com/+solar+energy+store&tbo=1&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0QHzAEegQIAxAH"
+    },
+    {
+      "position": 3,
+      "title": "Wholesale Solar - DIY Solar, Panels & Complete Systems",
+      "link": "https://www.wholesalesolar.com/",
+      "displayed_link": "www.wholesalesolar.com",
+      "snippet": "Shop solar panels, complete solar system kits, components & parts for Off-Grid, Grid-Tie, and custom solar solutions with industry best support & pricing.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Solar Panels",
+            "link": "https://www.wholesalesolar.com/solar-panels"
+          },
+          {
+            "title": "Complete Solar Kits",
+            "link": "https://www.wholesalesolar.com/complete-systems"
+          },
+          {
+            "title": "Off Grid Solar",
+            "link": "https://www.wholesalesolar.com/off-grid-packages"
+          },
+          {
+            "title": "Solar Cost Calculator",
+            "link": "https://www.wholesalesolar.com/solar-information/solar-cost"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jCwSVMVBCl4J:https://www.wholesalesolar.com/+&cd=6&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.wholesalesolar.com/+solar+energy+store&tbo=1&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0QHzAFegQICBAH"
+    },
+    {
+      "position": 4,
+      "title": "How is Solar Energy Stored in 2019? | EnergySage",
+      "link": "https://www.energysage.com/solar/solar-energy-storage/how-do-solar-batteries-work/",
+      "displayed_link": "www.energysage.com › solar › how-do-solar-batteries-work",
+      "date": "May 10, 2019",
+      "snippet": "Learn how solar batteries store energy for later use. Get the breakdown on solar plus storage.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XlWqfksV2_IJ:https://www.energysage.com/solar/solar-energy-storage/how-do-solar-batteries-work/+&cd=15&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.energysage.com/solar/solar-energy-storage/how-do-solar-batteries-work/+solar+energy+store&tbo=1&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0QHzAOegQIAhAJ"
+    },
+    {
+      "position": 5,
+      "title": "Solar Energy, Premium Quality Compact Fluorescent Bulbs ...",
+      "link": "https://www.energystore-usa.com/",
+      "displayed_link": "www.energystore-usa.com",
+      "snippet": "The Energy Store, Your Source for Solar Systems, Generators, Solar Panels, Solar Air Conditioner, Kipor Generators, Photographic Bulbs, LED Flashlights, ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:E8hPLR27SZUJ:https://www.energystore-usa.com/+&cd=16&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.energystore-usa.com/+solar+energy+store&tbo=1&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0QHzAPegQIBxAH"
+    },
+    {
+      "position": 6,
+      "title": "How to Store Solar Energy - Swell Energy",
+      "link": "https://www.swellenergy.com/how-to-store-solar-energy",
+      "displayed_link": "www.swellenergy.com › how-to-store-solar-energy",
+      "snippet": "How to store solar energy from solar PV panels. Storing your solar energy created by your photovoltaic solar panels has never been easier. This is due in large ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:DhUhhnVD6HsJ:https://www.swellenergy.com/how-to-store-solar-energy+&cd=17&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.swellenergy.com/how-to-store-solar-energy+solar+energy+store&tbo=1&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0QHzAQegQIBRAJ"
+    },
+    {
+      "position": 7,
+      "title": "Real Goods: Solar & Off Grid Living",
+      "link": "https://realgoods.com/",
+      "displayed_link": "realgoods.com",
+      "snippet": "Real Goods is the off grid living source. Solar panels, deep cycle batteries, solar water pumps, and off grid living supplies and resources since 1978.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EIEIeio5MTsJ:https://realgoods.com/+&cd=18&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://realgoods.com/+solar+energy+store&tbo=1&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0QHzARegQICRAH"
+    },
+    {
+      "position": 8,
+      "title": "Best solar panels and solar kits you need to go solar! Off-grid ...",
+      "link": "https://www.solarpanelstore.com/",
+      "displayed_link": "www.solarpanelstore.com",
+      "snippet": "Buy quality solar kits, solar panels & parts (charge controllers, inverters, mounts & more) for off-grid, grid-tied, home, RV, ... From the Solar Panel Store Blog .",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uSosUxGMGeQJ:https://www.solarpanelstore.com/+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "A1 Solar Store: Solar Power Systems & Solar Energy Equipment",
+      "link": "https://a1solarstore.com/",
+      "displayed_link": "a1solarstore.com",
+      "snippet": "A1 Solar Store is online shop for Solar panels, Inverters, solar batteries. Currently in stock for sale brands: Panasonic, Enphase, Solar World, Canadian Solar, ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:R9MawNfOC4YJ:https://a1solarstore.com/+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Wholesale Solar Inverters | Grid Tied and Off Grid Solar Systems",
+      "link": "https://www.thepowerstore.com/",
+      "displayed_link": "www.thepowerstore.com",
+      "snippet": "The PowerStore Inc - One stop shop for high-efficiency grid tied and off-grid solar ... Generate solar energy from the sun and store it at your utility grid - available ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YFQyV8s5NkUJ:https://www.thepowerstore.com/+&cd=21&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.thepowerstore.com/+solar+energy+store&tbo=1&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0QHzAUegQIBhAH"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "solar panels",
+      "link": "https://www.google.com/search?q=solar+panels&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "solar supply store near me",
+      "link": "https://www.google.com/search?q=solar+supply+store+near+me&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q1QIoAXoECA0QAg"
+    },
+    {
+      "query": "solar panels for sale",
+      "link": "https://www.google.com/search?q=solar+panels+for+sale&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q1QIoAnoECA0QAw"
+    },
+    {
+      "query": "best place to buy solar panels",
+      "link": "https://www.google.com/search?q=best+place+to+buy+solar+panels&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q1QIoA3oECA0QBA"
+    },
+    {
+      "query": "solar batteries",
+      "link": "https://www.google.com/search?q=solar+batteries&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "wholesale solar",
+      "link": "https://www.google.com/search?q=wholesale+solar&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q1QIoBXoECA0QBg"
+    },
+    {
+      "query": "alte store",
+      "link": "https://www.google.com/search?q=alte+store&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q1QIoBnoECA0QBw"
+    },
+    {
+      "query": "solar panel store",
+      "link": "https://www.google.com/search?q=solar+panel+store&sa=X&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=solar+energy+store&ei=DygmXtHhLofS-gTQ4qjoBA&start=10&sa=N&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q8NMDegQIDxBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=solar+energy+store&ei=DygmXtHhLofS-gTQ4qjoBA&start=10&sa=N&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q8tMDegQIDxAu",
+      "3": "https://www.google.com/search?q=solar+energy+store&ei=DygmXtHhLofS-gTQ4qjoBA&start=20&sa=N&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q8tMDegQIDxAw",
+      "4": "https://www.google.com/search?q=solar+energy+store&ei=DygmXtHhLofS-gTQ4qjoBA&start=30&sa=N&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q8tMDegQIDxAy",
+      "5": "https://www.google.com/search?q=solar+energy+store&ei=DygmXtHhLofS-gTQ4qjoBA&start=40&sa=N&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q8tMDegQIDxA0",
+      "6": "https://www.google.com/search?q=solar+energy+store&ei=DygmXtHhLofS-gTQ4qjoBA&start=50&sa=N&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q8tMDegQIDxA2",
+      "7": "https://www.google.com/search?q=solar+energy+store&ei=DygmXtHhLofS-gTQ4qjoBA&start=60&sa=N&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q8tMDegQIDxA4",
+      "8": "https://www.google.com/search?q=solar+energy+store&ei=DygmXtHhLofS-gTQ4qjoBA&start=70&sa=N&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q8tMDegQIDxA6",
+      "9": "https://www.google.com/search?q=solar+energy+store&ei=DygmXtHhLofS-gTQ4qjoBA&start=80&sa=N&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q8tMDegQIDxA8",
+      "10": "https://www.google.com/search?q=solar+energy+store&ei=DygmXtHhLofS-gTQ4qjoBA&start=90&sa=N&ved=2ahUKEwiRparGm5PnAhUHqZ4KHVAxCk0Q8tMDegQIDxA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+store&start=10&token=ecc87d4350f0aa50",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+store&start=10&token=ecc87d4350f0aa50",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+store&start=10&token=ecc87d4350f0aa50",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+store&start=20&token=c59c129ba049c563",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+store&start=30&token=b628a31f9bed787f",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+store&start=40&token=5ba4343e55eaab47",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+store&start=50&token=1950def886eaf3f7",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+store&start=60&token=6fd0a8dd292f64b4",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+store&start=70&token=730db1865832524e",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+store&start=80&token=2f7ebbf00d87869a",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+store&start=90&token=2936a32db3a5b6be"
+    }
+  }
+}

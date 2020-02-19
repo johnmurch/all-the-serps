@@ -1,0 +1,327 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 19:47:06 UTC",
+    "processed_at": "2020-01-20 19:47:06 UTC",
+    "google_url": "https://www.google.com/search?q=what+is+a+merger+and+acquisition&oq=what+is+a+merger+and+acquisition&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 5.83
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what is a merger and acquisition",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 79400000,
+    "time_taken_displayed": 0.55,
+    "query_displayed": "what is a merger and acquisition"
+  },
+  "knowledge_graph": {
+    "title": "Mergers and acquisitions",
+    "type": "Organization termination type",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "description": "Mergers and acquisitions are transactions in which the ownership of companies, other business organizations, or their operating units are transferred or consolidated with other entities.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Mergers_and_acquisitions"
+    },
+    "mergers_and_acquisitions_books": [
+      {
+        "name": "Mergers & acquisitions from A to Z",
+        "link": "https://www.google.com/search?q=Mergers+and+acquisitions+from+A+to+Z&stick=H4sIAAAAAAAAAONgFuLQz9U3MDWrtFDiArHMcjMsipK1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKAsVyclKTSzLz8_ST8vOzixexqvimFqWnFhUrJOalKCQmF5ZmFmeC5IsV0orycxUcFUryFaJ2sDICACBatRFsAAAA&sa=X&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQxA0wJnoECA0QBQ",
+        "source": "common",
+        "image": "data:image/png;base64,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"
+      },
+      {
+        "name": "Mergers And Acquisiti...",
+        "link": "https://www.google.com/search?q=Mergers+And+Acquisitions+for+Dummies&stick=H4sIAAAAAAAAAONgFuLQz9U3MDWrtFDiArGyjErMKiq0RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKAsVyclKTSzLz8_ST8vOzixexqvimFqWnFhUrOOalKDgmF5ZmFmeC5IsV0vKLFFxKc3MzU4t3sDICANw4APtsAAAA&sa=X&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQxA0wJnoECA0QBw",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Make the Deal: Negotiati...",
+        "link": "https://www.google.com/search?q=Make+the+Deal:+Negotiating+Mergers+and+Acquisitions+Christopher+S.+Harrison&stick=H4sIAAAAAAAAAONgFuLQz9U3MDWrtFDi1U_XNzRMKk8rz0ouM9ISyU620k_Oz83Nz7NKyS_PK08sSilexSgIFMvJSU0uyczP00_Kz88uXsTq7ZuYnapQkpGq4JKamGOl4Jeanl-SmViSmZeu4JtalJ5aVKyQmJei4JhcWJpZnAnSWqzgnFGUWVySX5CRWqQQrKfgkVgE5Ofn7WBlBADpOc0GlgAAAA&sa=X&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQxA0wJnoECA0QCQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Investment Banking: Valuatio...",
+        "link": "https://www.google.com/search?q=Investment+Banking:+Valuation,+Leveraged+Buyouts,+and+Mergers+and+Acquisitions&stick=H4sIAAAAAAAAAONgFuLQz9U3MDWrtFDi0U_XNzRKyo03Mk8z1hLJTrbST87Pzc3Ps0rJL88rTyxKKV7FKAgUy8lJTS7JzM_TT8rPzy5exOrnmVeWWlySm5pXouCUmJedmZdupRCWmFOaCFKlo-CTWpZalJiemqLgVFqZX1pSrKOQmJei4JtalJ5aVAxmOyYXlmYWZ4LUF-9gZQQAxpWR_ZgAAAA&sa=X&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQxA0wJnoECA0QCw",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "The Complete Guide to...",
+        "link": "https://www.google.com/search?q=The+Complete+Guide+to+Mergers+and+Acquisitions:+Process+Tools+to+Support+M%26A+Integration+at+Every+Level&stick=H4sIAAAAAAAAABXLMQrCMBSAYYoUOrgoHuDh4OASHbTarYiIYEGwu9TkUUOTvJqkLb2OoyfweNr15_uj0TRimq022343H7OSrXvR3nm8j5eziieMk9ZkEkGd6Qor3CeY_JtSyL0kwx5ElXuHZf5EOJCuFXqEUyMFgifI0JZoHRRGQMpfjXRyuFwCV0scnYOcSLmB3pq6JushW6RwNh5LWwwUCg_HFm0PF2xRfcPgBzXG-WGxAAAA&sa=X&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQxA0wJnoECA0QDQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      }
+    ],
+    "mergers_and_acquisitions_books_link": "https://www.google.com/search?q=Mergers+and+Acquisitions+books&stick=H4sIAAAAAAAAAONgFuLQz9U3MDWrtFCCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMQoCxXJyUpNLMvPz9JPy87OLF7HK-aYWpacWFSsk5qUoOCYXlmYWZ4LkixXACnawMgIAUU5SYGQAAAA&sa=X&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQMSgAMCZ6BAgNEAE",
+    "mergers_and_acquisitions_books_stick": "H4sIAAAAAAAAAONgFuLQz9U3MDWrtFCCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMQoCxXJyUpNLMvPz9JPy87OLF7HK-aYWpacWFSsk5qUoOCYXlmYWZ4LkixXACnawMgIAUU5SYGQAAAA"
+  },
+  "inline_videos": [
+    {
+      "title": "What does \"Mergers & Acquisitions\" mean?",
+      "link": "https://www.youtube.com/watch?v=S7DoKFPOhZk",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKdbTAlNB4gUsWgFDo8-YWxttSXV572jGuWjKtA4Nc_R1ZR9vzlz8pzrdT",
+      "channel": "Frankfurt School of...",
+      "duration": "1:29",
+      "platform": "YouTube",
+      "date": "Jan 25, 2016"
+    },
+    {
+      "title": "Mergers and Acquisitions Explained: A Crash Course on M&A",
+      "link": "https://www.youtube.com/watch?v=WBHzCDgEtVQ",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQb3ZSCGuYSmWXVNylhaGBwk5nh2gCzPELGs6Pfb01RqmqQ9V5W5gVnQbK5Q",
+      "channel": "Brett Cenkus",
+      "duration": "13:15",
+      "platform": "YouTube",
+      "date": "May 15, 2018"
+    },
+    {
+      "title": "The difference between a merger and an acquisition",
+      "link": "https://www.youtube.com/watch?v=sTttm39gfMU",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbY0TQDA1_5SKBk2K9ZYfO6eIWRByrm23UOnqLu_aA_DrxqfFbSJoCmkSHg",
+      "channel": "Marketplace APM",
+      "duration": "1:50",
+      "platform": "YouTube",
+      "date": "Feb 20, 2019"
+    },
+    {
+      "title": "Acquisitions with shares (video)",
+      "link": "https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/mergers-acquisitions/v/acquisitions-with-shares",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-YNvultGoqT6MpDDu2ek2bqJuNkE7sTAOZuF1SLCYUc8vSbet4qUizSQ&usqp=CAI&s",
+      "channel": "Khan Academy",
+      "duration": "3:47",
+      "platform": "Khan Academy",
+      "date": "Sep 1, 2013"
+    },
+    {
+      "title": "Mergers, Acquisition & Failures",
+      "link": "https://www.youtube.com/watch?v=EWNZa4s0vlU",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfI1UN5fZzBJunfGu6p1Hgt6GQ0Ad0mVnINLyHPbSsi4KZ3-W1hYbaJXDzcg",
+      "channel": "Raj Ramesh",
+      "duration": "3:27",
+      "platform": "YouTube",
+      "date": "Jan 13, 2016"
+    },
+    {
+      "title": "Mergers & Acquisitions (M&A) Model",
+      "link": "https://www.youtube.com/watch?v=tSLZCGG3RK8",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqlyiXWUEJEWzkC8IMXxjTA20Cx5Az5ZJr6_37gy4NYPSgziBHsbHb2J2_5g",
+      "channel": "Corporate Finance Institute",
+      "duration": "5:07",
+      "platform": "YouTube",
+      "date": "Jun 27, 2018"
+    },
+    {
+      "title": "Simple merger arbitrage with share acquisition (video)",
+      "link": "https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/mergers-acquisitions/v/simple-merger-arb-with-share-acquisition",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPJyo6yewshdbJSEXCijl76sdQedURx0kFPT_RU7LWZkuNeG6daLyUXdg&usqp=CAI&s",
+      "channel": "Khan Academy",
+      "duration": "4:22",
+      "platform": "Khan Academy",
+      "date": "Sep 2, 2013"
+    },
+    {
+      "title": "Company Merger Acquisition Amalgamation and ...",
+      "link": "https://www.youtube.com/watch?v=nHy-b2e1-wA",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqexhZ-xa7K4M9t1hUbVbPrndBnw4sx5BffPhEJHoMgNNc-r5E8nCVQXB9rA",
+      "channel": "UPSCMantra : A Synergy...",
+      "duration": "8:01",
+      "platform": "YouTube",
+      "date": "Mar 11, 2017"
+    },
+    {
+      "title": "Hedge Fund Merger Arbitrage Strategy - Speculating on ...",
+      "link": "https://www.youtube.com/watch?v=zgYEHB93ri4",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5rMzmOpgpKvG0B8Wu5MpWef4jJCwYV8bNhjUU2neqFbnLHyE7rBosURb7",
+      "channel": "UKspreadbetting",
+      "duration": "7:30",
+      "platform": "YouTube",
+      "date": "Jan 12, 2018"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the difference between a merger and an acquisition?",
+      "snippet": "A merger occurs when two separate entities combine forces to create a new, joint organization. Meanwhile, an acquisition refers to the takeover of one entity by another. Mergers and acquisitions may be completed to expand a company's reach or gain market share in an attempt to create shareholder value.Jun 25, 2019",
+      "title": "What's the Difference Between Mergers and Acquisitions?",
+      "link": "https://www.investopedia.com/ask/answers/021815/what-difference-between-merger-and-acquisition.asp",
+      "displayed_link": "www.investopedia.com › what-difference-between-merger-and-acquisition"
+    },
+    {
+      "question": "What is merger and acquisition and examples?",
+      "snippet": "Mergers and acquisitions (M&A) are defined as consolidation of companies. Differentiating the two terms, Mergers is the combination of two companies to form one, while Acquisitions is one company taken over by the other. M&A is one of the major aspects of corporate finance world.Jun 16, 2015",
+      "title": "Mergers & Acquisitions: Meaning, Importance, Examples, Case ...",
+      "link": "https://www.edupristine.com/blog/mergers-acquisitions",
+      "displayed_link": "www.edupristine.com › blog › mergers-acquisitions"
+    },
+    {
+      "question": "What are the reason for merger and acquisition?",
+      "snippet": "Reasons for M&A Companies merge with or acquire other companies for a host of reasons, including: 1. Synergies: By combining business activities, overall performance efficiency tends to increase and across-the-board costs tend to drop, due to the fact that each company leverages off of the other company's strengths.Jul 28, 2019",
+      "title": "Why Do Companies Merge With or Acquire Other Companies?",
+      "link": "https://www.investopedia.com/ask/answers/why-do-companies-merge-or-acquire-other-companies/",
+      "displayed_link": "www.investopedia.com › ask › answers › why-do-companies-merge-or-..."
+    },
+    {
+      "question": "What happens during a merger and acquisition?",
+      "snippet": "The acquiring company buys out enough ownership in the target company to effectively gain control over it. ... Once ownership is acquired, shareholders are paid for their stake in the company and then the process of actually merging two companies together begins.Jun 5, 2019",
+      "title": "Mergers and Acquisitions 101 : How to Survive a Merger ...",
+      "link": "https://www.christopherspenn.com/2019/06/mergers-and-acquisitions-101-how-to-survive-merger/",
+      "displayed_link": "www.christopherspenn.com › 2019/06 › mergers-and-acquisitions-101-..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Mergers and Acquisitions – M&A Definition - Investopedia",
+      "link": "https://www.investopedia.com/terms/m/mergersandacquisitions.asp",
+      "displayed_link": "www.investopedia.com › Business › Business Essentials",
+      "date": "Jun 21, 2019",
+      "snippet": "Mergers and acquisitions (M&A) is a general term that refers to the consolidation of companies or assets through various types of financial ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pfJcLztFljUJ:https://www.investopedia.com/terms/m/mergersandacquisitions.asp+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "What's the Difference Between Mergers and Acquisitions?",
+      "link": "https://www.investopedia.com/ask/answers/021815/what-difference-between-merger-and-acquisition.asp",
+      "displayed_link": "www.investopedia.com › ... › Mergers & Acquisitions",
+      "date": "Jun 25, 2019",
+      "snippet": "Mergers vs. A merger occurs when two separate entities combine forces to create a new, joint organization. Meanwhile, an acquisition refers to the takeover of one entity by another. Mergers and acquisitions may be completed to expand a company's reach or gain market share in an attempt to create shareholder value.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4wyvsZX1bwIJ:https://www.investopedia.com/ask/answers/021815/what-difference-between-merger-and-acquisition.asp+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "What You Need To Know About Mergers & Acquisitions: 12 ...",
+      "link": "https://www.forbes.com/sites/allbusiness/2018/08/27/mergers-and-acquisitions-key-considerations-when-selling-your-company/",
+      "displayed_link": "www.forbes.com › sites › allbusiness › 2018/08/27 › mergers-and-acq...",
+      "date": "Aug 27, 2018",
+      "snippet": "Mergers and acquisitions involving privately held companies entail a number of key legal, business, human resources, intellectual property, ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NSycAvr-VoEJ:https://www.forbes.com/sites/allbusiness/2018/08/27/mergers-and-acquisitions-key-considerations-when-selling-your-company/+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Mergers and Acquisitions (M&A) Definition - What is Mergers ...",
+      "link": "https://www.shopify.com/encyclopedia/mergers-and-acquisitions-m-a",
+      "displayed_link": "www.shopify.com › encyclopedia › mergers-and-acquisitions-m-a",
+      "snippet": "Mergers and acquisitions, or M&A for short, involves the process of combining two companies into one. ... The end result of both processes is the same, but the relationship between the two companies differs based on whether a merger or acquisition occurred.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OoG76FgFZ2EJ:https://www.shopify.com/encyclopedia/mergers-and-acquisitions-m-a+&cd=12&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.shopify.com/encyclopedia/mergers-and-acquisitions-m-a+what+is+a+merger+and+acquisition&tbo=1&sa=X&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQHzALegQIBBAJ"
+    },
+    {
+      "position": 5,
+      "title": "Mergers and acquisitions - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Mergers_and_acquisitions",
+      "displayed_link": "en.wikipedia.org › wiki › Mergers_and_acquisitions",
+      "snippet": "Mergers and acquisitions (M&A) are transactions in which the ownership of companies, other business organizations, or their operating units are transferred or ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GdNYfFeQfg4J:https://en.wikipedia.org/wiki/Mergers_and_acquisitions+&cd=13&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Mergers_and_acquisitions+what+is+a+merger+and+acquisition&tbo=1&sa=X&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQHzAMegQIBxAJ"
+    },
+    {
+      "position": 6,
+      "title": "Mergers & Acquisitions: Meaning, Importance, Examples ...",
+      "link": "https://www.edupristine.com/blog/mergers-acquisitions",
+      "displayed_link": "www.edupristine.com › blog › mergers-acquisitions",
+      "date": "Jun 16, 2015",
+      "snippet": "Everything about Mergers and Acquisitions: Meaning, Reasons that it takes place, types, procedure involved, examples and the recent case ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ecrsQD6z9cQJ:https://www.edupristine.com/blog/mergers-acquisitions+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "What Are Mergers and Acquisitions? Definitions and What ...",
+      "link": "https://www.thestreet.com/markets/mergers-and-acquisitions/what-are-mergers-and-acquisitions-14939523",
+      "displayed_link": "www.thestreet.com › markets › what-are-mergers-and-acquisitions-14...",
+      "date": "May 3, 2019",
+      "snippet": "Whether it's Amazon acquiring Whole Foods or AT&T buying Time Warner, mergers and acquisitions, or M&A, are responsible for some of the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:h6pyg9KTcYEJ:https://www.thestreet.com/markets/mergers-and-acquisitions/what-are-mergers-and-acquisitions-14939523+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "M&A Process - Steps in the Mergers & Acquisitions Process",
+      "link": "https://corporatefinanceinstitute.com/resources/knowledge/deals/mergers-acquisitions-ma-process/",
+      "displayed_link": "corporatefinanceinstitute.com › ... › Knowledge › Deals & Transactions",
+      "snippet": "This guide takes you through all the steps in the M&A process. Learn how mergers and acquisitions and deals are completed. In this guide, we'll outline the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3_KpFatW5hoJ:https://corporatefinanceinstitute.com/resources/knowledge/deals/mergers-acquisitions-ma-process/+&cd=25&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Mergers and Acquisitions | Definition, Difference, Process ...",
+      "link": "https://efinancemanagement.com/mergers-and-acquisitions",
+      "displayed_link": "efinancemanagement.com › mergers-and-acquisitions",
+      "snippet": "Mergers and Acquisitions (M&A) are considered a very complex financial topic. This is a type of business alliance are used by companies either to diversify or to ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Wc1hda0GE84J:https://efinancemanagement.com/mergers-and-acquisitions+&cd=26&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "merger and acquisition difference",
+      "link": "https://www.google.com/search?q=merger+and+acquisition+difference&sa=X&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ1QIoAHoECBMQAQ"
+    },
+    {
+      "query": "types of mergers and acquisitions",
+      "link": "https://www.google.com/search?q=types+of+mergers+and+acquisitions&sa=X&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ1QIoAXoECBMQAg"
+    },
+    {
+      "query": "merger and acquisition process",
+      "link": "https://www.google.com/search?q=merger+and+acquisition+process&sa=X&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ1QIoAnoECBMQAw"
+    },
+    {
+      "query": "mergers and acquisitions companies",
+      "link": "https://www.google.com/search?q=mergers+and+acquisitions+companies&sa=X&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ1QIoA3oECBMQBA"
+    },
+    {
+      "query": "merger and acquisition case study",
+      "link": "https://www.google.com/search?q=merger+and+acquisition+case+study&sa=X&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ1QIoBHoECBMQBQ"
+    },
+    {
+      "query": "mergers and acquisitions news",
+      "link": "https://www.google.com/search?q=mergers+and+acquisitions+news&sa=X&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ1QIoBXoECBMQBg"
+    },
+    {
+      "query": "mergers and acquisitions pdf",
+      "link": "https://www.google.com/search?q=mergers+and+acquisitions+pdf&sa=X&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ1QIoBnoECBMQBw"
+    },
+    {
+      "query": "mergers and acquisitions salary",
+      "link": "https://www.google.com/search?q=mergers+and+acquisitions+salary&sa=X&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ1QIoB3oECBMQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what+is+a+merger+and+acquisition&ei=vwMmXv6UHYS5wAOrnZLIDQ&start=10&sa=N&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ8NMDegQIEhBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what+is+a+merger+and+acquisition&ei=vwMmXv6UHYS5wAOrnZLIDQ&start=10&sa=N&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ8tMDegQIEhAv",
+      "3": "https://www.google.com/search?q=what+is+a+merger+and+acquisition&ei=vwMmXv6UHYS5wAOrnZLIDQ&start=20&sa=N&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ8tMDegQIEhAx",
+      "4": "https://www.google.com/search?q=what+is+a+merger+and+acquisition&ei=vwMmXv6UHYS5wAOrnZLIDQ&start=30&sa=N&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ8tMDegQIEhAz",
+      "5": "https://www.google.com/search?q=what+is+a+merger+and+acquisition&ei=vwMmXv6UHYS5wAOrnZLIDQ&start=40&sa=N&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ8tMDegQIEhA1",
+      "6": "https://www.google.com/search?q=what+is+a+merger+and+acquisition&ei=vwMmXv6UHYS5wAOrnZLIDQ&start=50&sa=N&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ8tMDegQIEhA3",
+      "7": "https://www.google.com/search?q=what+is+a+merger+and+acquisition&ei=vwMmXv6UHYS5wAOrnZLIDQ&start=60&sa=N&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ8tMDegQIEhA5",
+      "8": "https://www.google.com/search?q=what+is+a+merger+and+acquisition&ei=vwMmXv6UHYS5wAOrnZLIDQ&start=70&sa=N&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ8tMDegQIEhA7",
+      "9": "https://www.google.com/search?q=what+is+a+merger+and+acquisition&ei=vwMmXv6UHYS5wAOrnZLIDQ&start=80&sa=N&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ8tMDegQIEhA9",
+      "10": "https://www.google.com/search?q=what+is+a+merger+and+acquisition&ei=vwMmXv6UHYS5wAOrnZLIDQ&start=90&sa=N&ved=2ahUKEwi-8MH1-JLnAhWEHHAKHauOBNkQ8tMDegQIEhA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+merger+and+acquisition&start=10&token=2087400663c73219",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+merger+and+acquisition&start=10&token=2087400663c73219",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+merger+and+acquisition&start=10&token=2087400663c73219",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+merger+and+acquisition&start=20&token=9c250d5319c1c25a",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+merger+and+acquisition&start=30&token=27039f86fa67022a",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+merger+and+acquisition&start=40&token=dd7daa0e7365be10",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+merger+and+acquisition&start=50&token=e1708ef2930571ae",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+merger+and+acquisition&start=60&token=5b42ba51d0472075",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+merger+and+acquisition&start=70&token=70f8b02021f92a54",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+merger+and+acquisition&start=80&token=cfd428d7fab9c04e",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+merger+and+acquisition&start=90&token=55ae2b6a948e9570"
+    }
+  }
+}

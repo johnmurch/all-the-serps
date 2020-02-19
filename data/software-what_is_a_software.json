@@ -1,0 +1,451 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 19:37:36 UTC",
+    "processed_at": "2020-01-20 19:37:36 UTC",
+    "google_url": "https://www.google.com/search?q=what+is+a+software&oq=what+is+a+software&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.55
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what is a software",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 5740000000,
+    "time_taken_displayed": 0.59,
+    "query_displayed": "what is a software"
+  },
+  "knowledge_graph": {
+    "title": "Software",
+    "type": "Software grouping",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "description": "Computer software, or simply software, is a collection of data or computer instructions that tell the computer how to work. This is in contrast to physical hardware, from which the system is built and actually performs the work.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Software"
+    },
+    "software": [
+      {
+        "name": "Microsoft Windows",
+        "link": "https://www.google.com/search?q=Microsoft+Windows&stick=H4sIAAAAAAAAAONgFuLQz9U3MMxNM1ACs0yK4i20RLKTrfST83Nz8_OsUvLL88oTi1KKVzGKAMVyclKTSzLz8_SL89NKgOKpi1gFfTOTi_JBfIXwzDyg-uIdrIwABysaE1oAAAA&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0QxA0wJ3oECA0QIg",
+        "source": "common",
+        "image": "data:image/png;base64,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"
+      },
+      {
+        "name": "Android",
+        "link": "https://www.google.com/search?q=ANDROID&stick=H4sIAAAAAAAAAONgFuLQz9U3MMxNM1DiArGMyitK0su1RLKTrfST83Nz8_OsUvLL88oTi1KKVzGKAMVyclKTSzLz8_SL89NKgOKpi1jZHf1cgvw9XXawMgIAfNzSclIAAAA&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0QxA0wJ3oECA0QJA",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAk1BMVEX///8y3oQAAAAZ3Hzh+ern5+cp3YHAwMBoaGhiYmJCQkI1NTUl3X/29vatra0S3Hpubm4aGhpaWlrw8PCLi4u88tKR6rb5/vvPz8+0tLTf398uLi7W1tZSUlJ0dHSX67pO4ZGz8Mxp5J/v/PRB34rW9+N756nK9Nt9fX0QEBAmJiajo6Nf45qG6bCg7b+s78eWlpa2pAj3AAADVUlEQVRYhe2W23aqMBCGIZFYayAoHrCoBbSeD33/p9uTSaBEAaF6s9fqf1FrDl9m/pmktaxMW/5ptVTH3pSMnpj4aglaMzG9H90KFrfjJJSVRWSljI5bgbhNV2XjK2GzNpwJ55fKmRZ+w7l2xdSU26I01lKlTFQ6Ae6lTTn1tVnbZS0wLamxXNqpBn0Zx3TGl81pbVMhBF/H6SQpHHKtKH2mvAVWyYYJyhmztRjjXIjTp4JJO8vizKVaYHqNBc8RRTEu2ARSOleWPhO0wPlcQdHiIr7Sxy0nk6ih6Lhsuq3HTDcPKVpx7Q1PKG/IsZnYVLo9PdGmGCnOKtL7emzOjUTp1UxESwyIltyoz19wIL341qjJrzjg+dp8LyatbDZJxZguv4wHSfEPZ/wEB3zKHe88xYHaTTToOQxIqM7cGNeiWVferOLS8K2RmIjT9cMKMp6mxkuDNhlL8HW4PiDxFAJYnYokeOqvxcT0O3t+8AYoa43jYjMg0aSMXBfJeLpYKWhVD9Kv9cSI+wak/lQltSaxkwLFxqgJUu2+qsOAaILXyjztphvZOtleHj63dDMepzfp37U1b/JsM0pv+/b5+/EH+gO9EkRfJKvzIpX8N/Gn/1+u41RPhm5zkEdIJalPBs1JNaAPQkj4kogWJGrMqQVZH8059aCiZrMPWRkwLZD16XrdfCr0ZoEGOXIuDLPhuVrgZBWVu8CwYUgIbB8SMidSCtXF33czBEVkIedUhPmaBRlgLHJAgsgeJ95Ipnk2q+YA9E7ecbW1y9Z8w5oe6cPPI363XCvwSQ6CjxGECFHDFw8+FkSDYGvYlfhDqKKda5Bsgpk2Y5iBPPmtLwMeZbNRBsK5AyEBlgtPQ9Ay8wI0z0D4DRgu7NwXq/au5hyVkqUXIyjC/JSCe1AkT9RnI2jxc6KljHEQ5O7Jsg7UJ+95tAZI2zGSOWJEA9LLQd49qKfNkGX6AbkkCzTKU9NZ6+jvQF29JSRFkOVr00doFoIgCl8OfXdHpAQkD4qOsyUxQYHsX+8Ik4O8j6CSfc/DhlQV7BkgN1KN94agvgZh9FKHANtG3v5gjw15GPhzd+lDe818DNEK/SU+V95wcNg5jv8Ge779UWbEcbjf9zA/2LFTQ4t9/x9PVjoA+mFH0QAAAABJRU5ErkJggg=="
+      },
+      {
+        "name": "Linux",
+        "link": "https://www.google.com/search?q=Linux&stick=H4sIAAAAAAAAAONgFuLQz9U3MMxNM1DiBLHSCqqqCrREspOt9JPzc3Pz86xS8svzyhOLUopXMYoAxXJyUpNLMvPz9Ivz00qA4qmLWFl9MvNKK3awMgIAEeZZjU8AAAA&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0QxA0wJ3oECA0QJg",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAA2FBMVEX///8AAADnv13w8PDt7e2ysrKPj4/4+PiqqqrpwFxAQEBSUlKLi4twcHDb29vV1dWZmZni4uLvxmCgoKF5eXljY2P4+v7RrVTOzs68vLw5OTlKSkocHBzj5uzrwFQjIyMPDw/FxsdtZFK4mEiOcyu9wMWjjFbXs19WRyNGSlKsn4S/oV1mUiCxjzlkUihiTRLFok+oi0Spjk7SzsUZICswMDC/tJ67ljjOpTu9pW7DvLCRgV/DtJfasUpzXy7Hp1y7qH8vIgAcFwqFbjU5LxdIOx2gjmhPSDm7AvCpAAADQklEQVRYhe2XaXeaQBSGuYCacQGZsLkRLGmb1DbF2iSaSDRNl///j3pBgjOAypJPPX3PSSJGnrk7V0H4r7eQ3GyPLzpntTldiDWohWkNIVGzDghY1XCvx4Gg9TYGAUyrcpQUqLJvaoJw64IMfUeYnod/GlVBiqtoYR2dS7Km1wFputRvIUDoubJWC9Q3oDECwKDrUh0Qthn033mX77Gs7TpdIo0H8IES+vHq2hzVsUiCTxYVRZFQa/a5lmuXlIiRCKFXmL3KoC+URKKiRW8AulVB2lfP933P8+aeM0fXelVBA/jmRCFy/MV3BN1WBbkg3N0vl/erB0HQa8yRJvTxt2nG1kHVIGEty9xVVZN00NlLIwTphz58RNilEnttV32WGOmIDKs5p2TuicJdvpZG2efYLcAYwC7HmXIp26kR1iQMy4Fyb0DQqGS8B7mZ7gO0xzAqA8JYaNl3cX6P0SS1rkHRatIp1SjtVDG+SgbAAi8ebsXdG9TiktcJLco/JE9N5rMaF6tGaFHxZaINRvLa5o5vQbjpFJ3dmsuUr803Ssco0SaYs/1Fyo1m+HwrWkl99sgUaBDNgIIgHdrJ61aqRwduiVnSYcpaTpVxP5olSjHQiKlrOXVPNHCLjpI2Y7zGg9RhGYuumX1B4Xu3uVspcxo6T4/+FXRyQa/baWbm5WrtEDHpEW1f2PikvIhBpyG2IiiBKNKn7Cqs+Zt1zDHybuW0dYKZhSsR8bOzYusQsuM8n96374m426zoj0yKV/ifHcjbngR58YIm0pck3LHMDQnfRf2k/sScqJODlIl9F8Sc0LdUsZg+HkK9X+BahARWEASH7NoGjiMmQt/4qW1a0QGURmtl+OM85HIWDEWM8sa3pmSJKTmLXJDKg8g8VS3mMsUhq0OucSTi4SBkEqdeW4TnBAf7hCdZN+HXNKN7huoaWNIpUJDvWKR1wHzWsl74r4886ECkYy040m8eNGdBzvoYB0vJS9wjj4J0fsuAnijD2R7nYG6wo3acZRTp1rTZG0Wc8Z89yJmd4qDsWYgiWdvlpOydlVkAJAgPsyCwcmIwI8Xiw2ii5h058dFW4gRH81VI8nZjbbaHu76EzMILzb+jv/v/OXj3NV1MAAAAAElFTkSuQmCC"
+      },
+      {
+        "name": "Microsoft Excel",
+        "link": "https://www.google.com/search?q=Microsoft+Excel&stick=H4sIAAAAAAAAAONgFuLQz9U3MMxNM1ACs0yNSoq0RLKTrfST83Nz8_OsUvLL88oTi1KKVzGKAMVyclKTSzLz8_SL89NKgOKpi1j5fTOTi_JBfAXXiuTUnB2sjABDIi_FWAAAAA&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0QxA0wJ3oECA0QKA",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAbFBMVEX///8gckX3+fgAajV4oIcAZzEAXiDF1MoAaTYUbj8KbDsAazlKhmP09/UbcEL8/fyfuaiswrPY4txnlXjh6eQAYihRimiGqZOVtKEAWA/r8O3L2tFEgVxum4BfkXPS39e4zL8td003fFUAUwAttadyAAACZUlEQVRYhe2X2ZqiMBCFE4ZAQjQQdtka7fd/x6kKtMoIMyF4N54LBPz8PdRGQshHH310THETJknSHmI0X7o6UcZlxGpHxDkd6+HKmRRKUVDkAMrDur9GjEfCICbtA0EwfHCxRMygxB7jBcUa4q7HNwokBC03EuDxTQb89nZ6Eb1tgH79BbT2aD7zHEArwXYDvcuRug1l2XmkPpWornUFUUiTKs6kkpgyxUJnEApBkTnj7iDBGLuciV8wVGAJmmpPSc6jH07V5HkOxZ9POtuAFL1O8U10WIvpnkvWrvB1ziAOI9y8zY2hBphJdUxwNOFZbgGaAUrBR3hvGyWlDCDYTKIKmxipDi60NLXcLXp4b9YYVFtcsAYMsUfW9juiooSrbFgYEpnWOolJqyfZxAgeISVkHBeG3HpNZHAFlXISjyer8jRNY4JHlFUdgSV0TtqHIbAE9fy9u7KjCm+Ugi61v9fYiDf08+yF7heYNS5Qlt2vpmEcP8/7ru/7wSM661HDlxUI/29sFpacsmZKu9RgSRwDoaEm6JZRioqiwKwFBepi3WtVxKAqiTrSayYjnIp+aQmYBmRmtg1IlTOAQ7hJ9OyIAWgKm7QAiSxJNHarmSNaziGqSRzHBA9GNsEWkZQmNEJdbz/9f/AFqe7BVl2WZaVHkiFDWRbkmpxaZEvveUFyzve/IFc482Br9g22V71vffQukPDb8A+1A13l/CPYPHiVvwG6rK6wNx2F6TqH4Jo/6SlbX7Dv30LEuAuhuP5XzluIJ51TXZXUbGqOgSY1rfY7Aebct1lP8vIRVlbHNn4fffTf6zd1IS6ctp4RdQAAAABJRU5ErkJggg=="
+      },
+      {
+        "name": "Microsoft Office",
+        "link": "https://www.google.com/search?q=Microsoft+Office&stick=H4sIAAAAAAAAAONgFuLQz9U3MMxNM1ACs0yNqpK0RLKTrfST83Nz8_OsUvLL88oTi1KKVzGKAMVyclKTSzLz8_SL89NKgOKpi1gFfDOTi_JBfAX_tLTM5NQdrIwAlUFTmFkAAAA&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0QxA0wJ3oECA0QKg",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAb1BMVEXrPAD////rNwDuaFLsSjDqKAD509LqLQD2ta7qIwDqMQD2s6v98e///fzsRiLznZLxiHr5z8r3vbX4yMPzmY7+9vT86ufpFAD0p5785ODvb1v73drylIj619PrQhzrOwrwf2/wd2ftVDftYEntWkADE0y3AAABgklEQVRYhe3YbZNDMBAAYA25yFKCSlAU7f//jZdO25keedO7b5f9iHkmuyuZ2QSHPZG22leBu3KsOkqz/PxLaGAIoyBAgMd++BjiTUQheAXQkRXH/VBdhpSg4EcAvUzVD8sKFRPBK+VpYTKXtSPET+NbSptAmHZxbYXqZBEG5WkRcU24CZK9XhdGa9Eo0UDnR6+dA64qiDeLqTDKRYUb6FiG2DElEzQw2JWSGuJ5ZkkJ6V6/QXV8E2BajNxkYjllFqiajb2WDSZdft9ekfqrB3TuL/rCICA0m5PX2WGA2khbGJkNXljJ37phgL6oLht0O1Xp6u8wQXjzGAiGrhnqwzZ2QPKkYbH2aHaHoF9n8yFEYpPjIQ95yEMe8pCHPOQhD/0nCIk/gQDPqmuPnRAiuOdmxgVCNEvW9yYfQCDCwq5YIYKZNScHSGSNajLbDQ2Nca5yhw5pOV+nphxSh1qbp+z7bcgohMBROOVx0ZpACySjzTOEEMhxlgq4zUwukStEPfQNU5gffvAi9kQAAAAASUVORK5CYII="
+      }
+    ],
+    "software_link": "https://www.google.com/search?q=Software&stick=H4sIAAAAAAAAAONgFuLQz9U3MMxNM1CCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMYoAxXJyUpNLMvPz9Ivz00qA4qmLWDmCocwdrIwAnu5tnlEAAAA&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0QMSgAMCd6BAgNEB4",
+    "software_stick": "H4sIAAAAAAAAAONgFuLQz9U3MMxNM1CCs7REspOt9JPzc3Pz86xS8svzyhOLUopXMYoAxXJyUpNLMvPz9Ivz00qA4qmLWDmCocwdrIwAnu5tnlEAAAA",
+    "people_also_search_for": [
+      {
+        "name": "Computer hardware",
+        "link": "https://www.google.com/search?q=Computer+hardware&stick=H4sIAAAAAAAAAONgFuLQz9U3MMxNM1CCsbK0-Jzzc3Pz84IzU1LLEyuLF7EKAgUKSktSixQyEotSyhOLUnewMgIAojjJez0AAAA&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0QxA0wKHoECA0QMg",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Operating system",
+        "link": "https://www.google.com/search?q=Operating+system&stick=H4sIAAAAAAAAAONgFuLQz9U3MMxNM1ACs0yzMzK0-Jzzc3Pz84IzU1LLEyuLF7EK-BekFiWWZOalKxRXFpek5u5gZQQA2R-A9zwAAAA&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0QxA0wKHoECA0QNA",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Download",
+        "link": "https://www.google.com/search?q=Download&stick=H4sIAAAAAAAAAONgFuLQz9U3MMxNM1ACs5JyjZO0-Jzzc3Pz84IzU1LLEyuLF7FyuOSX5-XkJ6bsYGUEAJg6p5w0AAAA&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0QxA0wKHoECA0QNg",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Computer",
+        "link": "https://www.google.com/search?q=Computer&stick=H4sIAAAAAAAAAONgFuLQz9U3MMxNM1CCsozLtPic83Nz8_OCM1NSyxMrixexcgAFCkpLUot2sDICAArj7_U0AAAA&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0QxA0wKHoECA0QOA",
+        "source": "common",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAEgASAMBIgACEQEDEQH/xAAcAAACAwEBAQEAAAAAAAAAAAAABgQFBwMCCAH/xABEEAABAgQDAwUKCgsAAAAAAAABAgMABAURBiExBxJBExQiMlEjYWJykaGxwdHSJCZCRVJkcYGTshUWJzM0U4SUosLw/8QAGQEBAAMBAQAAAAAAAAAAAAAAAAEDBAUC/8QAHxEAAgICAgMBAAAAAAAAAAAAAAECAwQREmEUIVEz/9oADAMBAAIRAxEAPwDcYI4TU5KyaUqm5llgKNkl1wJufvjmip09zqT0qr7Hkn1wBLgjmiYZcIDbzaieCVAwvO4+wq04ptyssJWglKhuqyI14QAywQrHaJhIa1pn7kL92PJ2j4RHz03+E57sANcEKR2lYQHzyj8B33Y8nadg4a1kf27vuwA3wQs0vH2GKtUGKfT6ny00+SG0cg6neISVHMpAGQMEAZ/t5XyiZBDllJQ+QAeHRjIuSYv0m2vImNZ25kHmquHOSP8AE+yMlSq4zV54HlDpgFVM/WzCyJSQQxNomFh+YCr8rdKrZXyt9ghswpLyjsrNqflWHFiefG8tpKj1z2iEPZyfj5Q87/Cu3wTDdh+bDKagi+lSmPzmL8dbnoyZraq9fRxVKSAaB5jK6fyU+yKipNSg3UplZcbySMmk9h70dHJ8c1Bvwijn57ujKr6FJjdCv2ctzlJkIIYN+4ta/QETWWmeTPcW9B8gRTJe3XFJvoYsWXxySs+Ai9xIltH5Q9xvaThwoSlN3XRkLfIUPXBEakO/tBw4r60pPlFoI5WStWs7WJ+KLjbsAlmUA4TZ86VGM8oM1SktVD9OGeWvm/wPm6zk5n1s8vk2vca34Q+7dHUqDSQb7k4Ae93NUZGViKC5DTs9dUrHdBK1FR52kZm/AxZNzfITlURfSpTH5zFHs7cvj2gj64n1w8TmzbFpqVQdl5SnrZfnHXkKcmiDuqWSLgDsi/HsjXPciq+t2Q0ivNTvKEX4xXzU4VjWL4bNsalJSJWiJHhTLp9EJ2LmqthKqJp1Xl6cZhbQeHIF1Sd0kgZlQz6J4Ru8yrsxrDmicp+7yldpvEhubs2oX7IMG4axBjKnvT9JTR22mXiyoTK3kq3t0HK18rKHnhlb2VYrKbLmaGknXdceP+sPNq7JeHNi1SH/AI6YdXf5xbT5VpEEN1M2U1+XrNMnZmepZbk5xqYUlsubxCFhRAuO9BGC+xWTckbaYOEOLLTbTTZSalpIqbKnlOFRte3RBAJt4xGeUZG1Qt5Ke4N3IvYrAOtuPez70fT1SpFPqgR+kJRp8t33CsZpvrY6jQRXjB9CBumRKfFfcA8yoqTPbTMKpOGpuTnWJyRckGZllW826JhBKVdoH/e1hm6njRkkmsOugoUsBklWlsuinrG+XDXSNcRhylI6su4P6hz3o6ih021jLBQ8Jaj6TDaI4sxpE3jVxZQKjU19Ld3m237W3Qb9XS9x2372cU9Tw/iKqzZfqVKqU47uhPLPyylG3AAqOmfmMb4aBSD1qbKr8doK9MDeH6I0bt0enoPamVQPVE7J4swWUlMTUVlTMo0/IMKPSAmW2QfCsVjPTyEdkMVMxpjRVJQxJSyZ/mv8RMSykTTwRwtuFSSq/wBLUD742RqUlmf3Mu034qAI7RGwo6FDAGJJ6vJnG52Qn5cMFJQ7OM7il34ZJAJBHAdl4Ib4Ig9BBBBABBBBABBBBABBBBABBBBAH//Z"
+      },
+      {
+        "name": "Firmware",
+        "link": "https://www.google.com/search?q=Firmware&stick=H4sIAAAAAAAAAONgFuLQz9U3MMxNM1ACs5IsSsy1-Jzzc3Pz84IzU1LLEyuLF7FyuGUW5ZYnFqXuYGUEAHAXMTE0AAAA&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0QxA0wKHoECA0QOg",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAw1BMVEUAAAAJDxEuVXYA/wANmw8MUwwA/AAF+QY6NzgLHgwN5A8L/w0EHAU4MzMN4Q4GJAgIMwoHOAgHKAgDDQQOZxI2LTY4MjctPE48UWcsPlQwQVIEGQUFFwYGIQgShBcHLQkKRAwLWQ0QehUOYRELSg4ObxI1Lis6WB8/Xx9OdSgsQRoySRsgNQ8JCA4jLj9IYHggKTIVGh9VgS5ckDECKB4qN0NKZ4VYd5lMYYUhbjEXHwwTFgtrpTUKDxkhdS8SkBcOuRIR3Vr4AAADhElEQVRYhe2Wa1fjNhCGh5JpWdYgyRI42Jasa7NsyJXG0G632v//qzqG3uhCCoH2Q0+e44wVWR7Lo3dGhm/eCDg/Ozs7P6fj6Ojk+5M7fjudnNx3Hd21acQw5klg8mFy+XFyOb3Ss/mi2ow31ZJOdb2sqmo5q8dVvRrMBXZdjLCF9Xp9vb68XH/4gW4fL8b1YlNVi4u+78fjermo+5tx1S/62x9jgWmbIymfvrZakTnYdve/wU93c/o0NA/q2TCJg/nqz1ksh/7B6IZMq+97W8HI2vaPYVbA+vr6Z/pRjGoKUb+4WFR9vbi9oWZffV6M+5t6fNPf3P5irUnKeK9AAnpvEpiYfPbUFM4pmE6nk8nV1fSjnq1W8/lyXq1Wmw21NstltVnON+Pl5818XtlSRNeVtmMgBNfSlpwJzrigBi+t/c9C+HxCdIVyPm8V23PwLgmfXMZXT4lzRLdFlc/2o/zIZPF6R9DKQWhkGtJXWVDSUCdjL/ajPOWiS8kol7KJJDBHfSa82FHXcAGclTHKUgRuFclLsM6+2JEL1sXgAqLyEL0eZpdESD546kNAgw4hBxqWTchSqZxHjK4o51BZeiEIORUKEKOKITjkSoHCTlMmmNC6QLpQEXUKVnXcJRQWQwjaOmeTdWiRpyCiUoJFF+0/huI+wbeq4w2k8/CRImK0IDS9MsgDzXXRigYEB2s7KMBKBlq0mheFiyJaqjwtdZbAhGSNaNuygZmWDcSQfciUJSRLbVKiGkPRMSSC7F0kHShnbPJGFQ0qqkius8aEFDPdmFWkwSYGlf1QtDvSddG2kmutJZNd2TJGkpCFlrxhkrGSsY7pshBM6LJrOppFy7guyw4s55yiVJZvFyPcCSd+33/IynZYucPd+PKOEikPwjUtRSuV8N1OvP+iIQSliuRUixgcLXIolbW6Q/GJciXy6HA4hG3LGGxEGyx79zXNVzJUgXIIIXkrMaSceDI5kQQCGK9SdMmnXYrn3QbIoOio4r1yFXdmtBv0YdJSSW1lUwBpudl9+TWkPMLgc6bUGRkOp6enx6d/4fj47u/xtw84PP4bIw0YqaqijfQFYYUGMjMctnUROkSrZ7TVidT4w4eO/GNhEToGymRAZzw4Z4UXYRCPp5VGyj4VRTDvH2Iec2Q7nobCijGpp9ZAFg/Qj5bBt66Ne/bs2bNnz549/ysO3ohfAbEieKoUZ+DfAAAAAElFTkSuQmCC"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?q=Software&stick=H4sIAAAAAAAAAONgFuLQz9U3MMxNM1CCs7SEs5Ot9JPzc3Pz86yKM1NSyxMrixexcgTnp5WUJxal7mBlBACTzlvsOQAAAA&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0QMSgAMCh6BAgNEC4",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLQz9U3MMxNM1CCs7SEs5Ot9JPzc3Pz86yKM1NSyxMrixexcgTnp5WUJxal7mBlBACTzlvsOQAAAA"
+  },
+  "inline_videos": [
+    {
+      "title": "What is Software?",
+      "link": "https://www.youtube.com/watch?v=MSA3WsGeTNI",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKbcDG3w7IBnUgx84LGeDf5C4CGBvEzvd4-rlYftXn2SZ8Q1BmLWo6DwM",
+      "channel": "I Am Dev",
+      "duration": "2:02",
+      "platform": "YouTube",
+      "date": "Sep 21, 2016"
+    },
+    {
+      "title": "Hardware and Software (video)",
+      "link": "https://www.khanacademy.org/computing/computer-science/how-computers-work2/v/khan-academy-and-codeorg-hardware-and-software",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR86csBFENkwR9Lj8YyGr7UcneAWGAdZZEmzGe5ruDhqMRrGyrsT3Gz2GFn40vds4udspvqwI&usqp=CAI&s",
+      "channel": "Khan Academy Partners",
+      "duration": "5:23",
+      "platform": "Khan Academy",
+      "date": "Jan 16, 2018"
+    },
+    {
+      "title": "What do I do as a Software Engineer?",
+      "link": "https://www.youtube.com/watch?v=5kas2jBObUY",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRW4-7FSrX7nYJqutEFUk0WUQ3-emVL86YaP_qCb66ySUdt8oem-8w8r_YslQ",
+      "channel": "mayuko",
+      "duration": "4:36",
+      "platform": "YouTube",
+      "date": "Oct 3, 2017"
+    },
+    {
+      "title": "Fastest way to become a software developer",
+      "link": "https://www.youtube.com/watch?v=CvJG4sQhzsw",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpS-2GW077of_1h2ft4myvn7EaITo2Y1t7MEBgML6gRWe4k34E4WdtvvbiiQ",
+      "channel": "Imtiaz Ahmad",
+      "duration": "7:40",
+      "platform": "YouTube",
+      "date": "Apr 5, 2018"
+    },
+    {
+      "title": "What is a Design Doc: Software Engineering Best Practice #1",
+      "link": "https://www.youtube.com/watch?v=aRPKBVHmm2U",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHR_DGyd0clkXmLGUCu_y4lHdo8wLDvzsHf3A9aS6NtH6-yCFfOBFso83V",
+      "channel": "TechLead",
+      "duration": "10:13",
+      "platform": "YouTube",
+      "date": "Mar 11, 2019"
+    },
+    {
+      "title": "What is a typical day like for a software developer?",
+      "link": "https://www.youtube.com/watch?v=25ZMXBCMX2s",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnXb3W_pGdKdHLxZ2wN1Z4xglfoyki1K-aQ8nw99g6pPG6IgqOQR3A22wVcw",
+      "channel": "Silicon Republic",
+      "duration": "2:17",
+      "platform": "YouTube",
+      "date": "May 24, 2019"
+    },
+    {
+      "title": "What is a Software Defined Network",
+      "link": "https://www.youtube.com/watch?v=lPL_oQT9tmc",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvbo2IQHDPaDwaPUm0n0whpqcdMXsMTGnjSsxzPlmPf2iLnHQBHbSNhNP11w",
+      "channel": "plixerweb",
+      "duration": "5:22",
+      "platform": "YouTube",
+      "date": "Mar 10, 2014"
+    },
+    {
+      "title": "What is a Software Driver as Fast As Possible",
+      "link": "https://www.youtube.com/watch?v=t-aRlwLI-b0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0EvOTQFJOSSA9VJo1ZpqCqSbykWlBUoMLHYlGvFCtlJXRr0M9PdLdsASf",
+      "channel": "Techquickie",
+      "duration": "4:55",
+      "platform": "YouTube",
+      "date": "Apr 16, 2014"
+    },
+    {
+      "title": "What is an SDK? (Software Development Kit)",
+      "link": "https://www.youtube.com/watch?v=676FMfkYxOk",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRj0NMrremnYtOik096RV-Js6Q0QXscE1340NrAfA5JuKvelBWTtZbzxGUIsn0E3w",
+      "channel": "Techquickie",
+      "duration": "5:32",
+      "platform": "YouTube",
+      "date": "Nov 23, 2016"
+    },
+    {
+      "title": "What is an API?",
+      "link": "https://www.youtube.com/watch?v=s7wmiS2mSXY",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3Dk7xEWlIMDr-S-yUSsCk00nN7VAWnv_7vyztqyWhYH6kSC3fzfF3bqveog",
+      "channel": "MuleSoft Videos",
+      "duration": "3:25",
+      "platform": "YouTube",
+      "date": "Jun 19, 2015"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is software and examples?",
+      "snippet": "Examples—- Software. Internet browser---firefox,Google,chrome, Operating systems—-android,iOS,Linux,macOS,windows. Photo graphics program---adobe photo shop.Oct 8, 2018",
+      "title": "What is a software? What are 5 examples? - Quora",
+      "link": "https://www.quora.com/What-is-a-software-What-are-5-examples",
+      "displayed_link": "www.quora.com › What-is-a-software-What-are-5-examples"
+    },
+    {
+      "question": "What exactly is Software?",
+      "snippet": "Software, in its most general sense, is a set of instructions or programs instructing a computer to do specific tasks. Software is a generic term used to describe computer programs. Scripts, applications, programs and a set of instructions are all terms often used to describe software.",
+      "title": "What is Software? - Definition from Techopedia",
+      "link": "https://www.techopedia.com/definition/4356/software",
+      "displayed_link": "www.techopedia.com › definition › software"
+    },
+    {
+      "question": "What are the 3 types of software?",
+      "snippet": "The three types of computer software's are systems software, programming software and applications software. Read on to know the differences.",
+      "title": "Different Types Of Computer Software - Singapore street directory",
+      "link": "https://www.streetdirectory.com/etoday/different-types-of-computer-software-jjwap.html",
+      "displayed_link": "www.streetdirectory.com › etoday › different-types-of-computer-softwa..."
+    },
+    {
+      "question": "What are types of software?",
+      "snippet": "There are two main types of software: systems software and application software. Systems software includes the programs that are dedicated to managing the computer itself, such as the operating system, file management utilities, and disk operating system (or DOS).",
+      "title": "What is Application Software? - Definition, Examples & Types ...",
+      "link": "https://study.com/academy/lesson/what-is-application-software-definition-examples-types.html",
+      "displayed_link": "study.com › academy › lesson › what-is-application-software-definition-..."
+    }
+  ],
+  "answer_box": {
+    "type": "dictionary_results",
+    "syllables": "soft·ware",
+    "phonetic": "ˈsôf(t)wer",
+    "word_type": "noun",
+    "definitions": [
+      "the programs and other operating information used by a computer."
+    ],
+    "examples": [
+      "\"the software industry\""
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Software - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Software",
+      "displayed_link": "en.wikipedia.org › wiki › Software",
+      "snippet": "Computer software, or simply software, is a collection of data or computer instructions that tell the computer how to work. This is in contrast to physical hardware, ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Types",
+            "link": "https://en.wikipedia.org/wiki/Software#Types"
+          },
+          {
+            "title": "Purpose, or domain of use",
+            "link": "https://en.wikipedia.org/wiki/Software#Purpose,_or_domain_of_use"
+          },
+          {
+            "title": "Nature or domain of ...",
+            "link": "https://en.wikipedia.org/wiki/Software#Nature_or_domain_of_execution"
+          },
+          {
+            "title": "Topics",
+            "link": "https://en.wikipedia.org/wiki/Software#Topics"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Zg1VVNb0NWgJ:https://en.wikipedia.org/wiki/Software+&cd=10&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Software+what+is+a+software&tbo=1&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0QHzAJegQIAxAJ"
+    },
+    {
+      "position": 2,
+      "title": "What is software? - Definition from WhatIs.com",
+      "link": "https://searchapparchitecture.techtarget.com/definition/software",
+      "displayed_link": "searchapparchitecture.techtarget.com › definition › software",
+      "date": "Feb 4, 2019",
+      "snippet": "Software is a set of instructions, data or programs used to operate computers and execute specific tasks. Opposite of hardware, which describes the physical aspects of a computer, software is a generic term used to refer to applications, scripts and programs that run on a device.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2e3ea_hU6aQJ:https://searchapparchitecture.techtarget.com/definition/software+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "What is Software? - Computer Hope",
+      "link": "https://www.computerhope.com/jargon/s/software.htm",
+      "displayed_link": "www.computerhope.com › jargon › software",
+      "date": "Jul 10, 2019",
+      "snippet": "Computer software or software dictionary definition with examples, related links, types of software programs, and related terms.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Examples and types of ...",
+            "link": "https://www.computerhope.com/jargon/s/software.htm#examples"
+          },
+          {
+            "title": "How do you get software?",
+            "link": "https://www.computerhope.com/jargon/s/software.htm#software"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:51ecQCnherMJ:https://www.computerhope.com/jargon/s/software.htm+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "What is Software? - Definition from Techopedia",
+      "link": "https://www.techopedia.com/definition/4356/software",
+      "displayed_link": "www.techopedia.com › definition › software",
+      "snippet": "Software, in its most general sense, is a set of instructions or programs instructing a computer to do specific tasks. Software is a generic term used to describe computer programs. Scripts, applications, programs and a set of instructions are all terms often used to describe software.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:f1DpcFg5OKIJ:https://www.techopedia.com/definition/4356/software+&cd=13&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.techopedia.com/definition/4356/software+what+is+a+software&tbo=1&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0QHzAMegQICRAJ"
+    },
+    {
+      "position": 5,
+      "title": "What is Application Software? - Definition, Examples & Types ...",
+      "link": "https://study.com/academy/lesson/what-is-application-software-definition-examples-types.html",
+      "displayed_link": "study.com › academy › lesson › what-is-application-software-definitio...",
+      "date": "Oct 6, 2014",
+      "snippet": "What is computer application software, and how does it differ from other categories of software? This lesson introduces you to some examples ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KtcdaEC9xkQJ:https://study.com/academy/lesson/what-is-application-software-definition-examples-types.html+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "What is a software? What are 5 examples? - Quora",
+      "link": "https://www.quora.com/What-is-a-software-What-are-5-examples",
+      "displayed_link": "www.quora.com › What-is-a-software-What-are-5-examples",
+      "date": "Jun 3, 2018",
+      "snippet": "A software is a set of instructions or programs that instructs a system for performing a task. Softwares are intangible, meaning you can't touch them. In a layman ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What is computer software? What are the three categories of this ...",
+            "link": "https://www.quora.com/What-is-computer-software-What-are-the-three-categories-of-this-software",
+            "date": "Jan 30, 2019"
+          },
+          {
+            "title": "What is an example of a software?",
+            "link": "https://www.quora.com/What-is-an-example-of-a-software",
+            "date": "Jun 12, 2018"
+          },
+          {
+            "title": "What is a software? How would you explain the different types of ...",
+            "link": "https://www.quora.com/What-is-a-software-How-would-you-explain-the-different-types-of-software-with-examples",
+            "date": "Jan 22, 2019"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "answers": 6
+          },
+          "extensions": [
+            "6 answers"
+          ]
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "What is Software? Webopedia Definition",
+      "link": "https://www.webopedia.com/TERM/S/software.html",
+      "displayed_link": "www.webopedia.com › TERM › software",
+      "snippet": "Software means computer instructions or data. Software can be categorized as systems software (operating system) or applications software (word processors).",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AbBDeok3bQ0J:https://www.webopedia.com/TERM/S/software.html+&cd=26&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Computer software - ScienceDaily",
+      "link": "https://www.sciencedaily.com/terms/computer_software.htm",
+      "displayed_link": "www.sciencedaily.com › terms › computer_software",
+      "snippet": "Software is a program that enables a computer to perform a specific task, as opposed to the physical components of the system (hardware). This includes ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4PcIrg_-zJ4J:https://www.sciencedaily.com/terms/computer_software.htm+&cd=27&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.sciencedaily.com/terms/computer_software.htm+what+is+a+software&tbo=1&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0QHzAaegQIBxAJ"
+    },
+    {
+      "position": 9,
+      "title": "Software Definition - TechTerms",
+      "link": "https://techterms.com/definition/software",
+      "displayed_link": "techterms.com › definition › software",
+      "date": "Dec 5, 2006",
+      "snippet": "Computer software is a general term that describes computer programs. Related terms such as software programs, applications, scripts, and ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Hhx42JI5UvAJ:https://techterms.com/definition/software+&cd=28&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://techterms.com/definition/software+what+is+a+software&tbo=1&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0QHzAbegQIBBAJ"
+    }
+  ],
+  "related_search_boxes": [
+    {
+      "position": 1,
+      "query": "IndustriesView 3+ moreView 3+",
+      "results": []
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "what is software in computer",
+      "link": "https://www.google.com/search?q=what+is+software+in+computer&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q1QIoAHoECA4QAQ"
+    },
+    {
+      "query": "types of software",
+      "link": "https://www.google.com/search?q=types+of+software&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q1QIoAXoECA4QAg"
+    },
+    {
+      "query": "what is system software",
+      "link": "https://www.google.com/search?q=what+is+system+software&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q1QIoAnoECA4QAw"
+    },
+    {
+      "query": "computer software definition",
+      "link": "https://www.google.com/search?q=computer+software+definition&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q1QIoA3oECA4QBA"
+    },
+    {
+      "query": "application software",
+      "link": "https://www.google.com/search?q=application+software&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q1QIoBHoECA4QBQ"
+    },
+    {
+      "query": "software categories",
+      "link": "https://www.google.com/search?q=software+categories&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q1QIoBXoECA4QBg"
+    },
+    {
+      "query": "computer software programs",
+      "link": "https://www.google.com/search?q=computer+software+programs&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q1QIoBnoECA4QBw"
+    },
+    {
+      "query": "uses of application software",
+      "link": "https://www.google.com/search?q=uses+of+application+software&sa=X&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q1QIoB3oECA4QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what+is+a+software&ei=gQEmXqLAK8CUr7wPwca86AE&start=10&sa=N&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q8NMDegQIEhBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what+is+a+software&ei=gQEmXqLAK8CUr7wPwca86AE&start=10&sa=N&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q8tMDegQIEhAu",
+      "3": "https://www.google.com/search?q=what+is+a+software&ei=gQEmXqLAK8CUr7wPwca86AE&start=20&sa=N&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q8tMDegQIEhAw",
+      "4": "https://www.google.com/search?q=what+is+a+software&ei=gQEmXqLAK8CUr7wPwca86AE&start=30&sa=N&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q8tMDegQIEhAy",
+      "5": "https://www.google.com/search?q=what+is+a+software&ei=gQEmXqLAK8CUr7wPwca86AE&start=40&sa=N&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q8tMDegQIEhA0",
+      "6": "https://www.google.com/search?q=what+is+a+software&ei=gQEmXqLAK8CUr7wPwca86AE&start=50&sa=N&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q8tMDegQIEhA2",
+      "7": "https://www.google.com/search?q=what+is+a+software&ei=gQEmXqLAK8CUr7wPwca86AE&start=60&sa=N&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q8tMDegQIEhA4",
+      "8": "https://www.google.com/search?q=what+is+a+software&ei=gQEmXqLAK8CUr7wPwca86AE&start=70&sa=N&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q8tMDegQIEhA6",
+      "9": "https://www.google.com/search?q=what+is+a+software&ei=gQEmXqLAK8CUr7wPwca86AE&start=80&sa=N&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q8tMDegQIEhA8",
+      "10": "https://www.google.com/search?q=what+is+a+software&ei=gQEmXqLAK8CUr7wPwca86AE&start=90&sa=N&ved=2ahUKEwjihPbj9pLnAhVAyosBHUEjDx0Q8tMDegQIEhA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+software&start=10&token=23f7161cc280ba04",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+software&start=10&token=23f7161cc280ba04",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+software&start=10&token=23f7161cc280ba04",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+software&start=20&token=8a29e6e2b6f74d81",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+software&start=30&token=a8ffd3ca9e1c1981",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+software&start=40&token=eaff1c6e56bdfbb7",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+software&start=50&token=055b34a60448911f",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+software&start=60&token=a7de85a70b59139d",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+software&start=70&token=4b8ba16cce6f70e2",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+software&start=80&token=26b2dd0f62f36c5a",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+software&start=90&token=bb3257d067778a02"
+    }
+  }
+}

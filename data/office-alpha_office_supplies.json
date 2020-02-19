@@ -1,0 +1,239 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:25:54 UTC",
+    "processed_at": "2020-01-21 22:25:54 UTC",
+    "google_url": "https://www.google.com/search?q=alpha+office+supplies&oq=alpha+office+supplies&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.74
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "alpha office supplies",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 79300000,
+    "time_taken_displayed": 0.65,
+    "query_displayed": "alpha office supplies"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=alpha+office+supplies&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=37879906,-79681581,564873&tbm=lcl&sa=X&ved=2ahUKEwi8tc6h3pXnAhVF7WEKHeIsB-cQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 37.879906,
+      "longitude": -79.681581,
+      "altitude": 564873
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "title": "Alpha Office Supplies Inc",
+        "place_id": "17649344963481034697",
+        "lsig": "AB86z5VtkOoCCIBReDGs8jn5utd9",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VtkOoCCIBReDGs8jn5utd9&ludocid=17649344963481034697&q=alpha+office+supplies&tbm=lcl&token=4938920312611e41",
+        "rating": 4.7,
+        "reviews": 3,
+        "type": "Office supply store",
+        "hours": "Closed ⋅ Opens 8AM Wed · (215) 226-2690",
+        "address": "Philadelphia, PA",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 39.979328100000004,
+          "longitude": -75.2185314
+        }
+      },
+      {
+        "position": 2,
+        "title": "Alpha Office Products Inc",
+        "place_id": "8123159269436295379",
+        "lsig": "AB86z5XW2LzXbSm3GHmZPBSGnKeH",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XW2LzXbSm3GHmZPBSGnKeH&ludocid=8123159269436295379&q=alpha+office+supplies&tbm=lcl&token=9ccf5ca207ba6d58",
+        "rating": 0,
+        "type": "Office supply store",
+        "hours": "(440) 461-8550",
+        "address": "Cleveland, OH",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 41.552394899999996,
+          "longitude": -81.4512985
+        }
+      },
+      {
+        "position": 3,
+        "title": "Alpha Office Products",
+        "place_id": "3979544275546660979",
+        "lsig": "AB86z5U9bt2eCUWbNUDH3F2M8kfL",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5U9bt2eCUWbNUDH3F2M8kfL&ludocid=3979544275546660979&q=alpha+office+supplies&tbm=lcl&token=088f05e66ea03ce6",
+        "rating": 4.8,
+        "reviews": 6,
+        "type": "Office supply store",
+        "hours": "Closed ⋅ Opens 9AM Wed · (770) 887-1218",
+        "address": "Cumming, GA",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 34.207419099999996,
+          "longitude": -84.1446318
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Alpha Office Products, Inc.",
+      "link": "https://www.alphaofficeproducts.com/",
+      "displayed_link": "www.alphaofficeproducts.com",
+      "snippet": "Alpha offers a large variety of coffee, tea and cold drink products for your company. ... If you are looking for earth friendly office and janitorial supplies, we have ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "About Us",
+            "link": "https://www.alphaofficeproducts.com/public/?page=1"
+          },
+          {
+            "title": "Contact Us",
+            "link": "https://www.alphaofficeproducts.com/eGen/cnt/CommonPages/Contact.asp"
+          },
+          {
+            "title": "Office Supplies",
+            "link": "https://www.alphaofficeproducts.com/eGen/cnt/IbaShop/SmartSearch.asp?ss=true&c1=3&c2=37"
+          },
+          {
+            "title": "Ink & Toner",
+            "link": "https://www.alphaofficeproducts.com/eGen/cnt/IbaShop/SuppliesFinder.asp"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:63kNItuA_x0J:https://www.alphaofficeproducts.com/+&cd=1&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.alphaofficeproducts.com/+alpha+office+supplies&tbo=1&sa=X&ved=2ahUKEwi8tc6h3pXnAhVF7WEKHeIsB-cQHzAAegQIAhAH"
+    },
+    {
+      "position": 2,
+      "title": "Full Catalog - Alpha Office Products, Inc.",
+      "link": "https://www.alphaofficeproducts.com/eGen/cnt/IbaShop/CatalogOne.asp?cat=100&path=100",
+      "displayed_link": "www.alphaofficeproducts.com › eGen › cnt › IbaShop › CatalogOne",
+      "snippet": "Furniture · Back Supports, Footrests & Foot Stools Bookcases & Shelving Carts & Stands Chair Mats & Floor Mats Chairs, Stools & Seating Accessories Desks ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5yFLrvefTAIJ:https://www.alphaofficeproducts.com/eGen/cnt/IbaShop/CatalogOne.asp%3Fcat%3D100%26path%3D100+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Alpha Office Supplies - Philadelphia",
+      "link": "https://www.alphaos.com/",
+      "displayed_link": "www.alphaos.com",
+      "snippet": "At Alpha, First in Service with a Personal Touch is not only our motto, it is our true belief.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zsUkNCJiUM4J:https://www.alphaos.com/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Office & Professional Solutions - Alpha Professional Solutions",
+      "link": "http://alphaenterprisegroup.com/alpha-office-supplies/",
+      "displayed_link": "alphaenterprisegroup.com › alpha-office-supplies",
+      "snippet": "Alpha Office Supplies, Inc. (AOS) was founded in 1985 in Philadelphia, PA to meet specific office and building needs of commercial, federal, state and local ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:ODdqlGg5HKUJ:alphaenterprisegroup.com/alpha-office-supplies/+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Alpha Office Supplies, Inc. | discoverPHL.com - Philadelphia",
+      "link": "https://www.discoverphl.com/listing/?lid=23410",
+      "displayed_link": "www.discoverphl.com › Listing",
+      "snippet": "Alpha provides Office Supplies, Furniture, Flooring, Janitorial Supplies, Paper, Computers & Accessories; Electrical Supplies, including energy efficient lighting ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9Nq0YhA-gc8J:https://www.discoverphl.com/listing/%3Flid%3D23410+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Alpha Office Products",
+      "link": "http://v501.britlink.com/P1073/portal/alias__webcustomization3/tabID__0/DesktopDefault.aspx",
+      "displayed_link": "v501.britlink.com › portal › tabID__0 › DesktopDefault",
+      "snippet": "Big Things are happening at Alpha! On June 15th, Alpha Office Products merged with Sheffield Office Products. The two companies are very much alike in that ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:Qhcw5LEHEZIJ:v501.britlink.com/P1073/portal/alias__webcustomization3/tabID__0/DesktopDefault.aspx+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Alpha Office Products",
+      "link": "http://v501.britlink.com/P1073/DesktopDefault.aspx?Alias=webcustomization3&TabID=43644",
+      "displayed_link": "v501.britlink.com › DesktopDefault",
+      "snippet": "First Aid and Safety; Office Ergonomics; Product Videos; State Contract Furniture. Enhanced Browse. Facility & Breakroom · Breakroom Supplies · Cleaning ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:Q4BuSurMrNYJ:v501.britlink.com/P1073/DesktopDefault.aspx%3FAlias%3Dwebcustomization3%26TabID%3D43644+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Alpha Office Supplies - Office Equipment - 4950 Parkside Ave ...",
+      "link": "https://www.yelp.com/biz/alpha-office-supplies-philadelphia-2",
+      "displayed_link": "www.yelp.com › Shopping › Office Equipment",
+      "snippet": "Specialties: Alpha Enterprise Group (\"Alpha\"), a/k/a Alpha Office Supplies, Inc., was founded in Philadelphia, Pa., ... Best of Yelp Philadelphia – Office Equipment."
+    },
+    {
+      "position": 9,
+      "title": "Alpha Office Supplies Inc - Company Profile and News ...",
+      "link": "https://www.bloomberg.com/profile/company/3944156Z:US",
+      "displayed_link": "www.bloomberg.com › profile › company",
+      "snippet": "Company profile page for Alpha Office Supplies Inc including stock price, company news, press releases, executives, board members, and contact information.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7J5tllHLvToJ:https://www.bloomberg.com/profile/company/3944156Z:US+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Alpha Office Products, Cumming, GA Office Supplies Dealer ...",
+      "link": "https://www.c-lineproducts.com/dealer-detail.html?ID=484",
+      "displayed_link": "www.c-lineproducts.com › dealer-detail",
+      "snippet": "Alpha Office Products is an authorized dealer of C-Line Products, carrying a variety of products to meet your office supply needs. You can expect local, friendly ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3aasJ06CrwUJ:https://www.c-lineproducts.com/dealer-detail.html%3FID%3D484+&cd=13&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "alpha office products",
+      "link": "https://www.google.com/search?q=alpha+office+products&sa=X&ved=2ahUKEwi8tc6h3pXnAhVF7WEKHeIsB-cQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "alpha office solutions",
+      "link": "https://www.google.com/search?q=alpha+office+solutions&sa=X&ved=2ahUKEwi8tc6h3pXnAhVF7WEKHeIsB-cQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "alpha professional solutions",
+      "link": "https://www.google.com/search?q=alpha+professional+solutions&sa=X&ved=2ahUKEwi8tc6h3pXnAhVF7WEKHeIsB-cQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "staples",
+      "link": "https://www.google.com/search?q=staples&sa=X&ved=2ahUKEwi8tc6h3pXnAhVF7WEKHeIsB-cQ1QIoA3oECA0QBA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=alpha+office+supplies&ei=c3onXvyvGcXahwPi2Zy4Dg&start=10&sa=N&ved=2ahUKEwi8tc6h3pXnAhVF7WEKHeIsB-cQ8NMDegQIDhBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=alpha+office+supplies&ei=c3onXvyvGcXahwPi2Zy4Dg&start=10&sa=N&ved=2ahUKEwi8tc6h3pXnAhVF7WEKHeIsB-cQ8tMDegQIDhAu",
+      "3": "https://www.google.com/search?q=alpha+office+supplies&ei=c3onXvyvGcXahwPi2Zy4Dg&start=20&sa=N&ved=2ahUKEwi8tc6h3pXnAhVF7WEKHeIsB-cQ8tMDegQIDhAw",
+      "4": "https://www.google.com/search?q=alpha+office+supplies&ei=c3onXvyvGcXahwPi2Zy4Dg&start=30&sa=N&ved=2ahUKEwi8tc6h3pXnAhVF7WEKHeIsB-cQ8tMDegQIDhAy",
+      "5": "https://www.google.com/search?q=alpha+office+supplies&ei=c3onXvyvGcXahwPi2Zy4Dg&start=40&sa=N&ved=2ahUKEwi8tc6h3pXnAhVF7WEKHeIsB-cQ8tMDegQIDhA0",
+      "6": "https://www.google.com/search?q=alpha+office+supplies&ei=c3onXvyvGcXahwPi2Zy4Dg&start=50&sa=N&ved=2ahUKEwi8tc6h3pXnAhVF7WEKHeIsB-cQ8tMDegQIDhA2",
+      "7": "https://www.google.com/search?q=alpha+office+supplies&ei=c3onXvyvGcXahwPi2Zy4Dg&start=60&sa=N&ved=2ahUKEwi8tc6h3pXnAhVF7WEKHeIsB-cQ8tMDegQIDhA4",
+      "8": "https://www.google.com/search?q=alpha+office+supplies&ei=c3onXvyvGcXahwPi2Zy4Dg&start=70&sa=N&ved=2ahUKEwi8tc6h3pXnAhVF7WEKHeIsB-cQ8tMDegQIDhA6",
+      "9": "https://www.google.com/search?q=alpha+office+supplies&ei=c3onXvyvGcXahwPi2Zy4Dg&start=80&sa=N&ved=2ahUKEwi8tc6h3pXnAhVF7WEKHeIsB-cQ8tMDegQIDhA8",
+      "10": "https://www.google.com/search?q=alpha+office+supplies&ei=c3onXvyvGcXahwPi2Zy4Dg&start=90&sa=N&ved=2ahUKEwi8tc6h3pXnAhVF7WEKHeIsB-cQ8tMDegQIDhA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=alpha+office+supplies&start=10&token=859b6ad6ecc96a5b",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=alpha+office+supplies&start=10&token=859b6ad6ecc96a5b",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=alpha+office+supplies&start=10&token=859b6ad6ecc96a5b",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=alpha+office+supplies&start=20&token=a74207b006e5d9b9",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=alpha+office+supplies&start=30&token=4e1ee1774f899670",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=alpha+office+supplies&start=40&token=15650a329e674fef",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=alpha+office+supplies&start=50&token=18806681e9b5cd02",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=alpha+office+supplies&start=60&token=496e878cab828b1f",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=alpha+office+supplies&start=70&token=ae117cef12b6f9ba",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=alpha+office+supplies&start=80&token=17c5fd13116da89d",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=alpha+office+supplies&start=90&token=2147d87d403a5375"
+    }
+  }
+}

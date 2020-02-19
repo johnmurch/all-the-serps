@@ -1,0 +1,867 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 19:39:56 UTC",
+    "processed_at": "2020-01-20 19:39:56 UTC",
+    "google_url": "https://www.google.com/search?q=what+is+an+access+point&oq=what+is+an+access+point&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 3.68
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what is an access point",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 7320000000,
+    "time_taken_displayed": 0.49,
+    "query_displayed": "what is an access point"
+  },
+  "refine_by_brand": [
+    {
+      "link": "https://www.google.com/search?q=ubiquiti+access+point&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q_sUBKAAwGHoECBMQAg",
+      "title": "Ubiquiti Networks",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSlLXzXElYR3EjmwXkudD7cY38B0oXlIts4Ae9qvflivqhb1y402Mj18QdCfCY1TA2-83TrN1VGxEGhow9h10d78h_XPCXqWLnYa9vcBUfV8tomB2jC2rlk"
+    },
+    {
+      "link": "https://www.google.com/search?q=netgear+extender&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q_sUBKAEwGHoECBMQAw",
+      "title": "NETGEAR",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRU8yKTs13jJOEEVxgQKnHYN5u_X8Szf6UddfNiYEyXSjEANuBl5aVAolEmb1qTIQbU33NMEDc11W-YFjA0fD5l7Pqez9jv2hDwK7PXzKCv3aehGbWZyTWJ"
+    },
+    {
+      "link": "https://www.google.com/search?q=tp+link+access+point&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q_sUBKAIwGHoECBMQBA",
+      "title": "TP-Link",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRUWp85XM4XNv4AHBn5uoQlbdEea0u6b-3VdAkzfTOMMwaIAVR7Ys3qTtJt6NEh_U7q647upC6vrAQgpRt4YL9_NxMyjpyBMFhCTL5RaxWHvg6SJekkJGR_"
+    },
+    {
+      "link": "https://www.google.com/search?q=cisco+wireless+access+point&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q_sUBKAMwGHoECBMQBQ",
+      "title": "Cisco",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbhWJMBF1xyJs4oY5d0qNwDSQR8T_zh73J3S2wAY9QsNtr3tb-GPfkkLPSxsPim9KBMRIdLxdEao8DoXkTk5fsuLq4PWAkr4VxmFT183yf8s8Rm2ZbW4axxg"
+    },
+    {
+      "link": "https://www.google.com/search?q=linksys+wireless+access+point&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q_sUBKAQwGHoECBMQBg",
+      "title": "Linksys",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSiwJtfB5R44pWhcv0-ACUlCmXa46VPaXHR268DhlGzCjw0AIgPsby8GbKdeH6oTIdw1NYvRYZ5UV2T_Tj1HNrtRPpPLdnpdOu_oAFcVchU0VGK6_0jaTvL-A"
+    },
+    {
+      "link": "https://www.google.com/search?q=d-link+wifi+booster&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q_sUBKAUwGHoECBMQBw",
+      "title": "D-Link",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRw15F6A7paXU1i1QpgFHA6RluK0VW1cy3gfypTg8VwqGlI2MBB1PTw4lrn0qbPVosDkfbCyLLyODrgAhL-OF1tJEC1rBCJuADikggTdVhnh_dwMlrsSCse"
+    },
+    {
+      "link": "https://www.google.com/search?q=aruba+access+point&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q_sUBKAYwGHoECBMQCA",
+      "title": "HPE Aruba",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRKYRMv_ZP5JgQQ-KCVe8-w7ULjCMw8kbmbHLwW292acOq7Li8Wlc-VTFF2xpKQplCssRWtUCnN6_K02x1UTcDYz2awSkEv_icsdDjYX1TkbQZR1KMmcizGZQ"
+    },
+    {
+      "link": "https://www.google.com/search?q=asus+wifi+booster&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q_sUBKAcwGHoECBMQCQ",
+      "title": "ASUS",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQr0vDAjQZPS6fa-baB93J2-UNyu7BiXIvYNPavduanEdCHSI6lu8yYZ2LcMUXJL6rvKBv6UIV58ibPDhUgEkEX0edKefWhHM6nAmiM143veY1kVcHCHaPM"
+    },
+    {
+      "link": "https://www.google.com/search?q=ruckus+access+point&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q_sUBKAgwGHoECBMQCg",
+      "title": "Ruckus Wireless",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT7iupfLTalZNENeo5K0vZ1ZPw2iilmlQ_Mnze7Ho0cgO-Fwmis-thxTYF0NTHJZ994BGi2tGK1KPLb3kksA3sDmPn_hwCiqTx69IpzhGLwk-0I17O-MK2Fxa5q"
+    },
+    {
+      "link": "https://www.google.com/search?q=apple+access+point&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q_sUBKAkwGHoECBMQCw",
+      "title": "Apple",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSxSkpxZsoZGo5ylR4HOezwtDChuRxU7Jo3E3ZJe4IS7NMb7ETPmS7KeTW_RK7XBpRjCU4tg-HT66llnww_jk4iCTw-QkJo0vsiUdJQY--KxJ3VDWb1BZa7"
+    },
+    {
+      "link": "https://www.google.com/search?q=engenius+access+point&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q_sUBKAowGHoECBMQDA",
+      "title": "EnGenius",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQzlDyHk4vm2hu_XqcxArgDHR8eGJdpPrRp-KpIzIJJnGuGP5ewmSckmXs18JE0FZZyAlKw5wXd4iLRpJXar2ijS7kkWZJASWJEM-Qf7pVgCW5ss1WdjIe0EPzD"
+    },
+    {
+      "link": "https://www.google.com/search?q=hp+access+point&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q_sUBKAswGHoECBMQDQ",
+      "title": "HP",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQUdzKGbT2x1kGrPQBv_Dl77R6NIZWDBtHaz5VeZGlk_z49aw-y3pN-5Kxerg-1UHrSB9vJAewZhVuMHWPdaUX2WTV0fCSI9qNfZfQfh_zrEX5FXKz1h8gL"
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Wireless access point",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "description": "In computer networking, a wireless access point, or more generally just access point, is a networking hardware device that allows other Wi-Fi devices to connect to a wired network. The AP usually connects to a router as a standalone device, but it can also be an integral component of the router itself.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Wireless_access_point"
+    }
+  },
+  "inline_videos": [
+    {
+      "title": "What is a Wireless Access Point?",
+      "link": "https://www.youtube.com/watch?v=Ft14JnN6ecg",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "NexGenT",
+      "duration": "6:12",
+      "platform": "YouTube",
+      "date": "Oct 11, 2017"
+    },
+    {
+      "title": "Wireless Access Point vs Wi-Fi Router",
+      "link": "https://www.youtube.com/watch?v=OxiY4yf6GGg",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "PowerCert Animated Videos",
+      "duration": "6:26",
+      "platform": "YouTube",
+      "date": "Oct 22, 2019"
+    },
+    {
+      "title": "What Is a Wireless Access Point? | Internet Setup",
+      "link": "https://www.youtube.com/watch?v=zsvHDpnWM6M",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Howcast",
+      "duration": "1:16",
+      "platform": "YouTube",
+      "date": "Feb 14, 2012"
+    },
+    {
+      "title": "How to Set Up a Wireless Access Point | Internet Setup",
+      "link": "https://www.youtube.com/watch?v=FxhPUubpzQ4",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4RFAOfkVZyENFoSJSIrNgo9-Q1YBVdg6CCz-3SqshIAXg158fjT0HXqDPuN9i",
+      "channel": "Howcast",
+      "duration": "1:56",
+      "platform": "YouTube",
+      "date": "Mar 16, 2012"
+    },
+    {
+      "title": "What Is a Wireless Access Point?",
+      "link": "https://www.youtube.com/watch?v=C-aczUijIPA",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAeBgbg8m9BSy9iDfj6TPqoR6EuxcbmUuCxvr_6H7UuJ-mw-0wgKhhivVSg",
+      "channel": "Algorin Technical",
+      "duration": "2:04",
+      "platform": "YouTube",
+      "date": "Dec 15, 2017"
+    },
+    {
+      "title": "Routers vs. Switches vs. Access Points - And More",
+      "link": "https://www.youtube.com/watch?v=Vc16CCAAz7Q",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZzn70A5ZePCiND8XGYZ5MqbPdfU4mrL7n0Z7oToWZYukN34IMIkai6o-_2_T_ig",
+      "channel": "Techquickie",
+      "duration": "5:42",
+      "platform": "YouTube",
+      "date": "Jan 27, 2017"
+    },
+    {
+      "title": "Ubiquiti Access Points Explained",
+      "link": "https://www.youtube.com/watch?v=0RbKb38rIvE",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNec1wKIb3SH-aGLCOsK7nBUTgGaFJE2xIbpQixiGemt__9mvMoqesDoc-Eg",
+      "channel": "Crosstalk Solutions",
+      "duration": "19:23",
+      "platform": "YouTube",
+      "date": "Jul 20, 2017"
+    },
+    {
+      "title": "How to turn an old Wi-Fi router into an access point",
+      "link": "https://www.youtube.com/watch?v=REiL6r00GC8",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnYbdTOSuGJxpAwkE9JDu3DSTD47tFKSP6AGoMR-oTKoAVT4nTB3mYvGQY9hSh",
+      "channel": "CNET",
+      "duration": "3:49",
+      "platform": "YouTube",
+      "date": "Jul 5, 2016"
+    },
+    {
+      "title": "AiMesh vs. Repeater vs. Access Point [ASUS RT-AC68U ...",
+      "link": "https://www.youtube.com/watch?v=ic0bgo_ueQ0",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQplwrsXIxt-oO95hHPsW64EgFvdqAWlZVRfpcisOL3xnK6CHwWy9g4Dtyu",
+      "channel": "Behfor",
+      "duration": "7:49",
+      "platform": "YouTube",
+      "date": "Jun 23, 2018"
+    },
+    {
+      "title": "How to Get Started with UniFi Wireless Access Points in less ...",
+      "link": "https://www.youtube.com/watch?v=4QHrS-Rm9MQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNarAH8k35zaG2B7byNgyuABQ5ImFzbsilt0DtLNV2cZoVXQrYn8Eq0Z05g",
+      "channel": "Lawrence Systems / PC Pickup",
+      "duration": "10:03",
+      "platform": "YouTube",
+      "date": "Jun 28, 2018"
+    }
+  ],
+  "inline_products": [
+    {
+      "position": 1,
+      "title": "Ubiquiti Networks Unifi UAP-AC-PRO",
+      "link": "https://www.google.com/search?q=ubiquiti+networks+unifi+uap-ac-pro&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwqzzMoSy9LTxIwTDVNtDQ2T7NMMTdItExKncHEeImFY1LdROFnnooeHayMi1iVSpMyC0szSzIV8lJLyvOLsosVSvMy0zIVShMLdBOTdQuK8j-wMgIAHSbCm1wAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QoYACMBV6BAgMEAU",
+      "price": 130,
+      "rating": 4.7,
+      "reviews": 549,
+      "thumbnail": "data:image/webp;base64,UklGRugEAABXRUJQVlA4INwEAABQHgCdASqEAIQAPj0ejESiIaESmdyYIAPEs4HYCOqSb3g999MBtjfMB+yXq8+hn0AP8P1JfoAfrB6Z3sk/tn6Nf//aYQ+eU+/WDRd9O8CocFVJtgqlZe4omE5X9g29oEN+Og2LPIsdof8o6mG+RpCNNIYHj9weXnD+AqWc0fiLJHYDQzhtKPptTOb1QaYuHs9A6BnrQo5oDXiGhkh7vZi+NWedsJxmqXOLIMKim9eIGd2F7PlUPk/cAdVLAn3uNQvP/9K/MwJe6w5EsTuxj8bHaqqXK8ojt4RDpMbHjQfsnx2LVVxZ50nDtejhok9k4ZphCbtBCnznueO4YAD+/lXXzs9xpJEGeISQvj7kiuce8VPChFlhvbQFGqLRokd2bS+rfIZP3Sf1hhirzS7TpfihSiN0QNIvLJ2jcBeE1RPM2LnPGgMrFtR6aeudNW5Y3es+PRFJHsa4QMVbivDd0hzyNp6BYiBeQ8Euu1w0vro5/UDqc5i6ddgsNQ+1qCX9q3Pl6cyJyto5NwTRcQDXtjrIWeCDvWY/zw3f/V1IM3yN2bs8ZPlB3xHNO2RZC2/zDSLntVWa4rozgP+moyAo/73ueukXnOYw3Q+bIxf4YhiWm+XocNvI4i9jbl4fX3C3Co9S2YP422QEs9vraCXA5PtexN9ziUCuyeEmbXCHDZfVAWOBRmImZPcps51Av6kPiSE4znM49c9SqaqwhPFh7JniLPNErv/rSjeixHccd3x9JHXvKPDHV9EK89NVGbBT9igu/0W4/azg3yRioLpqlypnBtn/Kz+J/N/wLhH+e/970KS8zO/DYpK5Ai2T2W/OR2S4ZWmgwQ40kgAEGunVBp/e8x8ff7qJ3vwgfmtTi/HraATC3n/hjTOpoZvmlD1nqaiKAOe1ZD8wqoMfuZ3oObWl7VEZYlUWTzSw2iksF+yJzXFX5vXDkfPmPPQlfJOGIuseErFhxEfK7WN/uMlrAe/ClhwGa6Qfh60y5cPPB3MSHvzkAWhRdiPw6fsJZNFpBtn3k3onPwm471amR4lEdnEoW4gbNrPlxmMb7bkH/fHfK4icdYYa48UAy5Z2M3cLHRdaNlhRbFf6eUVpM/U1Vv/OBw3egyJFoSlxK3hWNaxNFkKCq4SHyHm8/2RH8OYUFkrTqpJauRN5nLAGd/nIRhR3OytlqzOw6PSe8EyLQY7lLKm24tVqRnHdm2H4bbeQ6VkQw8lMIQNtPHOlARg06WGKoC1RsetS2zQzqQF5x2Yc2+R9f0cSE2wPJfL78DJdjyym1R0Wce/Nyj98KDTc9WTTIE///PJhc1Hy2cN0MYSIhwtP4n31PfLZM7ktlc1DhqzmtB1mMGNLoAg3bebDdSaU3QK38S9Uvz1FkBdK/pc4hlvt+EWBCzIqM0P32YWuNIgAyu+aUPN1Y29pzC5wo2NgVRvcg+xuf5+wjHpZzjV4JRLBgKC4MspLwrzPxipd+4BFqGC5boWFS1oD8nwrf8KDnM6sxBHEa6wfUuvlmiS5tuqblmGGZ7BOqe5ghTWpC6HqeoeaNtnyjrEwepP6p0l+4tgLlVUHbG/tVZmrh41NNXFZiTAy2/bu+YGARF/Die0drkwpjzAAATyg8YipZoM+2rkTD37766tyyuYRfX/m72cxq80pJxNAAAAAAA==",
+      "thumbnail_link": "https://www.google.com/search?q=ubiquiti+networks+unifi+uap-ac-pro&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwqzzMoSy9LTxIwTDVNtDQ2T7NMMTdItExKncHEeImFY1LdROFnnooeHayMi1iVSpMyC0szSzIV8lJLyvOLsosVSvMy0zIVShMLdBOTdQuK8j-wMgIAHSbCm1wAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QvIMEMBV6BAgMEAQ",
+      "editorial_reviews": [
+        {
+          "title": "unifi pro in stress test",
+          "link": "https://community.ui.com/questions/unifi-pro-in-stress-test/6ada9a3f-d0f7-464a-b562-685869040363",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABOUlEQVQ4ja2TS0sCURTHf9M4oynK+OqNBAmRSERUUBBtgrYt6lO0DKJNLfsCfoy+QTuhwIVbcVO0MchMyLB8MHNvC0nNOxZl/9W9557zOw/O1cgUBSPIA6CB9lfA2CjZXQE7s35Xx905P6erEdKWgWX2whRAodribD1KKmx2bQcLQa72E1xsTXBft6m1xXDA0XKY7MM7z02na0taRvdsS5DftQCdiW7PjPfdh89YASyFTVIRL+moV3EWUiKk/GJTAIfJIOcbMXRNzVqothiIVwEvLcGk36MU7QhJqW7j/AS4vH0FIGmZbE75iPl02o4g99ig3LAZiO9sYr9ObirMhwz2EgEWLYOVeGeY2dIbx9dPSlsamaJwW+W1uI/pgE7I1LmrtcmVm0qwawWfyleaUBn22tP//4Xf6gNQWlKCr74v1wAAAABJRU5ErkJggg==",
+          "source": "Ubiquiti Community",
+          "description": "Not that this exonerates Ubiquiti in any way, but their test is more about what AP works best with the iPad."
+        },
+        {
+          "title": "Top 10 Best Wireless Access Points 2019",
+          "link": "https://www.bestnetworkinghardware.com/best-wireless-access-points/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABs0lEQVR4AWL4//8/RRjO8Iucx+noO0MWUDo16FYABMGP6ZfUcRnWtm27jVPbtm3bttuH2t3eFPcY9pLz7NxiLjCyVd87pKnHyqXyxtCs8APd0rnyxiu4qSeA3QEDrAwBDrT1s1Rc/OrjLZwqVmOSu6+Lamcpp2KKMA9PH1BYXMe1mUP5qotvXTywsOEEYHXxrY+3cqk6TMkYpNr2FeoY3KIr0RPtn9wQ2unlA+GMkRw6+9TFw4YTwDUzx/JVvARj9KaedXRO8P5B1Du2S32smzqUrcKGEyA+uAgQjKX7zf0boWHGfn71jIKj2689gxp7OAGShNcBUmLMPVjZuiKcA2vuWHHDCQxMCz629kXAIU4ApY15QwggAFbfOP9DhgBJ+nWVJ1AZAfICAj1pAlY6hCADZnveQf7bQIwzVONGJonhLIlS9gr5mFg44Xd+4S3XHoGNPdJl1INIwKyEgHckEhgTe1bGiFY9GSFBYUwLh1IkiJUbY407E7syBSFxKTszEoiE/YdrgCEayDmtaJwCI9uu8TKMuZSVfSa4BpGgzvomBR/INhLGzrqDotp01ZR8pn/1L0JN9d9XNyx0AAAAAElFTkSuQmCC",
+          "source": "Networking Hardware Guide"
+        }
+      ],
+      "specifications": {
+        "type": "Wireless-AC – Wireless-B",
+        "poe": "Yes",
+        "extensions": [
+          "MIMO",
+          "October 2015",
+          "Dual Band"
+        ]
+      }
+    },
+    {
+      "position": 2,
+      "title": "Ubiquiti Unifi AP-AC Lite",
+      "link": "https://www.google.com/search?q=ubiquiti+unifi+ap-ac+lite&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2Lkm3qDIrSBJITUu2NEiySDUyNzcztUw1msHEeImFY1LdROFnnooeHayMi1glS5MyC0szSzIVSvMy0zIVEgt0E5MVcjJLUj-wMgIAwZwR8lMAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QoYACMBV6BAgMEBc",
+      "price": 78,
+      "rating": 4.7,
+      "reviews": 446,
+      "thumbnail": "data:image/webp;base64,UklGRvoEAABXRUJQVlA4IO4EAACQHgCdASqEAIQAPj0cjEUiIaERmQR8IAPEs4M+AgCMuPj71u0i462D3pX/qr6gP1m/Yz3qvQf6AH7PdYd6AH7M+lx+2nwc/s1+zntDf/Ry/LiRoBaeEOTa1JQEkenTC+U15KktueLN2v4C/mxYJUNB2CsW65MQOomiwBGriecbObdRWolfwJMaw0qGcf389+RWkzroyNnJpS9fQvJ/C3faI1t+62ZuhU8IxU6mCscZfJQGJxFBab8adfgtvndQpPJRlZzf1c3+Mj9EXIogbeDluLUyDS26UWzkLmr8YNp4Z9QWy7U9qRPFGYTlo0XyWWxjCpubgfzXEBYVM7UAAP7+VdMJvvglBljEGemTZF71QKq2JxORbzppMxnUxArl0C9BkUzNHaCL5/CFgaofk+nPCTNR2IKsKfCHwyVGtKYZ3Wu4Pyn4OcWoTAB6ciBMgzPHyJJrEKr2UYjlECfWnLtdS8+l3yAAlAEkOSDhrOn/RHhATrbVhDq03HDNCNC4xpnsbDZesKcmvJvV3EhVlexrK+iLNatr30/UficYbBdMZ6navhr/Mj+QelLT/iWaB1oT1aauVTpzai/eTUp4+6H4bknrTZi5Ho601JDy7POZi8V7BV+jvYUW0aCPSJ73C/iHBwlDxkplT8bPAJAb3zU0aST80iSfwD3fHg0YMIJP5SXsGhnWteZBrjUjG6IHLEXK8G7Cx3400uMnMJOzXKqic7iKaAVt1FaA31FKeIuUh28ODqPqWyvv74ZLvf+1kJGaLpC4n00bU8V8LMbIQuFCoKda8lheYj3PmjOoxsUAtzZrlKeAqC9InoRM/qhAl1zblTpUwrnbHvfLxmZnnbl6nrKMS8eBxvhrWx4iGm4GdxkhFMLBjPj4KgOBMs48rQsSZETJtHtN8RH+RP8Ls6ar3QP7kgfwX2drRm1TQFqfSvE53iV4Sl+RVEyXRR1l3lo2KOzqEBhy3YpCHVeZeSD5CVHy+isfOF0ACEcO8SF2ed+ypPp+VKVjf4GesgTdXEn+J1T+ixmT/t7NuJ9Onfr6WTxHGKuaNg8x/WQEHtb2vvI0xAQTd6clCvkc43M85cDob9yw7cr8uu/t6WhTPQ17zmakYEkt4iDeYWOX188YpVFz513IyAbLtjqpvSvejBT8G3FBHRyKPtcy3oSAROitZr5l9LnrfYVRbeeJu9jUTJ6w3P3qud/wx6r4WCRfymRmyu9JTiYiP1e3EYow8H/GFpEaghXLSlldLA6mRypfxBxFpiAJy9Y1CHZxFqGm+BLObZC4e4FSikej7FK1ypUXZnqgc4p4f5ML9ear32PgqLi/OgeAclqBZLkoi5Mablx4uxOWvf1iZ6p3D8q+yi//8qre1gmCXvO5kVuaVzuhRUXwLxzB5hGncHEKteTqaRpYwRe8/O6ZRqpGvnQ/KMpv6g7nZSsa0DXeR1lUNSTUPSjn7bh+BakT5C4y5nAP8hnSsM5liX2Ay5jZmjzkhSsn3ESa+obsDusjO82r8acF5DeyTRotQhr1Wv1XibsQiTqGKsQapPcNTtMkCJdmMiqQqcQ1AoG9VGgYkxH8MIQt8NLAq96I1X75X/cwprK1RkyPQIVQ6skyJ3ubVvvuupLmwOhIs+drYZD3Sa7kp1ygjGjW7fbwJFYIAbP6pIgvuM42z283/SxWZZEpIYAAAA==",
+      "thumbnail_link": "https://www.google.com/search?q=ubiquiti+unifi+ap-ac+lite&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2Lkm3qDIrSBJITUu2NEiySDUyNzcztUw1msHEeImFY1LdROFnnooeHayMi1glS5MyC0szSzIVSvMy0zIVEgt0E5MVcjJLUj-wMgIAwZwR8lMAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QvIMEMBV6BAgMEBY",
+      "editorial_reviews": [
+        {
+          "title": "Ubiquiti AC Pro and AC Lite Access Points Reviewed",
+          "link": "https://www.smallnetbuilder.com/wireless/wireless-reviews/33084-ubiquiti-ac-pro-and-ac-lite-access-points-reviewed",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABU1BMVEX+/v7////39/f7+/3y9PW2nn+hfE/s7e/MvqynbTO2UBSgVULa19fQycSShluMYBiYd1DX0syYazalhmu/tLDCwp/Huxuviwegbw6wfg12UB17XznGw7/X19DHxyn+/gCHgAl0YwyDYw2ckG7K6Oy29P3E9fzu+/2dmW3q6hrJxwzl2AnkzQa8sg1apI5q5fiW7fjQxqiYhSny8imcnD6trnKHiFqlp4FkmHRq0tKklWVfXUTe4DrVxwjLiwW3i05naXGnqKt/f4FOgJBqvKOkpKJwbk5cYFZ8gyvzjQPXhxnAoXjDn23QiDSmZEohTpt0c0AUcrv4kgHaVA4yO4WkYRx0dHSCkKQDfOw0bIe/ZwbIdQWdTSs7OnGRkI9oc44BYehTaGuRcC9jcF4JUcJ7TTXLYAhNVl4KdtYFZuJVU2m2bQrAspd2b1aWViGQdzx0WTzEeCdRAAAA+klEQVQYlWNgAAFGFlY2dmYOTi5uHjCfmZePX0CQVUhYhIcJzBcVE5eQlJKWYWZkBKuXlZNXUBRTUlJWUVVTB+nX0JTX1NLW0dHV09c3AAoYGhnLa4qZmJqZW1gaqDIwMllZ29ja2Ts4Ojk6uxioMbC7url72Hl6efv4+vm7qTAwuLoHOAUGeEZ7BnkGh4RyMDLwhLmGR0RGRQNBTGw0UIDFKS4+IdErNCk5MCU1OoeRgVEmTNpfyDMtPSMzKyobKAAUyU3yio7Oy8vL5hQSBKpgZ5XOjk7KT1KSFuGRAXqFkSM6OrTAKSdHhp0B7BVGdqHo0DgeZqjHGACmuSwWhpnn8wAAAABJRU5ErkJggg==",
+          "source": "SmallNetBuilder",
+          "description": "The Lite is smaller than I expected for a ``pro'' level access point at a little over 6'' in diameter."
+        },
+        {
+          "title": "TOP 6 Best Wireless Access Points | Buyer's Guide 2019",
+          "link": "https://gadgets-reviews.com/review/838-best-wireless-access-points.html",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACJklEQVQ4jZVSS0tVYRRde5/vnON94D0o+AOKCgyKXorYoGlNiwjJabMIIzCL4sKtsGlGgzBIhAY1atAwepBhmfagIugx64Fker3aved859u7gVpaV7A13HutxX4swiq4qep9eIcIs0BfG6aJSOrx6O9C/4TuFZHu1GKHClqgABl8832MseGh3q10t65B/7MfBUE06Pl0IMwBKkBSXegFGYA9oFoBUivDDcTHT+yk7wBgAODSew1nptydfESdaQJUpjAOwrAIXrGmamPTquIO55u8DjuDrsRDP4A/BuVJOZNv9jptDUitDGxq456DRG7ZpPcBXLn40vVpwo9OtdHb3ysUH5ebSPMfswWOqhU3crbD7F7tsPVgfL+x3fiIRACGN/A/YgAwNpb1YZbxswwEWbxei6g0WtsQ5MKCxphkYtaFZQBn/31rPQiZ67kCxmpWzrPx8Sm1QEMOcBZb1jS3QxBkAFIODYcYjSsyk23kSMkdA3CjnqY4puvY6WX2QAwanJ9FURWfCQBKI+5crplP2xhIE7lqs3y0uJmSFQYPtTXfjDcmBOJptPfuoqfAYg4KLVwqT7k92cjrJOIjMiftpSc6xIoXJBBHbiOxHqrNETIMCNC4ZLwiyk6ja35A+4PsYpRrC72lKMfzQFx1DwLf6+rdTl9WGCzhwnPdB5FuSbHDJtzCJOoZfGWDCfb01slt5vZy/qpvu6dqxscRcQbS04ppItJ6vF9qqeIgd+aARQAAAABJRU5ErkJggg==",
+          "source": "Gadget-Reviews"
+        }
+      ],
+      "specifications": {
+        "type": "Wireless-AC – Wireless-B",
+        "poe": "Yes",
+        "extensions": [
+          "MIMO",
+          "October 2015",
+          "Dual Band",
+          "1 – 5 pack"
+        ]
+      }
+    },
+    {
+      "position": 3,
+      "title": "Ubiquiti Networks UniFi AP AC LR",
+      "link": "https://www.google.com/search?q=ubiquiti+networks+unifi+ap+ac+lr&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2LSpOSs4oSxJIMkszNE22tDAwsUxOSkk0nMHEeImFY1LdROFnnooeHayMi1gVSpMyC0szSzIV8lJLyvOLsosVSvMy0zIVEgsUEpMVcoo-sDICANQoUYxaAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QoYACMBV6BAgMECo",
+      "price": 95,
+      "rating": 4.8,
+      "reviews": 385,
+      "thumbnail": "data:image/webp;base64,UklGRoYFAABXRUJQVlA4IHoFAAAwIwCdASqEAIQAPj0ci0SiIaEipNK52FAHiWcAlQP4BrkzpZVWrOcB9t3qddJPzAfsB1D/QA/pn+i6xv0AP0A9L39gPg7/Zn9t/aD//6BIL3tMAIakBBuHyf/d71j1HdcWm4152BCm/37Y15wsHbdEG33KzmhskIjE/kaOrXh9/FimANmigNY9L6cgTK+zD3+U4gSfixKhSgIQx7IZXHj+E53qHTULyT5VtqupkkL+4iibjXWBguaorFi1zgBjZ05p4EWJA88uhPvHZQY3kfNp8AbHCE3hTY3PflYqxYEexcfHjZEDBqaeDfV6hEdL6ZLe0Uoq5RDx7SzHLUo5MWgi9YAgC8Hsnezws6I3fbZ5XJYYxI5CaWuqRjAEDwt26b/aAAD+/okc/XdLfgR8KzJ6++Ojz1HSkH2ar1AZQDSedw0s4Grwey3Jb8p8ui31sOGTo5rnlJ6OoCrlpF7xzohIQYkg0lQlB7Fs2DTQfCMPQFr5B8QkE0x9EUX3POshEoXNbmVO0oHJT1cP9Px9naPczdsxbFqL78YOqM6S/f/RfAzWxXrU51mUx9HT3khR2g0dts1dQQ8d7Il46a4fs41E+LtfxyIFLPwotu4uPD3r+IRn33/daVn45Rwc3uR38cDeroY2PPIIFkupsVJ3qCxIR6BWutgBrVQT/1aa/vj0mvAa30C7B3YQ8TWcUe6E5vsUbXO2hGRgH3Sg98MgWQdsMqK8KsjjwKCYZ4kamzmP5PvcPVcDF1LIVyRxZNLQ6uESNl0B274FwegTnBLd0nleGBzVaiM2cArdP0nsPHHamHOJ2S+v90Vd/M/rfLoP/o6uCOKcjXvbNqr5/529zXgXV6qoWTnnfFcEsFjGsMCFiEoorIuRrOwO6ssIcGB/vUYbKAEoKTYAsDf/r2oXdLhIWwYurJwRpwYLTcoVnQkRvK7dGRqtbgeGLg9n546Sy1bUf5e13gr56HxD0KLCrvIv3+d03pbzCjI39D7Jqatq1N/bJ8itv1WbLATZ/YaBssIFk/1lPAyDtLr7+j2ueYaK/DCSOiocf64OVBnQI1WMtF7EOq4SGEZHhfY7ZFCEcvI94xqZLHD6RJFQJEUwFGDPlOO9/MR+M//Ob4/p8wJgQrk75G9qMXtO8rYs3XTZGM1/jICBvQJ/YLqBa2ZLFPSonLS/BtQZSNo1uWzbIlSwT1a5TzO9TzTxbMGqC/ke0z6DmWDbusRevGIzBT56trNbN4Xyi6tcstsg2hTA6a2XwWkXLQX5ZTz3NJeNLP8kYVfWwBMsRfBRghgItjEfs9GOULAqGRyfTtzDrXz3OeM2T4TZy1wukj/ltsaFkJE0P+rBITl6CVWOButFXkpxWYmS2iLhowV0hUw8QkGR+Y9CR4G25piakxLEAPBVogTLnE50p67jwJFGYZa0RygHjjY2jiJdmfdDlwcrJN8Lot6jr26GCfjbIBfbWmBAhsn13gEHX9m+b+uWSpfVpAm7V4k2N40f2VHD5GxvOszP5/finSMrYP8WdsNdLwhemNtiIkUjnuJ2Qv45su7LCzxmPEdnyS3dJDyRL23NUUw0uGiUATuqmSHMwAMYh+gFgZtN94LhsTchy7GTS8n5DDoBNiTiNZUCTpMP+TcX+0fDWmfQAIS8fP5G6yAG0cEXcZpbGJI/Ev+8iXaryfDh/+xUneuEakZjCvGuTHd53owNLjlusXu0JSgebFq+MXthsbdSqENLJQy6WMkmjSFAL67jt/HWQameLzlBbTWcEW3ciFV4DKDW0jv99nx8Q/ReA1HtBjzq51twkXZ0+/L62INUzUvy3P2oxWGahhw06a70ZUodgmarO4jSc1CSoLKrdbftdkjNkBaj3moAAAAA",
+      "thumbnail_link": "https://www.google.com/search?q=ubiquiti+networks+unifi+ap+ac+lr&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2LSpOSs4oSxJIMkszNE22tDAwsUxOSkk0nMHEeImFY1LdROFnnooeHayMi1gVSpMyC0szSzIV8lJLyvOLsosVSvMy0zIVEgsUEpMVcoo-sDICANQoUYxaAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QvIMEMBV6BAgMECk",
+      "editorial_reviews": [
+        {
+          "title": "Review: Ubiquiti UniFi made me realize how terrible consumer Wi-Fi gear is",
+          "link": "https://arstechnica.com/gadgets/2015/10/review-ubiquiti-unifi-made-me-realize-how-terrible-consumer-wi-fi-gear-is/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABf0lEQVQ4jZ2TMUgCURjHf+9VEE7XIEKDijTkdra0SBy01CZORWBHS2NOQRREYEQtGbTUINnUJEZDLdFBQVvdVi2iDUEUaEMWBHcNZ5cnUdq3HO/P/X7v3b3vE7SUZeR0LvanxY2hNed2VDOIp/JSm9lrzoULPpZCZJNFcW+qrVKPKKiapAsJGYhUXIH1WAqxNHQt6rW+32BX4lOqZK5iMhCpSACyyWK7MICo1/rIJosA0jJy+l/H/lFyb6qWkdO7lgdeNsVzOdypAIC3F0XYU9huMH8CA8PQ0wvbkzA2B/2DcHkAIzp8vMPDHaxqLiI9xu0JONlyXgyp4A/D0Tqc5x3p6Q7s6h7EK1i5dJ7P5e+sYsJTGTbGwR+CxTMP0u1ZvdZgdBZ8CnD4nfvDMH/c+IRbDyKsjHbW2nXtlh3VDEk8lf8PDEA8lXc6cUG97rQX7KBqyjUz5vzEdCFh+5Rq27BPqZIuJKBxCzIQqZC5itlB1Wxn5685gKZp/KpOx/kTq1qLEjeMg4YAAAAASUVORK5CYII=",
+          "source": "Ars Technica",
+          "description": "The feature set when stepping up from a consumer-grade wireless access point or wireless router to something like…"
+        },
+        {
+          "title": "11 Best Wireless Access Points in 2019",
+          "link": "https://snapgoods.com/best-wireless-access-point/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACE0lEQVQ4jaWTwYsSURzHvzMTzoI6DE9mV7bDQ0GiOsygO7B18Choh0DoliAt6aUOQbstBEH3KGLpH2iJRfBQpy6VCh7a6qAVittmIFp20nGZkd3BeZ0KndDLPvgeHrzfh+/v++VxjDGc5pyZvrTbbRiGgVKphEajcf7w8PCGoiif8/n8i+XlZefk5ARra2vzARzHwev1otlsXtnb23tuWRYBAEmSwhsbGw9t2/7fAmPsn7rdLnZ2dhKiKFoA2F8JgmCn0+lsuVyeec8YmwUUCgVtaWlpMD08ra2tresLAZTSj/OGAbBAIPDVDZjJoN/vr1JK762srHwDcM40zQuO4zC/3//B5/P9rtfrDxa2oKrqO0rpa0LIFwCQZRnHx8cYj8c4OjoKDofDTwsBsiy/JITYoijCMAyYpgnbtqFpGgghfL1eL7kBvGuFXiqVGqqqCsYYJpMJOI5Dv9+HZVlGOBz+udCB1+u9XCwW1UgkUq5Wq/clSfplmuZZXdd3O53O94ODgzyAt3MBHMettlotuVKp3O50Ohd5nofjOOj1eteSyeSdwWAQdjuYqSSbzW4DYMFg8L2u69u5XI6ur6/fDIVCrwCweDy+665xJoNMJvNU07RnPM87hJBaq9W65PF4fgiCYFNK32xubt5dmIEgCONEInGrVqtd3d/ffzQajagoiqNYLPY4Go0+URTFcQO4037nP7I9LPJN6j8EAAAAAElFTkSuQmCC",
+          "source": "Snap Goods"
+        }
+      ],
+      "specifications": {
+        "type": "Wireless-AC – Wireless-B",
+        "mimo": "Yes",
+        "extensions": [
+          "October 2015",
+          "Dual Band",
+          "1 – 5 pack"
+        ]
+      }
+    },
+    {
+      "position": 4,
+      "title": "TP-Link TL-WA801ND",
+      "link": "https://www.google.com/search?q=tp-link+tl-wa801nd&stick=H4sIAAAAAAAAAOPgUuLRT9c3LDSzLE4uKDNK4rc0MbQwMTU1NDdJs0xLMZjBxHiJhWNS3UThZ56KHh2sjItYhUoKdHMy87IVSnJ0yxMtDAzzUj6wMgIAt_SNGEoAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QoYACMBV6BAgMEDw",
+      "price": 25,
+      "rating": 4.4,
+      "reviews": 451,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=tp-link+tl-wa801nd&stick=H4sIAAAAAAAAAOPgUuLRT9c3LDSzLE4uKDNK4rc0MbQwMTU1NDdJs0xLMZjBxHiJhWNS3UThZ56KHh2sjItYhUoKdHMy87IVSnJ0yxMtDAzzUj6wMgIAt_SNGEoAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QvIMEMBV6BAgMEDs",
+      "editorial_reviews": [
+        {
+          "title": "Top 10 Best Wireless Access Points 2019",
+          "link": "https://www.bestnetworkinghardware.com/best-wireless-access-points/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABs0lEQVR4AWL4//8/RRjO8Iucx+noO0MWUDo16FYABMGP6ZfUcRnWtm27jVPbtm3bttuH2t3eFPcY9pLz7NxiLjCyVd87pKnHyqXyxtCs8APd0rnyxiu4qSeA3QEDrAwBDrT1s1Rc/OrjLZwqVmOSu6+Lamcpp2KKMA9PH1BYXMe1mUP5qotvXTywsOEEYHXxrY+3cqk6TMkYpNr2FeoY3KIr0RPtn9wQ2unlA+GMkRw6+9TFw4YTwDUzx/JVvARj9KaedXRO8P5B1Du2S32smzqUrcKGEyA+uAgQjKX7zf0boWHGfn71jIKj2689gxp7OAGShNcBUmLMPVjZuiKcA2vuWHHDCQxMCz629kXAIU4ApY15QwggAFbfOP9DhgBJ+nWVJ1AZAfICAj1pAlY6hCADZnveQf7bQIwzVONGJonhLIlS9gr5mFg44Xd+4S3XHoGNPdJl1INIwKyEgHckEhgTe1bGiFY9GSFBYUwLh1IkiJUbY407E7syBSFxKTszEoiE/YdrgCEayDmtaJwCI9uu8TKMuZSVfSa4BpGgzvomBR/INhLGzrqDotp01ZR8pn/1L0JN9d9XNyx0AAAAAElFTkSuQmCC",
+          "source": "Networking Hardware Guide"
+        },
+        {
+          "title": "Best Wireless Access Points 2019: 7+ WAPs For Home & Business",
+          "link": "https://www.pickmyrouter.com/best-wireless-access-point/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEXDISZHcEzDISbDISbDISbDISbDISbDISbDISbDISbDISbDISbDISbDISbDISZ0UKmAAAAADnRSTlOBAI4kOwXXaLNXnnPL6Ym/B6gAAABOSURBVBiVnY5LDkAhCAOhiP/37n9c02hidOlsSCaUInohDwKAHFhoOf4bgaTg6pZqn6Jkjlip1Qp41GRlqFeLz0VGdmHAdwqGW395/RYD8yUDnzZwXDEAAAAASUVORK5CYII=",
+          "source": "PickMyRouter"
+        }
+      ],
+      "specifications": {
+        "type": "Wireless-N – Wireless-B",
+        "poe": "Yes",
+        "extensions": [
+          "MIMO"
+        ]
+      }
+    },
+    {
+      "position": 5,
+      "title": "TP-LINK Auranet EAP225",
+      "link": "https://www.google.com/search?q=tp-link+auranet+eap225&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2NU1Lzs4zTRJITDVNMk8ztTC2NEwyMTIxmcHEeImFY1LdROFnnooeHayMi1jFSgp0czLzshUSS4sS81JLFFITC4yMTD-wMgIAp_shulAAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QoYACMBV6BAgMEEk",
+      "price": 65,
+      "rating": 4.4,
+      "reviews": 40,
+      "thumbnail": "data:image/webp;base64,UklGRjwEAABXRUJQVlA4IDAEAADwHwCdASqEAIQAPj0ci0QiIaES+iUkIAPEtIRIWwLuh219uKlmqoAp+swiL2a+IQLOpnlbv/Djs5QqjBtjrdCfgqSm3EkYJ0547bMO2zX/S0doht1/pNf6Ed5t4EVpDsP0uUbVL9xWAS/cuW9DdQFr+ncknfaZgKPE95iUN1Wi4rX1oQDRrDQhQB9UIdOQWiWv7CSs401aD9nIFp2boxk+D1O5JThUY9/e9miEdJZe7jRcGek/r7mMjbArKDhFVxze80paJq/XzgF7A1DjV5dFvdPt0ExP5U4ALIPIdpEJBFfTnGYAhfpGH/y0d7Kt+UAR5LzdF8TUPLbhjqMHw1DCE6ql/urEiCAA/v92MT+fno+RhD8Ul+7+k6NLCxA4DImcvaOGArXE3ZC4iruS42jijeSe4kMWf+kFDDsVsGFwCi93LoViC0S4GcDE2rCarJ6i340OUSmzSzfuh2J9qtYJw8TKIE1JhkFRKT5Zg6Ckqrw9jBMWZbomtBac0/348kMSochZsB2nHQY0NWHRW4CzeWzh++/4QcKE70mc0N7WvXqWX0ztF6ww6KwrjXTXFyv+4LGMUGWVp6zcHEReEvNY6VGSjlUaQamxhO256ODs7wgzzhPL+c7OXHHbE638rxPeQF+MVDO3tp0J1nIy7oAZbShdVtRjQAm3P/RSUwC+pg1w4SSnvczvnJngsXjLo551pWkH6zpXcpdqTgfGwklQGig8Uon4enCqQsbZf3P5s8pPXn1HX6nTwaHnGTZC+d+iHOOzOpNU0Z9AxKe+WrY1BIqugUhZgoir9XR4v/4R3wCVm3WoWf2WGVCkn6TDxf7pgxO6DcTQmawG3AgXBzhIniimhNwCSDLjEmIEdZz8+UAviX7fe4qaKIpr84YLXHV8xLRQ+xKwiVKdtZrge4XMd34rD6NQHNKdcxVrKVnfGjXswSWuvjqBr4BY/aVuSTjHP2ghJr434SaOVtZRe7OQu/qw0CkzPJ/KrHphcicxeAByfkzGM3fdwrYyuRlt0R60cJel+YZqy5vg7uKM+tNK/7Zfl2ZAtFXU6AJUzymwosUEgpeNMzYfb++SBtvERti5QzLMXy0IQbtP1NbZLyU8cGOGOMH7S9mk8k92NPhgsZ2dsuZBvkP7a4OPu4NaU5c1uy7T/TkE/7oCt+1yYn8UR1FI3HuFW2TkHFvDvACc/5a5HBwTGsmZGd1wLVtyG/x6PehGm6MwV95dwuJPnLQu38F89N3lYcF82rWyigxLQYZST3sjYwEjYLB8ZH12BuvK/hwgsw2mQNFWxvFI8eu8wdiH4yiT48H38csraWB1UUrxRqSb+nju6O+MjDNPVh+ZNKX6vi0JYdeffhMnAIHoKqlg2XJAD3GubTSvmZsJ3YjlLGrUgMzXa1SISdi6UAlskQOh867CH/2g7l26IAAA",
+      "thumbnail_link": "https://www.google.com/search?q=tp-link+auranet+eap225&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2NU1Lzs4zTRJITDVNMk8ztTC2NEwyMTIxmcHEeImFY1LdROFnnooeHayMi1jFSgp0czLzshUSS4sS81JLFFITC4yMTD-wMgIAp_shulAAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QvIMEMBV6BAgMEEg",
+      "editorial_reviews": [
+        {
+          "title": "TP-Link EAP225v3 AC1350 Wireless MU-MIMO Gigabit Ceiling Mount Access Point Reviewed",
+          "link": "https://www.smallnetbuilder.com/wireless/wireless-reviews/33201-tp-link-eap225v3-ac1350-wireless-mu-mimo-gigabit-ceiling-mount-access-point-reviewed",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABU1BMVEX+/v7////39/f7+/3y9PW2nn+hfE/s7e/MvqynbTO2UBSgVULa19fQycSShluMYBiYd1DX0syYazalhmu/tLDCwp/Huxuviwegbw6wfg12UB17XznGw7/X19DHxyn+/gCHgAl0YwyDYw2ckG7K6Oy29P3E9fzu+/2dmW3q6hrJxwzl2AnkzQa8sg1apI5q5fiW7fjQxqiYhSny8imcnD6trnKHiFqlp4FkmHRq0tKklWVfXUTe4DrVxwjLiwW3i05naXGnqKt/f4FOgJBqvKOkpKJwbk5cYFZ8gyvzjQPXhxnAoXjDn23QiDSmZEohTpt0c0AUcrv4kgHaVA4yO4WkYRx0dHSCkKQDfOw0bIe/ZwbIdQWdTSs7OnGRkI9oc44BYehTaGuRcC9jcF4JUcJ7TTXLYAhNVl4KdtYFZuJVU2m2bQrAspd2b1aWViGQdzx0WTzEeCdRAAAA+klEQVQYlWNgAAFGFlY2dmYOTi5uHjCfmZePX0CQVUhYhIcJzBcVE5eQlJKWYWZkBKuXlZNXUBRTUlJWUVVTB+nX0JTX1NLW0dHV09c3AAoYGhnLa4qZmJqZW1gaqDIwMllZ29ja2Ts4Ojk6uxioMbC7url72Hl6efv4+vm7qTAwuLoHOAUGeEZ7BnkGh4RyMDLwhLmGR0RGRQNBTGw0UIDFKS4+IdErNCk5MCU1OoeRgVEmTNpfyDMtPSMzKyobKAAUyU3yio7Oy8vL5hQSBKpgZ5XOjk7KT1KSFuGRAXqFkSM6OrTAKSdHhp0B7BVGdqHo0DgeZqjHGACmuSwWhpnn8wAAAABJRU5ErkJggg==",
+          "source": "SmallNetBuilder",
+          "description": "This AP is begging for a more demanding set of tests; our accelerated browsing test at 8 Mbps per STA isn't even…"
+        },
+        {
+          "title": "10 Best Wireless Access Points in 2019 - Full Review & Guide",
+          "link": "https://www.top9rated.com/best-wireless-access-points/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAJ1BMVEVHcEwKnvkKnvkKnvkKnvkKnvkKnvkKnvkKnvkKnvkKnvkKnvkKnvnofP0IAAAADHRSTlMA9DLG6WkcYI2GoTxsP16lAAAAZ0lEQVQYlW2PWQ7AIAhE2QrBcv/zVpY0aep8GGaUBwIcdbEIX68ljBLS+DQieXZS92b1pvqnqjw5HOymAGq+yx1IoDZMMaSCgSVcqiViZbB2wQM1UAUbaOLJI/yesb1Yi86r/z/30QNsKgSa+VmUWQAAAABJRU5ErkJggg==",
+          "source": "Top9Rated"
+        }
+      ],
+      "specifications": {
+        "type": "Wireless-AC – Wireless-B",
+        "poe": "Yes",
+        "extensions": [
+          "MIMO",
+          "Dual Band"
+        ]
+      }
+    },
+    {
+      "position": 6,
+      "title": "Ubiquiti Networks UniFi AC Mesh AP",
+      "link": "https://www.google.com/search?q=ubiquiti+networks+unifi+ac+mesh+ap&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2yq0wsSg2TBIwNE9LTUk0NDNMNjAyNUpJmsHEeImFY1LdROFnnooeHayMi1iVSpMyC0szSzIV8lJLyvOLsosVSvMy0zIVEpMVclOLMxQSCz6wMgIAsij_1lwAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QoYACMBV6BAgMEFo",
+      "price": 86,
+      "rating": 4.7,
+      "reviews": 127,
+      "thumbnail": "data:image/webp;base64,UklGRiABAABXRUJQVlA4IBQBAAAQCQCdASocAIQAPj0Sj0eiEREJWCADxLSX31eeEJafw2Hdg7NmUIGn4xJYFPTgj2NzAvBWyifye14QMx3pOOH/8sIHpMZRUIKfKdN4zB9G7oAA/v93BQOelXMdoq/KNhp2PkT2MHrCsSkDTv4Hlwncw4MW5RvwvMMr+drf/wgTWcgT9CcB7YIzoPo/lE3M48/1CyzQ51HWZ9zCkPoJzcq5mnChZMCGCYrxbbuwGGZ1OK3P1SVod3z9rcYOJ6eG79Tsun/bOf4/SvZHlUhDClj3Hnfj7vmSWPWe3JZTDQiLKGtB0fz3zyHQA8ugLbuLd99raL1GNrkhhmNxC2CHgqzVt2LELVlDGcaQGNmahKso1dgAAAA=",
+      "thumbnail_link": "https://www.google.com/search?q=ubiquiti+networks+unifi+ac+mesh+ap&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2yq0wsSg2TBIwNE9LTUk0NDNMNjAyNUpJmsHEeImFY1LdROFnnooeHayMi1iVSpMyC0szSzIV8lJLyvOLsosVSvMy0zIVEpMVclOLMxQSCz6wMgIAsij_1lwAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QvIMEMBV6BAgMEFk",
+      "editorial_reviews": [
+        {
+          "title": "AmpliFi vs. UniFi Review - How to Get The Best WiFi signal",
+          "link": "https://michaelkummer.com/tech/amplifi-vs-unifi/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEX///8AAAC7u7vn5+ewsLC/v7+ura1KSUm4uLhxcHBPTk6qqqrj4+Pd3d3CwsJUU1PIyMg/Pj4ODAwrKio4Nzft7e3W1tYwLy9aWVmCgYEbGBhtbGz08/MnJiaMi4ubmpocuvMRAAAAb0lEQVQYla2Paw7DIAyDnQAlMNrRB90Y3Xr/WxbYFZoflvUpsmXgjnuopjrwCJipWnpWicTzAEOp+mWNwLYZK4n29kzygrwze7fqnkGw5hMc+1z8HxwjFTi2gu+vg4RToUgNVRRb7dFw7LW7vmXJBfJ5A8vLZV4mAAAAAElFTkSuQmCC",
+          "source": "Michael Kummer",
+          "description": "AmpliFi released its first WiFi 6 router (the AmpliFi Alien) and UniFi released the Dream Machine (an all-in-one…"
+        },
+        {
+          "title": "What I’ve learned from nearly three years of enterprise Wi-Fi at home",
+          "link": "https://arstechnica.com/information-technology/2018/07/enterprise-wi-fi-at-home-part-two-reflecting-on-almost-three-years-with-pro-gear/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABf0lEQVQ4jZ2TMUgCURjHf+9VEE7XIEKDijTkdra0SBy01CZORWBHS2NOQRREYEQtGbTUINnUJEZDLdFBQVvdVi2iDUEUaEMWBHcNZ5cnUdq3HO/P/X7v3b3vE7SUZeR0LvanxY2hNed2VDOIp/JSm9lrzoULPpZCZJNFcW+qrVKPKKiapAsJGYhUXIH1WAqxNHQt6rW+32BX4lOqZK5iMhCpSACyyWK7MICo1/rIJosA0jJy+l/H/lFyb6qWkdO7lgdeNsVzOdypAIC3F0XYU9huMH8CA8PQ0wvbkzA2B/2DcHkAIzp8vMPDHaxqLiI9xu0JONlyXgyp4A/D0Tqc5x3p6Q7s6h7EK1i5dJ7P5e+sYsJTGTbGwR+CxTMP0u1ZvdZgdBZ8CnD4nfvDMH/c+IRbDyKsjHbW2nXtlh3VDEk8lf8PDEA8lXc6cUG97rQX7KBqyjUz5vzEdCFh+5Rq27BPqZIuJKBxCzIQqZC5itlB1Wxn5685gKZp/KpOx/kTq1qLEjeMg4YAAAAASUVORK5CYII=",
+          "source": "Ars Technica"
+        }
+      ],
+      "specifications": {
+        "type": "Wireless-AC – Wireless-B",
+        "outdoor": "Yes",
+        "extensions": [
+          "PoE",
+          "MIMO",
+          "Plug and Play",
+          "November 2016",
+          "Dual Band",
+          "1 – 5 pack"
+        ]
+      }
+    },
+    {
+      "position": 7,
+      "title": "Ubiquiti Access Point UAP-AC-IW",
+      "link": "https://www.google.com/search?q=ubiquiti+access+point+uap-ac-iw&stick=H4sIAAAAAAAAAOPgUuLVT9c3NMyorKgqSjMzSRIwTE1KNTZLSTIyMzNNtjQ2ncHEeImFY1LdROFnnooeHayMi1jlS5MyC0szSzIVEpOTU4uLFQryM_NKFEoTC3QTk3Uzyz-wMgIA8_6-zlkAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QoYACMBV6BAgMEG8",
+      "price": 72,
+      "rating": 4.4,
+      "reviews": 27,
+      "thumbnail": "data:image/webp;base64,UklGRjgCAABXRUJQVlA4ICwCAABQDQCdASpKAIQAPjkMjkciEREM+CADhLS2WGAAMxUMzwddvQbZvdRfi59w7SgkmdBqiY+Rkgq3VD4xu2e3RWrwcGaP4mHjYtkyIqBkK0XdCF8pn7FeHkmS7TwES+K9337fKnC0yHkYU7aqUkYwVmRq2nkAAP7eIHi1SKkKHmWvcfmbOiUA8C8Gtk6xO1JjJkaIPWWhp8rtjP0loqJPwAuYcRJrkZuHal3x/XlamLp9AT0EWfv66ievTBS+lwRPbVLyS39uOqG3HNa4GhQYg+a7m+CYsJ00H9rev/e++vDh/yq+/D/6Lp4DLGEDvkWMCtBwEijbScJ4J3vrCAsUhCyUPfADV/LwAuEngkuRhiLf7inIaSfuTZ4ZaEwjUHOzTJAIFVm4Ut4K7bRXqShnWAfu+SJ8FpAp+9nLIJjBrjH29P1aGXp+7f2Xp6qCEdjZeAU0P3LcC+d4k9X2Mb1QEIV3G0aiB1EeQl+tQa1pxYaVhTxcJD7lR4EFvkgVGLBQVvmiy3N6U0eDDQy6srKNpFWH7sQpwnUQbxgYB6xf4bcCtzd5McMHh9rJyCa5VgasCuWAw54uJsongDEj2K1hikb9bosCDlDD2hyxBJWQP0uMiNAW466M5DZ24GDV/p/uth9I2cR9ZdE0sZFDLbjcdt51oO6+t/8LcsDCaLpUZd7G17kpU18jeBQUVrrp7JMLdMAK9jbA3cSuPhAsqaPEoQs+cMnCyvh2KzPVSAAA",
+      "thumbnail_link": "https://www.google.com/search?q=ubiquiti+access+point+uap-ac-iw&stick=H4sIAAAAAAAAAOPgUuLVT9c3NMyorKgqSjMzSRIwTE1KNTZLSTIyMzNNtjQ2ncHEeImFY1LdROFnnooeHayMi1jlS5MyC0szSzIVEpOTU4uLFQryM_NKFEoTC3QTk3Uzyz-wMgIA8_6-zlkAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QvIMEMBV6BAgMEG4",
+      "editorial_reviews": [
+        {
+          "title": "Top 10 best affordable 802.11ac access points in 2017",
+          "link": "https://www.tanaza.com/blog/top-10-best-cheap-802-11ac-access-points-2017/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAASFBMVEVAQED///82NjY+Pj4vLy84ODigoKDR0dHj4+Pt7e0lJSWYmJjDw8MzMzOHh4fU1NRXV1d0dHTh4eEVFRV+fn7b29u1tbVTU1N7rdSjAAAAeUlEQVQYlY2O2w7DIAxDcSAkbUlL7///pwNGpUl72M5LlMSy7dw/UPB1+EDv3ccll4vPS2wPFwbISDQKhtAEtgI6TQqsVCWsKaGRknJxjPggFl+bt2fV2aoJ710Ud24pfAB0ngQc/MSqXJdojy3F5GYzztKLfVX/wQu4nQNZh3pMeAAAAABJRU5ErkJggg==",
+          "source": "Tanaza"
+        },
+        {
+          "title": "What I’ve learned from nearly three years of enterprise Wi-Fi at home",
+          "link": "https://arstechnica.com/information-technology/2018/07/enterprise-wi-fi-at-home-part-two-reflecting-on-almost-three-years-with-pro-gear/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABf0lEQVQ4jZ2TMUgCURjHf+9VEE7XIEKDijTkdra0SBy01CZORWBHS2NOQRREYEQtGbTUINnUJEZDLdFBQVvdVi2iDUEUaEMWBHcNZ5cnUdq3HO/P/X7v3b3vE7SUZeR0LvanxY2hNed2VDOIp/JSm9lrzoULPpZCZJNFcW+qrVKPKKiapAsJGYhUXIH1WAqxNHQt6rW+32BX4lOqZK5iMhCpSACyyWK7MICo1/rIJosA0jJy+l/H/lFyb6qWkdO7lgdeNsVzOdypAIC3F0XYU9huMH8CA8PQ0wvbkzA2B/2DcHkAIzp8vMPDHaxqLiI9xu0JONlyXgyp4A/D0Tqc5x3p6Q7s6h7EK1i5dJ7P5e+sYsJTGTbGwR+CxTMP0u1ZvdZgdBZ8CnD4nfvDMH/c+IRbDyKsjHbW2nXtlh3VDEk8lf8PDEA8lXc6cUG97rQX7KBqyjUz5vzEdCFh+5Rq27BPqZIuJKBxCzIQqZC5itlB1Wxn5685gKZp/KpOx/kTq1qLEjeMg4YAAAAASUVORK5CYII=",
+          "source": "Ars Technica"
+        }
+      ],
+      "specifications": {
+        "type": "Wireless-AC – Wireless-B",
+        "poe": "Yes",
+        "extensions": [
+          "MIMO",
+          "November 2016",
+          "Dual Band",
+          "1 pack"
+        ]
+      }
+    },
+    {
+      "position": 8,
+      "title": "TP LINK OC200 Omada Cloud Controller",
+      "link": "https://www.google.com/search?q=tp+link+oc200+omada+cloud+controller&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw3Sc5LMzWzTBIwTzE0NDI2M7MwMTZPTUxMncHEeImFY1LdROFnnooeHayMi1hVSgoUcjLzshXyk40MDBTycxNTEhWSc_JLUxSS8_NKivJzclKLPrAyAgCdbS7QXgAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QoYACMBV6BAgMEH8",
+      "price": 75,
+      "rating": 4.6,
+      "reviews": 18,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=tp+link+oc200+omada+cloud+controller&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw3Sc5LMzWzTBIwTzE0NDI2M7MwMTZPTUxMncHEeImFY1LdROFnnooeHayMi1hVSgoUcjLzshXyk40MDBTycxNTEhWSc_JLUxSS8_NKivJzclKLPrAyAgCdbS7QXgAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QvIMEMBV6BAgMEH4",
+      "editorial_reviews": [
+        {
+          "title": "If This Diabetes Prevention Program Were A Drug, It Could Be A Blockbuster",
+          "link": "https://www.forbes.com/sites/zinamoukheiber/2012/12/11/if-this-diabetes-prevention-program-were-a-drug-it-could-be-a-blockbuster/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAaVBMVEUGBgaamppISEgxMTF7e3ukpKRmZmaPj49VVVUODg4ICAggICCGhoZzc3N9fX19fX0JCQkICAgSEhIJCQkODg6dnZ1AQECUlJQAAABsbGyBgYGHh4e/v7+np6dzc3NfX1+srKzU1NTKyspDpRfdAAAAE3RSTlP48wr4/fP8/v32vfu49be/w8MPWgPT+AAAAKJJREFUGJVVylkOwjAMBNBpG2KXHdLsa3v/QxIKH/Bka6TRYDzTMBx2w0DnEVeyWufcWs5aW7pBRLK9erOWosAlhEi9s0QUQ7hAliJE2AlRigQzV+m97y9lrYwpJs3GmNV8YKpbyCm1tdmWkj9hrqnktJ3WsuaJEjCzcJ69Kd5FrjxjVm5xzinXQznVi+XPe/Fj6Qvs+T2lgKP6c8d4xI/H8wWT+hGoNbWjzwAAAABJRU5ErkJggg==",
+          "source": "Forbes",
+          "description": "After 16 weeks, participants can join its ``sustain'' program where they maintain a social network, reinforcing…"
+        },
+        {
+          "title": "8 Best Wireless Access Points in 2019 - For Home and Business",
+          "link": "https://www.thetechlounge.com/best-wireless-access-point/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAQlBMVEUEl+UAluUAl+UAkuQAkOT///sAk+To8/gFmubB3vOWye/d7fa72/MIm+aq1fH3+fl5vuwgnubd7PZGpuhHp+hSqujCul9JAAAAYElEQVQYlZ3OQQ6AIAwEwG5LBUVUBP//VTEBNN50kx462TQl+hVGCYP77oJzgYNrIouuq25+GiogRj9Gth0IZp+NPICMn6WA4AXoZ40dC6hqrB2kBOQjH9QqwDW4f/uUE2E7Apk4OJdRAAAAAElFTkSuQmCC",
+          "source": "The Tech Lounge"
+        }
+      ],
+      "specifications": {
+        "type": "Wireless-AC – Wireless-B",
+        "poe": "Yes",
+        "extensions": [
+          "MIMO",
+          "Dual Band"
+        ]
+      }
+    },
+    {
+      "position": 9,
+      "title": "Netgear WAC540 WLAN access point 1733 Mbit/s Power over Ethernet White",
+      "link": "https://www.google.com/search?q=netgear+wac540+wlan+access+point+1733+mbit/s+power+over+ethernet+white&stick=H4sIAAAAAAAAAOPgUuLVT9c3NMwwz4jPy0tKThKwMDVLTjQyMEs1TDU3MTE0n8HEeImFY1LdROFnnooeHayMi1jd8lJL0lMTixTKE5NNTQwUynMS8xQSk5NTi4sVCvIz80oUDM2NjRVykzJL9EEi5alFCvllQCK1JCO1CKhZoTwjsyT1AysjANtbV2uAAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QoYACMBV6BQgMEJAB",
+      "rating": 4,
+      "reviews": 1,
+      "thumbnail": "data:image/webp;base64,UklGRmQDAABXRUJQVlA4IFgDAADwFwCdASqEAIQAPj0ejESiIaESmxTUIAPEtIHYB+/14F6F/YPAeV2wJ4IDxAjzX995RXrX7Rh1E/8Qil0YEfewmX42kRIkTg8v+5SjOuVe7UqqUQzDceLHbe7fHK4Jjj3LZ6OgiiKllvKANK3zqxmpXgeXazNxYMmcNXIdtxVPHgZsrewAiFlhghwqWokiAAymPLZXdEOgfkvEKEnTlNQzjwhzLkaMUsoXMPdhEXXYGWnpqHHWtNfaavXAMDo+Rq8LpELVv9pzEAD+/aTSzu6tXWtOQfMaB1H0TOEecY1sVgAPolmzbmVKsmXn/2cmdI1kww9lX3lsPY+MPKZ5IsLrkrp3M8dxVKzT1CpghPi1ZWgCIoaU4cBcjcuZqCC6J6TdhTYcp10RzYaceVuAg6DU79hHAAUzg2EBfsW8jJmF63Avj6S9b3asII0JloHfUGFXgRmIwBbt7/hnbamx+H3Si2FU/P/4pxnf1EdDchv++39U1of03F1DHgEGV+3kA6p9lhztDENMvyPeGTVn+WLZ0ttes18L6tCyncoBlrAvaP0eblkX2ZDRO5htmIXK6NYh2AnaUhBfG7OJ/Fte/bs2qz3M+I/EXjmtt7b1fgj+hw+0//qWxxY1aMBZ+nWX1UxUqdFkrepQ83ZF4MSWI3FKva6y32B+QRYg7t4eC/SQLustBhqD8hT4RKovwU8yxBeIdzqToNrje0/54JenDt2owLA9p80sCIL7bPZw7Aejznd/luoZFvnxvlpPW490yiv1ywPknZ5KOeK1Yf7Jy5uEoFH6qPOegDmQcRn4AN8z78R01KGANQvHU5xAdAVuIdPF9Ip1X3BjV4G3PO5M9HPZ6d/lj01vKd9z6hSGLSLBwyUAXByimlmBmIj+7hC4Zxq8SOURewVVudSZiSsia7LSwvutdL0spTunkpBpgbSmKXnhJs435WwsZjrXqLlKGNr1IPNBP+FDYZgFZRYk99AuhGE9Z06UIa04ydH88btS7RnScRRG2IEPikDloEvniRmuiX9rummVK15lcnh3x/C+YV3GcNo8Kb2eM5tFAsqbbon1JI/2SAj7GVSwYECcBWnXxl0g7BY+cgspseTNazNGydv6OnM1P4VqbmKi1m/AiQZeAAAAAAAA",
+      "thumbnail_link": "https://www.google.com/search?q=netgear+wac540+wlan+access+point+1733+mbit/s+power+over+ethernet+white&stick=H4sIAAAAAAAAAOPgUuLVT9c3NMwwz4jPy0tKThKwMDVLTjQyMEs1TDU3MTE0n8HEeImFY1LdROFnnooeHayMi1jd8lJL0lMTixTKE5NNTQwUynMS8xQSk5NTi4sVCvIz80oUDM2NjRVykzJL9EEi5alFCvllQCK1JCO1CKhZoTwjsyT1AysjANtbV2uAAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QvIMEMBV6BQgMEI8B",
+      "editorial_reviews": [
+        {
+          "title": "Netgear Insight Review: Can It Compete with Cisco Meraki?",
+          "link": "https://info.hummingbirdnetworks.com/blog/netgear-insight-review-can-it-compete-with-cisco-meraki",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAaVBMVEVHcEz1g0D1h0JbmEH3k0T6jkX3kkNhmEKJhE1cmEH2hEH3kUP1hURdmEH5lEf0gkH3i0JcmEFnmEH2d0BJmkFcmEFWmUH3lET3lERim0j2lUX2lETzcUbzdUD1hkLzdUBWmEH0fkH3jkOrNgNIAAAAIXRSTlMAWfxej0HSKgnC4/I3/RuFpJFHrjutUmZyFiJ3GdDCmdiDaRSFAAAAa0lEQVQYlYXPxw6AIBAE0EGaYMFG7I3//0g9oMLJOW3eJptZ4Dc9G/IIOMuc20gg0yxccp6tVIX0RLIbdkAV1FOpdQt0dYrRS8M7qux3RtJD2Xv/pXkGj2XFTFSGC1GFTYDE6DWCdPn/8c0FlagEIt6ovWQAAAAASUVORK5CYII=",
+          "source": "The Network Equipment Solutions Blog - Hummingbird Networks",
+          "description": "If the app's mobile device is connected to the same network, it can also attempt to scan for compatible devices…"
+        },
+        {
+          "title": "Top 10 Best Wireless Access Point 2019 – Ultimate Reviews",
+          "link": "https://gameslearningsociety.org/best-wireless-access-point/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEUAAABmZmanp6fQ0NAAAAAAAAD///9HcEwAAAAAAACMi4vo6Ojx8PC3t7crKip8e3tNTU20nmY1AAAACnRSTlNS////hf//AJ69M30iMwAAAGNJREFUGJVlTwkOwCAIwwvB6Lb/v3YCG9lCE6U2tAJ0ARAzgVE57QGYUJujigDtg/3sSo68hpIO2nDiyqVoC5AUTK+HgPed0EPYhYHTBLdc0ywamjCfZVpo+DYOFkaPy/3XvwH0ugWTmo4PwQAAAABJRU5ErkJggg==",
+          "source": "Games Learning Society"
+        }
+      ],
+      "specifications": {
+        "type": "Wireless-AC – Wireless-N",
+        "poe": "Yes",
+        "extensions": [
+          "MIMO",
+          "Dual Band"
+        ]
+      }
+    },
+    {
+      "position": 10,
+      "title": "NETGEAR WAC104",
+      "link": "https://www.google.com/search?q=netgear+wac104&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2rEgrszROShJINLA0MbM0MTZMTjYysDBNncHEeImFY1LdROFnnooeHayMi1j58lJL0lMTixTKE5MNDUw-sDICALTDbJJIAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QoYACMBV6BQgMEKEB",
+      "price": 45,
+      "rating": 4.3,
+      "reviews": 48,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=netgear+wac104&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw2rEgrszROShJINLA0MbM0MTZMTjYysDBNncHEeImFY1LdROFnnooeHayMi1j58lJL0lMTixTKE5MNDUw-sDICALTDbJJIAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QvIMEMBV6BQgMEKAB",
+      "editorial_reviews": [
+        {
+          "title": "TOP 6 Best Wireless Access Points | Buyer's Guide 2019",
+          "link": "https://gadgets-reviews.com/review/838-best-wireless-access-points.html",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACJklEQVQ4jZVSS0tVYRRde5/vnON94D0o+AOKCgyKXorYoGlNiwjJabMIIzCL4sKtsGlGgzBIhAY1atAwepBhmfagIugx64Fker3aved859u7gVpaV7A13HutxX4swiq4qep9eIcIs0BfG6aJSOrx6O9C/4TuFZHu1GKHClqgABl8832MseGh3q10t65B/7MfBUE06Pl0IMwBKkBSXegFGYA9oFoBUivDDcTHT+yk7wBgAODSew1nptydfESdaQJUpjAOwrAIXrGmamPTquIO55u8DjuDrsRDP4A/BuVJOZNv9jptDUitDGxq456DRG7ZpPcBXLn40vVpwo9OtdHb3ysUH5ebSPMfswWOqhU3crbD7F7tsPVgfL+x3fiIRACGN/A/YgAwNpb1YZbxswwEWbxei6g0WtsQ5MKCxphkYtaFZQBn/31rPQiZ67kCxmpWzrPx8Sm1QEMOcBZb1jS3QxBkAFIODYcYjSsyk23kSMkdA3CjnqY4puvY6WX2QAwanJ9FURWfCQBKI+5crplP2xhIE7lqs3y0uJmSFQYPtTXfjDcmBOJptPfuoqfAYg4KLVwqT7k92cjrJOIjMiftpSc6xIoXJBBHbiOxHqrNETIMCNC4ZLwiyk6ja35A+4PsYpRrC72lKMfzQFx1DwLf6+rdTl9WGCzhwnPdB5FuSbHDJtzCJOoZfGWDCfb01slt5vZy/qpvu6dqxscRcQbS04ppItJ6vF9qqeIgd+aARQAAAABJRU5ErkJggg==",
+          "source": "Gadget-Reviews"
+        },
+        {
+          "title": "Our Picks for Best Wireless Access Points 2019",
+          "link": "https://www.wirelesshack.org/best-wireless-access-points.html",
+          "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwEBBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIABAAEAMBEQACEQEDEQH/xAAXAAADAQAAAAAAAAAAAAAAAAADBQcB/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDEQQHEgAFMSHBBggUQXGhsf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAgEQABBAEEAwAAAAAAAAAAAAABAAIDESEEEhORMVFh/9oADAMBAAIRAxEAPwCK01HcC4+Zp2lrwEqxHHWO+mAtD0mG97H438sqmM1ZpeZS7MRE8g/GpwScu74aWrU6V0NHyCETbH7v2TUtqhfbDbykErUQIIPM+3X61TjzdpGggZo5vpbvJubc2uX6h1giQCttyRH5oxs2toKs8j5jZpf/2Q==",
+          "source": "WirelesSHack"
+        },
+        {
+          "title": "Best WAP of 2019: Wireless Access Points for small businesses and home office",
+          "link": "https://www.techradar.com/best/best-wap",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGFBMVEUvbpH////L2+PmJIqdu8mXt8hWiabl7fH40NWQAAAAPElEQVQYlWNgIAswMjLiF2AEASDJApOACTDCVTIyMoGFWRnYUATYkQxhghK4BJgghjIxMDMjOQRFgDQAADTFAGtdZbnzAAAAAElFTkSuQmCC",
+          "source": "TechRadar"
+        }
+      ],
+      "specifications": {
+        "type": "Wireless-AC – Wireless-B",
+        "dual_band": "Yes"
+      }
+    },
+    {
+      "position": 11,
+      "title": "Ubiquiti Networks UniFi AC HD",
+      "link": "https://www.google.com/search?q=ubiquiti+networks+unifi+ac+hd&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw3KzIqtEiyTBKwSLSwsEw2N0k1tDQ3T0w0n8HEeImFY1LdROFnnooeHayMi1hlS5MyC0szSzIV8lJLyvOLsosVSvMy0zIVEpMVMlI-sDICACaH2URXAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QoYACMBV6BQgMEK0B",
+      "price": 290,
+      "rating": 4.6,
+      "reviews": 63,
+      "thumbnail": "data:image/webp;base64,UklGRnQEAABXRUJQVlA4IGgEAADwGQCdASpMAIQAPj0Oj0eiEREKeCADxLOAakAg16vle8Z/iXqMbYDzAeQB6gPQA/sf+A6xj0AP2K9L/9kPg5/an9tPaNaO6CYVd4VXNkNMMf5c+UNUAvcsULUjcApZXUIFp2RJXiU6Z3i6f70YNpBAWtciK4Wgv4QnX05H5Pd+NGhClWDdqnpN5hVBhrtWSA1JbrtUowaIE5WpPo7HOsybgXksGFfz1vGKf2Wy8oVtq/schkOVbvaIv8zgOIpaCllDwwfC91l2YHI56u3YlDMwDfKRu/ia4AAA/v20yTl+Q/Quc99D9YY0qZ2abY6QFxck8uSOsApgFDz5uQGnXxMLivMGRaDPYLzyCg687/Y3rsvfo+VrqbzXAISwn9fp790ZyPSgbgW3jSZZbDl+y14flpJYjd9eQ8UO1av+ney4mIt/TH9stOPOOo9tONzRcpm2Lq2ZfSS5BxTTiIEhIyGoDR5iOgnliT1Jryc8RF1ddcRnPGyKtBtSz6nQ5QkoWFyV2dmjrpuzDTYO9mQkWqH1jmXgSN8DQJHy6YcYtfkrUtnTQfgVcD0j/J+cZFw/pyMBLfZAG7aaDAJ5CcfvJgNRJN/gjkSIp/05niz+Etg+CDu65nUGhYVLECWKY80MPvR3OOX36xYs08g8egLtFr5mpYlOU6fu8mUDsnrUWpYY7EAUc0IQsq+V/Ajz3nOnpICoCRlpDudeoQLnpBN77/IcBaEgAfic42jP2bX1HAKSySh571ZiGxv9v69MJ9YZx7iCd3LPAvj9+kpDROD9PziVEZ6y67qjysKtJfgdIpkH9ZA4KPretMxatkgoK0L5pz9zgoH7SFfR0Rb0prNvJMxmTXjXe/k4Jq7LnfeSHFfmwg/DnUhRB+w6TWKFfG7UYb8f9kiPgtf3rXSI9kDJF8M93JapXxOelOM3R8lxVNVCwXK/LMP4rOaue/eD2TjBnDKnE2eLIrEIF85qZu23vG3TUf+/Z6bnw5eW1LY5Wut576+ItKB8/DeTAEq5WX7nbtlFTp0/CJZJRC/52lMUx/iIlNGAJpONNWXnVc/udpj3EjRMBo5jhwuFfBSj8+jc3cXIUhoc8TNG/O0B/Wcb1CnErXbfwOrenOH/zYy1rwnDw8JrfNXdmDoxbG531enr4K2f4jPjO+ibsSrJNV2Zufoz+srnSu9tGw/yMaRv1AXT7/mWGxVaOAB4Jv/FKigSH8cqTgCdFOyn6pUm7ziwwL1pFzSJ70mKn8rfdmbzmK0YsM/F1XakyXC58phSeXgwxRrCjk44+Cuf6qJebCQZ93tRBxqbjvF6gDdw7Xos6ViRUDcJg+x7wrJFDmIhMS5AEJHRvqB4HPcR1GVX0mn3EkZhYxX/t7LEx1m7PuUu+QFf2goBlX/ZlsYuC6gxEfYO85Q2Lt/vOoGALF1w65roiy9WxQ0XBXF09QRr4uDYKCwYX+PT5mQDArCQVNCu+wRjlo0WB0L0aLOqRWcG3Qy7h+ehgNgZGWAAAAA=",
+      "thumbnail_link": "https://www.google.com/search?q=ubiquiti+networks+unifi+ac+hd&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw3KzIqtEiyTBKwSLSwsEw2N0k1tDQ3T0w0n8HEeImFY1LdROFnnooeHayMi1hlS5MyC0szSzIV8lJLyvOLsosVSvMy0zIVEpMVMlI-sDICACaH2URXAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QvIMEMBV6BQgMEKwB",
+      "editorial_reviews": [
+        {
+          "title": "UAP-AC-HD Review... used for education and customer \"show off\"",
+          "link": "https://community.ui.com/stories/UAP-AC-HD-Review-used-for-education-and-customer-show-off/c2c23b6c-e85a-413c-8507-2fcd593030e1",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABOUlEQVQ4ja2TS0sCURTHf9M4oynK+OqNBAmRSERUUBBtgrYt6lO0DKJNLfsCfoy+QTuhwIVbcVO0MchMyLB8MHNvC0nNOxZl/9W9557zOw/O1cgUBSPIA6CB9lfA2CjZXQE7s35Xx905P6erEdKWgWX2whRAodribD1KKmx2bQcLQa72E1xsTXBft6m1xXDA0XKY7MM7z02na0taRvdsS5DftQCdiW7PjPfdh89YASyFTVIRL+moV3EWUiKk/GJTAIfJIOcbMXRNzVqothiIVwEvLcGk36MU7QhJqW7j/AS4vH0FIGmZbE75iPl02o4g99ig3LAZiO9sYr9ObirMhwz2EgEWLYOVeGeY2dIbx9dPSlsamaJwW+W1uI/pgE7I1LmrtcmVm0qwawWfyleaUBn22tP//4Xf6gNQWlKCr74v1wAAAABJRU5ErkJggg==",
+          "source": "Ubiquiti Community",
+          "description": "I have then been using the UAP-AC-HD as a ``demo'' item when i was visiting customer in my own company."
+        },
+        {
+          "title": "10 Best Outdoor Access Points In 2019 [Buying Guide]",
+          "link": "https://www.gearhungry.com/best-outdoor-access-point/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEUAAAABAQECAgL///8EBAQDAwMnJycsLCz8/PyQkJAPDw9UVFTR0dEzMzNycnJRUVE/Pz8CKzKYmJjh4eEFHyMGq8YCGh9iYmIZGRlJSUnLy8sACwwARlTBwcG3t7eIiIioqKiTiYjo6OiAgIB/GYgeAAAAj0lEQVQYlY2ObQ+CMAyEr2sH25iAoPKmY8r//49uJCYavngfmva5a3LAP1KiCUrnLZ+UJ337ONWNoGyB5SzZ67g3HtaDLtdbSgzcYJxg55S4Lwk8AkQJVtPF+HQJzAFj/3KbiTFwkUDNLSoe1/RSmAx0YN+zWz1Q7gmiyW4l2gpwg/sU+5UWUXt1EjqYR70BEkUF0GCVhBsAAAAASUVORK5CYII=",
+          "source": "Gear Hungry"
+        }
+      ],
+      "specifications": {
+        "type": "Wireless-AC – Wireless-B",
+        "poe": "Yes",
+        "extensions": [
+          "MIMO",
+          "Dual Band",
+          "1 – 5 pack"
+        ]
+      }
+    },
+    {
+      "position": 12,
+      "title": "NETGEAR ProSafe WAC510",
+      "link": "https://www.google.com/search?q=netgear+prosafe+wac510&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw3M00yNUopSRJINEhJTTM3N001TUoxMTZLnMHEeImFY1LdROFnnooeHayMi1jF8lJL0lMTixQKivKLE9NSFcoTk00NDT6wMgIA4xjcuVAAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QoYACMBV6BQgMEL8B",
+      "price": 98,
+      "rating": 3.8,
+      "reviews": 40,
+      "thumbnail": "data:image/webp;base64,UklGRtYDAABXRUJQVlA4IMoDAAAQFQCdASqEAF4APj0Qj0eiEREKOCADxLSAC2aWnX3Kuz33dqDeXMuelXNNVNjSf2F9EP1d/2PVt6zf7YilTXuvD09miyfZFVk9b4NIaOY0deXXNi2azOpXriuNvsStA2Q6Bkc0uxQXg6u5Ri9cmu8E+B455H/nQxMwK67KkRpH/CO+Ghb2X6RvUCGwQ5qRfyKQGQSu2gKnHQlFOALFU/lIc6kaQMrAEjJeCLFwEV6GIAAA/v3AkTnKYNICtlKn2huxm6EBJheauqmSXmaLay9ixXiI5wzGGQ2xduC1W+yGouKi4GxUD1/VA1L6NTT5bgGACTVwCEULeEAZApVTZG8wGZ2Xcf0Y91S0F4oWZUCPP+yBspg17kcVW9tD+KGt0LUkHIVq3ODB/IyoaW7WHG1cwI2tzqKpz6ARJjttBQ4lVchs85yGJaWk6acgRyivUOD2qvZOcj2/rQOmWlg81xpgO6Xat5FDtYVwCay/qoyTFtEDx/sC64xGKogR0n/3qfVSCvP6+ECpG4UDnAK+pJytCvQjh2iUkQZrkfvomzcO+dxzp/+Yhxsstb4oEwAfeR78mfiPUt8ejBrELaJhOWL4N/8HIBKeGZq3X76DVQB38zh+svrpJONT9MShr2vaalqopw1blGjrktjLNgC+CVygSKOfShVIQLSfLWjoDowTiZ5ZZUPZhBEhCuG5yhNRi59Dn0Dl7vTHb5NY97EujGvQXiqQgKG7hjhsJkbCk8JGIoANVrSHxGT/f1RVlqq16oOm/HUJcR5h4qxYS3umht4zdV5Ka8KfVuzdi2jAKwSyyapHXuOyIEm9ToobQ472Pe+zwm/cArbdUjVnzZgHvan4UVpdkszKF78zzB0GKAVp+jpgwRyqcLMVqaJYTAxc5wtOMAQsgf1HPSWcGucT9QryCPY7GQBvU0jCAotjDfL0Z4TiHBRnYjvJRal9eAirJs5xF/6/rwrphAq4WUxnuecJoQXLMhJvQL9A3PZitjh9nKrpQ27qFt+AEoFHvJlz9Gf0a5ZbBlLdN6WzW3hZesQePFc7zr/eZQh8PU20A8ZQ8Ko+g114HSlRHnGBkhb2CKBXoQ9ALrG7ZoKMkhX4keOYIuZEx9aNgFVA6Kdogt/0LLPqceHIkvYT/yZzGnkEEwdoFsc2zcRARPYkCSItRmf3ld7lkdMOrG54r+QjRi2PsojJJIjg2OWMwN24HqYIlDSrSQLxeNI4btByrpnhzE9/f7lQrEgQk8o9iWlZ9m6+I8a4+aSoz+fu+z/e0eEqFqYZv6emBxAAAAAA",
+      "thumbnail_link": "https://www.google.com/search?q=netgear+prosafe+wac510&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEw3M00yNUopSRJINEhJTTM3N001TUoxMTZLnMHEeImFY1LdROFnnooeHayMi1jF8lJL0lMTixQKivKLE9NSFcoTk00NDT6wMgIA4xjcuVAAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QvIMEMBV6BQgMEL4B",
+      "editorial_reviews": [
+        {
+          "title": "Netgear WAC510 AC WiFi Business Access Point Review",
+          "link": "https://nerdtechy.com/netgear-wac510-review",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAATlBMVEXi4+Xh4uTu7/Hg4ePe3+Hk5efn6Oro6evt7vCWl5iJiovT1Na5uryqqqywsLLY2dqPkJGBgYKjpKVUVFSYmZrDxMb6+/5vb3C2t7men6Dv+ui8AAAAg0lEQVQYlYWOWQ7CMAwFHTtekmZrKVDuf1GSUBB/tWTrafRkDcD1OJp3rJtJtBMWYFZhBrCUkbiW2sIa28aA+bYoL02rtsK+N8oWvXRAuCfrPzCne8QOPIZkNEB5hOxO4CYwiWmXf8D1GX8NK4d5PFbz9ko61IiG3XCkaQr8Nf+k63kDsx4E6VINZMcAAAAASUVORK5CYII=",
+          "source": "Nerd Techy",
+          "description": "The first access point needs two cables, one for power and one Ethernet cable that connects to your existing router…"
+        },
+        {
+          "title": "10 Best Wireless Access Points in 2019 - Full Review & Guide",
+          "link": "https://www.top9rated.com/best-wireless-access-points/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAJ1BMVEVHcEwKnvkKnvkKnvkKnvkKnvkKnvkKnvkKnvkKnvkKnvkKnvkKnvnofP0IAAAADHRSTlMA9DLG6WkcYI2GoTxsP16lAAAAZ0lEQVQYlW2PWQ7AIAhE2QrBcv/zVpY0aep8GGaUBwIcdbEIX68ljBLS+DQieXZS92b1pvqnqjw5HOymAGq+yx1IoDZMMaSCgSVcqiViZbB2wQM1UAUbaOLJI/yesb1Yi86r/z/30QNsKgSa+VmUWQAAAABJRU5ErkJggg==",
+          "source": "Top9Rated"
+        }
+      ],
+      "specifications": {
+        "type": "Wireless-AC – Wireless-B",
+        "poe": "Yes",
+        "extensions": [
+          "MIMO",
+          "Dual Band",
+          "1 – 3 pack"
+        ]
+      }
+    },
+    {
+      "position": 13,
+      "title": "TP-Link TL-WA901ND",
+      "link": "https://www.google.com/search?q=tp-link+tl-wa901nd&stick=H4sIAAAAAAAAAOPgUuLRT9c3LDSzzEqutDBOEjBOtDAySjROMkhMNbY0N7OYwcR4iYVjUt1E4Weeih4drIyLWIVKCnRzMvOyFUpydMsTLQ0M81I-sDICAPmOiNdLAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QoYACMBV6BQgMENEB",
+      "price": 40,
+      "rating": 4.4,
+      "reviews": 200,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=tp-link+tl-wa901nd&stick=H4sIAAAAAAAAAOPgUuLRT9c3LDSzzEqutDBOEjBOtDAySjROMkhMNbY0N7OYwcR4iYVjUt1E4Weeih4drIyLWIVKCnRzMvOyFUpydMsTLQ0M81I-sDICAPmOiNdLAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QvIMEMBV6BQgMENAB",
+      "editorial_reviews": [
+        {
+          "title": "Top 10 Best Wireless Access Point 2018",
+          "link": "https://www.mytechskool.com/2017/03/top-10-best-wireless-access-point/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABs0lEQVR4AWL4//8/RRjO8Iucx+noO0MWUDo16FYABMGP6ZfUcRnWtm27jVPbtm3bttuH2t3eFPcY9pLz7NxiLjCyVd87pKnHyqXyxtCs8APd0rnyxiu4qSeA3QEDrAwBDrT1s1Rc/OrjLZwqVmOSu6+Lamcpp2KKMA9PH1BYXMe1mUP5qotvXTywsOEEYHXxrY+3cqk6TMkYpNr2FeoY3KIr0RPtn9wQ2unlA+GMkRw6+9TFw4YTwDUzx/JVvARj9KaedXRO8P5B1Du2S32smzqUrcKGEyA+uAgQjKX7zf0boWHGfn71jIKj2689gxp7OAGShNcBUmLMPVjZuiKcA2vuWHHDCQxMCz629kXAIU4ApY15QwggAFbfOP9DhgBJ+nWVJ1AZAfICAj1pAlY6hCADZnveQf7bQIwzVONGJonhLIlS9gr5mFg44Xd+4S3XHoGNPdJl1INIwKyEgHckEhgTe1bGiFY9GSFBYUwLh1IkiJUbY407E7syBSFxKTszEoiE/YdrgCEayDmtaJwCI9uu8TKMuZSVfSa4BpGgzvomBR/INhLGzrqDotp01ZR8pn/1L0JN9d9XNyx0AAAAAElFTkSuQmCC",
+          "source": "MyTechSkool"
+        }
+      ],
+      "specifications": {
+        "type": "Wireless-N – Wireless-B",
+        "poe": "Yes"
+      }
+    },
+    {
+      "position": 14,
+      "title": "D-Link DAP-2610",
+      "link": "https://www.google.com/search?q=d-link+dap-2610&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwvMo0vNDc2ShJIsjQ0SEkxtUg1MDAxTUs2n8HEeImFY1LdROFnnooeHayMi1j5U3RzMvOyFVISC3SNzAwNPrAyAgDLffYpSQAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QoYACMBV6BQgMENsB",
+      "price": 110,
+      "rating": 4,
+      "reviews": 1,
+      "thumbnail": "data:image/webp;base64,UklGRowDAABXRUJQVlA4IIADAACwGwCdASqEAIQAPj0cikOiIyEWWUTkMAPEtIHYAMlVfLLb0THyocx092tBIKBWZzcvjqb6203EjhOGO6tQbGxHK62brxRanqXI/JD9af/TYcRhRWiWMEfMoWonWHsQhyaZ+GU5MIsoH+C1c91g+eNq6Uuq1JtShEkQOSXz1WaFXnGi4QlzjEeRcL4Dr5D+A6T03Tx6FJlDlVgtdAnetuTrmnAAprebJ0Ztxp+37eCOpDg3vQQ6hfdQbQYuT1ZGqhhz58BhYRmNE0ml7hkADw0QcCMV9apx3MTBCUDsZe4PfUnR8SLyAAD+/3Y1V6Tu8TljpqkeI/Q3SMZsVtT9BaINWQ0YSk47NcOIi1+do4eKKZptuDVzPMjy6lho0nzFw3zbCpaymJgrZp+B+cXGGlTTYy0ZPR4GQXsCeFA1JazakPmfstclR9RP2MxPYUchlrfT83bRIGlfwjRkvZXvTiib5jR95MTGZpug7+xfY1C9162yErJiiIma7ZLuWvzNE8bwOgouvaOKPgnODYZr+uLqNMyQ0F0tXL8eVxJ3FLvX5/BjBW/4ZuAA7h1mUbLerFM7ABP8O/kHge+F8LxsBV/oeRFmU3XOIptWnf8VILhXC3OKk/vT0W6nDXjWnYooR2r5f60ag0PEuKYQ/Dfnnah/uGT28DZXYSmTmbIO9+58+MvoyomW6p9Xs7pdCIRxpV/3jXSztHC4T5thvNgUpTPvgqzyFDDSsedfDh/HXX5us9AaxV8sePvqUxMKj0Ycs2MxozbDG3+vJ2sgrac+yYuD9SGgYog+c/p1mcHAwNL0+QsgVsGlDQPMcK9DaKQGSHor7ra7yTayC0cs9xlzuz7p4v6jdUandPTCpJwaf22HDiQACHrUAMvLj8/wygQ//jCmChKPpoNWLV3KjMnePW4GWiTQ8hxINCNtgOjSNuzpJ30B6lNN+BI1ZvkINBIvadwixxFTDbSJ0WYlx2U6ZK1pi1wWKrF+sZ+KU9wjNSwyXBEX4XsD6f6RzphmmObQOZOQHIBJ7Jr8yrpGIZ9yhkIAbbmOWreoFQXb2XzzBTSyf/xxDf+Nu8SQ3dUT3x9JsUy4F1rw/YkYSwoUTjDJHmKR6XSk4aeB9m/EBgsrGrx+czUb4SKaKZND1jODcuJ5wCcbbn2ftm2X+lEwKOQRPzX20sRLOUdDzUizmZDgAAAAAA==",
+      "thumbnail_link": "https://www.google.com/search?q=d-link+dap-2610&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwvMo0vNDc2ShJIsjQ0SEkxtUg1MDAxTUs2n8HEeImFY1LdROFnnooeHayMi1j5U3RzMvOyFVISC3SNzAwNPrAyAgDLffYpSQAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QvIMEMBV6BQgMENoB",
+      "editorial_reviews": [
+        {
+          "title": "Wireless Access Point - Ranking",
+          "link": "https://www.smallnetbuilder.com/tools/rankers/wireless/view",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABU1BMVEX+/v7////39/f7+/3y9PW2nn+hfE/s7e/MvqynbTO2UBSgVULa19fQycSShluMYBiYd1DX0syYazalhmu/tLDCwp/Huxuviwegbw6wfg12UB17XznGw7/X19DHxyn+/gCHgAl0YwyDYw2ckG7K6Oy29P3E9fzu+/2dmW3q6hrJxwzl2AnkzQa8sg1apI5q5fiW7fjQxqiYhSny8imcnD6trnKHiFqlp4FkmHRq0tKklWVfXUTe4DrVxwjLiwW3i05naXGnqKt/f4FOgJBqvKOkpKJwbk5cYFZ8gyvzjQPXhxnAoXjDn23QiDSmZEohTpt0c0AUcrv4kgHaVA4yO4WkYRx0dHSCkKQDfOw0bIe/ZwbIdQWdTSs7OnGRkI9oc44BYehTaGuRcC9jcF4JUcJ7TTXLYAhNVl4KdtYFZuJVU2m2bQrAspd2b1aWViGQdzx0WTzEeCdRAAAA+klEQVQYlWNgAAFGFlY2dmYOTi5uHjCfmZePX0CQVUhYhIcJzBcVE5eQlJKWYWZkBKuXlZNXUBRTUlJWUVVTB+nX0JTX1NLW0dHV09c3AAoYGhnLa4qZmJqZW1gaqDIwMllZ29ja2Ts4Ojk6uxioMbC7url72Hl6efv4+vm7qTAwuLoHOAUGeEZ7BnkGh4RyMDLwhLmGR0RGRQNBTGw0UIDFKS4+IdErNCk5MCU1OoeRgVEmTNpfyDMtPSMzKyobKAAUyU3yio7Oy8vL5hQSBKpgZ5XOjk7KT1KSFuGRAXqFkSM6OrTAKSdHhp0B7BVGdqHo0DgeZqjHGACmuSwWhpnn8wAAAABJRU5ErkJggg==",
+          "source": "SmallNetBuilder"
+        }
+      ],
+      "specifications": {
+        "type": "Wireless-AC – Wireless-B",
+        "poe": "Yes",
+        "extensions": [
+          "MIMO",
+          "Dual Band"
+        ]
+      }
+    },
+    {
+      "position": 15,
+      "title": "Linksys Business LAPAC1200",
+      "link": "https://www.google.com/search?q=linksys+business+lapac1200&stick=H4sIAAAAAAAAAOPgUuLRT9c3rDKuiC_JtjROErBINTUxTjFPMjEzMjVLszSawcR4iYVjUt1E4Weeih4drIyLWKVyMvOyiyuLFZJKizPzUouLFXISCxKTDY0MDD6wMgIApz4yAlMAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QoYACMBV6BQgMEOgB",
+      "price": 140,
+      "rating": 4.4,
+      "reviews": 14,
+      "thumbnail": "data:image/webp;base64,UklGRuYEAABXRUJQVlA4INoEAABQGQCdASqEAIQAPj0cjESiIaEQmq2UIAPEtIBrtAoDPn/VLyJ+Gig8t6+o8S+lumbeR76u9g7pbkIS7YPKq6J7/j0B+vSIXFtdwwocE/l3g5Ssrpc0dFvhvk1X7CUo/sa+pwzYDUiMOt+AMmLVPWQe5niWstYcj8KqW+y0VZpwLUkI3Pqg3I4IWiPE/W9n/iTfT/q/TBL4KvJFDUmFjzqo2qt5ZUpfxsQV/B8RHrhIaWm4zG88PDGOU9mT5r2pfz7081f//L2SS59qEb7T+WwuMhAAAP7+VdAAk5/Xp+5m+N/HTiGOr1BdICgYomRGD3zeN25ve6tXO7YuTIx5HUjgXRgTeA3J+zVY5SfYRFotxglmg3r0iDOp/SiOJ63g0p0F8hf3c88mi1RsW8lUO3bWxf2Mr/R0q5Tfi7REJTXEVgGASfqR168gVRegjS1iwwqOyeSg2OXCPt9L8rZQ4GGfCLWZptmeaQD9t3gM98YnvxKqwnxbz9ee82zU2xuM9oxqOBTUmZeIG/NYzgyq66XbPjlSIfGbH53vwooIbi62V+Sz8cACpJz0ldhsdJ8bLq3odTIkH4WtXFBI6kKxiw7AH8q1yoouy6NXxhWq4dHVMHgNDTjZVDX5pAJeiomWH4XjkRcH8WZTTVzYKlP8DnPVnkDKtolf3QC9N8L1XLRS470vHSV8NH2sNA1s2B3GmWbgNGQIWa200w7Rla28h3ZfTLiLdpjdfEMEHXqX/MgFKqsSH2kl21DQiRKfvBzfmkgzA1ahPDl0qoQywWgD1iz6UGfimkIPg72h0+mziRK1vJkEudi9rqwJxg8G8XBSxD6cTNI8Dc8a8bc7ckWOOGOXWusc9xTR3Y4MVD6I9MtiRoWMwoIZ44akQ+7jfA1z7V4dnwBJdj/428I7OlV5S0e95EKUnVe8bZVmC9XAz3zv3aBv/nvKyb+2bWIkFV1x2th/a4z2T5MHNwOYdL8dj8Ipns8aSEm4JFYpD+tU7870VZ2HIt2gbkB47g3GkYEf2abHMb4ambUOkoc3owmWr8LaYYUiYJXbGzp/orWOSAeErgu5Jf1ErdIbsqSjdmMo3nOeHvLBtY0fpLt9LYYQD3hJ7LweK6x8nCby6CAROc8JuZwiFnghQwPkyRPVm+mg9uAtCh0d1mOsR7mXBx9vbf6/vGwYLp4eNoc0foLP+LiJ7rz4/cqem8PH7Mr3O15jGvmLunmbro265frADo79ullL8VqGi18sNwKNseLqk0lumhhev84PiO2NtGHCZppPKhFUb83w0+lVRX6yJzPkDGVame5e57sU2rl4q5Y30nuPSbO4C1Ik65q1UTNyALJwCxGADIW4Wojj0YNb+A+2OOr8zVffDFd2jGd1QC7nWQQTIyhqvU73UeYeO/ROr5a9EeKpitQR0DfQex36y+UKdMGcX31aAQTQOkeZu+wm0Atyh+/X8QdwoSlv9EnfYVkfUofl3Fje+n8jqyVPODPdU507yRBojp0bWTBSCIiwre5an7KTrZy0OaIK+h+Bl4LYy9pwKaa6/xDrCtArcjnV3J+YLFJezEb4YNT2g6tmrZduppw5W0s89EzKLtzWiL0e607JVmq71scrKvJ7NGq2ro/0v5C4F6CRPgwR4qBXpvMOl7mvIAAAAAAAAAA=",
+      "thumbnail_link": "https://www.google.com/search?q=linksys+business+lapac1200&stick=H4sIAAAAAAAAAOPgUuLRT9c3rDKuiC_JtjROErBINTUxTjFPMjEzMjVLszSawcR4iYVjUt1E4Weeih4drIyLWKVyMvOyiyuLFZJKizPzUouLFXISCxKTDY0MDD6wMgIApz4yAlMAAAA&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QvIMEMBV6BQgMEOcB",
+      "editorial_reviews": [
+        {
+          "title": "Linksys Access Point Clustering Reviewed",
+          "link": "https://www.smallnetbuilder.com/wireless/wireless-reviews/32987-linksys-access-point-clustering-reviewed",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABU1BMVEX+/v7////39/f7+/3y9PW2nn+hfE/s7e/MvqynbTO2UBSgVULa19fQycSShluMYBiYd1DX0syYazalhmu/tLDCwp/Huxuviwegbw6wfg12UB17XznGw7/X19DHxyn+/gCHgAl0YwyDYw2ckG7K6Oy29P3E9fzu+/2dmW3q6hrJxwzl2AnkzQa8sg1apI5q5fiW7fjQxqiYhSny8imcnD6trnKHiFqlp4FkmHRq0tKklWVfXUTe4DrVxwjLiwW3i05naXGnqKt/f4FOgJBqvKOkpKJwbk5cYFZ8gyvzjQPXhxnAoXjDn23QiDSmZEohTpt0c0AUcrv4kgHaVA4yO4WkYRx0dHSCkKQDfOw0bIe/ZwbIdQWdTSs7OnGRkI9oc44BYehTaGuRcC9jcF4JUcJ7TTXLYAhNVl4KdtYFZuJVU2m2bQrAspd2b1aWViGQdzx0WTzEeCdRAAAA+klEQVQYlWNgAAFGFlY2dmYOTi5uHjCfmZePX0CQVUhYhIcJzBcVE5eQlJKWYWZkBKuXlZNXUBRTUlJWUVVTB+nX0JTX1NLW0dHV09c3AAoYGhnLa4qZmJqZW1gaqDIwMllZ29ja2Ts4Ojk6uxioMbC7url72Hl6efv4+vm7qTAwuLoHOAUGeEZ7BnkGh4RyMDLwhLmGR0RGRQNBTGw0UIDFKS4+IdErNCk5MCU1OoeRgVEmTNpfyDMtPSMzKyobKAAUyU3yio7Oy8vL5hQSBKpgZ5XOjk7KT1KSFuGRAXqFkSM6OrTAKSdHhp0B7BVGdqHo0DgeZqjHGACmuSwWhpnn8wAAAABJRU5ErkJggg==",
+          "source": "SmallNetBuilder",
+          "description": "In March of 2016, Linksys extended this clustering feature to all its 802.11ac small business APs, which includes…"
+        },
+        {
+          "title": "Top 10 Best Wireless Access Point 2019 – Ultimate Reviews",
+          "link": "https://gameslearningsociety.org/best-wireless-access-point/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEUAAABmZmanp6fQ0NAAAAAAAAD///9HcEwAAAAAAACMi4vo6Ojx8PC3t7crKip8e3tNTU20nmY1AAAACnRSTlNS////hf//AJ69M30iMwAAAGNJREFUGJVlTwkOwCAIwwvB6Lb/v3YCG9lCE6U2tAJ0ARAzgVE57QGYUJujigDtg/3sSo68hpIO2nDiyqVoC5AUTK+HgPed0EPYhYHTBLdc0ywamjCfZVpo+DYOFkaPy/3XvwH0ugWTmo4PwQAAAABJRU5ErkJggg==",
+          "source": "Games Learning Society"
+        }
+      ],
+      "specifications": {
+        "type": "Wireless-AC – Wireless-B",
+        "poe": "Yes",
+        "extensions": [
+          "MIMO",
+          "Dual Band"
+        ]
+      }
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is an access point used for?",
+      "snippet": "An access point is a wireless network device that acts as a portal for devices to connect to a local area network. Access points are used for extending the wireless coverage of an existing network and for increasing the number of users that can connect to it.",
+      "title": "What is the Difference Between Access Point and Router? - LigoWave",
+      "link": "https://www.ligowave.com/difference-between-access-point-and-router",
+      "displayed_link": "www.ligowave.com › difference-between-access-point-and-router"
+    },
+    {
+      "question": "What is the difference between WiFi extender and access point?",
+      "snippet": "Access point is a wireless networking device that allows wireless devices and networks to connect through a wired network using wireless technologies such as Wi-Fi. Extender, sometimes called as repeater, on the other hand, is a networking device used to extend the coverage area of your wireless network.Jun 10, 2019",
+      "title": "Difference Between Access Point and Extender | Difference Between",
+      "link": "http://www.differencebetween.net/technology/difference-between-access-point-and-extender/",
+      "displayed_link": "www.differencebetween.net › technology › difference-between-access-p..."
+    },
+    {
+      "question": "Do I need a wireless access point?",
+      "snippet": "A wireless access point (often referred to as a WAP) is a piece of equipment that enables you to connect devices which have wi-fi access to your wired network. ... Most homes only require a wireless router, which will usually have a wireless access point built into it, to provide wi-fi throughout an average-sized house.May 1, 2018",
+      "title": "How does a wireless access point work? | ADS Digital",
+      "link": "https://www.adsdigital.co.uk/blog/wireless-access-point-work",
+      "displayed_link": "www.adsdigital.co.uk › blog › wireless-access-point-work"
+    },
+    {
+      "question": "What is the difference between an access point and a bridge?",
+      "snippet": "A wireless access point is a device that extends a wired network, into the wireless space - it will have an Ethernet port to connect to the wired network, and radio transceivers to connect to wireless devices. A wireless bridge is an arrangement of devices (minimum two) that link two wired network segments, wirelessly.Mar 4, 2015",
+      "title": "Solved: Bridge Mode or Access Point? What's the difference ...",
+      "link": "https://community.netgear.com/t5/Nighthawk-WiFi-Routers/Bridge-Mode-or-Access-Point-What-s-the-difference-Cascade/td-p/498680",
+      "displayed_link": "community.netgear.com › Nighthawk-WiFi-Routers › td-p"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "What is an Access Point and How is it Different from a Range ...",
+      "link": "https://www.linksys.com/us/r/resource-center/what-is-a-wifi-access-point/",
+      "displayed_link": "www.linksys.com › resource-center › what-is-a-wifi-access-point",
+      "snippet": "An access point is a device that creates a wireless local area network, or WLAN, usually in an office or large building. An access point connects to a wired router, switch, or hub via an Ethernet cable, and projects a Wi-Fi signal to a designated area.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dBPvtaHKIagJ:https://www.linksys.com/us/r/resource-center/what-is-a-wifi-access-point/+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "What is the Difference Between Access Point and Router?",
+      "link": "https://www.ligowave.com/difference-between-access-point-and-router",
+      "displayed_link": "www.ligowave.com › difference-between-access-point-and-router",
+      "snippet": "One of the questions that our technical experts at LigoWave are frequently asked is what is the difference between an access point and a router. ... Modern routers allow users to connect devices both via Ethernet cables or wirelessly (using Wi-Fi). ... A high-speed Ethernet cable runs from ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NTOCeGoCEqgJ:https://www.ligowave.com/difference-between-access-point-and-router+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Wireless access point - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Wireless_access_point",
+      "displayed_link": "en.wikipedia.org › wiki › Wireless_access_point",
+      "snippet": "In computer networking, a wireless access point (WAP), or more generally just access point (AP), is a networking hardware device that allows other Wi-Fi devices to connect to a wired network. ... An AP is differentiated from a hotspot, which is the physical location where Wi-Fi access to a WLAN is available.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Connections",
+            "link": "https://en.wikipedia.org/wiki/Wireless_access_point#Connections"
+          },
+          {
+            "title": "Wireless access point vs ...",
+            "link": "https://en.wikipedia.org/wiki/Wireless_access_point#Wireless_access_point_vs._ad_hoc_network"
+          },
+          {
+            "title": "Limitations",
+            "link": "https://en.wikipedia.org/wiki/Wireless_access_point#Limitations"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:RRYhOTHzRAQJ:https://en.wikipedia.org/wiki/Wireless_access_point+&cd=21&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Wireless_access_point+what+is+an+access+point&tbo=1&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QHzAUegQIBhAJ"
+    },
+    {
+      "position": 4,
+      "title": "What is an Access Point? - Definition from WhatIs.com",
+      "link": "https://searchmobilecomputing.techtarget.com/definition/access-point",
+      "displayed_link": "searchmobilecomputing.techtarget.com › definition › access-point",
+      "snippet": "In a wireless local area network (WLAN), an access point is a transceiver station that transmits and receives data.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qcsFAaJGGM0J:https://searchmobilecomputing.techtarget.com/definition/access-point+&cd=23&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "What's the difference between a wireless access point and ...",
+      "link": "https://searchnetworking.techtarget.com/answer/Is-there-a-difference-between-a-wireless-access-point-and-a-wireless-router",
+      "displayed_link": "searchnetworking.techtarget.com › answer › Is-there-a-difference-bet...",
+      "snippet": "What's the difference between an access point and router in a Wi-Fi network? An access point, or AP, brings wireless capability to a wired network. A router ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HHifBrzvMgwJ:https://searchnetworking.techtarget.com/answer/Is-there-a-difference-between-a-wireless-access-point-and-a-wireless-router+&cd=24&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "What Is a Wireless Access Point? - Lifewire",
+      "link": "https://www.lifewire.com/wireless-access-point-816545",
+      "displayed_link": "www.lifewire.com › How To › Internet & Network › Key Concepts",
+      "date": "Nov 14, 2019",
+      "snippet": "A wireless access point is a networking device that is used to form a wireless local area network in a home or business.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1K7AChw0ejsJ:https://www.lifewire.com/wireless-access-point-816545+&cd=26&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.lifewire.com/wireless-access-point-816545+what+is+an+access+point&tbo=1&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QHzAZegQIAxAL"
+    },
+    {
+      "position": 7,
+      "title": "What is a wireless access point? | Answer | NETGEAR Support",
+      "link": "https://kb.netgear.com/235/What-is-a-wireless-access-point",
+      "displayed_link": "kb.netgear.com › What-is-a-wireless-access-point",
+      "snippet": "An access point receives data by wired Ethernet, and converts to a 2.4Gig or 5Gig Hz wireless signal. It sends and receives wireless traffic to and from nearby ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:b90DoJF7mT8J:https://kb.netgear.com/235/What-is-a-wireless-access-point+&cd=27&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://kb.netgear.com/235/What-is-a-wireless-access-point+what+is+an+access+point&tbo=1&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QHzAaegQIBBAJ"
+    },
+    {
+      "position": 8,
+      "title": "Access Point Definition - TechTerms",
+      "link": "https://techterms.com/definition/accesspoint",
+      "displayed_link": "techterms.com › definition › accesspoint",
+      "date": "Aug 11, 2009",
+      "snippet": "An access point is a device, such as a wireless router, that allows wireless devices to connect to a network. Most access points have built-in routers, while others must be connected to a router in order to provide network access.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8uLYGatxIOsJ:https://techterms.com/definition/accesspoint+&cd=28&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://techterms.com/definition/accesspoint+what+is+an+access+point&tbo=1&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0QHzAbegQICRAJ"
+    },
+    {
+      "position": 9,
+      "title": "How does a wireless access point work? | ADS Digital",
+      "link": "https://www.adsdigital.co.uk/blog/wireless-access-point-work",
+      "displayed_link": "www.adsdigital.co.uk › Blog",
+      "date": "May 1, 2018",
+      "snippet": "A wireless access point (often referred to as a WAP) is a piece of equipment that enables you to connect devices which have wi-fi access to ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:p1TTphahSREJ:https://www.adsdigital.co.uk/blog/wireless-access-point-work+&cd=29&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "wired access point",
+      "link": "https://www.google.com/search?q=wired+access+point&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q1QIoAHoECBQQAQ"
+    },
+    {
+      "query": "access point router",
+      "link": "https://www.google.com/search?q=access+point+router&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q1QIoAXoECBQQAg"
+    },
+    {
+      "query": "best wireless access points",
+      "link": "https://www.google.com/search?q=best+wireless+access+points&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q1QIoAnoECBQQAw"
+    },
+    {
+      "query": "wireless access point setup",
+      "link": "https://www.google.com/search?q=wireless+access+point+setup&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q1QIoA3oECBQQBA"
+    },
+    {
+      "query": "wireless access point for home",
+      "link": "https://www.google.com/search?q=wireless+access+point+for+home&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q1QIoBHoECBQQBQ"
+    },
+    {
+      "query": "access point vs router",
+      "link": "https://www.google.com/search?q=access+point+vs+router&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q1QIoBXoECBQQBg"
+    },
+    {
+      "query": "difference between access point and router",
+      "link": "https://www.google.com/search?q=difference+between+access+point+and+router&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q1QIoBnoECBQQBw"
+    },
+    {
+      "query": "access point vs extender",
+      "link": "https://www.google.com/search?q=access+point+vs+extender&sa=X&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q1QIoB3oECBQQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what+is+an+access+point&ei=DgImXr6PHq-C4-EPjdaC6As&start=10&sa=N&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q8NMDegQIEhBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what+is+an+access+point&ei=DgImXr6PHq-C4-EPjdaC6As&start=10&sa=N&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q8tMDegQIEhAv",
+      "3": "https://www.google.com/search?q=what+is+an+access+point&ei=DgImXr6PHq-C4-EPjdaC6As&start=20&sa=N&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q8tMDegQIEhAx",
+      "4": "https://www.google.com/search?q=what+is+an+access+point&ei=DgImXr6PHq-C4-EPjdaC6As&start=30&sa=N&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q8tMDegQIEhAz",
+      "5": "https://www.google.com/search?q=what+is+an+access+point&ei=DgImXr6PHq-C4-EPjdaC6As&start=40&sa=N&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q8tMDegQIEhA1",
+      "6": "https://www.google.com/search?q=what+is+an+access+point&ei=DgImXr6PHq-C4-EPjdaC6As&start=50&sa=N&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q8tMDegQIEhA3",
+      "7": "https://www.google.com/search?q=what+is+an+access+point&ei=DgImXr6PHq-C4-EPjdaC6As&start=60&sa=N&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q8tMDegQIEhA5",
+      "8": "https://www.google.com/search?q=what+is+an+access+point&ei=DgImXr6PHq-C4-EPjdaC6As&start=70&sa=N&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q8tMDegQIEhA7",
+      "9": "https://www.google.com/search?q=what+is+an+access+point&ei=DgImXr6PHq-C4-EPjdaC6As&start=80&sa=N&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q8tMDegQIEhA9",
+      "10": "https://www.google.com/search?q=what+is+an+access+point&ei=DgImXr6PHq-C4-EPjdaC6As&start=90&sa=N&ved=2ahUKEwi-zoan95LnAhUvwTgGHQ2rAL0Q8tMDegQIEhA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+an+access+point&start=10&token=c25e88a3e6558954",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+an+access+point&start=10&token=c25e88a3e6558954",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+an+access+point&start=10&token=c25e88a3e6558954",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+an+access+point&start=20&token=6da3f81626073708",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+an+access+point&start=30&token=caeb94b7d4fb810c",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+an+access+point&start=40&token=ef432185d8b4683c",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+an+access+point&start=50&token=68b4125b37413c57",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+an+access+point&start=60&token=eb96818110963b8d",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+an+access+point&start=70&token=157f0103bff19c31",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+an+access+point&start=80&token=93684de88689654d",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+an+access+point&start=90&token=93f3cb5a8d1ddf62"
+    }
+  }
+}

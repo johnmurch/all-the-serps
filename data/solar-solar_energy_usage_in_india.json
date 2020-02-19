@@ -1,0 +1,332 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 21:27:44 UTC",
+    "processed_at": "2020-01-20 21:27:44 UTC",
+    "google_url": "https://www.google.com/search?q=solar+energy+usage+in+india&oq=solar+energy+usage+in+india&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 5.85
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "solar energy usage in india",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 24300000,
+    "time_taken_displayed": 0.62,
+    "query_displayed": "solar energy usage in india"
+  },
+  "knowledge_graph": {
+    "see_more_about": [
+      {
+        "title": null
+      },
+      {
+        "title": null
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "link": "/search?q=solar+energy+usage+in+india&tbm=isch&source=iu&ictx=1&fir=IKZP6sd2lMs98M%253A%252C7JNiEBcXC6-TOM%252C_&vet=1&usg=AI4_-kT5ysb1TaMg2YUQiLTj0ajG9_BgnA&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ9QEwD3oECAQQHQ#imgrc=IKZP6sd2lMs98M:",
+      "thumbnail": "data:image/jpeg;base64,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"
+    },
+    {
+      "link": "/search?q=solar+energy+usage+in+india&tbm=isch&source=iu&ictx=1&fir=58F5VmsWEsLmQM%253A%252CCo1Rv80UUMTH4M%252C_&vet=1&usg=AI4_-kSS8iz3YlgyODPqjGxkIfrt7ehlcg&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ9QEwEHoECAQQHw#imgrc=58F5VmsWEsLmQM:",
+      "thumbnail": "data:image/jpeg;base64,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"
+    },
+    {
+      "link": "/search?q=solar+energy+usage+in+india&tbm=isch&source=iu&ictx=1&fir=Qa5FTYqBkmAdAM%253A%252C7PQiWBcfDg_WvM%252C_&vet=1&usg=AI4_-kQH02hweyaHuJWvoFkXjqh5Dx0eaQ&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ9QEwEXoECAQQIQ#imgrc=Qa5FTYqBkmAdAM:",
+      "thumbnail": "data:image/png;base64,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"
+    },
+    {
+      "link": "/search?q=solar+energy+usage+in+india&tbm=isch&source=iu&ictx=1&fir=xYNMKPxmQuk2JM%253A%252CPlqXzFlVCUf4hM%252C_&vet=1&usg=AI4_-kQ8ArdiTdNJtKlq6mH6OKgzfpwsMA&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ9QEwEnoECAQQIw#imgrc=xYNMKPxmQuk2JM:",
+      "thumbnail": "data:image/png;base64,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"
+    },
+    {
+      "link": "/search?q=solar+energy+usage+in+india&tbm=isch&source=iu&ictx=1&fir=bC5XOgRBWsxkmM%253A%252CnA6KQMXI9cwnSM%252C_&vet=1&usg=AI4_-kRR8XdACxa3PIC3r9B_DaREKSM6ZA&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ9QEwE3oECAQQJQ#imgrc=bC5XOgRBWsxkmM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4uahAFyJw5AJSQxfaWRXofNktXuCe1i7IcleN8G1pnd6uac5Fh0JVh9sc5FI0g&s"
+    },
+    {
+      "link": "/search?q=solar+energy+usage+in+india&tbm=isch&source=iu&ictx=1&fir=YKObA6P0tersvM%253A%252CX3Ij_hzgDTxsUM%252C_&vet=1&usg=AI4_-kQnh5Ipv-zkxwHWMdvQEVC3Kb-Fuw&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ9QEwFHoECAQQJw#imgrc=YKObA6P0tersvM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTn8_eYp3qZ49IECaa1wb1QR3bk7y86G1u3Mg-66zRneCAX3LbIk1q5INdPU3UvQ&s"
+    },
+    {
+      "link": "/search?q=solar+energy+usage+in+india&tbm=isch&source=iu&ictx=1&fir=lR_TGtUd9tZkzM%253A%252C7PQiWBcfDg_WvM%252C_&vet=1&usg=AI4_-kTl1MS6o3QEW3pmmyS0Z0bWP7TEFQ&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ9QEwFXoECAQQKQ#imgrc=lR_TGtUd9tZkzM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yst4mylMiJopgKj3c0liCNCJfo3uMTegSihy_iNSyZOjDU5H1vEPcVfaptNxrw&s"
+    },
+    {
+      "link": "/search?q=solar+energy+usage+in+india&tbm=isch&source=iu&ictx=1&fir=BGAjA8S3g65heM%253A%252CK2dMOYM9TOephM%252C_&vet=1&usg=AI4_-kRhd3_8SQRyx9xj3x_8WZvEMYXs_w&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ9QEwFnoECAQQKw#imgrc=BGAjA8S3g65heM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvMZg4c0D11fHS8t_xP8CHXwUir203qL6be-ku0bwv8Ej3BCQUnKLKqrllqt4COw&s"
+    },
+    {
+      "link": "/search?q=solar+energy+usage+in+india&tbm=isch&source=iu&ictx=1&fir=7W5lZzdEL_WRuM%253A%252CMDvV8Bvx-l4FZM%252C_&vet=1&usg=AI4_-kRwNN5_CBr4JEUpO6u69JtEgV7nzA&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ9QEwF3oECAQQLQ#imgrc=7W5lZzdEL_WRuM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTketNoMknCGr-Dei8Sj0ywK3meoRFk3NnQZCr7lCek9tWkwE6sfycyAnm4P-YVhw&s"
+    },
+    {
+      "link": "/search?q=solar+energy+usage+in+india&tbm=isch&source=iu&ictx=1&fir=fIHlHz4UCFuu0M%253A%252CoPk5MhLfI0ipXM%252C_&vet=1&usg=AI4_-kSRNKt2lR3GQA56DvHZYcjzDNWKBg&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ9QEwGHoECAQQLw#imgrc=fIHlHz4UCFuu0M:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5TjT7cnqQyvjwRWXPE8TOEaKTSB2qBlQVeBTgEQU71meRtsqk6GdhzX-mU6zu&s"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Which state uses solar energy the most in India?",
+      "snippet": "India's top 10 states by installed solar power capacityKarnataka. Karnataka tops the list of states with the highest installed solar power generation capacity in the country. ... Telangana. ... Rajasthan. ... Andhra Pradesh. ... Tamil Nadu. ... Gujarat. ... Madhya Pradesh. ... Maharashtra.More items...•Apr 5, 2019",
+      "title": "solar power capacity: India's top 10 states by installed solar power ...",
+      "link": "https://energy.economictimes.indiatimes.com/news/renewable/indias-top-10-states-by-installed-solar-power-capacity/68739456",
+      "displayed_link": "energy.economictimes.indiatimes.com › news › renewable › indias-top-..."
+    },
+    {
+      "question": "Is solar energy good for India?",
+      "snippet": "Solar power consumers in India today enjoy better energy security by locking in the cost of solar electricity for a period of 25 years, thereby can hedge against variations in grid electricity prices, which are tied to fossil fuel costs. 1.Jul 22, 2019",
+      "title": "How India in a short period of time has become the cheapest ...",
+      "link": "https://m.economictimes.com/small-biz/productline/power-generation/how-india-in-a-short-period-of-time-has-become-the-cheapest-producer-of-solar-power/articleshow/70325301.cms",
+      "displayed_link": "m.economictimes.com › productline › power-generation › articleshow"
+    },
+    {
+      "question": "What is the future of solar energy in India?",
+      "snippet": "The future of solar energy in India largely depends on achieving the ambitious solar power generation target of 100 GW by 2022. With the cumulative solar capacity going up to 15.6 GW, as on June 30, 2017, the market sentiment is upbeat because of the record number of installations.Sep 29, 2017",
+      "title": "The future of solar energy in India largely depends on achieving the ...",
+      "link": "https://www.solarquarter.com/index.php/interviews-list/5448-the-future-of-solar-energy-in-india-largely-depends-on-achieving-the-ambitious-solar-power-generation-target-of-100-gw-by-2022",
+      "displayed_link": "www.solarquarter.com › index.php › interviews-list › 5448-the-future-o..."
+    },
+    {
+      "question": "What is Solar City India?",
+      "snippet": "In September 2016, Diu became the first city in India to run completely on solar energy during the day. The power comes from its two solar parks — spread over 0.2 sq km — and the rooftop panels on 112 government establishments. ( Satyabrata Tripathy / HT Photo) 1/8.May 29, 2018",
+      "title": "Photos: How Diu became India's first solar city by day | india-news ...",
+      "link": "https://www.hindustantimes.com/photos/india-news/photos-how-diu-became-india-s-first-solar-city-by-day/photo-OfiR52G3H0QF1oSfbqhQWI.html",
+      "displayed_link": "www.hindustantimes.com › photos › photos-how-diu-became-india-s-fir..."
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Solar power in India - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Solar_power_in_India",
+    "snippet": "The daily average solar-power-plant generation capacity in India is 0.20 kWh per m2 of used land area, equivalent to 1400–1800 peak (rated) capacity operating hours in a year with available, commercially-proven technology."
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Solar power in India - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Solar_power_in_India",
+      "displayed_link": "en.wikipedia.org › wiki › Solar_power_in_India",
+      "date": "Jump to Electricity generation",
+      "snippet": "The daily average solar-power-plant generation capacity in India is 0.20 kWh per m2 of used land area, equivalent to 1400–1800 peak (rated) capacity operating hours in a year with available, commercially-proven technology.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Solar power by country",
+            "link": "https://en.wikipedia.org/wiki/Solar_power_by_country"
+          },
+          {
+            "title": "Pavagada Solar Park",
+            "link": "https://en.wikipedia.org/wiki/Pavagada_Solar_Park"
+          },
+          {
+            "title": "International Solar Alliance",
+            "link": "https://en.wikipedia.org/wiki/International_Solar_Alliance"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KgwN_ugmv1EJ:https://en.wikipedia.org/wiki/Solar_power_in_India+&cd=11&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Solar_power_in_India+solar+energy+usage+in+india&tbo=1&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQHzAKegQIARAJ"
+    },
+    {
+      "position": 2,
+      "title": "Renewable energy in India - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Renewable_energy_in_India",
+      "displayed_link": "en.wikipedia.org › wiki › Renewable_energy_in_India",
+      "date": "Jump to Renewable electricity generation",
+      "snippet": "Total renewable energy which includes large hydro with pumped storage generation, is nearly 17.5% ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Renewable energy ...",
+            "link": "https://en.wikipedia.org/wiki/Renewable_energy_in_India#Renewable_energy_overview_and_targets"
+          },
+          {
+            "title": "Wind power",
+            "link": "https://en.wikipedia.org/wiki/Renewable_energy_in_India#Wind_power"
+          },
+          {
+            "title": "Solar power",
+            "link": "https://en.wikipedia.org/wiki/Renewable_energy_in_India#Solar_power"
+          },
+          {
+            "title": "Biomass",
+            "link": "https://en.wikipedia.org/wiki/Renewable_energy_in_India#Biomass"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Re80WzPJiHkJ:https://en.wikipedia.org/wiki/Renewable_energy_in_India+&cd=12&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Renewable_energy_in_India+solar+energy+usage+in+india&tbo=1&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQHzALegQIChAJ"
+    },
+    {
+      "position": 3,
+      "title": "How India in a short period of time has become the cheapest ...",
+      "link": "https://m.economictimes.com/small-biz/productline/power-generation/how-india-in-a-short-period-of-time-has-become-the-cheapest-producer-of-solar-power/articleshow/70325301.cms",
+      "displayed_link": "m.economictimes.com › Small Biz › ProductLine › Power Generation",
+      "date": "Jul 22, 2019",
+      "snippet": "Worldwide, renewable energy has established itself as the technology of choice for new power generation capacity and India's recent status of ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YtZgi1n3IqAJ:https://m.economictimes.com/small-biz/productline/power-generation/how-india-in-a-short-period-of-time-has-become-the-cheapest-producer-of-solar-power/articleshow/70325301.cms+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "How India in a short period of time has become the cheapest ...",
+      "link": "https://economictimes.indiatimes.com/small-biz/productline/power-generation/how-india-in-a-short-period-of-time-has-become-the-cheapest-producer-of-solar-power/articleshow/70325301.cms",
+      "displayed_link": "economictimes.indiatimes.com › ... › ProductLine › Power Generation",
+      "date": "Jul 22, 2019",
+      "snippet": "By Manu Karan Worldwide, renewable energy has established itself as the technology of choice for new power generation capacity and India's ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LCi7_jd7b0MJ:https://economictimes.indiatimes.com/small-biz/productline/power-generation/how-india-in-a-short-period-of-time-has-become-the-cheapest-producer-of-solar-power/articleshow/70325301.cms+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "India is now producing the world's cheapest solar power | World ...",
+      "link": "https://www.weforum.org/agenda/2019/06/india-is-now-producing-the-world-s-cheapest-solar-power/",
+      "displayed_link": "www.weforum.org › agenda › 2019/06 › india-is-now-producing-the...",
+      "date": "Jun 28, 2019",
+      "snippet": "As the costs of generating cleaner energy continue to fall, there is ... Workers carry a damaged photovoltaic panel inside a solar power plant in Gujarat, India, ... Alongside the rise of solar, other clean energy sources like wind ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "India is investing more money in solar power than coal for first ...",
+            "link": "https://www.weforum.org/agenda/2019/05/india-is-investing-more-money-in-solar-power-than-coal-for-first-time/",
+            "date": "May 22, 2019"
+          },
+          {
+            "title": "China's lead in the global solar race - at a glance",
+            "link": "https://www.weforum.org/agenda/2019/06/chinas-lead-in-the-global-solar-race-at-a-glance/",
+            "date": "Jun 19, 2019"
+          },
+          {
+            "title": "The future of energy is being shaped in Asia",
+            "link": "https://www.weforum.org/agenda/2019/12/the-future-of-energy-transition-climate-asia-china-india/",
+            "date": "Dec 27, 2019"
+          },
+          {
+            "title": "A 5-point plan to maximise India's renewable energy potential ...",
+            "link": "https://www.weforum.org/agenda/2019/01/a-five-point-plan-for-maximising-indias-renewable-energy-potential/",
+            "date": "Jan 19, 2019"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2GaOgBx8o0sJ:https://www.weforum.org/agenda/2019/06/india-is-now-producing-the-world-s-cheapest-solar-power/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "India will add a record level of solar power capacity in 2019 ...",
+      "link": "https://qz.com/india/1519929/india-will-add-a-record-level-of-solar-power-capacity-in-2019/",
+      "displayed_link": "qz.com › india › india-will-add-a-record-level-of-solar-power-capacit...",
+      "date": "Jan 10, 2019",
+      "snippet": "India's solar capacity addition is set for a record in 2019. ... renewable sources must account for up to 40% of power-generation capacity by ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:aXixW2iEWTsJ:https://qz.com/india/1519929/india-will-add-a-record-level-of-solar-power-capacity-in-2019/+&cd=26&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Solar | Ministry of New and Renewable Energy | Government ...",
+      "link": "https://mnre.gov.in/solar",
+      "displayed_link": "mnre.gov.in › solar",
+      "snippet": "India is endowed with vast solar energy potential. ... From an energy security perspective, solar is the most secure of all sources, since it is abundantly available.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vfOf8tFvE10J:https://mnre.gov.in/solar+&cd=27&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Renewable Energy Industry in India: Overview, Market Size ...",
+      "link": "https://www.ibef.org/industry/renewable-energy.aspx",
+      "displayed_link": "www.ibef.org › Industry",
+      "snippet": "The Indian renewable energy sector is the fourth most attractive1 renewable ... Renewable sources are expected to help meet 40 per cent of India's power needs ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:l3rQNbv1-LcJ:https://www.ibef.org/industry/renewable-energy.aspx+&cd=28&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "The setting sun on India's solar dreams - Livemint",
+      "link": "https://www.livemint.com/industry/energy/the-setting-sun-on-india-s-solar-dreams-11574612085929.html",
+      "displayed_link": "www.livemint.com › industry › energy › the-setting-sun-on-india-s-so...",
+      "date": "Nov 25, 2019",
+      "snippet": "The ongoing slowdown in economic growth and electricity demand has worsened the deep stress in India's renewable energy industry, ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:454DjYtcTOMJ:https://www.livemint.com/industry/energy/the-setting-sun-on-india-s-solar-dreams-11574612085929.html+&cd=29&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [
+    {
+      "position": 1,
+      "query": "Renewable Energy organizations in India",
+      "results": []
+    },
+    {
+      "position": 2,
+      "query": "Types of renewable energy",
+      "results": []
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "future of solar energy in india",
+      "link": "https://www.google.com/search?q=future+of+solar+energy+in+india&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ1QIoAHoECAsQAQ"
+    },
+    {
+      "query": "highest solar energy producing state in india 2018",
+      "link": "https://www.google.com/search?q=highest+solar+energy+producing+state+in+india+2018&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ1QIoAXoECAsQAg"
+    },
+    {
+      "query": "which state is the largest producer of solar energy in india",
+      "link": "https://www.google.com/search?q=which+state+is+the+largest+producer+of+solar+energy+in+india&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ1QIoAnoECAsQAw"
+    },
+    {
+      "query": "solar energy in india upsc",
+      "link": "https://www.google.com/search?q=solar+energy+in+india+upsc&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ1QIoA3oECAsQBA"
+    },
+    {
+      "query": "india renewable energy target 2022 upsc",
+      "link": "https://www.google.com/search?q=india+renewable+energy+target+2022+upsc&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ1QIoBHoECAsQBQ"
+    },
+    {
+      "query": "wind energy in india",
+      "link": "https://www.google.com/search?q=wind+energy+in+india&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ1QIoBXoECAsQBg"
+    },
+    {
+      "query": "solar energy in india ppt",
+      "link": "https://www.google.com/search?q=solar+energy+in+india+ppt&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ1QIoBnoECAsQBw"
+    },
+    {
+      "query": "ministry of new and renewable energy",
+      "link": "https://www.google.com/search?q=ministry+of+new+and+renewable+energy&sa=X&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ1QIoB3oECAsQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=solar+energy+usage+in+india&ei=VRsmXuABjt76BMfhoOAH&start=10&sa=N&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ8NMDegQIEBBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=solar+energy+usage+in+india&ei=VRsmXuABjt76BMfhoOAH&start=10&sa=N&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ8tMDegQIEBAu",
+      "3": "https://www.google.com/search?q=solar+energy+usage+in+india&ei=VRsmXuABjt76BMfhoOAH&start=20&sa=N&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ8tMDegQIEBAw",
+      "4": "https://www.google.com/search?q=solar+energy+usage+in+india&ei=VRsmXuABjt76BMfhoOAH&start=30&sa=N&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ8tMDegQIEBAy",
+      "5": "https://www.google.com/search?q=solar+energy+usage+in+india&ei=VRsmXuABjt76BMfhoOAH&start=40&sa=N&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ8tMDegQIEBA0",
+      "6": "https://www.google.com/search?q=solar+energy+usage+in+india&ei=VRsmXuABjt76BMfhoOAH&start=50&sa=N&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ8tMDegQIEBA2",
+      "7": "https://www.google.com/search?q=solar+energy+usage+in+india&ei=VRsmXuABjt76BMfhoOAH&start=60&sa=N&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ8tMDegQIEBA4",
+      "8": "https://www.google.com/search?q=solar+energy+usage+in+india&ei=VRsmXuABjt76BMfhoOAH&start=70&sa=N&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ8tMDegQIEBA6",
+      "9": "https://www.google.com/search?q=solar+energy+usage+in+india&ei=VRsmXuABjt76BMfhoOAH&start=80&sa=N&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ8tMDegQIEBA8",
+      "10": "https://www.google.com/search?q=solar+energy+usage+in+india&ei=VRsmXuABjt76BMfhoOAH&start=90&sa=N&ved=2ahUKEwiggLe0j5PnAhUOr54KHccwCHwQ8tMDegQIEBA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+usage+in+india&start=10&token=4072f9817ba63f22",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+usage+in+india&start=10&token=4072f9817ba63f22",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+usage+in+india&start=10&token=4072f9817ba63f22",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+usage+in+india&start=20&token=58fa953698237ec2",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+usage+in+india&start=30&token=cede10e683fe5725",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+usage+in+india&start=40&token=03d8b238c0512d86",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+usage+in+india&start=50&token=b1f8f46e332d406f",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+usage+in+india&start=60&token=d976e3a3da7c3684",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+usage+in+india&start=70&token=46964c0478de956d",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+usage+in+india&start=80&token=ec14529a33f57a64",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+usage+in+india&start=90&token=0343ea6a59b13333"
+    }
+  }
+}

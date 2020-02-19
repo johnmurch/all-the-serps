@@ -1,0 +1,310 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 22:50:22 UTC",
+    "processed_at": "2020-01-20 22:50:22 UTC",
+    "google_url": "https://www.google.com/search?q=solar+energy+vancouver&oq=solar+energy+vancouver&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.63
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "solar energy vancouver",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 13800000,
+    "time_taken_displayed": 0.6,
+    "query_displayed": "solar energy vancouver"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=solar+energy+vancouver&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=44460604,-99440318,1917315&tbm=lcl&sa=X&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQtgN6BAgLEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 44.460604,
+      "longitude": -99.440318,
+      "altitude": 1917315
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=solar+energy+vancouver&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=44460604,-99440318,1917315&tbm=lcl&sa=X&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQjGp6BAgLED4",
+    "places": [
+      {
+        "position": 1,
+        "title": "Solar Biologicals",
+        "place_id": "5522704216545131533",
+        "lsig": "AB86z5Wp8ujaqvq_NJgm0q0Yzvfy",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Wp8ujaqvq_NJgm0q0Yzvfy&ludocid=5522704216545131533&q=solar+energy+vancouver&tbm=lcl&token=ad459bba74460c7b",
+        "rating": 0,
+        "type": "Solar energy equipment supplier",
+        "hours": "(302) 781-6400",
+        "address": "Newark, DE",
+        "website": "http://www.solarbiologicals.com/contact-us/",
+        "gps_coordinates": {
+          "latitude": 39.65823,
+          "longitude": -75.772145
+        }
+      },
+      {
+        "position": 2,
+        "title": "Amray Solar",
+        "place_id": "12772111186908704913",
+        "lsig": "AB86z5USXDRrMTi4O3X8vUcQJggl",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5USXDRrMTi4O3X8vUcQJggl&ludocid=12772111186908704913&q=solar+energy+vancouver&tbm=lcl&token=167cfefb7ee89da9",
+        "rating": 5,
+        "reviews": 6,
+        "type": "Solar energy equipment supplier",
+        "hours": "Open ⋅ Closes 5PM · +1 604-559-4998",
+        "address": "Burnaby, BC, Canada",
+        "website": "http://amray.solar/",
+        "gps_coordinates": {
+          "latitude": 49.2557386,
+          "longitude": -122.9284876
+        }
+      },
+      {
+        "position": 3,
+        "title": "VREC Solar (Vancouver Renewable Energy)",
+        "place_id": "6051457614024352086",
+        "lsig": "AB86z5Xa35exnHmsNlzhFg3N04G1",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Xa35exnHmsNlzhFg3N04G1&ludocid=6051457614024352086&q=solar+energy+vancouver&tbm=lcl&token=ee555e9747b51b8d",
+        "rating": 5,
+        "reviews": 3,
+        "type": "Solar energy contractor",
+        "address": "Vancouver, BC, Canada",
+        "phone": "In MEC Vancouver",
+        "website": "http://www.vrec.ca/",
+        "gps_coordinates": {
+          "latitude": 49.2629783,
+          "longitude": -123.10849280000001
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "How much do solar panels cost in BC?",
+      "snippet": "A typical solar installation on a residential roof is 4 kilowatt (kW) in size with 16 solar panels, which in B.C., generates 4,400 kWh of electricity over a year. On average, solar systems of this size can cost about $14,500.",
+      "title": "Generating your own electricity - BC Hydro",
+      "link": "https://www.bchydro.com/netmetering",
+      "displayed_link": "www.bchydro.com › netmetering"
+    },
+    {
+      "question": "How much does a solar system cost in Canada?",
+      "snippet": "The average installation cost of solar power in Canada is $3.07/Watt, or $23,000 for a 7.5kW system (specific price per province in chart below).",
+      "title": "Cost of Solar Power In Canada (Complete Guide 2019)",
+      "link": "https://energyhub.org/cost-solar-power-canada/",
+      "displayed_link": "energyhub.org › cost-solar-power-canada"
+    },
+    {
+      "question": "Is solar power viable in Canada?",
+      "snippet": "Currently, solar energy plays a minuscule role in the energy generation in Canada and the world. But this data does not mean that solar power doesn't work, or isn't viable. It simply means that more time is required for the solar market in Canada to develop.",
+      "title": "9 Busted Solar Myths You Need to Know | Kuby Energy Edmonton",
+      "link": "https://kubyenergy.ca/blog/busted-solar-myths-you-need-to-know",
+      "displayed_link": "kubyenergy.ca › blog › busted-solar-myths-you-need-to-know"
+    },
+    {
+      "question": "What are the best solar panels on the market?",
+      "snippet": "Here are the top five best solar panel manufacturers in 2019 ranked based on the highest efficiency solar panel they have to offer:SunPower (22.8%)LG (21.7%)REC Solar (21.7%)Panasonic (20.3%)Silfab (20.0%)Jul 1, 2019",
+      "title": "Solar Panel Efficiency: What Panels Are Most Efficient? | EnergySage",
+      "link": "https://news.energysage.com/what-are-the-most-efficient-solar-panels-on-the-market/",
+      "displayed_link": "news.energysage.com › what-are-the-most-efficient-solar-panels-on-the-..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Vancouver Renewable Energy - Solar installations",
+      "link": "https://www.vrec.ca/",
+      "displayed_link": "www.vrec.ca",
+      "snippet": "Vancouver Renewable Energy (VREC) sells, installs ,and provides consulting services for solar photovoltaics, solar hot water, solar pool heating, and wind.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Products and Services",
+            "link": "http://www.vrec.ca/?page_id=9"
+          },
+          {
+            "title": "Portfolio",
+            "link": "https://www.vrec.ca/portfolio/"
+          },
+          {
+            "title": "About Us",
+            "link": "https://www.vrec.ca/about/"
+          },
+          {
+            "title": "Free Quote",
+            "link": "https://www.vrec.ca/about/freequote/"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MfJHD2nyweoJ:https://www.vrec.ca/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "The solar power sniff test: Worth the trouble? | Vancouver Sun",
+      "link": "https://vancouversun.com/news/local-news/chasing-the-solar-dream-in-b-c-it-takes-cash-and-commitment",
+      "displayed_link": "vancouversun.com › news › local-news › chasing-the-solar-dream-in-b-...",
+      "date": "Jul 21, 2017",
+      "snippet": "Doing the math, that means a rooftop array of 20 photovoltaic panels with a capacity of five kilowatts will cost around $15,000 installed and could save you up to $750 per year at B.C. Hydro's highest Step 2 rate of 12.9 cents per kilowatt hour. Solar owners contacted by Postmedia News reported similar savings."
+    },
+    {
+      "position": 3,
+      "title": "Terratek Energy: Solar Panels Design & Installation BC",
+      "link": "http://terratek.ca/",
+      "displayed_link": "terratek.ca",
+      "snippet": "Solar panels help you reduce your electricity bills and create a clean energy ... Terratek Energy is BC's most experienced solar contractor. ... Vancouver Island.",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:jiZdInuS4oYJ:terratek.ca/+&cd=14&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:terratek.ca/+solar+energy+vancouver&tbo=1&sa=X&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQHzANegQIAhAH"
+    },
+    {
+      "position": 4,
+      "title": "Is it Worth it to Install Solar Panels in Vancouver? | Rikur Energy",
+      "link": "https://www.rikurenergy.com/is-it-worth-it-to-install-solar-panels-in-vancouver/",
+      "displayed_link": "www.rikurenergy.com › is-it-worth-it-to-install-solar-panels-in-vanco...",
+      "snippet": "For the most part, Vancouver residents are used to drawing power from the grid and paying BC Hydro for the service. With a solar panel setup, however, BC Hydro customers can actually start to generate their own clean energy, and in some cases can sell some of that electricity back to the grid.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kk-7aTzwT2QJ:https://www.rikurenergy.com/is-it-worth-it-to-install-solar-panels-in-vancouver/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Solar Power British Columbia (Complete Guide 2019)",
+      "link": "https://energyhub.org/british-columbia/",
+      "displayed_link": "energyhub.org › british-columbia",
+      "snippet": "According to data from National Resources Canada, the average solar system in British Columbia can produce 1004kWh of electricity per kW of solar panels per year. ... A 1kW solar system in Vancouver would produce about 1,007 kWh/yr. A 1kW solar system in Surrey would produce about 996 kWh/yr.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Fixed Electricity Costs",
+            "link": "https://energyhub.org/british-columbia/#fixed-electricity-costs"
+          },
+          {
+            "title": "Net Metering Policy",
+            "link": "https://energyhub.org/british-columbia/#net-metering-policy"
+          },
+          {
+            "title": "Solar Setup Fees",
+            "link": "https://energyhub.org/british-columbia/#solar-setup-fees"
+          },
+          {
+            "title": "Cost of Installation",
+            "link": "https://energyhub.org/british-columbia/#installation-costs"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XC8UBNfra0cJ:https://energyhub.org/british-columbia/+&cd=16&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Vancouver Solar & Electrical-PV Solar Panels Burnaby ...",
+      "link": "https://www.vancouversolarpv.ca/",
+      "displayed_link": "www.vancouversolarpv.ca",
+      "snippet": "Grid-Tied Solar PV Panels Renewable Energy specialists. Residential Commercial supply & installation Contractors Burnaby BC (Greater Vancouver Area).",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ufrQlM3S2QwJ:https://www.vancouversolarpv.ca/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Can solar work in 'Raincouver'? - Vancouver Is Awesome",
+      "link": "https://www.vancouverisawesome.com/2018/11/08/solar-power-vancouver-pilot/",
+      "displayed_link": "www.vancouverisawesome.com › solar-power-vancouver-pilot",
+      "date": "Nov 8, 2018",
+      "snippet": "A pilot project to use solar power for electricity at Metro Vancouver parks got its first real test this past summer at Colony Farm Regional Park.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gHQ-9sKGbrwJ:https://www.vancouverisawesome.com/2018/11/08/solar-power-vancouver-pilot/+&cd=18&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Solar Panel Modules (Systems) | Battery World Vancouver",
+      "link": "https://buyabattery.com/solar-panel-modules/",
+      "displayed_link": "buyabattery.com › solar-panel-modules",
+      "snippet": "We Carry Various Solar Energy – Photovoltaic Panels For Various Applications. We can also build custom solar systems to meet your solar power needs.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:deZi8keIflIJ:https://buyabattery.com/solar-panel-modules/+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "BC Hydro customers producing solar energy could lose ...",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/bc-hydro-excess-power-payout-solar-1.4645851",
+      "displayed_link": "www.cbc.ca › news › bc-hydro-excess-power-payout-solar-1.4645851",
+      "date": "May 2, 2018",
+      "snippet": "A Vancouver Island resident has discovered that when it comes to solar energy, it's possible to have too much of a good thing. Steve Gilbert ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qfrIHnsu-3IJ:https://www.cbc.ca/news/canada/british-columbia/bc-hydro-excess-power-payout-solar-1.4645851+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Solar power & heating for your home - BC Hydro",
+      "link": "https://www.bchydro.com/powersmart/residential/building-and-renovating/switch-to-solar-energy.html",
+      "displayed_link": "www.bchydro.com › building-and-renovating › switch-to-solar-energy",
+      "snippet": "Do your research on the practicality of going solar in B.C.. Solar energy is an affordable alternative energy that can be used to help heat and power your home or ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Uc3SUpV1vO4J:https://www.bchydro.com/powersmart/residential/building-and-renovating/switch-to-solar-energy.html+&cd=21&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.bchydro.com/powersmart/residential/building-and-renovating/switch-to-solar-energy.html+solar+energy+vancouver&tbo=1&sa=X&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQHzAUegQIBRAJ"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "bc solar energy grants",
+      "link": "https://www.google.com/search?q=bc+solar+energy+grants&sa=X&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ1QIoAHoECAwQAQ"
+    },
+    {
+      "query": "solar panels",
+      "link": "https://www.google.com/search?q=solar+panels&sa=X&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ1QIoAXoECAwQAg"
+    },
+    {
+      "query": "bc government solar incentives",
+      "link": "https://www.google.com/search?q=bc+government+solar+incentives&sa=X&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ1QIoAnoECAwQAw"
+    },
+    {
+      "query": "solar panel rebates bc",
+      "link": "https://www.google.com/search?q=solar+panel+rebates+bc&sa=X&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ1QIoA3oECAwQBA"
+    },
+    {
+      "query": "solar panels victoria bc",
+      "link": "https://www.google.com/search?q=solar+panels+victoria+bc&sa=X&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ1QIoBHoECAwQBQ"
+    },
+    {
+      "query": "rooftop solar panels",
+      "link": "https://www.google.com/search?q=rooftop+solar+panels&sa=X&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ1QIoBXoECAwQBg"
+    },
+    {
+      "query": "solar panels in the okanagan",
+      "link": "https://www.google.com/search?q=solar+panels+in+the+okanagan&sa=X&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ1QIoBnoECAwQBw"
+    },
+    {
+      "query": "solar panels chilliwack",
+      "link": "https://www.google.com/search?q=solar+panels+chilliwack&sa=X&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ1QIoB3oECAwQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=solar+energy+vancouver&ei=ry4mXtnnIY_RtAbt_5_QAw&start=10&sa=N&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ8NMDegQIDhBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=solar+energy+vancouver&ei=ry4mXtnnIY_RtAbt_5_QAw&start=10&sa=N&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ8tMDegQIDhAu",
+      "3": "https://www.google.com/search?q=solar+energy+vancouver&ei=ry4mXtnnIY_RtAbt_5_QAw&start=20&sa=N&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ8tMDegQIDhAw",
+      "4": "https://www.google.com/search?q=solar+energy+vancouver&ei=ry4mXtnnIY_RtAbt_5_QAw&start=30&sa=N&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ8tMDegQIDhAy",
+      "5": "https://www.google.com/search?q=solar+energy+vancouver&ei=ry4mXtnnIY_RtAbt_5_QAw&start=40&sa=N&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ8tMDegQIDhA0",
+      "6": "https://www.google.com/search?q=solar+energy+vancouver&ei=ry4mXtnnIY_RtAbt_5_QAw&start=50&sa=N&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ8tMDegQIDhA2",
+      "7": "https://www.google.com/search?q=solar+energy+vancouver&ei=ry4mXtnnIY_RtAbt_5_QAw&start=60&sa=N&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ8tMDegQIDhA4",
+      "8": "https://www.google.com/search?q=solar+energy+vancouver&ei=ry4mXtnnIY_RtAbt_5_QAw&start=70&sa=N&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ8tMDegQIDhA6",
+      "9": "https://www.google.com/search?q=solar+energy+vancouver&ei=ry4mXtnnIY_RtAbt_5_QAw&start=80&sa=N&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ8tMDegQIDhA8",
+      "10": "https://www.google.com/search?q=solar+energy+vancouver&ei=ry4mXtnnIY_RtAbt_5_QAw&start=90&sa=N&ved=2ahUKEwiZ-_juoZPnAhWPKM0KHe3_BzoQ8tMDegQIDhA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+vancouver&start=10&token=dc6fdb2b0a6c75d1",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+vancouver&start=10&token=dc6fdb2b0a6c75d1",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+vancouver&start=10&token=dc6fdb2b0a6c75d1",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+vancouver&start=20&token=17c4c52846d3986b",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+vancouver&start=30&token=5664d24e95384223",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+vancouver&start=40&token=86d6668c39dd8923",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+vancouver&start=50&token=783728e6317b3e3e",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+vancouver&start=60&token=b1daa212ed6fc10a",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+vancouver&start=70&token=88d24680e894be4d",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+vancouver&start=80&token=96d7b467ae934605",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+vancouver&start=90&token=9064a42d34a85ab2"
+    }
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 15:16:49 UTC",
+    "processed_at": "2020-01-20 15:16:49 UTC",
+    "google_url": "https://www.google.com/search?q=iframes+and+seo&oq=iframes+and+seo&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.51
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "iframes and seo",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 6640000,
+    "time_taken_displayed": 0.43,
+    "query_displayed": "iframes and seo"
+  },
+  "knowledge_graph": {
+    "see_more_about": [
+      {
+        "title": null
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "Can Google Read iframes?",
+      "snippet": "Google-Friendly webpages are those that are indexed with robots.txt. ... The tool framework allows for addition of URL to the iFrames ona page so that the index of the content is not the parent HTML document. When crawling, Google will not rank the iFrame content and its keywords has high on a search engine result.",
+      "title": "Google Does Crawl iFrames on Your Website. Here's What You ...",
+      "link": "https://seo.co/google-crawl-iframes/",
+      "displayed_link": "seo.co › google-crawl-iframes"
+    },
+    {
+      "question": "What is an IFrame?",
+      "snippet": "An IFrame (Inline Frame) is an HTML document embedded inside another HTML document on a website. The IFrame HTML element is often used to insert content from another source, such as an advertisement, into a Web page. ... The attackers inserted IFrame code into the saved search results of legitimate websites.",
+      "title": "What is IFrame (Inline Frame)? - Definition from WhatIs.com",
+      "link": "https://whatis.techtarget.com/definition/IFrame-Inline-Frame",
+      "displayed_link": "whatis.techtarget.com › definition › IFrame-Inline-Frame"
+    },
+    {
+      "question": "Are iframes outdated?",
+      "snippet": "IFrames are not obsolete, but the reasons for using them are rare. Using IFrames to serve your own content creates a \"wall\" around accessing the content in that area. For crawlers like Google, It's not immediately clear that cotent in an iframe will be ranked as highly as if the content were simply part of the page.Apr 16, 2009",
+      "title": "Are IFrames (HTML) obsolete? - Stack Overflow",
+      "link": "https://stackoverflow.com/questions/755795/are-iframes-html-obsolete",
+      "displayed_link": "stackoverflow.com › questions › are-iframes-html-obsolete"
+    },
+    {
+      "question": "What is Google IFrame?",
+      "snippet": "The iFrame component lets you load external URL elements (including other web pages) in your project within an iframe.",
+      "title": "The iFrame component - Google Web Designer Help - Google Support",
+      "link": "https://support.google.com/webdesigner/answer/3214587?hl=en",
+      "displayed_link": "support.google.com › webdesigner › answer"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Affect of IFrames on SEO | Boostability",
+    "date": "Nov 3, 2019",
+    "link": "https://www.boostability.com/the-affect-of-iframes-on-seo/",
+    "snippet": "The iframe, a shortened version of “inline frame,” is a segment of HTML syntax. ... Essentially, iframes allow you to embed another website in the code of your website, like a page within a page. Since you will be using the content from another website, you may be worried about lowering your website's SEO ranking.",
+    "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAGoA1QMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAADAAIEBQYBB//EAEAQAAEDAgIFBgoJBAMAAAAAAAEAAgMEEQUhBhIxQXETIjJRYYEUIzM0dJGxssHSFUJSVHKSobPRJHOT4SY2Q//EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQEBAQEBAAAAAAAAAAAAAAARARIhAv/aAAwDAQACEQMRAD8A2ukX/atBuE/7K1iyGOSRzaT6Cvie17D4RZzTcHxPWtcggY5FNLQltNPyEga8h2oHA8x2RHUeyxUavr3Fop8Qh8FqeQeAC7WZLzo82O37DltHUp+I+bu/tSe45cx9jXxAPaHAU73C42EPjsUEjeUkt5XQgPE3Wbe6IGdqbB0O9FCim6nakWdqekgEY+1NMXajLhCCMYe39FDr5BSMjeRra8gZwyJ+CsyFU6QZU9P6Q32OQE1crppFlILckNzVUQJW85x7UFwRZ+UD3AAbVGeZepqiuOTCVx3K9TUN3LdTUD9YpBxQvHdTf1Tm8r1NQGaSiB5J1WZu6ggxiR0jWGwB2lWcMLYxYIOU8BPOkzPVuVg1oAy2IcYsEYbFUJJIpIMPi2FUVFprobUUdMyCScT8ryeQeeR2kbL9q26xmKYjRYhpVoWaKqhn1BUB3JvB1TyW/qWzUEfEPISf25Pccu455MejSe/Gg4zSwVdG+OojD2hr3i+4hjrEHcVGxSkq6RgEVY6eHkH8ypGs5jdaO9nDM99+KotTtSC5vXQglQdDvRQhQdDvRQorqW5JJBxJJLcg4VU6Qeb03pDfY5WyqdIfN6b0lvscgmEZITlIchOQQZBmeKA4KTL0ncVHcgE4IbgiuQnIG2TmhNunMKB0fnDOPwVgFAj8uzirSOIEAk3B3BAmFHYL70N7Q0MDRbNGi29yqO6g35pJySDD49RUtNppodNT00MUkjZw98bA0u8VvsthdYbEsXgxDTHQ6ONk7JIxUawlgez/AMtxIse4rcBQQ8allionugp3Tu1Xgta4NIBY65z6upQ8Vxqlka2KZs9LM6FzAyoicy7i6OwB2HZuKsa3yD/7cnuOXMdc0xFueVO/3o0B95XQm3zXQqJdP0O9GBQYOh3ooUU5JcXUHEkkkHFU6Q+b03pLfY5WxVRpD5vTekt9jkFgUNyIUNyghTdJ3FR3KZI29+KiyCyoA5CeiPKE4oGkrrDmhkrrDmgkQ+Xj4q5j6DeCpYPLs4lXUfQbwQKX6n4vgUWLb3IUv1PxfAokW3uVQRJJcQYvSBwdpXoSW7NWo/aC1IKyWPn/AJVoTf7NR+yFqwUETGoIqmidHO0loa9ws4jMMdbMKLiOFxU0fi5aploHu1TUveDz48ucTlmpuIm1OfwSftuXcbI1L3NzSv4dONQSd66E2+1dComU/Q70YIFP0O9GCinJJJIOJJJIESqfSPzel9Jb7HK3Kp9I/NqX0lvuuQWTkJyIUNygGRzVFkapl+ao0h2osQJsio7ijVJzUZxVRwpzNqGixbUBoPLs4lXUY5jeCp4G/wBRHxKvI2+LbwQMl+p+L4FEj29yHN9T8XwKfGqgiSS4gw2kB/5VoSeyo/ZC1N1hsVw9lFpdobK2oqpnytnvy8xeB4obBsHctprKCPjNVFS0ZknkDGWe25vtLHWCBiOLU1TG3weOre3wdzS400jGi748+cBl2o+IP8Q6xI8XJ+25Gxs8xvocnvxIqVfMroQ75pwKqJ9N0O9GCBTHmd6MFFOSSCSBLhSuluQcVPpJ5tS+kt91yuFS6TG1LS+lN9jlBZlDcUQoL0IbezVFldtVNiOk8FFVTUz4JnGNxBLbWKrJNL4M/wCln/T+VGl3VOzUQuWeqtK4ScqWo/T+VGdpO21zSVFuvL+VUaoO7VIgNysY3SmI7KaX1j+VIh0pjBH9NMO8fymjdU7fHRq2a4NbYtdlvAWGw7SqnMrNeCYDeclqKXHcOqGi1U1p6pAW+3JSkS5ntc5gBzvssiRmxQeWY8a0bmuad7TcLocHCx2LWIk3SUXUZuBHApKow2lT+T0q0FvkSKg59XIhX0lWyJpdI9rW9bjZecQ6OfRlRQ4k+qlnrDrWe4HWZZpG299hPWpUlM+WQvfG1zs8zd5HrKm4NFi2MS1jPBsBdFPVEO1tcHUazVIcb5Z55Krwp9bi9YH43i1bO6GzmxRhsUfSbzSG7RcD1KXovS8hWTSkEEwub0bbUaGPkKmRwZqtIzJ4hb+cyazu7Wu1wnB4VUKtn22+tPFU245wWWl03lXtAiqHRZ3Oq1pv6wU9sVT9/m/JH8qiUk4cNqmtkHWstQ4Q1H36b8kfyrvIz/fpvyR/KnNeOtODlALkZ/v035I/lS5Cf7/N/jj+VF1u0Ja3aEQA09R9/m/xx/KgVGHmpDG1VVNK1jw8AtY3MX6mjrUwv7Qhvf2hFOc5Be5MfKOtRpJgN6UY7H6vk8TqgKZpIf0iNqoZsTlF/Fs/KEfSCpb9MVgNj40hVErta1gM+1WB9RiUzhbUZbgoxxCcbm/lCBNC+9m2PYEExOvY34qxKnNxKYixIA4J4rZT9kjgFW8k45A5okTJARkb9gSFWsNY64yAHBP+lHMeRfLgoDRINoPFAkY97zbJSLi6gxR/KXjfqO625FW8GkuJUwbapL2/Ze0O/wBrJ00EzXXLcuKkTPeGWA9eSqNtFprO1tn0cch62yFvwK4sM18tuiRfikiN7UU2rTwa0YbqXsdZ2Xcoro2vJvrX35nPgryrzbnnYG11GZvO/NN1cwHD6c6z3xCzS0jNtlI8Ca9sjXNz1bHNTYNju5Ok2BOvE3FB9CMHPdHHbryy/RJ2AU8xzlG/mtaMu9WjybNF9t0FziWRXJ9fYp60jQ6N0cbiSCB1n2qWzCoGmwDXADLmjNPc5xLQXGxA3p7Cdl8tb4KQrngkTbARjLsGaXItaLNibbsCkN6IKa/YpyVGLG7BG0ntQzEy9+RbfsCmjNuafYaxy3pyVWPiBBBiHFRpaONw57Bfcrd3S9abKBq7BsTkrPvw1juiw8ciosuEx5ksJ4NWmhaOTcbC4OXqRCBZuSox30Q5wya4N3GyaMCcXEar3AZkW/2tpFsvvRS0CQWAF9tglHn7sHIyEcmy9jGQnnBiwh5zvsGxb6cDwdxt9RQh5GI73Nz7clKRko8PjaOew/huUT6OjdYtiBAytrbFqY2tBZYAXOeW3NAlYwONmtGY3KVYzXgcBAaYjrbARt/RDlw5sZcCwsFr31dZX9S4ta2xIy3FR9Zxtdx2jepVzFJTRCJxa82Byu3L1o0tG2YE6p1uraVbTgA3AAN0CUkWAJtlkrRRDAY3EkSSC+65FkloImgtuQCe1JPUj//Z"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Affect of IFrames on SEO | Boostability",
+      "link": "https://www.boostability.com/the-affect-of-iframes-on-seo/",
+      "displayed_link": "www.boostability.com › the-affect-of-iframes-on-seo",
+      "date": "Nov 3, 2019",
+      "snippet": "The iframe, a shortened version of “inline frame,” is a segment of HTML syntax. ... Essentially, iframes allow you to embed another website in the code of your website, like a page within a page. Since you will be using the content from another website, you may be worried about lowering your website's SEO ranking.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8ewkAoZYN-QJ:https://www.boostability.com/the-affect-of-iframes-on-seo/+&cd=4&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.boostability.com/the-affect-of-iframes-on-seo/+iframes+and+seo&tbo=1&sa=X&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQHzADegQIARAJ"
+    },
+    {
+      "position": 2,
+      "title": "Iframe | SEO Q&A | Moz",
+      "link": "https://moz.com/community/q/iframe",
+      "displayed_link": "moz.com › community › iframe",
+      "date": "Oct 21, 2018",
+      "snippet": "Google is not really designed to prioritize such URLs that embed content in an iframe from another page. Google prefers (in general) to present ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "answers": 2
+          },
+          "extensions": [
+            "2 answers"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lBzqiYRG86EJ:https://moz.com/community/q/iframe+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "SEO Friendly IFRAMES? | SEO Q&A | Moz",
+      "link": "https://moz.com/community/q/seo-friendly-iframes",
+      "displayed_link": "moz.com › community › seo-friendly-iframes",
+      "date": "Feb 22, 2017",
+      "snippet": "Hi Everyone,. My company is using an iframe for an About US page because we are having coding issues with our CMS. The content is coming ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "answer": 1
+          },
+          "extensions": [
+            "1 answer"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nohmcP6X6HoJ:https://moz.com/community/q/seo-friendly-iframes+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Google Can Index Content In iFrames: SEOing iFrames",
+      "link": "https://www.seroundtable.com/google-iframes-seo-24098.html",
+      "displayed_link": "www.seroundtable.com › google-iframes-seo-24098",
+      "date": "Jul 5, 2017",
+      "snippet": "Filed Under Google Search Engine Optimization ... to index the page of content that is embedding the iframe over the source of that content.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hfYjYNJQU2sJ:https://www.seroundtable.com/google-iframes-seo-24098.html+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Optimizing Iframes for SEO - Our Experiment | Search ...",
+      "link": "https://www.searchlaboratory.com/us/2017/10/optimizing-iframes-for-seo/",
+      "displayed_link": "www.searchlaboratory.com › Home › Insights",
+      "date": "Oct 9, 2017",
+      "snippet": "We've conducted an experiment to find an SEO-friendly solution to handling iframes. Read on to find out more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JdRFfIXNQcUJ:https://www.searchlaboratory.com/us/2017/10/optimizing-iframes-for-seo/+&cd=16&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "What is iFrame and why you should not use it for SEO - Serpstat",
+      "link": "https://serpstat.com/blog/what-is-iframe-and-why-you-should-not-use-it-for-seo/",
+      "displayed_link": "serpstat.com › Blog › How-to",
+      "date": "Aug 29, 2019",
+      "snippet": "iFrame or floating frame is a separate window, an HTML document that opens new pages inside main pages. It can be placed anywhere, ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WWSBVc6b_58J:https://serpstat.com/blog/what-is-iframe-and-why-you-should-not-use-it-for-seo/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Google Does Crawl iFrames on Your Website ... - SEO.co",
+      "link": "https://seo.co/google-crawl-iframes/",
+      "displayed_link": "seo.co › google-crawl-iframes",
+      "snippet": "If you're wondering whether Google crawlers crawl the iFrames on your website, wonder no more. Google is known for crawling iFrames. Here's what you ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:iDPngu7toYkJ:https://seo.co/google-crawl-iframes/+&cd=18&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "iframes and SEO: How iFrames (Don't) Affect SEO on Your ...",
+      "link": "http://tentacleinbound.com/articles/how-iframes-affect-seo",
+      "displayed_link": "tentacleinbound.com › articles › how-iframes-affect-seo",
+      "snippet": "Learn about the intersection of iframes and SEO. Learn what an iframe is, how they are used, and how they affect your search engine optimization.",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:LK50mGIVdVcJ:tentacleinbound.com/articles/how-iframes-affect-seo+&cd=19&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:tentacleinbound.com/articles/how-iframes-affect-seo+iframes+and+seo&tbo=1&sa=X&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQHzASegQICxAJ"
+    },
+    {
+      "position": 9,
+      "title": "How do iframe affect SEO? - Quora",
+      "link": "https://www.quora.com/How-do-iframe-affect-SEO",
+      "displayed_link": "www.quora.com › How-do-iframe-affect-SEO",
+      "snippet": "As a general rule - iframes are not good for SEO. Its important to keep a couple things in mind. * Google likes original content * Google likes a good user ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "answers": 4
+          },
+          "extensions": [
+            "4 answers"
+          ]
+        }
+      }
+    },
+    {
+      "position": 10,
+      "title": "3 Reasons You Might Not Want To Use Iframes - OSTraining",
+      "link": "https://www.ostraining.com/blog/webdesign/against-using-iframes/",
+      "displayed_link": "www.ostraining.com › blog › webdesign › against-using-iframes",
+      "date": "Apr 30, 2019",
+      "snippet": "Iframes Cause SEO Problems. Google recommends refraining from creating iframes. At there Webmasters Help Forum, Google clearly stated ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IHRfV50RaiMJ:https://www.ostraining.com/blog/webdesign/against-using-iframes/+&cd=21&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "iframe seo 2019",
+      "link": "https://www.google.com/search?q=iframe+seo+2019&sa=X&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ1QIoAHoECAwQAQ"
+    },
+    {
+      "query": "iframe seo 2018",
+      "link": "https://www.google.com/search?q=iframe+seo+2018&sa=X&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ1QIoAXoECAwQAg"
+    },
+    {
+      "query": "seo friendly iframe alternative",
+      "link": "https://www.google.com/search?q=seo+friendly+iframe+alternative&sa=X&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ1QIoAnoECAwQAw"
+    },
+    {
+      "query": "seo iframe video",
+      "link": "https://www.google.com/search?q=seo+iframe+video&sa=X&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ1QIoA3oECAwQBA"
+    },
+    {
+      "query": "iframe optimization",
+      "link": "https://www.google.com/search?q=iframe+optimization&sa=X&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ1QIoBHoECAwQBQ"
+    },
+    {
+      "query": "iframe uses",
+      "link": "https://www.google.com/search?q=iframe+uses&sa=X&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ1QIoBXoECAwQBg"
+    },
+    {
+      "query": "websites with iframes",
+      "link": "https://www.google.com/search?q=websites+with+iframes&sa=X&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ1QIoBnoECAwQBw"
+    },
+    {
+      "query": "iframes risks",
+      "link": "https://www.google.com/search?q=iframes+risks&sa=X&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ1QIoB3oECAwQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=iframes+and+seo&ei=Y8QlXtrpHs3X-QbPh4DABQ&start=10&sa=N&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ8NMDegQIDxBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=iframes+and+seo&ei=Y8QlXtrpHs3X-QbPh4DABQ&start=10&sa=N&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ8tMDegQIDxAu",
+      "3": "https://www.google.com/search?q=iframes+and+seo&ei=Y8QlXtrpHs3X-QbPh4DABQ&start=20&sa=N&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ8tMDegQIDxAw",
+      "4": "https://www.google.com/search?q=iframes+and+seo&ei=Y8QlXtrpHs3X-QbPh4DABQ&start=30&sa=N&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ8tMDegQIDxAy",
+      "5": "https://www.google.com/search?q=iframes+and+seo&ei=Y8QlXtrpHs3X-QbPh4DABQ&start=40&sa=N&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ8tMDegQIDxA0",
+      "6": "https://www.google.com/search?q=iframes+and+seo&ei=Y8QlXtrpHs3X-QbPh4DABQ&start=50&sa=N&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ8tMDegQIDxA2",
+      "7": "https://www.google.com/search?q=iframes+and+seo&ei=Y8QlXtrpHs3X-QbPh4DABQ&start=60&sa=N&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ8tMDegQIDxA4",
+      "8": "https://www.google.com/search?q=iframes+and+seo&ei=Y8QlXtrpHs3X-QbPh4DABQ&start=70&sa=N&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ8tMDegQIDxA6",
+      "9": "https://www.google.com/search?q=iframes+and+seo&ei=Y8QlXtrpHs3X-QbPh4DABQ&start=80&sa=N&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ8tMDegQIDxA8",
+      "10": "https://www.google.com/search?q=iframes+and+seo&ei=Y8QlXtrpHs3X-QbPh4DABQ&start=90&sa=N&ved=2ahUKEwiap52_vJLnAhXNa94KHc8DAFgQ8tMDegQIDxA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iframes+and+seo&start=10&token=a5dce8c976747f7b",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iframes+and+seo&start=10&token=a5dce8c976747f7b",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iframes+and+seo&start=10&token=a5dce8c976747f7b",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iframes+and+seo&start=20&token=13a941e028d16c8d",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iframes+and+seo&start=30&token=a5c4c1d40bf64030",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iframes+and+seo&start=40&token=21eb64dde9a2b62a",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iframes+and+seo&start=50&token=601fa6a2a5f22702",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iframes+and+seo&start=60&token=9635373874e28524",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iframes+and+seo&start=70&token=77c27aa254139fde",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iframes+and+seo&start=80&token=6eddee2b489a1cdd",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iframes+and+seo&start=90&token=d5d699522a10ae84"
+    }
+  }
+}

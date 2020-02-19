@@ -1,0 +1,368 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:31:38 UTC",
+    "processed_at": "2020-01-21 22:31:38 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+near+my+location&oq=office+supplies+near+my+location&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 1.53
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies near my location",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 3210000000,
+    "time_taken_displayed": 0.68,
+    "query_displayed": "office supplies near my location"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Office Depot® Official Site | Restock Your Office Supplies‎",
+      "link": "https://www.officedepot.com/a/browse/office-supplies/N=5+1676/",
+      "displayed_link": "www.officedepot.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiV8aDF35XnAhULvsAKHQoxB1IYABAAGgJpbQ&sig=AOD64_1QyPEWUw8qugMsZwb_H2jz_qbs3w&q=&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ0Qx6BAgREAE&adurl=",
+      "description": "Buy Office Furniture, Supplies, and Accessories at Low Prices. Shop Now! Let's Get Possible Done. Shop Office Depot® Online Today! Live Chat Available. Check Order Status.",
+      "deal": [
+        "20% off Regular Priced Items",
+        "Valid Jan 19",
+        "Jan 25"
+      ],
+      "101_s_providence_rd_columbia_mo_open_today_8": [
+        "00 AM – 9"
+      ],
+      "sitelinks": [
+        {
+          "title": "Shop Our Deal Center",
+          "link": "https://www.officedepot.com/catalog/search.do?N=5+1676&cbxRefine=549384/"
+        },
+        {
+          "title": "Plan The Best Year Yet",
+          "link": "https://www.officedepot.com/a/browse/calendars-and-planners/N=5+1131206+549384&viewAllSkus=true/"
+        }
+      ]
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+near+my+location&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=39088910,-92591498,26838&tbm=lcl&sa=X&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 39.08891,
+      "longitude": -92.591498,
+      "altitude": 26838
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+near+my+location&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=39088910,-92591498,26838&tbm=lcl&sa=X&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQjGp6BAgLEEU",
+    "places": [
+      {
+        "position": 1,
+        "title": "Dollar General",
+        "place_id": "14005371306224001261",
+        "lsig": "AB86z5VPpdLM-2O77uvT6MGnAoA9",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VPpdLM-2O77uvT6MGnAoA9&ludocid=14005371306224001261&q=office+supplies+near+my+location&tbm=lcl&token=147bf28253d4ec46",
+        "rating": 3.9,
+        "reviews": 29,
+        "price": "$",
+        "type": "Discount store",
+        "hours": "Open ⋅ Closes 10PM · (660) 338-5180",
+        "address": "Glasgow, MO",
+        "description": "Sold here: office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 39.2221529,
+          "longitude": -92.8468133
+        }
+      },
+      {
+        "position": 2,
+        "title": "Carquest Auto Parts - Carquest Glasgow",
+        "place_id": "3849394772390483200",
+        "lsig": "AB86z5VY3p-0oaEor_kmIKWydMEb",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VY3p-0oaEor_kmIKWydMEb&ludocid=3849394772390483200&q=office+supplies+near+my+location&tbm=lcl&token=7310b8814a58a553",
+        "rating": 4.4,
+        "reviews": 9,
+        "type": "Auto parts store",
+        "hours": "Open ⋅ Closes 6PM · (660) 338-2050",
+        "address": "Glasgow, MO",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 39.226971,
+          "longitude": -92.846685
+        }
+      },
+      {
+        "position": 3,
+        "title": "Office Depot",
+        "place_id": "17443376880742314927",
+        "lsig": "AB86z5X0El9S-6hFqmT_zq5p0z6c",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5X0El9S-6hFqmT_zq5p0z6c&ludocid=17443376880742314927&q=office+supplies+near+my+location&tbm=lcl&token=3d96d6b09ab262bb",
+        "rating": 3.5,
+        "reviews": 92,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (573) 499-0663",
+        "address": "Columbia, MO",
+        "description": "In stock: office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 38.9508502,
+          "longitude": -92.3361844
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "Is Office Depot the same as OfficeMax?",
+      "snippet": "OfficeMax. OfficeMax is an American office supplies retailer founded in 1988. It is now a subsidiary of Office Depot, Inc., which is headquartered in Boca Raton, Florida. ... On February 20, 2013, an all-stock merger between Office Depot and OfficeMax was announced.",
+      "title": "OfficeMax - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/OfficeMax",
+      "displayed_link": "en.wikipedia.org › wiki › OfficeMax"
+    },
+    {
+      "question": "Is Office Depot the same as Staples?",
+      "snippet": "Staples announced its plan to acquire Office Depot in February of 2015, for what was valued at the time to be $6.3 billion in cash and stock. ... The Journal points out that Staples and Office Depot tried to merge back in 1997 and were also blocked back then.May 10, 2016",
+      "title": "Staples and Office Depot are calling off their merger - The Verge",
+      "link": "https://www.theverge.com/2016/5/10/11653664/staples-office-depot-acquisition-blocked-federal-judge",
+      "displayed_link": "www.theverge.com › staples-office-depot-acquisition-blocked-federal-ju..."
+    },
+    {
+      "question": "Can I scan a document at Staples?",
+      "snippet": "With a Staples store always nearby, we're your office on the go. You're never away from the office with Copy & Print. You can access the cloud, make copies, scan documents, send faxes, shred files and use the computer rental station at a Staples location.",
+      "title": "Staples Copy & Print - Copy, Scan, Shred, Fax & Computer Rental ...",
+      "link": "https://www.staplescopyandprint.ca/OfficeOnTheGo.aspx",
+      "displayed_link": "www.staplescopyandprint.ca › OfficeOnTheGo"
+    },
+    {
+      "question": "Is Office Depot out of business?",
+      "snippet": "Office Depot is closing 50 stores this year, the company told Business Insider. The office supplies company is closing stores under both its namesake and OfficeMax banners. ... \"Office Depot, Inc. continues to optimize its retail footprint as part of the three-year strategic plan announced in August 2016,\" Bishop said.Apr 22, 2019",
+      "title": "Office Depot is closing more stores — see if your store is on the list",
+      "link": "https://www.msn.com/en-us/money/companies/office-depot-is-closing-more-stores-%E2%80%94-see-if-your-store-is-on-the-list/ar-BBWbGXC",
+      "displayed_link": "www.msn.com › en-us › money › companies › ar-BBWbGXC"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Staples® Official Online Store",
+      "link": "https://www.staples.com/",
+      "displayed_link": "www.staples.com",
+      "snippet": "Shop Staples for business essentials, printers, ink, computers, office furniture, printing services, promotional products and more. Solutions for Worklife.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Supplies",
+            "link": "https://www.staples.com/Office-Supplies/cat_SC1"
+          },
+          {
+            "title": "Printing & Marketing Services",
+            "link": "https://www.staples.com/services/printing/"
+          },
+          {
+            "title": "Small Office & Home Office ...",
+            "link": "https://www.staples.com/Small-Office-Home-Office-Furniture-Collections/cat_CL208484"
+          },
+          {
+            "title": "Pens",
+            "link": "https://www.staples.com/Pens/cat_CL110001"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CNR1OwZWsigJ:https://www.staples.com/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Staples® Store Locator | Find Staples Office Supply Stores ...",
+      "link": "https://stores.staples.com/search",
+      "displayed_link": "stores.staples.com › search",
+      "snippet": "Search for Staples® office supply stores in your area to find location hours, directions, addresses, phone numbers, promotions, features, events and services.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4OqR4A_G35AJ:https://stores.staples.com/search+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Find Stores Near You - Office Depot & Office Max",
+      "link": "https://www.officedepot.com/storelocator/findStore.do",
+      "displayed_link": "www.officedepot.com › storelocator › findStore",
+      "snippet": "Enter in your zip code, city or state to find the phone number, store hours, driving directions and location of an Office Depot or OfficeMax Store near you.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NWclddyCd0EJ:https://www.officedepot.com/storelocator/findStore.do+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Office Depot & OfficeMax - Free Next Business Day Shipping",
+      "link": "https://www.officedepot.com/",
+      "displayed_link": "www.officedepot.com",
+      "snippet": "Low prices on office supplies, furniture, paper, electronics, ink and on print & technology services. Free next business day shipping on qualifying orders $45+.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Store",
+            "link": "https://www.officedepot.com/storelocator/findStore.do"
+          },
+          {
+            "title": "Office Supplies",
+            "link": "https://www.officedepot.com/a/browse/office-supplies/N=5+1676/"
+          },
+          {
+            "title": "Print & Copy",
+            "link": "https://www.officedepot.com/cm/print-and-copy/print-services"
+          },
+          {
+            "title": "Furniture",
+            "link": "https://www.officedepot.com/a/browse/furniture/N=5+917/"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-4drVp7VwDIJ:https://www.officedepot.com/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Office Supplies - Walmart",
+      "link": "https://www.walmart.com/cp/office-supplies/1229749",
+      "displayed_link": "www.walmart.com › office-supplies",
+      "snippet": "Shop for Office supplies and products at Walmart.com. Shop for paper, ink, toner, printers, pens, staplers, and more. Save money. Live better.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Calendars and Planners",
+            "link": "https://www.walmart.com/browse/office-supplies/calendars-and-planners/1229749_8412191"
+          },
+          {
+            "title": "Paper",
+            "link": "https://www.walmart.com/browse/paper/1229749_6562796"
+          },
+          {
+            "title": "Whiteboards",
+            "link": "https://www.walmart.com/browse/office-supplies/whiteboards/1229749_1565348_4161504"
+          },
+          {
+            "title": "Paper Shredders",
+            "link": "https://www.walmart.com/browse/paper-shredders/1229749_2155104"
+          }
+        ]
+      }
+    },
+    {
+      "position": 6,
+      "title": "Office Supplies Delivery Near Me - Postmates On-Demand ...",
+      "link": "https://postmates.com/delivery-near-me/office-supplies-store",
+      "displayed_link": "postmates.com › delivery-near-me › office-supplies-store",
+      "snippet": "Office Supplies Delivery Near Me. Use Current Location. Enter your delivery address, browse menus from the best restaurants in your neighborhood, and order ...",
+      "missing": [
+        "my"
+      ],
+      "must_include": {
+        "word": "my",
+        "link": "https://www.google.com/search?q=office+supplies+near+%22my%22+location&sa=X&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ5t4CMBB6BAgGEAk"
+      }
+    },
+    {
+      "position": 7,
+      "title": "Current Office Solutions: Business Machines, Furniture, Office ...",
+      "link": "http://www.currentofficesolutions.com/",
+      "displayed_link": "www.currentofficesolutions.com",
+      "snippet": "Call Current Office Solutions for all your supplies at 419-636-6563. ... names in the Northwest Ohio and South Central, MI area for custom projects of all kinds.",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:dVaQ0ETq9IcJ:www.currentofficesolutions.com/+&cd=18&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:www.currentofficesolutions.com/+office+supplies+near+my+location&tbo=1&sa=X&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQHzARegQIBxAH"
+    },
+    {
+      "position": 8,
+      "title": "Staples Office Supplies Locations & Hours Near Glasgow, KY ...",
+      "link": "https://www.yellowpages.com/glasgow-ky/staples-office-supplies",
+      "displayed_link": "www.yellowpages.com › Glasgow, KY",
+      "date": "28 results",
+      "snippet": "KU. Called to report a copier issue with 15 minutes Ryan, service rep returned my call and was on his way to our school. Copier issue was taken care ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ZJFSmP9rbP4J:https://www.yellowpages.com/glasgow-ky/staples-office-supplies+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Office Depot Weekly Ad – low prices on office supplies, office ...",
+      "link": "https://officedepot.shoplocal.com/",
+      "displayed_link": "officedepot.shoplocal.com",
+      "snippet": "Office Depot Weekly Ad – low prices on office supplies, office furniture, office products.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cTqjKCBM134J:https://officedepot.shoplocal.com/+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Office Supplies | Barren County Business Supply",
+      "link": "https://www.bcbsupply.com/office-supplies/",
+      "displayed_link": "www.bcbsupply.com › office-supplies",
+      "snippet": "Barren County Office Supplies—Hometown Service at Superstore Prices ... in stock and can order another 30,000 or so items from over 200 locations worldwide.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IuMm1vCcuUcJ:https://www.bcbsupply.com/office-supplies/+&cd=21&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office depot near me",
+      "link": "https://www.google.com/search?q=office+depot+near+me&sa=X&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ1QIoAHoECA4QAQ"
+    },
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ1QIoAXoECA4QAg"
+    },
+    {
+      "query": "staples office supplies",
+      "link": "https://www.google.com/search?q=staples+office+supplies&sa=X&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ1QIoAnoECA4QAw"
+    },
+    {
+      "query": "office supplies online",
+      "link": "https://www.google.com/search?q=office+supplies+online&sa=X&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ1QIoA3oECA4QBA"
+    },
+    {
+      "query": "office max",
+      "link": "https://www.google.com/search?q=office+max&sa=X&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ1QIoBHoECA4QBQ"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ1QIoBXoECA4QBg"
+    },
+    {
+      "query": "office supply store near me",
+      "link": "https://www.google.com/search?q=office+supply+store+near+me&sa=X&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ1QIoBnoECA4QBw"
+    },
+    {
+      "query": "officemax near me",
+      "link": "https://www.google.com/search?q=officemax+near+me&sa=X&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ1QIoB3oECA4QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+near+my+location&ei=ynsnXonmGcGwtAabkKJQ&start=10&sa=N&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ8NMDegQIEBBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+near+my+location&ei=ynsnXonmGcGwtAabkKJQ&start=10&sa=N&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ8tMDegQIEBAv",
+      "3": "https://www.google.com/search?q=office+supplies+near+my+location&ei=ynsnXonmGcGwtAabkKJQ&start=20&sa=N&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ8tMDegQIEBAx",
+      "4": "https://www.google.com/search?q=office+supplies+near+my+location&ei=ynsnXonmGcGwtAabkKJQ&start=30&sa=N&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ8tMDegQIEBAz",
+      "5": "https://www.google.com/search?q=office+supplies+near+my+location&ei=ynsnXonmGcGwtAabkKJQ&start=40&sa=N&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ8tMDegQIEBA1",
+      "6": "https://www.google.com/search?q=office+supplies+near+my+location&ei=ynsnXonmGcGwtAabkKJQ&start=50&sa=N&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ8tMDegQIEBA3",
+      "7": "https://www.google.com/search?q=office+supplies+near+my+location&ei=ynsnXonmGcGwtAabkKJQ&start=60&sa=N&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ8tMDegQIEBA5",
+      "8": "https://www.google.com/search?q=office+supplies+near+my+location&ei=ynsnXonmGcGwtAabkKJQ&start=70&sa=N&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ8tMDegQIEBA7",
+      "9": "https://www.google.com/search?q=office+supplies+near+my+location&ei=ynsnXonmGcGwtAabkKJQ&start=80&sa=N&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ8tMDegQIEBA9",
+      "10": "https://www.google.com/search?q=office+supplies+near+my+location&ei=ynsnXonmGcGwtAabkKJQ&start=90&sa=N&ved=2ahUKEwiJ85XF35XnAhVBGM0KHRuICAoQ8tMDegQIEBA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+my+location&start=10&token=4585a08f1db97760",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+my+location&start=10&token=4585a08f1db97760",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+my+location&start=10&token=4585a08f1db97760",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+my+location&start=20&token=982e85dfbcb79e1f",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+my+location&start=30&token=cb874ccd81914c8d",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+my+location&start=40&token=20c7e0651a356957",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+my+location&start=50&token=8abd6051fec58c4e",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+my+location&start=60&token=dd352bfd8fcbe4d8",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+my+location&start=70&token=9a432376d84cfe40",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+my+location&start=80&token=99537d9f51cb2267",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+near+my+location&start=90&token=acd384a8da5bdf6d"
+    }
+  }
+}

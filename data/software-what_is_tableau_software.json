@@ -1,0 +1,479 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 19:42:16 UTC",
+    "processed_at": "2020-01-20 19:42:16 UTC",
+    "google_url": "https://www.google.com/search?q=what+is+tableau+software&oq=what+is+tableau+software&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 6.46
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what is tableau software",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 88700000,
+    "time_taken_displayed": 0.48,
+    "query_displayed": "what is tableau software"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Tableau Official Site | Interactive Dashboards | tableau.com‎",
+      "link": "https://www.tableau.com/trial/tableau-software",
+      "displayed_link": "www.tableau.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjOrp3r95LnAhWRqZYKHWO7CDYYABAAGgJ0bA&sig=AOD64_0mvT2TZCOk5RoRrZ0TW7T_E7rkqw&q=&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ0Qx6BAgSEAE&adurl=",
+      "description": "Transform Data into Actionable Insights with Tableau. Get Your Free Trial Now! Easily Create Charts & Graphs with Tableau. Start Your Free Trial Today! Interactive Reports. Mobile Analytics. Free Training. Big Data Analytics. Drag & Drop.",
+      "sitelinks": [
+        {
+          "title": "Official Tableau Training",
+          "link": "https://www.tableau.com/learn/training/elearning?utm_campaign_id=2017049&utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=EN&utm_country=USCA&kw=%7Bkeyword%7D&adgroup=CTX-Core-Brand-Primary-Sitelink&adused=%7Bcreative%7D&matchtype=%7Bmatchtype%7D&placement=%7Bplacement%7D"
+        },
+        {
+          "title": "Buy Tableau Today",
+          "link": "https://buy.tableau.com/?utm_campaign_id=2017049&utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=EN&utm_country=USCA&kw=%7Bkeyword%7D&adgroup=CTX-Core-Brand-Primary-Sitelink&adused=%7Bcreative%7D&matchtype=%7Bmatchtype%7D&placement=%7Bplacement%7D"
+        }
+      ]
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Tableau Software",
+    "type": "Data visualization company",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "website": "https://www.tableau.com/",
+    "description": "Tableau Software is an American interactive data visualization software company founded in January 2003 by Christian Chabot, Pat Hanrahan and Chris Stolte, in Mountain View, California. The company is currently headquartered in Seattle, Washington, United States focused on business intelligence.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Tableau_Software"
+    },
+    "founded": "January 2003, Seattle, WA",
+    "parent_organization": "Salesforce",
+    "headquarters": "Seattle, WA",
+    "ceo": "Adam Selipsky",
+    "revenue": "1.2 billion USD (2018)",
+    "founders": "Pat Hanrahan, Christian Chabot, Chris Stolte, Andrew Beers",
+    "profiles": [
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/tableau-software",
+        "source": "commontopic",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACtklEQVR4AeyVA5AkQRREZ862bTMcZ9u2wzrbtm3bWNvmaW3b3rzKRa+NOWVEDoqvqv//LZPtUpoubC2cLIxKMveyku1UmkYAG2EoyFYESFEgQIos346dX7K7YiFyN8iFB17Sxx4NRxzVdcbYO6aotke5cgB42sFXDGDjF4FM+UbGY+5TK9FXKQBKOKTtjNz68CMAdQ+oVjyAXPicoRtyS8M5GA0PqRGwgm9gxxdMf2SBkNhEZCoxORXbVH9CXllBWHOvCla9sQNPbegRit3qDmhyWL1SYkCKA7kIxvoH1MBrr5KZllJ/IWnK3zskZ/SXEIDB1vm0trAO6K5ndNCYN5DRz9tgWxdhfnc8pQ2madXdSmDb7CeWWPfOHite22LoDWMegiDFj4GJ983hFBLD9IOPcEB0AjZ8+S6daIeaAwJFG/v8ouJh4ROB3uf1sFHpB34GRSMmMRlJKalISE5hLEHJIRCjbptAXlyAmY8tEZ2QjOzaK4qSbHs6AItTdhHwvpU3N0ZB+hYQhcGXDTi//AFSUtNPW5SY3lX3KJc7gKSwuESYeIXByDMM4XFJyC1bv0i0PKbJoCx/ALewWMwSwccApZe9skFwTAKyiXEjPYZyBziq48zUlVK09j4VvLL3Q3ZFxCdh/D0z7lG+AHFJKVj03DrHwhxHqOzimjMeWZQ/QKQ42ZQH5jkW5u896o7IJmYJa0T5A/BqJ+S6Wv7eqebwH+A/QOUBTMwHYFdpAaY9tACrVqyYECPMOr9d1UF6Gx7QcgLb2McxfCOOu2uaB2CLyk/EJ6WPo4PEmtOLqgOsZK2Pa4IDSUvPeWKFXud1pRre94Ie5jy1kvqnC+AWxzTYn2Odnud0MSdjDM0i1ObXOvDVBQjNEFciMJrhKHJwH5FmDgIPfNds4DuniO75P3r6HNY9BwATNI1Cu+uNpgAAAABJRU5ErkJggg=="
+      },
+      {
+        "name": "YouTube",
+        "link": "https://www.youtube.com/user/tableausoftware",
+        "source": "commontopic",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAADm0lEQVR4AaWWhW5sxxJFVx3Pk/Exh5k5HxAGQZg54jCDKN8SQZhBFLEUZmZm5ph0PbViuVQi3/BS6/Tu6tq7h+fEJ7tsSgQSoUKAAUQIoUaEEiECEAghRKC2wSCsshoASMRQDlCB0CCspQIIgCJI6NqIrpQZkESiXO2DoZrKSe0kgqIKZkmUrtnpBCVorwplJ9ShLFVOLdH+KNFLKGENlSzdQjCoUypr6A3TBIQEa2B5AO0tpM/rrRa9pI0mg7VhQKjYl5pBScsFipHQAaR9htYSe1OAwTUSUxJStD2VVNoikrKjpkhZTKLfsqiQih0JQFlIiPIGCGHVoScRCJFeYhCB2o19BWOkNBXJaIedpk47e7TN9jE7GzOrYwZYFUxM0DAeuzAPuLCwKpyfX3nrjaXrr1157RWKAuOd7f9v9JeMGLbc+h833x1T0/x2XFr8+qQjV957J8QwQGNIwzT7zZw+8RQmp/xdrBqnTjzNNNEkRR3E/ryjjHbbiz/AaPe9BO0BI1VojH/9W+X3smZHCECkv2ipikbMzfETfHPN1SvvvcvPsvq5SFSyM4c0SiWqTE37E8zfc8dnRx329TVXb3jvHX+CmJ7JJLEy1cFWJglMTPhTJDkez999x6dHHf712rNxPcOgmGgdw5CQmpBgyk8jmqi5Ybzh/ffGX33JxugHg4YwMiFAQCEXF2Nqio2RBvqnbbf/60WXTe1/IKBSNC4vpRWoQjBKBaKqkIsLw+QkG2P493/+cu6Fs0cdUy8j61l7fClFiDgSqHYDGH/77fC3v7Mx/nfvff3kfpLxN98IaOfHoKZopKorH37w01/USX+JlY8+VJSsWOzvASIpiw8+yB9g4cEHkopGyKQ/pslYlW9vvmHpuWf9XSy/8Px3N92QomgdQzyxyX8AEQjAYGKY2nff1U/LxF//GpOTMTU98Zc/AzE7F8MAAOMfviczf/jB5eXVkd99u+HddxcffsjxOOh3IAKMx/7/b1hTINAEVBtNN/wkAa7rHBRVSWiNkpKUpisI0pUaIG2B7ixQhmpLMEuE2kH0d9L1zqyeNDOEFBOprZAQrGeQBpJGGp3YoYAIokhP/albd1Oj3VYwpFAyrBlJlBD7Qxwl7FCtYXYW2vE1l8UByHYW1WVqIiS1R5mRqosKXe9BJgmpgjIoBHanYkQ/ZehamTsLJNvYh1UrFAIYDGjvhUk1SV0QNATtY+hdtFX19BW1BPojd0p5ENc3bJAAAAAASUVORK5CYII="
+      },
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/tableau",
+        "source": "commontopic",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAABZUlEQVR4AWLQWfWQpmjUAjxo1IJRC2wBpJTDQkVRFIafKBujZrnGjbNd84wHiJNs27btrm3rrFbW1T73m20u/yMsW0cBg6zue5XCYLFQcC41JK0I3PsYaWvC+BkugYFljrbmWPp/H/86FOnhB2hGZbTg/dBhFoEBhsoEAO23Su9+5s/9nA0R/ANtXEgNJTtiAgObfB28gZaKt8Wen2ZarhRgjVL8nagGmetC+IFMb5lgqOtOZAtsLVgjcIhFZqD+RLYj0IFzGCwUcRctc7XgNNcyA7GBhAW+EWvnHK3XCjqDhg3OUpvAEegFTgAdA+nrwnuF4zCw7DSlwqOPscRxUAmtiYqY5NDXImz/6mPprlAP1sDgcjdFLokdCkPGW6Kstmbhtoim2IWNsRsvFXNsjURvBmvgiMROc11S0+BhVvmhFAUDhewrISgbg4/qlyUdeEnl+sBk7SOgfcBSb3jWaKMWjFoAABKespvtvzYlAAAAAElFTkSuQmCC"
+      },
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/Tableau/",
+        "source": "commontopic",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAA1UlEQVR4AWOwDp9LUzTELRi1wDdtaf+8w9sPXDtx7h4Q7Tt2c92OS9SxwCZibtesg0+fv3756i0aoo4FkxcdgxhHEwtiite8ePmGhhas3HIB2cRL1x5t3HV5xebzEEQFC67efAI3/cDxW7aR86icip6/QIRP9+xD1E+myOHTPv3AqAVA1DJ1/76jN+EI2YKLVx8hS+0+cgMY5yRbMHfVKbBxhNGFqw+B6mloweY9V2hrAbAIIceCugl7gE6DI2QTT124jyyVXrNxEKaiUQtGLRi1YNQCAMs01I34bbYCAAAAAElFTkSuQmCC"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Qlik",
+        "link": "https://www.google.com/search?q=Qlik&stick=H4sIAAAAAAAAAONgFuLSz9U3MCq2zLYwUOIEsZMKiw0ttfid83MLEvMqgzNTUssTK4sXsbIE5mRm72BlBAB8JtnINAAAAA&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQxA0wMHoECBMQBQ",
+        "source": "businessissuer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAWCAMAAABUtyryAAAAilBMVEX///9jozBTV1pQVFdNUVSIi4xwc3WQkpNmaWyam51hoizDxMU9QkZHTE9ARUlKT1JYnhldoCTT09Tg4eFTmwns7e329vbM38Gew4ZwqkXMzc14e329vr+LuGyfoaKCs2DB2LPy9++vsLGsy5je6ta606p8sFjq8eVdYWMsMjeTvXjV5Mykx49ppjnXbvoYAAACZUlEQVQ4jZ2U6ZazIAyGEdC6sLaoVbovY6czc/+394VFe2r74zvND0VMHsKbAEIfWbv+6rr9+fJZ9GRXpXRZJqU23RzVLKu+Hj9WVbVEqK6qlR+v5pwvVSbRSnN2M/UyRlrGORd4Ez5TIXKEdkxkfmxnnE4DQRtjlBuotV/aZ3FiBDsjLtKBKMkciMFzQWn6zNlCuNbXAaHL2kBqpoUN+axPAmMpGOMEy/wBQnXdvAG1Bjjb+DEkQFKjIgxjcYLUekwx302gZrWqH6AaLGwMRN7Du9+dII2jAuw5gCzBIuqZw7AZQQUTtxHUYCa+vdMACZkjanIhJYNVDyop/0K9BJanMTmB+WYCUZJHUHObFruqRN9hdepEZRVCyoPBlhyLqfAZoYs3oJxOSa91og6oZqE64LYvE+WbqeeYT0ouKLFzELGwPI+Ngu4Aat3qgTROxIwmUOoVeQZhAs1BR4/njMBhCxn9+HKALv3oxr1eMxAEYFlEj6v2GuVeIwGCQleZwf+6EXKLXoX0WsxBHKrJoo4XVzUoEeGUMtCzBbHL8KsSmObereDYSTQH8RXshGRxMWhB34+bReF0g4bUv/GXlXA4bJFKCVqkLyA35VKtgjc0Tjhfzo6d6+zjqEwONSCUugeWWfMGhORDbxeruxaih7O/Bv4mENoJ2DGVwqYcsx6lkjoQp6Bdynnq90951PvooktllDI6XCWhat6azcKm7uwU31C1U5ZB82+sDU/f94W1kKu3odTJZP4qMQf0YsvXqVe7G12GXNRh7W6D/f9EvbPht1Nwse2vML6aeGo/teOo8Y9X+x99CCer/9ZpPwAAAABJRU5ErkJggg=="
+      },
+      {
+        "name": "Looker",
+        "link": "https://www.google.com/search?q=Looker&stick=H4sIAAAAAAAAAONgFuLSz9U3MCq2zLYwUOIGsQ2N8nIzCrK1-J3zcwsS8yqDM1NSyxMrixexsvnk52enFu1gZQQAPhyO9jgAAAA&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQxA0wMHoECBMQBw",
+        "source": "businessissuer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAmCAMAAABQzS1fAAAAclBMVEX///9DALz29ft4XMtrScf5+P38/P5KDr6ZhdaSfdRZLcLn4/WHb9D18/tnQ8ZJCr5PG7/r6PdTIcCtnt5WJ8GDac+5reK/tOXNxerd1/HHvehcMsOhkNl+Y82xo9+omNyNd9J0VsphOsTUze0pALZwT8iiaQtLAAACE0lEQVRIie2U2bKbMAyG9ZuAg8GYPSyBsIT3f8Xa4GyndCadk5t2ji7Aks2HNovoR/4j8crkMyA/CD8EkhUFn3DKzeS8TOcPkKjKiKZP+HTSoKL+LiQMG7cqL4e//tJlz9qIcUHAstLqzH0bdLjKh5LBRBQ3N927tm+DHDy5FPnm2d0bycP7Ib6A2rXqQ/dtkJ96Oi/ovwdiHkku+gvTkTG2B3oujPdSpAcoGVLwcZYFkFE5Ae3lAZLjctSdEVkrLQ4L1VdfN9AMlRf6oMmRe6rgdFy10oKk4J05yEM/h7ZS3k6Iv17tFZSAm86pBfTrgMR0j8+nDSRzrj8aVKHzR2cVEQkRV/s5CvmW34BzatSy7XSqJA2SIh70zi1bA04kHp32CnJ5bjUfc6HmbR1gJCxunharJ43navEC5ZCAtw+qMVitQR/htiWgPZriNNZp6XKOTVKlPfqdY0G+1Spkhzto0iDBzxl39LHUP1oZ/gxKEFktQ1Mg2NYMEyHWdY/UScf8NFd2QR30CDvc8iIgS2Xdu6gzrX8IwFkFW+76WO6DMj6YiPLVDYf75KWq39LFmW1IE1y0XRwpMO+DWBy3Ax3Bh/4suHGghhr73lGo7ldEBydTjGVzjk3P7oIoGSF0/8emIsfVEixmHdWPeRTgmrihsa6NC+yB9PF1tNWn6j4Ok6rZMu5ak2sWbG7qF+uP/LPyC0KuG+7S4QslAAAAAElFTkSuQmCC"
+      },
+      {
+        "name": "Alteryx",
+        "link": "https://www.google.com/search?q=Alteryx&stick=H4sIAAAAAAAAAONgFuLSz9U3MCq2zLYwUOIGsQ2NTEqyyyu0-J3zcwsS8yqDM1NSyxMrixexsjvmlKQWVVbsYGUEAD88zGs5AAAA&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQxA0wMHoECBMQCQ",
+        "source": "businessissuer",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADkASAMBEQACEQEDEQH/xAAaAAEAAgMBAAAAAAAAAAAAAAAAAQUCAwQH/8QAKBAAAgICAQQBAwUBAAAAAAAAAAECAwQREgUTIUExIlGBUnGRocEU/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAmEQEAAgECAwkBAAAAAAAAAAAAAQIRAzEhYfASE0FRkaHB0fGB/9oADAMBAAIRAxEAPwD3EAAAAAAAAAAAAAAAAAAAAAABoqy6LnWq7IydkZSgvbUWk3+G1/Js1mN0xes7N5igDCM05TT8cZa/fwn/AKGZZbQanewAACl6rgZuT1LHyKFjyrpcJR5vjJNSfLzxb01rSTXve9nWlqxWYl59Sl7XiY2hzLo2W5Y8uONGymnIojcptyiptOM19PytPxv38l97Xj/J9EdzbMT5RMevinA6LLG7c8uuHZrjbKdUZc1txgk4qMI/pl63t7+WZbVzsU0Zrjtc/jk1Y/Ss+7GxLZ2J2Rt7ljtlKLsguMYwa9coxUn9pL4e2VOpSJmMddezK6WpMRMz+eEffNbZ1btqujHHV77niLko6+heThWcO94zE8MuS3Fu3w/5LLOEpKFvfXJJ+0359L+/zXajzRNZ2x7uzpMXX34PGnTuXN8p8tt/Zk2XpxjPBYEuoAAAAAEJJb17AkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//Z"
+      },
+      {
+        "name": "SAP",
+        "extensions": [
+          "Trending"
+        ],
+        "link": "https://www.google.com/search?q=SAP&stick=H4sIAAAAAAAAAONgFuLSz9U3MCq2zLYwUOIEsQ0L0kxytPid83MLEvMqgzNTUssTK4sXsTIHOwbsYGUEAP_wPmwzAAAA&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQxA0wMHoECBMQCw",
+        "source": "businessissuer",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAjCAMAAAAAALzsAAAAflBMVEUZd9H////39/f4+Pj5+fn19fX09PT29vb9/f3s7Ozw8PDv7+8Ab88NdND//fkActBbk9azyOW80e8Aa850ot369/NIitZ9qOAle9HL2/JVkdjl6e3t8PTg5Ord5O7V3emNsuOXt+M5g9SduuHL1+ipwuYAZc7p8PrX5PVmmttEGb5rAAADeklEQVRIiZ1W23ajOgy1bGMb40u5OIS0TROatMP//+CRbSAknTkzK1o8REEW2tLWBgK8VKrkUBagNRRl9tnsi3K9Lx78h3jCaIEXZcw9bZTheYJPqvBJ1XB4iTZtrj/7Wzt0usLKCLBKqYpB3dqnzJPXdJ4ophXXmMiQZ8ySN8G5pmqF1jyVyJJ3ClWCxqngTFD1VEXWvzsqGBeUk2WcTyXyR72O/wGa9dHs7fftz/nfjZkPF/mVoUlKpaSSp4psuzudz6dubKOz+0RLP87JJuPv8rQfLh+OV4QGCzQ7HgO4CiC84dNNHSCEsye+Cw40Orpvt3kuYWY6RGhVon4hEjSt4gEhYMATPvHj2BLbQVElvoXeb/JAvF/lVamIKJQQqigwkb8Gqo7Xa/0BE9ZxcsgvFQ7WdyCFcwH55vZrniEk/ggZz0uxhWYu2LQvYwySHCO/85I2xneaw2k8XDSE01xSW7vY5A20XJGUWJFpCur61qTp2F3gqhmUcCRWFHpjrRNqHi7mQf5F/qwV5R4JHaF1gWGfr5MxsdXYsK6Hyp1b7BF2x3oo1ZAStdcALPNn7dF2au2AI+M4tXpvvcQAbwPw968uZGgC4hAx7tPd6VOCRpFIaJlHbX90jqPHxt5R3hgzcOoOHfLFpRup2ZiH/rCF2TqDty3phqCBXn5hpVPbdkFAPS1PTuNvz+FBObMezbuSKvLYUf/Vw4z9tWleYy86wW6EbE+w7c26a7j62H3mUo9Y3Y3jdFEi86MALlAd1CWqw/ncxRUxvYvx67Tyedz+zdLaF1yFuA2xVKwEcGSgZYbem7S0pnPJ30LLS4sKyWeFNDXg49FX4U1p+m37z8/eZwWEPrHLTJDjV0bn86iQq2ZjRbsG9cUFPrz8wsquJmpHXN1YZkpkprDErz2afZJLy3pkcTnInhjj92iL/IzRSTvmXxb9eYQmSkIjkSR1/6CQ/uCoZDl+1aH5PL1j9l/y7Gb+wI0/G2aXt137f7Mj/Hx1s9nHqQnJheCS/i2RH4t521O8mN8+q/+v0Oy+WKHAtskrNJ0VUtRR0f5se8aRX8ifOV4v/Fl8TBQ1utDfdbJmc2391w1/Ynz16K/QyiT6rEpvEVwNjEE/VKjw6KstlN9DKyQrCibTR1L8Ttr4bPblcp/d37+LJz++xOZxZil9/DL7zZfbHP8f/AdOB6Hgb5YAAAAASUVORK5CYII="
+      },
+      {
+        "name": "Spotfire",
+        "link": "https://www.google.com/search?q=Spotfire&stick=H4sIAAAAAAAAAONgFuLSz9U3MCq2zLYwUIKwzQuNyiy0-J3zcwsS8yqDM1NSyxMrixexcgQX5JekZRal7mBlBAAzE8N5OQAAAA&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQxA0wMHoECBMQDQ",
+        "source": "businessissuer",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADUASAMBIgACEQEDEQH/xAAaAAEAAgMBAAAAAAAAAAAAAAAAAwQCBQcG/8QALBAAAgEDAgQFAwUAAAAAAAAAAQIAAwQREiEFEzFRIjJhgaFBcbEGFBUjQv/EABYBAQEBAAAAAAAAAAAAAAAAAAADAv/EABoRAQEAAgMAAAAAAAAAAAAAAAABAhEDMXH/2gAMAwEAAhEDEQA/AO4xEQEREBERAREQERECjc8Sp29wtBqFyzt5SlIkNtnYyOrxq1pBiRWZVDlytMnSEYqxPuDLNe3apd21YMAKWrI75GJp7rgFWtqGuidQrDLahp11C4Iwd8Z+JTGYXtPK5zptDxOjzXRUquqHS9VU8CHrufz2+so2f6n4dfVWpWhq1Kn+F0Y5mOunPbrJU4dc00rWuujUtK7MX1ghwG8w22OST2xma3hP6Wey4yt9WuEanRBWhTRMYyMZPsT0+AMTWM49Xd8Zt5NzUehS6RnYBX0gkFyvhyOu8z/cUdDPzaehThm1DAPrKF5Y1nS4NMUwXR9kyOZlSACM47b+n0mZs6xrLXPJDpp0oAQpADDft5vbEisnq39tS1a6q5WnzMZ6r6d+kyp3VN01EhBt5mH1+x9ZV/j6gSooen/bTZW2xpJLHb08Uley5l0arEYySNtwSoGfiBOK6MwFIip4tLFCDpPrEgsbRrc5cqSEVAQTuB+PtEC5ERAREQEREBERAREQEREBERAREQEREBERA//Z"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?q=Tableau+Software&stick=H4sIAAAAAAAAAONgFuLSz9U3MCq2zLYwUEJia8lkJ1vpJ5UWZ-alFhfrZxYXl6YWWRVnpqSWJ1YWL2IVCElMyklNLFUIzk8rKU8sSt3ByggAlOaYwU4AAAA&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQMSgAMDB6BAgTEAE",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLSz9U3MCq2zLYwUEJia8lkJ1vpJ5UWZ-alFhfrZxYXl6YWWRVnpqSWJ1YWL2IVCElMyklNLFUIzk8rKU8sSt3ByggAlOaYwU4AAAA"
+  },
+  "inline_images": [
+    {
+      "link": "/search?q=what+is+tableau+software&tbm=isch&source=iu&ictx=1&fir=yWqfBkahDg8fwM%253A%252CQ9_3JreuJ9YlgM%252C_&vet=1&usg=AI4_-kSU7j8veopDFuy3poRQcHrU0Cnuug&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ9QEwGnoECAcQBQ#imgrc=yWqfBkahDg8fwM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkGHArjDBl93QC8ZlTNrW5em5dW7SZeFsRhVK65VhLYMxnJBCObcusRS3V6vA9DA&s"
+    },
+    {
+      "link": "/search?q=what+is+tableau+software&tbm=isch&source=iu&ictx=1&fir=74GWAPys2_Rf2M%253A%252CQ9_3JreuJ9YlgM%252C_&vet=1&usg=AI4_-kTUN7YbPyXl68E1pQc7C-kzXZUaAg&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ9QEwG3oECAcQBw#imgrc=74GWAPys2_Rf2M:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbYCgzWVTlnT0Z4gNw8o-0antTOFl4F3aWoVirHWqpRLFqi85-L1yaAb1go-wEiA&s"
+    },
+    {
+      "link": "/search?q=what+is+tableau+software&tbm=isch&source=iu&ictx=1&fir=eJB9hwvRb85gCM%253A%252CQ9_3JreuJ9YlgM%252C_&vet=1&usg=AI4_-kQ1Mci2pUTXsxKgYFwbcNlifYwhlw&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ9QEwHHoECAcQCQ#imgrc=eJB9hwvRb85gCM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXOZW241YzVG33xxv62PaIaBT46QmaIV8ejBcDQ78gCIt7nkMxdEFH9O4fh094KA&s"
+    },
+    {
+      "link": "/search?q=what+is+tableau+software&tbm=isch&source=iu&ictx=1&fir=Sjy3c1-rIg-B6M%253A%252CnC5hy4pk176hPM%252C_&vet=1&usg=AI4_-kTWwesy8BoXEW3nesLBXRKN_byUYQ&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ9QEwHXoECAcQCw#imgrc=Sjy3c1-rIg-B6M:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9mmeriyiBMDscFRML7BSgOg3rqq9VD1IqvbX6xgImORqbrqlm4C8xBRu4LL_SxA&s"
+    },
+    {
+      "link": "/search?q=what+is+tableau+software&tbm=isch&source=iu&ictx=1&fir=4N4w6QsBAcfb8M%253A%252CspxxBZl-yESToM%252C_&vet=1&usg=AI4_-kTutRFkxtS9VFnuojF068t7o_Mopw&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ9QEwHnoECAcQDQ#imgrc=4N4w6QsBAcfb8M:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdjx9aVbzbftJRMY9fsz3DfhS-wDO21hNIl_bg_SCRs53prP2POTT5rBV5s_JFg&s"
+    },
+    {
+      "link": "/search?q=what+is+tableau+software&tbm=isch&source=iu&ictx=1&fir=qgW9h1ABXOAaYM%253A%252CXC0rX_XVe_n4XM%252C_&vet=1&usg=AI4_-kSE9CNiCHHF7TNwOg3xiZBPcQkd8g&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ9QEwH3oECAcQDw#imgrc=qgW9h1ABXOAaYM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfzjkAEuAE8zx7jTIzqVIJomlovOTDTbko-MKzXm1F8hzIIt6Ja0Wf_6jXJmyxg&s"
+    },
+    {
+      "link": "/search?q=what+is+tableau+software&tbm=isch&source=iu&ictx=1&fir=S8y5Z57rKyJGYM%253A%252CHxtt0RvazAGkEM%252C_&vet=1&usg=AI4_-kREIguONQyaqEMw8MpdojBMAjGX_A&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ9QEwIHoECAcQEQ#imgrc=S8y5Z57rKyJGYM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh5nEvQW-s4P5Z_8q163w4-PMn15NFy8O_rVaMWfF5YEv4u6RaLpQR_jxqdbhrg&s"
+    },
+    {
+      "link": "/search?q=what+is+tableau+software&tbm=isch&source=iu&ictx=1&fir=Vx1Unk4wJPtoSM%253A%252CRAo6relnm7gNeM%252C_&vet=1&usg=AI4_-kRJHE7PJ0UUz-4g_F_EH9QN_EX5zg&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ9QEwIXoECAcQEw#imgrc=Vx1Unk4wJPtoSM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDC8ycpXdqvBaT8pU5mVDap_6dxt8JIzwEGi1HtYVieoO1xgRb5hjy3jtfEPqN0Q&s"
+    },
+    {
+      "link": "/search?q=what+is+tableau+software&tbm=isch&source=iu&ictx=1&fir=qA5yZ_gFIegChM%253A%252CNoYIySbXLhs3gM%252C_&vet=1&usg=AI4_-kQ4QrvcQAvFNa9JfHgBQbGD2GXVbg&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ9QEwInoECAcQFQ#imgrc=qA5yZ_gFIegChM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxy6QFTEnUjovIipsH3tJrUYT_EClEMYdumCjLQccJGRH_0o2Am5OldNFbl2QEPw&s"
+    },
+    {
+      "link": "/search?q=what+is+tableau+software&tbm=isch&source=iu&ictx=1&fir=jND3aeJZmxcD9M%253A%252CQ9_3JreuJ9YlgM%252C_&vet=1&usg=AI4_-kRSxnBRuC5qrc6a70LcO5A4V0_d2A&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ9QEwI3oECAcQFw#imgrc=jND3aeJZmxcD9M:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUw1djHhobKzSVMX7YLikYFr6OY9MRUsh3h2o7t4GXTYxfz00eHIghCgCO14mcUw&s"
+    }
+  ],
+  "inline_videos": [
+    {
+      "title": "What is Tableau?",
+      "link": "https://www.youtube.com/watch?v=9VlbYjF5_7o",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Story by Data",
+      "duration": "2:50",
+      "platform": "YouTube",
+      "date": "Oct 13, 2016"
+    },
+    {
+      "title": "What is Tableau? | A Tableau Overview",
+      "link": "https://www.youtube.com/watch?v=YfE9jBq002s",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Tableau Software",
+      "duration": "2:16",
+      "platform": "YouTube",
+      "date": "Feb 13, 2019"
+    },
+    {
+      "title": "What is Tableau Desktop? | A Tableau Desktop Overview",
+      "link": "https://www.youtube.com/watch?v=gAruNQGxYMA",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Tableau Software",
+      "duration": "2:26",
+      "platform": "YouTube",
+      "date": "Sep 16, 2016"
+    },
+    {
+      "title": "Tableau's OEM Program",
+      "link": "https://www.tableau.com/oem-video",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLrnxPKQ8f0SZSiaxAcG7icbfkXT-m_N1s4PRR2wXt25Z0FQNCXt3Oj74&usqp=CAI&s",
+      "channel": "",
+      "duration": "4:04",
+      "platform": "Tableau",
+      "date": "Jan 20, 2015"
+    },
+    {
+      "title": "Tableau Software Demo",
+      "link": "https://www.youtube.com/watch?v=1kO8YqBTgs0",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1JAR2ymTtdVPmBhMFoW8Oz9894CK3QuU-c4iA_PsDLs7K9_dSoRciwFJMQ",
+      "channel": "TechnologyAdvice",
+      "duration": "3:46",
+      "platform": "YouTube",
+      "date": "Mar 23, 2015"
+    },
+    {
+      "title": "Why Does Visualizing Data Matter?",
+      "link": "https://www.tableau.com/solutions/customer/topical-video-why-does-visualizing-data-matter",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSfpHKlcTDYZ37P-ORWjM1D7mHotIZdij72siM45Nml8VELxXs4_lRXDfITScfCc4jNaPxTQs&usqp=CAI&s",
+      "channel": "",
+      "duration": "3:43",
+      "platform": "Tableau",
+      "date": "Mar 1, 2017"
+    },
+    {
+      "title": "Demonstration Creating Dashboards Using Tableau Software",
+      "link": "https://www.youtube.com/watch?v=ut5LebSeJ7I",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKlBURImYDN6BbSVIiPFve6LZ_iPz8wMldH4RnlfzsU5NZk8dvKf-vwy2m",
+      "channel": "unilytics",
+      "duration": "20:11",
+      "platform": "YouTube",
+      "date": "Apr 10, 2014"
+    },
+    {
+      "title": "Tableau - Introduction",
+      "link": "https://www.youtube.com/watch?v=gWZtNdMko1k",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnrY0BlqJ_nhqGQgohSCX7nPgJvq_pvd4hagJbVLwzoAWFCql00O6YstwpBw",
+      "channel": "Tutorials Point (India...",
+      "duration": "4:27",
+      "platform": "YouTube",
+      "date": "Jan 22, 2018"
+    },
+    {
+      "title": "Innovation at Tableau Conference 2019",
+      "link": "https://www.youtube.com/watch?v=AEQU_x5ZT6w",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSf6eT9cgx8VgYWUMByUlVixN6YaAGLOYi9RhrS65WFJBYDXv1oyycHkU-mLE0i",
+      "channel": "GeekWire",
+      "duration": "5:03",
+      "platform": "YouTube",
+      "date": "Nov 18, 2019"
+    },
+    {
+      "title": "Data Culture at Tableau Conference 2019",
+      "link": "https://www.youtube.com/watch?v=bDkKnym5yEs",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTv8sthwmOJsdttWDeBRwgpuQXsFXGkYtKFapX4-VC8oyh9qZSvftteve6UMyXD",
+      "channel": "GeekWire",
+      "duration": "4:59",
+      "platform": "YouTube",
+      "date": "Nov 15, 2019"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the use of Tableau Software?",
+      "snippet": "Tableau Software provides software applications for fast analytical and rapid-fire business intelligence. Tableau Desktop is a data visualization application that lets you analyze virtually any type of structured data and produce highly interactive, beautiful graphs, dashboards, and reports in just minutes.Jun 10, 2018",
+      "title": "Tableau Application - 5 Essential Tableau Use Cases - DataFlair",
+      "link": "https://data-flair.training/blogs/tableau-application/",
+      "displayed_link": "data-flair.training › blogs › tableau-application"
+    },
+    {
+      "question": "What is Tableau and how does it work?",
+      "snippet": "Tableau has an edge over other Business Intelligence and Analytics tools as it lets you work by connecting to various data sources, data warehouses, and files which exist in the cloud, big data that exists in spreadsheets, and non-relational data, among other types of data.",
+      "title": "What is Tableau - Uses and Applications - Intellipaat",
+      "link": "https://intellipaat.com/blog/what-is-tableau/",
+      "displayed_link": "intellipaat.com › blog › what-is-tableau"
+    },
+    {
+      "question": "Is Tableau A free software?",
+      "snippet": "Tableau Public is free software that allows anyone to connect to a spreadsheet or file and create interactive data visualizations for the web. Tableau Reader is free and allows you to open and interact with data visualizations built in Tableau Desktop.",
+      "title": "Tableau: Is It The Business Intelligence Solution For You?",
+      "link": "https://blog.openbridge.com/is-tableau-right-for-you-10-point-checklist-to-make-the-right-decision-e43dbf9c63fd",
+      "displayed_link": "blog.openbridge.com › is-tableau-right-for-you-10-point-checklist-to-m..."
+    },
+    {
+      "question": "Who is tableau designed for?",
+      "snippet": "Tableau is a highly interactive solution for business intelligence. It is designed for people who don't have coding skills. With Tableau, anyone can visualize and understand data without the need for any advanced skills in data science.Oct 6, 2017",
+      "title": "What is Tableau: Overview, Application & Differentiation from Excel",
+      "link": "https://www.newgenapps.com/blog/what-is-tableau-overview-application-tableau-vs-excel",
+      "displayed_link": "www.newgenapps.com › blog › what-is-tableau-overview-application-ta..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "What is Tableau?",
+      "link": "https://www.tableau.com/products/what-is-tableau",
+      "displayed_link": "www.tableau.com › products › what-is-tableau",
+      "snippet": "Tableau is the most powerful, secure, and flexible end-to-end analytics platform ... Tableau Software ... Tableau Prep is how you get your data ready for analysis.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Q9_3JreuJ9YJ:https://www.tableau.com/products/what-is-tableau+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Business Intelligence and Analytics Software",
+      "link": "https://www.tableau.com/",
+      "displayed_link": "www.tableau.com",
+      "snippet": "Tableau can help anyone see and understand their data. Connect to almost any database, drag and drop to create visualizations, and share with a click.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "About",
+            "link": "https://www.tableau.com/about"
+          },
+          {
+            "title": "Products",
+            "link": "https://www.tableau.com/products"
+          },
+          {
+            "title": "Solutions",
+            "link": "https://www.tableau.com/solutions"
+          },
+          {
+            "title": "Learning",
+            "link": "https://www.tableau.com/learn"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:bANBgq7DvhoJ:https://www.tableau.com/+&cd=10&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.tableau.com/+what+is+tableau+software&tbo=1&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQHzAJegQIARAH"
+    },
+    {
+      "position": 3,
+      "title": "What is Tableau? Uses and Applications - Guru99",
+      "link": "https://www.guru99.com/what-is-tableau.html",
+      "displayed_link": "www.guru99.com › what-is-tableau",
+      "date": "6 days ago",
+      "snippet": "Tableau is a powerful and fastest growing data visualization tool used in the Business Intelligence Industry. It helps in simplifying raw data into the very easily understandable format. Data analysis is very fast with Tableau and the visualizations created are in the form of dashboards and worksheets.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:a2CocKf1WoEJ:https://www.guru99.com/what-is-tableau.html+&cd=21&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "What is Tableau - Uses and Applications - Intellipaat",
+      "link": "https://intellipaat.com/blog/what-is-tableau/",
+      "displayed_link": "intellipaat.com › blog › what-is-tableau",
+      "snippet": "Tableau software is one of the fastest growing data visualization tools which is currently being used in the BI industry. It is the best way to change or transform ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1l0E3XwI-eoJ:https://intellipaat.com/blog/what-is-tableau/+&cd=22&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Tableau Software - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Tableau_Software",
+      "displayed_link": "en.wikipedia.org › wiki › Tableau_Software",
+      "snippet": "Tableau Software is an American interactive data visualization software company founded in January 2003 by Christian Chabot, Pat Hanrahan and Chris Stolte, ...",
+      "sitelinks": {
+        "list": [
+          {
+            "date": "Key people‎: ‎Adam Selipsky (‎CEO‎); Christian C..."
+          },
+          {
+            "date": "Founders‎: ‎Christian Chabot; Chris Stolte; Andr..."
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "number_of_employees_may": 4181,
+            "net_income_us_us": 5873000
+          },
+          "extensions": [
+            "Number of employees‎: ‎4,181 (May 2019)",
+            "Key people‎: ‎Adam Selipsky (‎CEO‎); Christian C...",
+            "Net income‎: ‎: US$ 5,873,000 (2014); US$ 7,07...",
+            "Founders‎: ‎Christian Chabot; Chris Stolte; Andr..."
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9i0nAVa1SaQJ:https://en.wikipedia.org/wiki/Tableau_Software+&cd=23&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Tableau_Software+what+is+tableau+software&tbo=1&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQHzAWegQICxAJ"
+    },
+    {
+      "position": 6,
+      "title": "What is Tableau? - Quora",
+      "link": "https://www.quora.com/What-is-Tableau",
+      "displayed_link": "www.quora.com › What-is-Tableau",
+      "snippet": "Tableau has created software that is used for data science and business intelligence. Tableau can create an ample range of visualization to interactively present ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "answers": 77
+          },
+          "extensions": [
+            "77 answers"
+          ]
+        }
+      },
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.quora.com/What-is-Tableau+what+is+tableau+software&tbo=1&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQHzAXegQICBAI"
+    },
+    {
+      "position": 7,
+      "title": "What is Tableau: Overview, Application & Differentiation from ...",
+      "link": "https://www.newgenapps.com/blog/what-is-tableau-overview-application-tableau-vs-excel",
+      "displayed_link": "www.newgenapps.com › blog › what-is-tableau-overview-application...",
+      "date": "Oct 6, 2017",
+      "snippet": "Tableau is a data visualization software that is used for data science and business intelligence. Tableau can create a wide range of different ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KQT556wWfuoJ:https://www.newgenapps.com/blog/what-is-tableau-overview-application-tableau-vs-excel+&cd=25&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Step by Step resource guide to learn Tableau - Analytics Vidhya",
+      "link": "https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/",
+      "displayed_link": "www.analyticsvidhya.com › tableau-learning-path",
+      "snippet": "Tableau is one of the fastest evolving Business Intelligence (BI) and data ... Tableau Software: The biggest Tableau group on Facebook, with over ~75k likes.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GkwmFTl_cJIJ:https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/+&cd=26&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/tableau-learning-path/+what+is+tableau+software&tbo=1&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQHzAZegQIBBAJ"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "tableau overview",
+      "link": "https://www.google.com/search?q=tableau+overview&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ1QIoAHoECBcQAQ"
+    },
+    {
+      "query": "tableau login",
+      "link": "https://www.google.com/search?q=tableau+login&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ1QIoAXoECBcQAg"
+    },
+    {
+      "query": "tableau tutorial",
+      "link": "https://www.google.com/search?q=tableau+tutorial&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ1QIoAnoECBcQAw"
+    },
+    {
+      "query": "tableau download",
+      "link": "https://www.google.com/search?q=tableau+download&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ1QIoA3oECBcQBA"
+    },
+    {
+      "query": "tableau wiki",
+      "link": "https://www.google.com/search?q=tableau+wiki&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ1QIoBHoECBcQBQ"
+    },
+    {
+      "query": "tableau pricing",
+      "link": "https://www.google.com/search?q=tableau+pricing&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ1QIoBXoECBcQBg"
+    },
+    {
+      "query": "tableau products",
+      "link": "https://www.google.com/search?q=tableau+products&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ1QIoBnoECBcQBw"
+    },
+    {
+      "query": "tableau for students",
+      "link": "https://www.google.com/search?q=tableau+for+students&sa=X&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ1QIoB3oECBcQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what+is+tableau+software&ei=nQImXsnnFvySr7wPxfGDgAU&start=10&sa=N&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ8NMDegQIERBC",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what+is+tableau+software&ei=nQImXsnnFvySr7wPxfGDgAU&start=10&sa=N&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ8tMDegQIERAw",
+      "3": "https://www.google.com/search?q=what+is+tableau+software&ei=nQImXsnnFvySr7wPxfGDgAU&start=20&sa=N&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ8tMDegQIERAy",
+      "4": "https://www.google.com/search?q=what+is+tableau+software&ei=nQImXsnnFvySr7wPxfGDgAU&start=30&sa=N&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ8tMDegQIERA0",
+      "5": "https://www.google.com/search?q=what+is+tableau+software&ei=nQImXsnnFvySr7wPxfGDgAU&start=40&sa=N&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ8tMDegQIERA2",
+      "6": "https://www.google.com/search?q=what+is+tableau+software&ei=nQImXsnnFvySr7wPxfGDgAU&start=50&sa=N&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ8tMDegQIERA4",
+      "7": "https://www.google.com/search?q=what+is+tableau+software&ei=nQImXsnnFvySr7wPxfGDgAU&start=60&sa=N&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ8tMDegQIERA6",
+      "8": "https://www.google.com/search?q=what+is+tableau+software&ei=nQImXsnnFvySr7wPxfGDgAU&start=70&sa=N&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ8tMDegQIERA8",
+      "9": "https://www.google.com/search?q=what+is+tableau+software&ei=nQImXsnnFvySr7wPxfGDgAU&start=80&sa=N&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ8tMDegQIERA-",
+      "10": "https://www.google.com/search?q=what+is+tableau+software&ei=nQImXsnnFvySr7wPxfGDgAU&start=90&sa=N&ved=2ahUKEwiJqpfr95LnAhV8yYsBHcX4AFAQ8tMDegQIERBA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+tableau+software&start=10&token=cd220c9c4ec93de1",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+tableau+software&start=10&token=cd220c9c4ec93de1",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+tableau+software&start=10&token=cd220c9c4ec93de1",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+tableau+software&start=20&token=0ca704bc9616e5e7",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+tableau+software&start=30&token=73b1fd7256aec4a1",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+tableau+software&start=40&token=079da0e03ce4bae2",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+tableau+software&start=50&token=0111c16689a38760",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+tableau+software&start=60&token=f54e2849b2ca6eaf",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+tableau+software&start=70&token=b0e1188495f7694f",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+tableau+software&start=80&token=87f1698f758a98d4",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+tableau+software&start=90&token=c1365769a701ca84"
+    }
+  }
+}

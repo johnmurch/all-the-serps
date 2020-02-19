@@ -1,0 +1,310 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 18:56:42 UTC",
+    "processed_at": "2020-01-21 18:56:42 UTC",
+    "google_url": "https://www.google.com/search?q=indeed+jobs&oq=indeed+jobs&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.2
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "indeed jobs",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 800000000,
+    "time_taken_displayed": 0.77,
+    "query_displayed": "indeed jobs"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Job Postings | Find Job Postings | info.com‎",
+      "link": "/aclk?sa=l&ai=DChcSEwjLyqjAr5XnAhUD1sAKHYF2B68YABAAGgJpbQ&sig=AOD64_3vJwfuJH0SBwfwdWVbtGCE_YCrow&adurl=&q=",
+      "displayed_link": "www.info.com/Job+Postings",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjLyqjAr5XnAhUD1sAKHYF2B68YABAAGgJpbQ&sig=AOD64_3vJwfuJH0SBwfwdWVbtGCE_YCrow&q=&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q0Qx6BAgSEAE&adurl=",
+      "description": "Search Job Postings. Visit & Lookup Immediate Results Now."
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Indeed",
+    "type": "Website",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "website": "https://www.indeed.com/",
+    "description": "Indeed is an American worldwide employment-related search engine for job listings launched in November 2004. It is a subsidiary of Japan's Recruit Co. Ltd. and is co-headquartered in Austin, Texas and Stamford, Connecticut with additional offices around the world.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Indeed"
+    },
+    "date_launched": "November 2004",
+    "type_of_site": "Employment website",
+    "owner": "Recruit Holdings Ltd.",
+    "people_also_search_for": [
+      {
+        "name": "LinkedIn",
+        "link": "https://www.google.com/search?q=LinkedIn&stick=H4sIAAAAAAAAAONgFuLUz9U3sKzMKc9WAjONy9KLirT4nPNzc_PzgjNTUssTK4sXsXL4ZOZlp6Z45u1gZQQAMGzQuTYAAAA&sa=X&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0QxA0wI3oECA0QBQ",
+        "source": "common",
+        "image": "data:image/jpeg;base64,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"
+      },
+      {
+        "name": "Monster.com",
+        "link": "https://www.google.com/search?q=Monster.com&stick=H4sIAAAAAAAAAONgFuLUz9U3sKzMKc9WAjPNMixMzbT4nPNzc_PzgjNTUssTK4sXsXL75ucVl6QW6SXn5-5gZQQA3n3INTkAAAA&sa=X&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0QxA0wI3oECA0QBw",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAOCAMAAAC7MqoEAAAAaVBMVEX///9XAIlSAIZdGI339vqJZqlrN5a0oMdZCYpfHY67qsxOAISPb62qlMBcE4xhIY/XzuGljLyVd7Hx7vSFX6bJvNZ8UqBkKJGfhbjFttNvPZje1uZBAH14TZ7Pw9qBWqN1Rpvl4OyafrVQtcQqAAABgElEQVQokb2Ta3OrIBCG94K6QEDRWLQ2NvH//8jDJUlzZvqlM53uB5V34WFvAvyiLY+PbvrhSeOcM+q57Me7/FG16RvedxrAWQSRtseyxUIyRBk0RyI2WXjLj+PDAaiLJb9DZ4nIfgKUdwfQ+GMdWT9BURKpo5hBhoR7wZB0alMYAcuB9mon6LCPvTQAHDUXHVcApOkJ0nIY1BmkSNKGGekGID0OFeRlg5K2qcEz1iI0ftkXlmdEvKD2sujkXrEkNObjEjUZVyOS062CTgXUn09HBvUsmvavGm07oQNMoPuVLucm+kAffQKpN/J2fwFFtG0G8YVlgC/QAHMAlUEDcpVS8oJqpp670rUTX19AMpQ2Njgfvv0PlKyA4J3bdb5wxglOcNMltWVz/hXkzbxutdhXf36Aoq0gaxNoipjM54pQahSodwc3i4R2ziDb5K3ISDaNxdkaUELhDnKhFFKFUHqxjmMZI7iv0y2qG48ydkMoLpct1cyE5NzC8tM/4k/sH/g4EqBZQDSiAAAAAElFTkSuQmCC"
+      },
+      {
+        "name": "Craigslist, Inc.",
+        "link": "https://www.google.com/search?q=Craigslist&stick=H4sIAAAAAAAAAONgFuLUz9U3sKzMKc9WAjMNLZLNDbX4nPNzc_PzgjNTUssTK4sXsXI5FyVmphfnZBaX7GBlBAC2nbXROAAAAA&sa=X&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0QxA0wI3oECA0QCQ",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAA2CAMAAABTGy/EAAAAk1BMVEX////9/P5OAIf49Pr28flaAI77+f1UAIry6/bs5fHg0+hKAIXn2u/l2uzGstY6AHzfzent4/O8pc54QqCbeLewlcZqIZi3jM3YweSmiL9yOJ3Rwt5nI5WtkMSggLvDs9OKY6y2nsq9ltHDoNbMrtxsLJiVcbOFV6ilf79jDJOPYbCFUql6SqFiF5KMaa3UyeDSt+CTbUVGAAADOElEQVRIie2U67LiKBCAm3AJJJCEmDjExKhHjePMeOL7P9024Kk9bq3WVPnXLiQIzUdfoAHe8pa3vOUtNxH9umna7GVMlyZJir9z/RLH8DQ/Tpw35yRZ0UdaWX/3t1dgi/9o5OkwA0s4QMFT/og0rb79IV2ZwTq5U6A8PeFHeRCwS7r4OzfybwGNAWnScFQEAUuT4n+2PQWJNBiUJ+YbCOpkGVfHnyejunV9VrvuVwdqPQLrim1Rs66ddgiiu9/AxnZbLJIRDy+S6MsXSPA8gI8S2pL9Oc7t7gwkz9jpE1IDfVl1PcjGg5oBTgz6jS2DZ0l7B4JTssF+g3GjPTSfuLIBxnsYJ1YyoKVa4xnWu1Yv4c8vAsoE0PYWE5WkEdQFcreNAZywk2Nx6aH7hHwGWVJxKifhQZslqKFs4Q7ELpwvyL+g+uLdpB40YzIiKFsWTQYCer66gQjU+fjdNTpwzmPmo2umRP4ITYNHjQA8gBrhFdZoY0kiCMf9gCB6Cza9pGd+DqSvYI/l8TyLxZLhmU07rPrTwDg/rk5z09F+MuVOTDk9FrStSX6qY/rpkA5Zyk2KpK/0w1xIMCh49TOwVmZGrc1c1Edjih4yk+nMGJvVeJ9UFi/kYpVeqMSsIen35fGF3IWVljxYphido4jpV2f+5Im0+bqop/nhepbzFebVgzaXx4/WZ2DXFU+WfRlJjg2WEf6sjPyNhMLGXy9sKKTvttP65VJL9OHjB8r+ap+rOVfJJwpm/+Pj6j72DnGHJ4rOMUGVfrhe7fdXAnR/wKtw2O+/FJmiQBnD4DN89FQwxjST0lYS+7CCjTLJcBvzG7KDux6coIcrUOfHKuKd1pZUFQHtrHIVqypRZdpYitOsos6ip6KSxGrhNPpBnRMkc86GpkE656+urPCBUmLxhSj/ShhY7Y1kaDsIW5GKgtRYCajWtPIn28qGfUG8iTrEU0a7lP9QRg0DaUEzEIYQZZQALYBZRKIxQvujrQ4O4gya7EfS2wkCZwn14cGqhJPCB0ISIJL4iCAlzPgQEhISxKSIuZUsBpnKcLkJAeEbwYZdmAiNxIGfEVELVfwGcXvNQtx/3/KWV+UfBBU0uMMV/hYAAAAASUVORK5CYII="
+      },
+      {
+        "name": "InfoJobs",
+        "link": "https://www.google.com/search?q=InfoJobs&stick=H4sIAAAAAAAAAONgFuLUz9U3sKzMKc9W4tZP1zc0MipOTzIy1eJzzs_Nzc8LzkxJLU-sLF7EyuGZl5bvlZ9UvIOVEQB_9n6fOAAAAA&sa=X&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0QxA0wI3oECA0QCw",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAAAfCAMAAACCsyC3AAAAYFBMVEX///8AdbMAc7IAcbEAb7AAd7QAbK+gwNrm7vXb5vC0zOG60eQAZax3qM2TuNaqxt72+fuLs9PN3usshLrC1ueArdAKe7YAaa7v9Plkncg8ir1Rk8Idf7hroclZmMVEjr/N7dn8AAABp0lEQVRIie1S27LbIAzUDTB2DBiM49z//y+POA9Op07T6Zw+ZmfsQUKstAsAH3zwP+D74ddomNctyEPe1qnv01ueKuUZjGIPdYuKjM8G9rjCO5zMaVuvgrN/lpNx23pGeksDZzOpghimmCCT+e49jVXFJkb9z3WcVF7E4sbqdTe7EP2ex2AEoqNlusBgFnsAJ3JlHqEj8nAXXshGmIwRNrZTHyweTjuapFIycQKHi34luCTUwaAyMnKa5Qow4RluGACuGJOYl357bToohXJcoKIa25ManwmhRwOVatN0hjP1ajzGTpZpfsE0a9NG8c1xQde631raQMCimdgyd1hITVrUsAczcbfjicgwtjFOOnirg7GN4PABo7lDIc3ccYJ2dmX27cEtjfw3BFO0LrSZe2A1VrvrdIUcXEyFh251RnzHeu0Br9BeReF5x3OTByyi/GxzZ60q90LWalanczBY1qCCP6K1LBnKsRCf9/4MMYNzqjfGtMa+pdY4hdZQmkrvJtdei48hRB1mDmPtX13Yn5B6lL2d/4zTQeT2cxqYnct/r/rggx/hC9rjExSHi3XyAAAAAElFTkSuQmCC"
+      },
+      {
+        "name": "Glassdoor",
+        "link": "https://www.google.com/search?q=Glassdoor&stick=H4sIAAAAAAAAAONgFuLUz9U3sKzMKc9W4gIxS0yN8wostPic83Nz8_OCM1NSyxMrixexcrrnJBYXp-TnF-1gZQQAkpBNJDgAAAA&sa=X&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0QxA0wI3oECA0QDQ",
+        "source": "common",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAAAZCAMAAABU6sOqAAAAY1BMVEUNqkH///8ApS8ApjMAqDsApzfS69f1+/ZFtmO54MHh8eQApCvx+fMAqT4AoiBTum3s9+6t27eIzJi+4cVzxYdcvXOd1KnG5s0+tF3a798AoBZ5xoslr05hvniX0qQxsVVqwX/0NDVAAAABUUlEQVQ4je1Sy5KEIBAjzUtEVGAUX6v+/1cuzhwHD3PcrcmhsdJdIR1h7Iu/Dfchf4ftjv9ISAz4EQWej+BvpCtNMkGciDoMMn9w5p6VkyTHiLc7uLMXw2Q+BOPc0nEWhESnMfemwlD1gKfpqnYEmkoqIIGO+uL5CuizVarGdBR2JY0QEbPOY/7xYAbDGCTSEKWH34GlRzAIE+ZQwynUphSZOxDsoi8dZmqNKl+rOtuj8e1cL9kYuwZ6lRekA6tqFl5K3jH4hS4/ndJDQEXdqNFua0RQul0MZB6wSLm1nDjVbEsh572yU7x04DWmBKObDSpiXdHkVpuugUEAM3T2SGUdRns6m7jFaUtqTUcVVZxkUGrkFGbziJJ2lQYuNjN7xvdRlmWkr0NCkNy558/ONQcgifJ8fgmCv46cwKtxI8PEWaMZ78x+AEHWvr/ZL/4lfgE7IhIFa3eXLAAAAABJRU5ErkJggg=="
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?q=Indeed&stick=H4sIAAAAAAAAAONgFuLUz9U3sKzMKc9WQjC1hLOTrfST83Nz8_OsijNTUssTK4sXsbJ55qWkpqbsYGUEABF1z2o5AAAA&sa=X&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0QMSgAMCN6BAgNEAE",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3sKzMKc9WQjC1hLOTrfST83Nz8_OsijNTUssTK4sXsbJ55qWkpqbsYGUEABF1z2o5AAAA"
+  },
+  "top_stories": [
+    {
+      "title": "Indeed Launches New Experience to Support Career Journey",
+      "link": "https://finance.yahoo.com/news/indeed-launches-experience-support-career-140000205.html",
+      "source": "Yahoo Finance",
+      "date": "4 hours ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMZ9zyz3FiTaT8KaC6amUyTYXZsPSHjheRyyz2W2dC9xxPyT_IsRulTLEgTVXt0iChi7Rr4oM&s"
+    },
+    {
+      "title": "These are the UK's best paid jobs in 2020, says Indeed",
+      "link": "https://www.cnbc.com/2020/01/08/these-are-the-uks-best-paid-jobs-in-2020-says-indeed.html",
+      "source": "CNBC.com",
+      "date": "2 weeks ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL169EJLNhpcKDFu-6pM0FFMsaIZi9ujluI-b4EAJiKgDrlaf3JCUWy_PGCt-CZN1dmZ5H7g&usqp=CAI&s"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=indeed+jobs&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Qt8YBKAF6BAgFEAo",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indeed+jobs&tbm=nws&token=91bfd52d726b0d32",
+  "related_questions": [
+    {
+      "question": "Where is the best place to look for a job?",
+      "snippet": "Top 10 Best Websites For JobsIndeed.com. John Holcroft / Getty Images. ... CareerBuilder.com. CareerBuilder is one of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers. ... Dice.com. Dice is the leading site for tech job seekers. ... Glassdoor.com. ... Google for Jobs. ... Idealist.com. ... LinkedIn.com. ... LinkUp.com.More items...",
+      "title": "Top 10 Best Websites For Jobs - The Balance Careers",
+      "link": "https://www.thebalancecareers.com/top-best-job-websites-2064080",
+      "displayed_link": "www.thebalancecareers.com › top-best-job-websites-2064080"
+    },
+    {
+      "question": "Is indeed free for job seekers?",
+      "snippet": "Indeed Resume will remain free for job seekers looking to create or upload their resumes. And as always, it's free for employers to include qualifying jobs on Indeed, and most of the hires that come from Indeed will continue to be free of charge.Dec 11, 2017",
+      "title": "Indeed Resume Employer Subscriptions: How the New Model Will ...",
+      "link": "http://blog.indeed.com/2017/12/11/indeed-resume-employer-subscriptions/",
+      "displayed_link": "blog.indeed.com › 2017/12/11 › indeed-resume-employer-subscriptions"
+    },
+    {
+      "question": "Is indeed the best job site?",
+      "snippet": "1. Indeed Jobs. Indeed is the most popular of the top job sites.Sep 16, 2019",
+      "title": "30 Best Job Search Sites & How to Use Them to Find Employment ...",
+      "link": "https://zety.com/blog/best-job-search-sites",
+      "displayed_link": "zety.com › blog › best-job-search-sites"
+    },
+    {
+      "question": "How do I search for jobs on Indeed?",
+      "snippet": "Finding Exactly \"What\" You WantSearch on a phrase (two or more words, side-by-side). Usually we just type a single word into the \"What?\" box. ... Ask Indeed to find a specific job title. ... Ask Indeed to find jobs with a specific employer. ... Have Indeed exclude something from results.",
+      "title": "Using Indeed to Find a Job - Job-Hunt.org",
+      "link": "https://www.job-hunt.org/onlinejobsearchguide/article_guide_to_indeed.shtml",
+      "displayed_link": "www.job-hunt.org › onlinejobsearchguide › article_guide_to_indeed"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Jobs, Employment in Albany, NY | Indeed.com",
+      "link": "https://www.indeed.com/l-Albany,-NY-jobs.html",
+      "displayed_link": "www.indeed.com › l-Albany,-NY-jobs",
+      "snippet": "9764 jobs available in Albany, NY on Indeed.com. Apply to Floor Staff, Crew Member, Barista and more!",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Full time",
+            "link": "https://www.indeed.com/q-Full-Time-l-Albany,-NY-jobs.html"
+          },
+          {
+            "title": "Part time",
+            "link": "https://www.indeed.com/q-Part-Time-l-Albany,-NY-jobs.html"
+          },
+          {
+            "title": "Now hiring",
+            "link": "https://www.indeed.com/q-Now-Hiring-l-Albany,-NY-jobs.html"
+          },
+          {
+            "title": "Jobs in Albany, NY",
+            "link": "https://www.indeed.com/jobs?l=Albany,+NY&start=10"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FAGoAqvX9rIJ:https://www.indeed.com/l-Albany,-NY-jobs.html+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Full Time Jobs, Employment in Albany, NY | Indeed.com",
+      "link": "https://www.indeed.com/q-Full-Time-l-Albany,-NY-jobs.html",
+      "displayed_link": "www.indeed.com › q-Full-Time-l-Albany,-NY-jobs",
+      "snippet": "12033 Full Time jobs available in Albany, NY on Indeed.com. Apply to Receptionist, Housekeeper, Custodian and more!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Nwv1pzIYO30J:https://www.indeed.com/q-Full-Time-l-Albany,-NY-jobs.html+&cd=2&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Indeed: Job Search",
+      "link": "https://www.indeed.com/",
+      "displayed_link": "www.indeed.com",
+      "snippet": "With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, we're with ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Indeed jobs",
+            "link": "https://www.indeed.com/q-Indeed-jobs.html"
+          },
+          {
+            "title": "Browse Jobs",
+            "link": "https://www.indeed.com/find-jobs.jsp"
+          },
+          {
+            "title": "Indeed",
+            "link": "https://ca.indeed.com/"
+          },
+          {
+            "title": "Accounting jobs",
+            "link": "https://www.indeed.com/q-Accounting-jobs.html"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PSmtC8XWbD4J:https://www.indeed.com/+&cd=3&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Albany jobs | Indeed.com",
+      "link": "https://www.indeed.com/local/Albany-NY-jobs",
+      "displayed_link": "www.indeed.com › local › Albany-NY-jobs",
+      "snippet": "Albany, NY Jobs - Local job trends, Albany career, salary and company data. Search 9906 jobs in Albany, New York State. Indeed®",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6Y2OLzoR5TEJ:https://www.indeed.com/local/Albany-NY-jobs+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Jobs, Employment in Albany County, NY | Indeed.com",
+      "link": "https://www.indeed.com/l-Albany-County,-NY-jobs.html",
+      "displayed_link": "www.indeed.com › l-Albany-County,-NY-jobs",
+      "snippet": "9588 jobs available in Albany County, NY on Indeed.com. Apply to Warehouse Worker, Custodian, Brand Ambassador and more!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YNFPI1iPwsUJ:https://www.indeed.com/l-Albany-County,-NY-jobs.html+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Part Time Jobs, Employment in Albany, NY | Indeed.com",
+      "link": "https://www.indeed.com/q-Part-Time-l-Albany,-NY-jobs.html",
+      "displayed_link": "www.indeed.com › q-Part-Time-l-Albany,-NY-jobs",
+      "snippet": "2925 Part Time jobs available in Albany, NY on Indeed.com. Apply to Barista, Crew Member, Front End Associate and more!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yMvuBAtyct4J:https://www.indeed.com/q-Part-Time-l-Albany,-NY-jobs.html+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Jobs, Employment in Albany, NY | Indeed.com",
+      "link": "https://www.indeed.com/jobs?l=Albany,+NY&start=10",
+      "displayed_link": "www.indeed.com › jobs",
+      "snippet": "9743 jobs available in Albany, NY on Indeed.com. Apply to Specialist, Receptionist, Housekeeper and more!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FBdMp7d5h8wJ:https://www.indeed.com/jobs%3Fl%3DAlbany,%2BNY%26start%3D10+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Now Hiring Jobs, Employment in Albany, NY | Indeed.com",
+      "link": "https://www.indeed.com/q-Now-Hiring-l-Albany,-NY-jobs.html",
+      "displayed_link": "www.indeed.com › q-Now-Hiring-l-Albany,-NY-jobs",
+      "snippet": "5215 Now Hiring jobs available in Albany, NY on Indeed.com. Apply to Retail Sales Associate, Crew Member, Brand Ambassador and more!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HexskZcpWuAJ:https://www.indeed.com/q-Now-Hiring-l-Albany,-NY-jobs.html+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Jobs, Employment in Schenectady, NY | Indeed.com",
+      "link": "https://www.indeed.com/l-Schenectady,-NY-jobs.html",
+      "displayed_link": "www.indeed.com › l-Schenectady,-NY-jobs",
+      "snippet": "10701 jobs available in Schenectady, NY on Indeed.com. Apply to Retail Sales Associate, Member Services Representative, Mail Carrier and more!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:N0M95RHGkgcJ:https://www.indeed.com/l-Schenectady,-NY-jobs.html+&cd=11&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "indeed jobs albany ny",
+      "link": "https://www.google.com/search?q=indeed+jobs+albany+ny&sa=X&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q1QIoAHoECBUQAQ"
+    },
+    {
+      "query": "indeed jobs troy ny",
+      "link": "https://www.google.com/search?q=indeed+jobs+troy+ny&sa=X&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q1QIoAXoECBUQAg"
+    },
+    {
+      "query": "indeed jobs schenectady ny",
+      "link": "https://www.google.com/search?q=indeed+jobs+schenectady+ny&sa=X&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q1QIoAnoECBUQAw"
+    },
+    {
+      "query": "indeed jobs clifton park ny",
+      "link": "https://www.google.com/search?q=indeed+jobs+clifton+park+ny&sa=X&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q1QIoA3oECBUQBA"
+    },
+    {
+      "query": "indeed recruitment",
+      "link": "https://www.google.com/search?q=indeed+recruitment&sa=X&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q1QIoBHoECBUQBQ"
+    },
+    {
+      "query": "indeed login",
+      "link": "https://www.google.com/search?q=indeed+login&sa=X&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q1QIoBXoECBUQBg"
+    },
+    {
+      "query": "indeed pt jobs",
+      "link": "https://www.google.com/search?q=indeed+pt+jobs&sa=X&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q1QIoBnoECBUQBw"
+    },
+    {
+      "query": "state jobs in albany ny",
+      "link": "https://www.google.com/search?q=state+jobs+in+albany+ny&sa=X&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q1QIoB3oECBUQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=indeed+jobs&ei=a0knXr6NDNmmtQbqqZToBA&start=10&sa=N&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q8NMDegQIFBBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=indeed+jobs&ei=a0knXr6NDNmmtQbqqZToBA&start=10&sa=N&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q8tMDegQIFBAv",
+      "3": "https://www.google.com/search?q=indeed+jobs&ei=a0knXr6NDNmmtQbqqZToBA&start=20&sa=N&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q8tMDegQIFBAx",
+      "4": "https://www.google.com/search?q=indeed+jobs&ei=a0knXr6NDNmmtQbqqZToBA&start=30&sa=N&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q8tMDegQIFBAz",
+      "5": "https://www.google.com/search?q=indeed+jobs&ei=a0knXr6NDNmmtQbqqZToBA&start=40&sa=N&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q8tMDegQIFBA1",
+      "6": "https://www.google.com/search?q=indeed+jobs&ei=a0knXr6NDNmmtQbqqZToBA&start=50&sa=N&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q8tMDegQIFBA3",
+      "7": "https://www.google.com/search?q=indeed+jobs&ei=a0knXr6NDNmmtQbqqZToBA&start=60&sa=N&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q8tMDegQIFBA5",
+      "8": "https://www.google.com/search?q=indeed+jobs&ei=a0knXr6NDNmmtQbqqZToBA&start=70&sa=N&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q8tMDegQIFBA7",
+      "9": "https://www.google.com/search?q=indeed+jobs&ei=a0knXr6NDNmmtQbqqZToBA&start=80&sa=N&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q8tMDegQIFBA9",
+      "10": "https://www.google.com/search?q=indeed+jobs&ei=a0knXr6NDNmmtQbqqZToBA&start=90&sa=N&ved=2ahUKEwj-7p_Ar5XnAhVZU80KHeoUBU0Q8tMDegQIFBA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indeed+jobs&start=10&token=a39fdb087da8ab43",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indeed+jobs&start=10&token=a39fdb087da8ab43",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indeed+jobs&start=10&token=a39fdb087da8ab43",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indeed+jobs&start=20&token=bd65ca0c43c2708c",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indeed+jobs&start=30&token=4af8d93379ebff38",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indeed+jobs&start=40&token=194cd78964507844",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indeed+jobs&start=50&token=1123d2a44778cb8d",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indeed+jobs&start=60&token=b8557c146b71f75b",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indeed+jobs&start=70&token=bbad58bc6439dfdb",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indeed+jobs&start=80&token=3960b3c7ac8f4177",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indeed+jobs&start=90&token=73ccf61473636c44"
+    }
+  }
+}

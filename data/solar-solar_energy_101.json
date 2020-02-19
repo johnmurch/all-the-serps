@@ -1,0 +1,293 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 22:37:36 UTC",
+    "processed_at": "2020-01-20 22:37:36 UTC",
+    "google_url": "https://www.google.com/search?q=solar+energy+101&oq=solar+energy+101&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 1.45
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "solar energy 101",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 148000000,
+    "time_taken_displayed": 0.47,
+    "query_displayed": "solar energy 101"
+  },
+  "knowledge_graph": {},
+  "inline_videos": [
+    {
+      "title": "Energy 101: Solar Power",
+      "link": "https://www.youtube.com/watch?v=NDZzAIcCQLQ",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "energynownews",
+      "duration": "3:24",
+      "platform": "YouTube",
+      "date": "Aug 23, 2011"
+    },
+    {
+      "title": "Renewable Energy 101: How Does Solar Energy Work?",
+      "link": "https://www.youtube.com/watch?v=eqDVW-vbFJY",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Green Mountain Energy",
+      "duration": "1:55",
+      "platform": "YouTube",
+      "date": "Apr 23, 2019"
+    },
+    {
+      "title": "Energy 101: Solar PV",
+      "link": "https://www.youtube.com/watch?v=0elhIcPVtKE",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "U.S. Department of Energy",
+      "duration": "2:01",
+      "platform": "YouTube",
+      "date": "Feb 8, 2011"
+    },
+    {
+      "title": "Solar 101",
+      "link": "https://www.youtube.com/watch?v=yFwGpiCs3ss",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfwZxiPZVcsUI9nVi3YxcsHIiHrHufhnp-eDWOgzS7YQoypOv8dymS_Tio",
+      "channel": "Student Energy",
+      "duration": "1:01",
+      "platform": "YouTube",
+      "date": "May 17, 2015"
+    },
+    {
+      "title": "Energy 101: Solar PV",
+      "link": "https://www.nationalgeographic.org/video/edu-solar-pv/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTodXUEGPPklwqoUTb0R175mmHxq6bahjoKFztbY3HMlvFwib_ZcwNY4xihC-TYfkEyidK99Es&usqp=CAI&s",
+      "channel": "",
+      "platform": "National Geographic Society",
+      "date": "Jan 18, 2017"
+    },
+    {
+      "title": "Renewable Energy 101 | National Geographic",
+      "link": "https://www.youtube.com/watch?v=1kUE0BZtTRc",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3hyosOhhEtRtkLERT0dDktYPGelO-isZHBNcgXuETDk_vf4I7sdv__T4EeQ",
+      "channel": "National Geographic",
+      "duration": "3:17",
+      "platform": "YouTube",
+      "date": "Sep 21, 2017"
+    },
+    {
+      "title": "Renewable Energy 101",
+      "link": "https://www.youtube.com/watch?v=T4xKThjcKaE",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0L6wauEZOlDvuDpYzDNFOUpS8RMt5sHXl7fyHiuD4tSgmHWc6otgkpGHp",
+      "channel": "Student Energy",
+      "duration": "1:32",
+      "platform": "YouTube",
+      "date": "May 17, 2015"
+    },
+    {
+      "title": "Solar Energy 101 - How Solar Panels Work",
+      "link": "https://www.youtube.com/watch?v=dHVZ6jEf8To",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqNkPpaPp-oNnM5G33IngHi6dJJyMGL1VLf7kJ-SgsNNLBEoDNbsZi2yngYvrJUw",
+      "channel": "Rainier Solar",
+      "duration": "1:52",
+      "platform": "YouTube",
+      "date": "Jul 4, 2012"
+    },
+    {
+      "title": "Energy 101: Concentrating Solar Power",
+      "link": "https://www.youtube.com/watch?v=rO5rUqeCFY4",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0yfiQC7ITt66QlUM9PNzCs-SExtnxm3tLRaMseBWJiGEXRpm2XSjAohgswflk",
+      "channel": "U.S. Department of Energy",
+      "duration": "2:17",
+      "platform": "YouTube",
+      "date": "Jul 8, 2010"
+    },
+    {
+      "title": "Residential Solar Power 101: How home solar power systems ...",
+      "link": "https://www.youtube.com/watch?v=2qsa4W01ItU",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxbZWwz8_vJf0NVeUnbjmqIStEgwjOC9zvpZsJoPTQ7JFD4Zw59bk_vKh5QQ",
+      "channel": "Constellation, an Exelon...",
+      "duration": "5:10",
+      "platform": "YouTube",
+      "date": "Jul 20, 2017"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the basics of solar energy?",
+      "snippet": "A variety of technologies convert sunlight to usable energy for buildings. The most commonly used solar technologies for homes and businesses are solar photovoltaics for electricity, passive solar design for space heating and cooling, and solar water heating.",
+      "title": "Solar Energy Basics | NREL",
+      "link": "https://www.nrel.gov/research/re-solar.html",
+      "displayed_link": "www.nrel.gov › research › re-solar"
+    },
+    {
+      "question": "What is solar PV?",
+      "snippet": "Solar Photovoltaic (PV) is a technology that converts sunlight (solar radiation) into direct current electricity by using semiconductors. When the sun hits the semiconductor within the PV cell, electrons are freed and form an electric current. Solar PV technology is generally employed on a panel (hence solar panels).",
+      "title": "Solar PV | Student Energy",
+      "link": "https://www.studentenergy.org/topics/solar-pv",
+      "displayed_link": "www.studentenergy.org › topics › solar-pv"
+    },
+    {
+      "question": "How does solar energy work in nature?",
+      "snippet": "Solar energy works by capturing the sun's energy and turning it into electricity for your home or business. Our sun is a natural nuclear reactor. ... Every hour, enough photons impact our planet to generate enough solar energy to theoretically satisfy global energy needs for an entire year.",
+      "title": "What is Solar Energy and How Do Solar Panels Work? | SunPower",
+      "link": "https://us.sunpower.com/what-solar-energy-and-how-do-solar-panels-work",
+      "displayed_link": "us.sunpower.com › what-solar-energy-and-how-do-solar-panels-work"
+    },
+    {
+      "question": "How do we collect solar energy?",
+      "snippet": "Solar-powered photovoltaic (PV) panels convert the sun's rays into electricity by exciting electrons in silicon cells using the photons of light from the sun. This electricity can then be used to supply renewable energy to your home or business.",
+      "title": "How do solar systems produce energy? - NW Wind & Solar",
+      "link": "https://www.nwwindandsolar.com/solar-power-in-seattle-and-the-northwest/how-do-solar-systems-produce-energy/",
+      "displayed_link": "www.nwwindandsolar.com › solar-power-in-seattle-and-the-northwest"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Solar Power 101: A Simple Guide to Solar Energy",
+      "link": "https://www.wholesalesolar.com/solar-information/solar-power-101",
+      "displayed_link": "www.wholesalesolar.com › solar-information › solar-power-101",
+      "snippet": "Welcome to Solar Power 101! On this page, we'll go over the basics of solar energy and explain where to start if you want to buy a solar power system.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7kjGIve6mPcJ:https://www.wholesalesolar.com/solar-information/solar-power-101+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Energy 101: Solar PV | Department of Energy",
+      "link": "https://www.energy.gov/eere/videos/energy-101-solar-pv",
+      "displayed_link": "www.energy.gov › eere › videos › energy-101-solar-pv",
+      "snippet": "Home » Energy 101: Solar PV. Energy 101: Solar PV. Description: Solar photovoltaic (PV) systems can generate clean, cost-effective power anywhere the sun shines. This video shows how a PV panel converts the energy of the sun into renewable electricity to power homes and businesses.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:u6Qra08T_I0J:https://www.energy.gov/eere/videos/energy-101-solar-pv+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Solar Components 101 - Learn about solar panels, inverters ...",
+      "link": "https://www.gogreensolar.com/pages/solar-components-101",
+      "displayed_link": "www.gogreensolar.com › pages › solar-components-101",
+      "snippet": "Solar Components 101. The amount of solar energy that hits a square mile every year is equal to 4 million barrels of oil. So how does a photovoltaic system turn ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:e8DURfMv_NYJ:https://www.gogreensolar.com/pages/solar-components-101+&cd=13&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.gogreensolar.com/pages/solar-components-101+solar+energy+101&tbo=1&sa=X&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4QHzAMegQIBRAJ"
+    },
+    {
+      "position": 4,
+      "title": "Solar Energy 101 - Mr. Solar",
+      "link": "https://www.mrsolar.com/solar-energy-101/",
+      "displayed_link": "www.mrsolar.com › solar-energy-101",
+      "snippet": "Solar energy is generated from the heat or light from the sun which can be used to produce heat, light, hot water, electricity, and cooling in a wide variety of ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MlAJRw0Y4cEJ:https://www.mrsolar.com/solar-energy-101/+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Solar Power 101 | HGTV",
+      "link": "https://www.hgtv.com/remodel/mechanical-systems/solar-power-101",
+      "displayed_link": "www.hgtv.com › Remodel › Mechanical Systems",
+      "snippet": "HGTVRemodels on HGTV.com breaks down the basics of solar power and offers tips for incorporating this clean energy source in your home.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:a1zoqEqMh_cJ:https://www.hgtv.com/remodel/mechanical-systems/solar-power-101+&cd=23&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Solar Energy - Solar Power | Green Mountain Energy",
+      "link": "https://www.greenmountainenergy.com/why-renewable-energy/renewable-energy-101/solar/",
+      "displayed_link": "www.greenmountainenergy.com › ... › Renewable Energy Sources",
+      "snippet": "Green Mountain Energy drives solar energy initiatives through education and outreach. Learn more about how solar energy works, what goes on inside a solar ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Ao5Qqc5Npo4J:https://www.greenmountainenergy.com/why-renewable-energy/renewable-energy-101/solar/+&cd=24&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "What is Solar Energy, Solar Power Systems | EnergySage",
+      "link": "https://www.energysage.com/solar/101/",
+      "displayed_link": "www.energysage.com › solar › 101",
+      "snippet": "Solar 101: how does solar energy work? Last updated 10/4/2019. Solar panel systems can be complicated, but going solar doesn't have to be a difficult process.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:P7wLNn5G_U0J:https://www.energysage.com/solar/101/+&cd=25&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.energysage.com/solar/101/+solar+energy+101&tbo=1&sa=X&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4QHzAYegQICBAJ"
+    },
+    {
+      "position": 8,
+      "title": "Solar 101: A Beginner's Guide To Solar Power Systems",
+      "link": "https://www.solarquotes.com.au/solar101.html",
+      "displayed_link": "www.solarquotes.com.au › solar101",
+      "date": "Jan 13, 2020",
+      "snippet": "Our Solar 101 beginners guide is the ideal starting point for anyone considering a solar power system who needs advice and information.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6I9lmJjpeygJ:https://www.solarquotes.com.au/solar101.html+&cd=26&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.solarquotes.com.au/solar101.html+solar+energy+101&tbo=1&sa=X&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4QHzAZegQIBhAJ"
+    }
+  ],
+  "related_search_boxes": [
+    {
+      "position": 1,
+      "query": "What are the types of energy resources",
+      "results": []
+    },
+    {
+      "position": 2,
+      "query": "Types of alternative energyView 1+ moreView 1+",
+      "results": []
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "solar 101 a beginner's guide",
+      "link": "https://www.google.com/search?q=solar+101+a+beginner%27s+guide&sa=X&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q1QIoAHoECA4QAQ"
+    },
+    {
+      "query": "solar panels",
+      "link": "https://www.google.com/search?q=solar+panels&sa=X&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q1QIoAXoECA4QAg"
+    },
+    {
+      "query": "solar energy 101 pdf",
+      "link": "https://www.google.com/search?q=solar+energy+101+pdf&sa=X&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q1QIoAnoECA4QAw"
+    },
+    {
+      "query": "solar power system",
+      "link": "https://www.google.com/search?q=solar+power+system&sa=X&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q1QIoA3oECA4QBA"
+    },
+    {
+      "query": "how do solar panels work",
+      "link": "https://www.google.com/search?q=how+do+solar+panels+work&sa=X&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q1QIoBHoECA4QBQ"
+    },
+    {
+      "query": "solar power basics beginners",
+      "link": "https://www.google.com/search?q=solar+power+basics+beginners&sa=X&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q1QIoBXoECA4QBg"
+    },
+    {
+      "query": "how does solar energy work",
+      "link": "https://www.google.com/search?q=how+does+solar+energy+work&sa=X&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q1QIoBnoECA4QBw"
+    },
+    {
+      "query": "solar energy systems",
+      "link": "https://www.google.com/search?q=solar+energy+systems&sa=X&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q1QIoB3oECA4QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=solar+energy+101&ei=sCsmXuy6K9_K0PEP-aCv8AM&start=10&sa=N&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q8NMDegQIDxBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=solar+energy+101&ei=sCsmXuy6K9_K0PEP-aCv8AM&start=10&sa=N&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q8tMDegQIDxAu",
+      "3": "https://www.google.com/search?q=solar+energy+101&ei=sCsmXuy6K9_K0PEP-aCv8AM&start=20&sa=N&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q8tMDegQIDxAw",
+      "4": "https://www.google.com/search?q=solar+energy+101&ei=sCsmXuy6K9_K0PEP-aCv8AM&start=30&sa=N&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q8tMDegQIDxAy",
+      "5": "https://www.google.com/search?q=solar+energy+101&ei=sCsmXuy6K9_K0PEP-aCv8AM&start=40&sa=N&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q8tMDegQIDxA0",
+      "6": "https://www.google.com/search?q=solar+energy+101&ei=sCsmXuy6K9_K0PEP-aCv8AM&start=50&sa=N&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q8tMDegQIDxA2",
+      "7": "https://www.google.com/search?q=solar+energy+101&ei=sCsmXuy6K9_K0PEP-aCv8AM&start=60&sa=N&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q8tMDegQIDxA4",
+      "8": "https://www.google.com/search?q=solar+energy+101&ei=sCsmXuy6K9_K0PEP-aCv8AM&start=70&sa=N&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q8tMDegQIDxA6",
+      "9": "https://www.google.com/search?q=solar+energy+101&ei=sCsmXuy6K9_K0PEP-aCv8AM&start=80&sa=N&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q8tMDegQIDxA8",
+      "10": "https://www.google.com/search?q=solar+energy+101&ei=sCsmXuy6K9_K0PEP-aCv8AM&start=90&sa=N&ved=2ahUKEwjs0qSBn5PnAhVfJTQIHXnQCz4Q8tMDegQIDxA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+101&start=10&token=8ec99c563516dee5",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+101&start=10&token=8ec99c563516dee5",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+101&start=10&token=8ec99c563516dee5",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+101&start=20&token=573c652e4d93893b",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+101&start=30&token=d1d6099f92dc7f8e",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+101&start=40&token=032325b4db711d8c",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+101&start=50&token=142636910a4b3167",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+101&start=60&token=936c3000d962179e",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+101&start=70&token=6f85ca6c8ee72bbe",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+101&start=80&token=1bc4ea3e86383d59",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+101&start=90&token=28291d67c4010863"
+    }
+  }
+}

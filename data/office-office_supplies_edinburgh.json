@@ -1,0 +1,371 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:33:01 UTC",
+    "processed_at": "2020-01-21 22:33:01 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+edinburgh&oq=office+supplies+edinburgh&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 3.86
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies edinburgh",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 82200000,
+    "time_taken_displayed": 0.51,
+    "query_displayed": "office supplies edinburgh"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Office Supplies Edinburgh | Great Value & Service.‎",
+      "link": "https://www.viking-direct.co.uk/en/",
+      "displayed_link": "www.viking-direct.co.uk/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjsvLnt35XnAhVLho8KHaEkDasYABAAGgJzYg&sig=AOD64_1mUXVh0-JaUFps7e_Vb0PKQc0rew&q=&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ0Qx6BAgQEAE&adurl=",
+      "description": "Fast & Free Delivery On Orders Over £30! Viking Offers The Best Prices. Viking Direct Is Now One Of The Leading Office Supply And Stationery Store Companies. Amazing Low Prices. Trusted Shop. Viking® Price King. Types: Paper, Office Supplies, Ink & Toner, Furniture.",
+      "sitelinks": [
+        {
+          "title": "Last Chance to Buy!",
+          "link": "https://www.viking-direct.co.uk/en/desktop-essentials-c-102/diaries-calendars-planners-c-10205"
+        },
+        {
+          "title": "Double Nectar points",
+          "link": "https://www.viking-direct.co.uk/en/nectar-shop"
+        }
+      ]
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+edinburgh&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=55941391,-3215108,2168&tbm=lcl&sa=X&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQtgN6BAgKEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 55.941391,
+      "longitude": -3.215108,
+      "altitude": 2168
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+edinburgh&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=55941391,-3215108,2168&tbm=lcl&sa=X&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQjGp6BAgKEEU",
+    "places": [
+      {
+        "position": 1,
+        "title": "Paperchase",
+        "place_id": "3820986086383586824",
+        "lsig": "AB86z5VWtZOHkCOqHn6a1zwiDlSM",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VWtZOHkCOqHn6a1zwiDlSM&ludocid=3820986086383586824&q=office+supplies+edinburgh&tbm=lcl&token=4f477ad97fb0da90",
+        "rating": 4.2,
+        "reviews": 15,
+        "price": "$$",
+        "type": "Stationery store",
+        "address": "Unit 12, Edinburgh Waverley Station",
+        "phone": "Near Scott Monument",
+        "description": "Contemporary stationery, gifts & cards",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 55.952248000000004,
+          "longitude": -3.1892848999999996
+        }
+      },
+      {
+        "position": 2,
+        "title": "One Stop Office Supplies Ltd",
+        "place_id": "17563047186571330970",
+        "lsig": "AB86z5XJAxzjT2C3_nGUf9Ac5S40",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XJAxzjT2C3_nGUf9Ac5S40&ludocid=17563047186571330970&q=office+supplies+edinburgh&tbm=lcl&token=7a95874e6465569e",
+        "rating": 4,
+        "reviews": 2,
+        "type": "Office supply store",
+        "hours": "+44 131 443 2211",
+        "address": "Unit, 20 W Gorgie Parks",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 55.930534699999995,
+          "longitude": -3.2440542
+        }
+      },
+      {
+        "position": 3,
+        "title": "Ryman Stationery Edinburgh University",
+        "place_id": "9821389175801570047",
+        "lsig": "AB86z5WIiDLYm7I5usLI3OCTpDiB",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WIiDLYm7I5usLI3OCTpDiB&ludocid=9821389175801570047&q=office+supplies+edinburgh&tbm=lcl&token=b358f18d0b4e3990",
+        "rating": 3.5,
+        "reviews": 26,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Closed ⋅ Opens 9AM Wed · +44 131 668 1223",
+        "address": "7-11 Nicolson St",
+        "description": "Source for stationery & office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 55.946918200000006,
+          "longitude": -3.1861625
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "Is office outlet the same as Staples?",
+      "snippet": "Former Staples chain Office Outlet in administration. The former Staples stationery chain, Office Outlet, is in administration, putting 1,200 jobs at risk. ... Office Outlet, which is part-owned by Hilco, the former HMV owner, has 90 UK stores, which will continue to trade while a buyer is sought.Mar 19, 2019",
+      "title": "Former Staples chain Office Outlet in administration - BBC News",
+      "link": "https://www.bbc.co.uk/news/business-47626280",
+      "displayed_link": "www.bbc.co.uk › news › business-47626280"
+    },
+    {
+      "question": "What is Staples called now?",
+      "snippet": "While there has been no official announcement from Hilco on the name change or exactly how many stores will remain open, a rebrand to the new name of Office Outlet has begun. This follows the change of the official name of the company in early January from Staples Retail UK to SUK Retail.Feb 27, 2017",
+      "title": "Staples UK rebrand underway | OPI - Office Products International",
+      "link": "https://www.opi.net/news/region/002-europe/staples-uk-rebrand-underway/",
+      "displayed_link": "www.opi.net › news › region › 002-europe › staples-uk-rebrand-under..."
+    },
+    {
+      "question": "What sells Ryman?",
+      "snippet": "Today, Ryman Stationery stock a wide range of inkjet cartridges, printers, pens, paper, envelopes, office essentials, filing, presentation materials, diaries and Back to School Supplies.",
+      "title": "Ryman - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Ryman",
+      "displayed_link": "en.wikipedia.org › wiki › Ryman"
+    },
+    {
+      "question": "Do staples still have stores?",
+      "snippet": "The US owner of Staples has sold the UK arm, which employs 1,100 people across 106 stores, to Hilco for a \"nominal\" sum. Hilco said it was planning to phase out Staples-branded shops over the coming months. Staples also has online and business-to-business operations.Nov 17, 2016",
+      "title": "Staples brand to disappear from UK High Streets - BBC News",
+      "link": "https://www.bbc.co.uk/news/business-38013806",
+      "displayed_link": "www.bbc.co.uk › news › business-38013806"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Staples® Official Online Store",
+      "link": "https://www.staples.com/",
+      "displayed_link": "www.staples.com",
+      "snippet": "Shop Staples for business essentials, printers, ink, computers, office furniture, printing services, promotional products and more. Solutions for Worklife.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CNR1OwZWsigJ:https://www.staples.com/+&cd=4&hl=en&ct=clnk&gl=us",
+      "missing": [
+        "edinburgh"
+      ],
+      "must_include": {
+        "word": "edinburgh",
+        "link": "https://www.google.com/search?q=office+supplies+%22edinburgh%22&sa=X&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ5t4CMAN6BAgBEAg"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Staples UK | Office Supplies, Furniture, Ink & Toner | Staples®",
+      "link": "https://www.staples.co.uk/",
+      "displayed_link": "www.staples.co.uk",
+      "snippet": "Free UK Delivery at Staples On All Online Orders Over £36. Don't Miss Out. Shop Now & Choose your Free gift! At Staples.co.uk we have a broad selection of ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Chairs",
+            "link": "https://www.staples.co.uk/office-chairs/cbu/218.html"
+          },
+          {
+            "title": "Office Basics",
+            "link": "https://www.staples.co.uk/office-basics/cbu/217.html"
+          },
+          {
+            "title": "Office Desks",
+            "link": "https://www.staples.co.uk/office-desks/cbc/1496.html"
+          },
+          {
+            "title": "Craft Supplies",
+            "link": "https://www.staples.co.uk/craft-supplies/cbc/1395.html"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TrtIRWL88kMJ:https://www.staples.co.uk/+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Ryman® UK | Stationery, Office Supplies, & Technology",
+      "link": "https://www.ryman.co.uk/",
+      "displayed_link": "www.ryman.co.uk",
+      "snippet": "Shop stationery, office supplies, filing cabinets & technology as well as printing services and much more at Ryman® UK. FREE delivery on orders over £40.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Supplies",
+            "link": "https://www.ryman.co.uk/office-supplies"
+          },
+          {
+            "title": "Store Locator",
+            "link": "https://www.ryman.co.uk/storelocator"
+          },
+          {
+            "title": "Stationery",
+            "link": "https://www.ryman.co.uk/stationery"
+          },
+          {
+            "title": "School Supplies",
+            "link": "https://www.ryman.co.uk/stationery/school-supplies"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:T8pJYOSz4nIJ:https://www.ryman.co.uk/+&cd=14&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.ryman.co.uk/+office+supplies+edinburgh&tbo=1&sa=X&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQHzANegQIBxAH"
+    },
+    {
+      "position": 4,
+      "title": "Office supplies - Mail Boxes Etc. Edinburgh - South Bridge",
+      "link": "https://www.mbe.co.uk/edinburghsouthbridge/business/office-supplies",
+      "displayed_link": "www.mbe.co.uk › edinburghsouthbridge › business › office-supplies",
+      "snippet": "At Mail Boxes Etc. Edinburgh - South Bridge we offer a range of top quality stationery and office supplies in store, including paper, notebooks, presentation ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vHxSeS9vnusJ:https://www.mbe.co.uk/edinburghsouthbridge/business/office-supplies+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Top 10 Best Office Supplies in Edinburgh - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=Office+Supplies&find_loc=Edinburgh",
+      "displayed_link": "www.yelp.com › search › find_loc=Edinburgh",
+      "snippet": "Newington Stationers. 11 reviews. Pentland Office Supplies. 0131 664 6966. Henderson Art Shop. 1 review. Swan Office Supplies. Printing & Photocopying. Discounted Office Supplies. Cards & Stationery. Sos Stewart Office Supplies. 01506 497011. Discount Kitchens and Bathrooms. Cabinetry, Kitchen & Bath, Glaziers. Forth ..."
+    },
+    {
+      "position": 6,
+      "title": "Pentland Format Office Supplies",
+      "link": "https://www.pentlandformat.co.uk/",
+      "displayed_link": "www.pentlandformat.co.uk",
+      "snippet": "Pentland Format Office Supplies, Office Supplies in Loanhead.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-VuNTen9ZbwJ:https://www.pentlandformat.co.uk/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "My 5 FAVOURITE STATIONERY SHOPS in Edinburgh ...",
+      "link": "https://www.youtube.com/watch?v=bpkmXg0NmnM",
+      "displayed_link": "www.youtube.com › watch",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpljYx1ujtoJojBacwx0wJuV3IG_f5lqt2jxiIwmEi2JPqZGpKuh5qBiQ",
+      "snippet": "PAPER PARADE: https://paper-parade.co.uk/ LIFE STORY: https://www.lifestoryshop.com/ CURIOUSER AND ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "apr": 26
+          },
+          "extensions": [
+            "Apr 26, 2018",
+            "Uploaded by Kakibot"
+          ]
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "The Office Supplies Supermarket",
+      "link": "https://www.theofficesuppliessupermarket.com/",
+      "displayed_link": "www.theofficesuppliessupermarket.com",
+      "snippet": "5 Star Office Presentation Ring Binder PP Cover 25mm 2-ring A4 Blue [Pack 10] ... What we do: Supermarket Online uses its network of over 350 office supplies ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Supplies",
+            "link": "https://www.theofficesuppliessupermarket.com/categories/43/notice-boards"
+          },
+          {
+            "title": "Public Sector Office Supplies ...",
+            "link": "http://www.theofficesuppliessupermarket.com/faqs/public-sector-office-supplies-orders"
+          },
+          {
+            "title": "Office Technology",
+            "link": "https://www.theofficesuppliessupermarket.com/categories/406/air-conditioners"
+          },
+          {
+            "title": "Furniture",
+            "link": "https://www.theofficesuppliessupermarket.com/categories/382/bookcases"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1guvG2YAjycJ:https://www.theofficesuppliessupermarket.com/+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Discounted Office Supplies - Office Furniture - Janitorial ...",
+      "link": "https://www.discountedofficesupplies.co.uk/",
+      "displayed_link": "www.discountedofficesupplies.co.uk",
+      "snippet": "Discounted Offices Supplies is your one-stop-shop for all your business supplies. Supplying business throughout Fife, Edinburgh and West Lothian. Call us ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WJRMOtcrxgwJ:https://www.discountedofficesupplies.co.uk/+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "PaperPlus Office Supplies UK - Office Supplies UK",
+      "link": "https://www.paperplus.co.uk/",
+      "displayed_link": "www.paperplus.co.uk",
+      "snippet": "Welcome to Paperplus (UK) Ltd. Discount office supplies, stationery, furniture and ink jet cartridges.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2YFNve2307EJ:https://www.paperplus.co.uk/+&cd=21&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ1QIoAHoECA4QAQ"
+    },
+    {
+      "query": "office depot",
+      "link": "https://www.google.com/search?q=office+depot&sa=X&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ1QIoAXoECA4QAg"
+    },
+    {
+      "query": "staples office supplies",
+      "link": "https://www.google.com/search?q=staples+office+supplies&sa=X&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ1QIoAnoECA4QAw"
+    },
+    {
+      "query": "ryman stationery",
+      "link": "https://www.google.com/search?q=ryman+stationery&sa=X&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ1QIoA3oECA4QBA"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ1QIoBHoECA4QBQ"
+    },
+    {
+      "query": "staples store locator uk",
+      "link": "https://www.google.com/search?q=staples+store+locator+uk&sa=X&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ1QIoBXoECA4QBg"
+    },
+    {
+      "query": "stationery shops near me",
+      "link": "https://www.google.com/search?q=stationery+shops+near+me&sa=X&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ1QIoBnoECA4QBw"
+    },
+    {
+      "query": "rymans near me",
+      "link": "https://www.google.com/search?q=rymans+near+me&sa=X&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ1QIoB3oECA4QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+edinburgh&ei=HnwnXsKhMLaS4-EPm4OvgAw&start=10&sa=N&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ8NMDegQIDxBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+edinburgh&ei=HnwnXsKhMLaS4-EPm4OvgAw&start=10&sa=N&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ8tMDegQIDxAv",
+      "3": "https://www.google.com/search?q=office+supplies+edinburgh&ei=HnwnXsKhMLaS4-EPm4OvgAw&start=20&sa=N&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ8tMDegQIDxAx",
+      "4": "https://www.google.com/search?q=office+supplies+edinburgh&ei=HnwnXsKhMLaS4-EPm4OvgAw&start=30&sa=N&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ8tMDegQIDxAz",
+      "5": "https://www.google.com/search?q=office+supplies+edinburgh&ei=HnwnXsKhMLaS4-EPm4OvgAw&start=40&sa=N&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ8tMDegQIDxA1",
+      "6": "https://www.google.com/search?q=office+supplies+edinburgh&ei=HnwnXsKhMLaS4-EPm4OvgAw&start=50&sa=N&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ8tMDegQIDxA3",
+      "7": "https://www.google.com/search?q=office+supplies+edinburgh&ei=HnwnXsKhMLaS4-EPm4OvgAw&start=60&sa=N&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ8tMDegQIDxA5",
+      "8": "https://www.google.com/search?q=office+supplies+edinburgh&ei=HnwnXsKhMLaS4-EPm4OvgAw&start=70&sa=N&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ8tMDegQIDxA7",
+      "9": "https://www.google.com/search?q=office+supplies+edinburgh&ei=HnwnXsKhMLaS4-EPm4OvgAw&start=80&sa=N&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ8tMDegQIDxA9",
+      "10": "https://www.google.com/search?q=office+supplies+edinburgh&ei=HnwnXsKhMLaS4-EPm4OvgAw&start=90&sa=N&ved=2ahUKEwjCqLPt35XnAhU2yTgGHZvBC8AQ8tMDegQIDxA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+edinburgh&start=10&token=bbae1d27f1f8f9b2",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+edinburgh&start=10&token=bbae1d27f1f8f9b2",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+edinburgh&start=10&token=bbae1d27f1f8f9b2",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+edinburgh&start=20&token=c36c5193e4deab56",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+edinburgh&start=30&token=800418d075eb6845",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+edinburgh&start=40&token=dcd39b9a8733f684",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+edinburgh&start=50&token=c2c32f7258770ed2",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+edinburgh&start=60&token=e6c0ea6d00846caa",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+edinburgh&start=70&token=44083b8af8e4d3ed",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+edinburgh&start=80&token=08cdfba5817cb8c9",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+edinburgh&start=90&token=f6b5920398873bf0"
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:24:17 UTC",
+    "processed_at": "2020-01-21 22:24:17 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+portland&oq=office+supplies+portland&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.47
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies portland",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 148000000,
+    "time_taken_displayed": 0.64,
+    "query_displayed": "office supplies portland"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+portland&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=45528725,-122682787,2565&tbm=lcl&sa=X&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 45.528725,
+      "longitude": -122.682787,
+      "altitude": 2565
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+portland&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=45528725,-122682787,2565&tbm=lcl&sa=X&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQjGp6BAgLEEg",
+    "places": [
+      {
+        "position": 1,
+        "title": "Southwest Office Supply, Inc.",
+        "place_id": "3655937332084334213",
+        "lsig": "AB86z5UdCUrq_Mveigb46bKkttFS",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UdCUrq_Mveigb46bKkttFS&ludocid=3655937332084334213&q=office+supplies+portland&tbm=lcl&token=ed7ca1915045b16a",
+        "rating": 4.6,
+        "reviews": 18,
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 5PM · (503) 241-1921",
+        "address": "3205 NW Yeon Ave",
+        "description": "Desk needs, printers & furniture",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 45.5447669,
+          "longitude": -122.70649630000001
+        }
+      },
+      {
+        "position": 2,
+        "title": "Portland Office Furniture",
+        "place_id": "8478241145138865111",
+        "lsig": "AB86z5XaWJSmjwYeSFql38y8-em5",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XaWJSmjwYeSFql38y8-em5&ludocid=8478241145138865111&q=office+supplies+portland&tbm=lcl&token=4701c0741dad868f",
+        "rating": 4.3,
+        "reviews": 49,
+        "type": "Furniture store",
+        "hours": "Open ⋅ Closes 5:30PM · (503) 233-9810",
+        "address": "632 SE Madison St",
+        "description": "Dealer of discount new & used furniture",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 45.5126844,
+          "longitude": -122.65907949999999
+        }
+      },
+      {
+        "position": 3,
+        "title": "Office Depot",
+        "place_id": "14555372832271571341",
+        "lsig": "AB86z5WFh59s4Gqnwydx5OOyWKS8",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WFh59s4Gqnwydx5OOyWKS8&ludocid=14555372832271571341&q=office+supplies+portland&tbm=lcl&token=704348db2807e252",
+        "rating": 3.9,
+        "reviews": 90,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 8PM · (503) 417-8199",
+        "address": "604 SW Washington St",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 45.5201247,
+          "longitude": -122.6784004
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Top 10 Best Office Supplies in Portland, OR - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=Office+Supplies&find_loc=Portland%2C+OR",
+      "displayed_link": "www.yelp.com › search › find_loc=Portland,+OR",
+      "snippet": "Office Depot. 0.5 mi. 29 reviews. $$ Office Equipment. Office Depot. 1.2 mi. 21 reviews. 11:11 Supply. 0.7 mi. 6 reviews. Southwest Office Supply & Interiors. 3.2 mi. 11 reviews. Officemax. 7.3 mi. 13 reviews. Staples. 6.2 mi. 20 reviews. Office Depot. 4.6 mi. 23 reviews. Office Depot. 7.9 mi. 12 reviews.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:grXhnjDMDpAJ:https://www.yelp.com/search%3Ffind_desc%3DOffice%2BSupplies%26find_loc%3DPortland%252C%2BOR+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Top 10 Best Office Supply Store in Portland, OR - Last ...",
+      "link": "https://www.yelp.com/search?find_desc=office+supply+store&find_loc=Portland%2C+OR",
+      "displayed_link": "www.yelp.com › search › find_loc=Portland,+OR",
+      "snippet": "11:11 Supply. 0.7 mi. 6 reviews. Office Depot. 0.5 mi. 29 reviews. Office Depot. 1.2 mi. 21 reviews. Southwest Office Supply & Interiors. 3.2 mi. 11 reviews. Portland Printer Place. 1.1 mi. 25 reviews. Officemax. 7.3 mi. 13 reviews. Office Depot. 7.9 mi. 12 reviews. Main St Stamp & Stationery. 8.1 mi. 7 reviews.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-gifR1fNrGYJ:https://www.yelp.com/search%3Ffind_desc%3Doffice%2Bsupply%2Bstore%26find_loc%3DPortland%252C%2BOR+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Southwest Office Supply and Interiors - Portland, Oregon ...",
+      "link": "https://www.swofficesupply.com/",
+      "displayed_link": "www.swofficesupply.com",
+      "snippet": "Office supplies, Products, Office Furniture, Break-room and Janitorial products.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Contact",
+            "link": "https://www.swofficesupply.com/contact.html"
+          },
+          {
+            "title": "Office Furniture",
+            "link": "https://www.swofficesupply.com/office-furniture"
+          },
+          {
+            "title": "Southwest Office Supply",
+            "link": "http://shop.swofficesupply.com/"
+          },
+          {
+            "title": "Office Products News",
+            "link": "https://www.swofficesupply.com/blog"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Bf_s7Uf7UGoJ:https://www.swofficesupply.com/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Office Depot in PORTLAND,OR - 604 SW WASHINGTON ST",
+      "link": "https://www.officedepot.com/storelocator/or/portland/office-depot-645/",
+      "displayed_link": "www.officedepot.com › storelocator › portland › office-depot-645",
+      "snippet": "Shop at the Office Depot Store in PORTLAND,OR. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uU8Oje_HWrsJ:https://www.officedepot.com/storelocator/or/portland/office-depot-645/+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Office Depot Stores in Portland,OR - Visit Today",
+      "link": "https://www.officedepot.com/storelocator/or/portland/",
+      "displayed_link": "www.officedepot.com › storelocator › portland",
+      "snippet": "Shop at an Office Depot store in Portland,OR. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:e2A1I8LeGHUJ:https://www.officedepot.com/storelocator/or/portland/+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Stationery & Office Supplies - Portland, OR - OregonLive.com",
+      "link": "https://businessfinder.oregonlive.com/OR-Portland/Stationery-and-Office-Supplies",
+      "displayed_link": "businessfinder.oregonlive.com › OR-Portland › Stationery-and-Office...",
+      "date": "Listings 1 20 of 200",
+      "snippet": "Five Star Inc. 0 0. 133 SW 2nd Ave, Portland, OR 97204. Peter's Office Supply. 0 0. 338 NW 9th Ave, Portland, OR 97209. Office Depot. 1 0. Russell Hanson Architect. 0 0. Pacific Stationary and Printing Co. 1 0. Ink Well Xpress. 0 0. Skyline Interiors INC. 0 0. 1st Choice Locksmith Portland Or. 0 0.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EluhZLkFycwJ:https://businessfinder.oregonlive.com/OR-Portland/Stationery-and-Office-Supplies+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Office Products Nationwide - Portland Office Supply",
+      "link": "https://www.opnw.com/",
+      "displayed_link": "www.opnw.com",
+      "snippet": "Our Philosophy. Office Products Nationwide is proud to be a locally owned and operated company. We are passionate about providing our customers with ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Login",
+            "link": "https://www.opnw.com/login"
+          },
+          {
+            "title": "Shop",
+            "link": "https://www.opnw.com/shop"
+          },
+          {
+            "title": "Contact",
+            "link": "https://www.opnw.com/#contact"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:m1p6bvncMSgJ:https://www.opnw.com/+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Peter's Office Supply, Portland, OR Office Supplies Dealer for ...",
+      "link": "http://www.c-lineproducts.com/dealer-detail.html?ID=502",
+      "displayed_link": "www.c-lineproducts.com › dealer-detail",
+      "snippet": "Peter's Office Supply, 338 NW 9TH, Portland, OR, 97209 is a dealer of C-Line Products.",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:G_RgvcEx3AMJ:www.c-lineproducts.com/dealer-detail.html%3FID%3D502+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Best 30 Office Supplies in Portland, OR with Reviews - YP.com",
+      "link": "https://www.yellowpages.com/portland-or/office-supplies",
+      "displayed_link": "www.yellowpages.com › Portland, OR",
+      "date": "194 results",
+      "snippet": "Office Supplies in Portland on YP.com. See reviews, photos, directions, phone numbers and more for the best Office Equipment & Supplies in ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ZVehkxaJpygJ:https://www.yellowpages.com/portland-or/office-supplies+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Portland Office Furniture",
+      "link": "https://www.portlandofficefurniture.com/",
+      "displayed_link": "www.portlandofficefurniture.com",
+      "snippet": "Portland's premiere new and used furniture outlet, serving the greater metropolitan area for over ten years.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Our Furniture",
+            "link": "https://www.portlandofficefurniture.com/showroom"
+          },
+          {
+            "title": "Used Furniture Gallery",
+            "link": "https://www.portlandofficefurniture.com/new-gallery-1"
+          },
+          {
+            "title": "Location / Contact",
+            "link": "https://www.portlandofficefurniture.com/info"
+          },
+          {
+            "title": "About Us",
+            "link": "https://www.portlandofficefurniture.com/about"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qrdgfq50E4cJ:https://www.portlandofficefurniture.com/+&cd=13&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office depot portland",
+      "link": "https://www.google.com/search?q=office+depot+portland&sa=X&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ1QIoAHoECA4QAQ"
+    },
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ1QIoAXoECA4QAg"
+    },
+    {
+      "query": "staples portland",
+      "link": "https://www.google.com/search?q=staples+portland&sa=X&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ1QIoAnoECA4QAw"
+    },
+    {
+      "query": "office supply store near me",
+      "link": "https://www.google.com/search?q=office+supply+store+near+me&sa=X&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ1QIoA3oECA4QBA"
+    },
+    {
+      "query": "office depot near me",
+      "link": "https://www.google.com/search?q=office+depot+near+me&sa=X&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ1QIoBHoECA4QBQ"
+    },
+    {
+      "query": "officemax",
+      "link": "https://www.google.com/search?q=officemax&sa=X&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ1QIoBXoECA4QBg"
+    },
+    {
+      "query": "craigslist portland",
+      "link": "https://www.google.com/search?q=craigslist+portland&sa=X&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ1QIoBnoECA4QBw"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ1QIoB3oECA4QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+portland&ei=EnonXvWnBK6R4-EP_cKhyAs&start=10&sa=N&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ8NMDegQIDRA_",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+portland&ei=EnonXvWnBK6R4-EP_cKhyAs&start=10&sa=N&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ8tMDegQIDRAt",
+      "3": "https://www.google.com/search?q=office+supplies+portland&ei=EnonXvWnBK6R4-EP_cKhyAs&start=20&sa=N&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ8tMDegQIDRAv",
+      "4": "https://www.google.com/search?q=office+supplies+portland&ei=EnonXvWnBK6R4-EP_cKhyAs&start=30&sa=N&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ8tMDegQIDRAx",
+      "5": "https://www.google.com/search?q=office+supplies+portland&ei=EnonXvWnBK6R4-EP_cKhyAs&start=40&sa=N&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ8tMDegQIDRAz",
+      "6": "https://www.google.com/search?q=office+supplies+portland&ei=EnonXvWnBK6R4-EP_cKhyAs&start=50&sa=N&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ8tMDegQIDRA1",
+      "7": "https://www.google.com/search?q=office+supplies+portland&ei=EnonXvWnBK6R4-EP_cKhyAs&start=60&sa=N&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ8tMDegQIDRA3",
+      "8": "https://www.google.com/search?q=office+supplies+portland&ei=EnonXvWnBK6R4-EP_cKhyAs&start=70&sa=N&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ8tMDegQIDRA5",
+      "9": "https://www.google.com/search?q=office+supplies+portland&ei=EnonXvWnBK6R4-EP_cKhyAs&start=80&sa=N&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ8tMDegQIDRA7",
+      "10": "https://www.google.com/search?q=office+supplies+portland&ei=EnonXvWnBK6R4-EP_cKhyAs&start=90&sa=N&ved=2ahUKEwj1-Jjz3ZXnAhWuyDgGHX1hCLkQ8tMDegQIDRA9"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+portland&start=10&token=cbb21c84d3b990c0",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+portland&start=10&token=cbb21c84d3b990c0",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+portland&start=10&token=cbb21c84d3b990c0",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+portland&start=20&token=190055ad3a5d67fe",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+portland&start=30&token=c1d8c2e9c205d236",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+portland&start=40&token=fd84ac407345bb42",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+portland&start=50&token=4ef20a89342b29ec",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+portland&start=60&token=04037104fb53ac60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+portland&start=70&token=79f04f3ba7ef0dff",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+portland&start=80&token=b9463bc4e588aa8a",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+portland&start=90&token=8845ece34f746599"
+    }
+  }
+}

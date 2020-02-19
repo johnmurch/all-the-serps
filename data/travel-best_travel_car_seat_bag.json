@@ -1,0 +1,363 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 16:17:24 UTC",
+    "processed_at": "2020-01-21 16:17:24 UTC",
+    "google_url": "https://www.google.com/search?q=best+travel+car+seat+bag&oq=best+travel+car+seat+bag&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.15
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best travel car seat bag",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 123000000,
+    "time_taken_displayed": 0.59,
+    "query_displayed": "best travel car seat bag"
+  },
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "J.L. Childress Ultimate Backpack Padded Car Seat Travel Bag, Black",
+      "price": "$39.99",
+      "extracted_price": 39.99,
+      "link": "https://www.amazon.com/Childress-Ultimate-Backpack-Padded-Travel/dp/B0009RNXNA?source=ps-sl-shoppingads-lpcontext&psc=1",
+      "source": "Amazon.com",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 2,
+      "title": "WAYB Pico - Portable Travel Car Seat - Earth",
+      "price": "$320.00",
+      "extracted_price": 320,
+      "link": "https://wayb.com/products/pico-car-seat?variant=18875882242105",
+      "source": "WAYB",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 3,
+      "title": "3 in 1 - Cozy Travel Booster Seat/Backpack/Diaper Bag for Your Toddler/Baby. Perfect for Home or Travel. Great Baby Shower Gift (Red/Gray)",
+      "price": "$44.99",
+      "extracted_price": 44.99,
+      "link": "https://www.amazon.com/Booster-Backpack-Toddler-Perfect-Travel/dp/B07RF4W868?source=ps-sl-shoppingads-lpcontext&psc=1",
+      "source": "Amazon.com",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=best+travel+car+seat+bag&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=38977114,-95511564,22129&tbm=lcl&sa=X&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQtgN6BAgMEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 38.977114,
+      "longitude": -95.511564,
+      "altitude": 22129
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=best+travel+car+seat+bag&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=38977114,-95511564,22129&tbm=lcl&sa=X&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQjGp6BAgMEEc",
+    "places": [
+      {
+        "position": 1,
+        "title": "Target",
+        "place_id": "16898424800414044544",
+        "lsig": "AB86z5XmvEXgWY5n3fouWdPb1MUQ",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XmvEXgWY5n3fouWdPb1MUQ&ludocid=16898424800414044544&q=best+travel+car+seat+bag&tbm=lcl&token=d1cb1c6aabb0a67a",
+        "rating": 4.2,
+        "reviews": 380,
+        "price": "$$",
+        "type": "Baby store",
+        "address": "Topeka, KS",
+        "phone": "In West Ridge Plaza",
+        "description": "Their website mentions travel bags car seat",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 39.0284501,
+          "longitude": -95.7590671
+        }
+      },
+      {
+        "position": 2,
+        "title": "Walmart Supercenter",
+        "place_id": "14175791433671193959",
+        "lsig": "AB86z5U4kYCbV30jCt0im0PZJbya",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5U4kYCbV30jCt0im0PZJbya&ludocid=14175791433671193959&q=best+travel+car+seat+bag&tbm=lcl&token=2dc43e777a3e79b7",
+        "rating": 3.8,
+        "reviews": 2192,
+        "price": "$",
+        "type": "Department store",
+        "hours": "Open 24 hours · (785) 267-7900",
+        "address": "Topeka, KS",
+        "description": "Their website mentions car seat travel bag",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 38.9984651,
+          "longitude": -95.6939787
+        }
+      },
+      {
+        "position": 3,
+        "title": "Target",
+        "place_id": "8730131197180419889",
+        "lsig": "AB86z5VpgJYmvrSGcrWWr8J9Krrj",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VpgJYmvrSGcrWWr8J9Krrj&ludocid=8730131197180419889&q=best+travel+car+seat+bag&tbm=lcl&token=f44152f5aafbd5d3",
+        "rating": 4.3,
+        "reviews": 407,
+        "price": "$$",
+        "type": "Baby store",
+        "hours": "Open ⋅ Closes 10PM · (785) 832-0660",
+        "address": "Lawrence, KS",
+        "description": "Their website mentions travel bags car seat",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 38.925778799999996,
+          "longitude": -95.2640613
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "see_more_about": [
+      {
+        "title": null
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "Do you need a travel bag for car seat?",
+      "snippet": "For your car seat to travel free, you'll need to show the airline attendant what you have inside that cover or duffel bag – but they generally don't mind if you use the extra space inside or around the car seat to pack a reasonable amount of lightweight child care items like diapers or formula.Aug 7, 2018",
+      "title": "How to Check a Car Seat as Baggage on an Airplane - Travel Tips ...",
+      "link": "https://traveltips.usatoday.com/check-car-seat-baggage-airplane-59101.html",
+      "displayed_link": "traveltips.usatoday.com › check-car-seat-baggage-airplane-59101"
+    },
+    {
+      "question": "How do you transport a car seat at the airport?",
+      "snippet": "The TravelMate gives your car seat a gliding set of wheels and height adjustable handle for smooth steering through the airport.Use a stroller or stroller frame. ... Use the handles of your travel stroller. ... Carry the car seat on your back. ... Use a protective car seat travel bag with wheels. ... Use a car seat transporter or trolley.More items...•Nov 5, 2015",
+      "title": "Flying with Car Seats: Seven Easy Ways to Get Your Car Seat ...",
+      "link": "https://travelswithbaby.com/blog/flying-with-car-seats-7-easy-ways/",
+      "displayed_link": "travelswithbaby.com › blog › flying-with-car-seats-7-easy-ways"
+    },
+    {
+      "question": "Do airlines charge for strollers and car seats?",
+      "snippet": "Car seats travel for free All airlines I have ever run across will accept child safety seats and strollers as checked baggage for no additional charge.Sep 19, 2019",
+      "title": "Making family travel easier with car seats and strollers",
+      "link": "https://thepointsguy.com/guide/making-family-travel-easier-car-seats-strollers/",
+      "displayed_link": "thepointsguy.com › guide › making-family-travel-easier-car-seats-strollers"
+    },
+    {
+      "question": "Does American Airlines have bags for car seats?",
+      "snippet": "American Airlines' baggage policy for infants and children: American Airlines will allow one free checked (or gate-checked) stroller, one free checked (or gate checked) car seat, and one complimentary carry-on diaper bag for each child under 2 years traveling without his own seat (lap child).Mar 16, 2018",
+      "title": "Need to Know: Flying American Airlines with a baby or toddler ...",
+      "link": "https://travelswithbaby.com/blog/flying-american-airlines-with-a-baby-toddler/",
+      "displayed_link": "travelswithbaby.com › blog › flying-american-airlines-with-a-baby-todd..."
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Flying With Children: The Best Car Seat Travel Bags For ...",
+    "link": "https://www.fatherly.com/gear/best-car-seat-travel-bags/",
+    "snippet": "Best Car Seat Travel BagsJ.L. Childress Spinner Wheelie Deluxe Car Seat Travel Bag. ... J.L. Childress Ultimate Backpack Padded Car Seat Travel Bag. ... Birdee Car Seat Travel Bag. ... Reperkid Car Seat Travel Bag. ... ZOHZO Car Seat Travel Bag. ... VolkGo Durable Car Seat Travel. ... KangoKids Car Seat Travel Bag. ... Caboodle Car Seat Travel Bag.More items...•Dec 30, 2019",
+    "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAKABJwMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAAAQMEBQYHAgj/xAA8EAACAQMCAwYEAggFBQAAAAAAAQIDBBEFIQYSMQcTIkFhgXGRobFCURQjMlJyksHwFoKissIVJjNEU//EABkBAQADAQEAAAAAAAAAAAAAAAABAgMFBP/EACARAQACAgICAwEAAAAAAAAAAAABAgMRBDESITJBgSL/2gAMAwEAAhEDEQA/AOqAAzcQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASRkACenU8VKkKUJ1Ks4wpwi3KcnhJAiJl7I8s+Rpul8cV9b1C6/wCh6LO60u2T7y+nWVNSaWfCsbv+9jP8Pa5acRabTvrBVI05OUJQqpKUZJ4aaTYXtjtXtkwN/PyAUASQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlYysgYviPWaWhaVVvqsedxxGnTzjnk+iOSa12qcT0ricadKzsorZKNF1X82/wChk+1PX1ca3R02hKMqdmueqs9ajWy9l9zm/ETdR0bl4XPHlkvVdPoaRHp0sGCsV3btl6nalxa3tqqin+GFrRX1cGY3UeN+ItVtp29/qlxVoT/apNRUZejSSya7LDnt08iVGaeYLI03jHWPcQylDiXXbe3jb2usajRoUliFKjczhGK9FFpGc4W4t4i4eoqVnKMbO4q5arUlKE6jwubybfTozV7Gg7m9pUkmuaSUsfUzmu1lK8o29N+Gk1lLoNLTWJ7hv1DtY1enhXelWNVrr3VWdL7qRuHB3HVpxNXnaO2naXkY8/dykpxkvSS/qcO3ws9cbm9djtDvOJLitj/xW73+LwJiIefNgpFJnTsvtggl9SDNzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASY/XdUpaLpF1qVeWIW9Nzx+8/JF/s+vQ5R20a9mtZ6FSeYxxc3SX+iP3fsiYjbXDTzvEOfVripd16t3cTUq1ebqTkuuW+nt0KV3S/SrCtRS8a8cfijxKpJSXKljHUqwruMsxi2/Q1iHX1piLXTJVJrnlFLGWl1wZDuIUUqcVKMfNxjll7pOn3FZ3UaUFGnCopd7VmkoppbY6v2MdqDdS7jb29RTlLwqUZNRW/XdZCVxoHJRqVmk/1TeXLqWtOTr3dWtLxb5/v5F7cWNfSLKVK45O8uI5i4Symmy0so4gvfP9+wFeWyiur8zqPYtbJLU7nHnCmn9TlsnmWx2nsht+64Yq15LercS+SRFnn5U6xt4IC6AycoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIJAo3dzRsrWtdXM1ToUKcqlST8oxWX9EfM+pajV1nUbrVLnavdVXUcc/sx/DH2WF7HU+2vXXbafa6FbyxO9l3tw15UovZf5pY/lZyPCT8Kx6F6Q6XEx+Ndz9vX5ZKlN4eU2U0elt0LvWqXd3KhR51VkuaLp7fHr9hwvGjV16hO7oqdHleIJ4+G5Z6hHmsqkn0hh+/T+pjba5nRcppvKi1F56BDZ+M7p1L+MIyTXSOOmOmEWVJclJYW+CneQ5ry3ppbU6Kn16tlbvUtglGMRyz6A7PaH6PwdpseXDlTc36ttnAOZTaUVuz6V0WgrXR7G3Sx3dvCPvyord4+ZP8xC8IJIM3OAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB1+DJxk5bxnx3qVHUrzS7GdK1VGXdybi+9lt5POF7ImGmPFOWdQwfbPWtf8VWlShXVWsrbu7inHfu8SfL7vL29DRMpt8r2MncOpPmlPmzJ5cpfi9TGVKXibj1NIdelfGuk5x5npPbJRhW5JpVIrD8ypUrUKUsymsLdepKxeJy06uvSL+qMTbQU1Ln/ZxuZa5qRVtPEl+sh4U2llPz3LKxpRl4eV7/tSTymEMlUl3rg4rdU4wb+BHdpJZKkMRWI4IinzNyxgiI0ld6TbqtqNpQ/+laEX8z6Wa5fCui2PnXhJ0Z8UaVCq8Rd1TTfkt/P6I+iuu5W7n8yeoQACjxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB8+9p8U+ONRknh80XlfA+gj5/7UIP/ABrf4fnH7FqvXw/lLWo3FWKwnF/5cfYpzuJ58UIS+Z5w11ITx5F3SRUqxksSpY/hZbyp2+YzVOe+/KnjJdpr8WBiGVJvoseiJFrTouvJd54Y42gs9F5GQpRVOOI4KCe+x7jzMC4TXnhFOrUSwo/M88rkuuCpTpxWH5/YJU5yqUId9B8tSLi44/POUfSnDesW+uaLa31vVjU56a7zH4Z48Sfucg7OdEs9e1a7stQo95RdpN9cOL5opNP89zZuyKsrC71vh+qsV7a5cov96KbjnHyZSzx8qPL8dLBJBRzQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADyZwftOh/3pfv+H7HeGco7TOFdWratX1eytZXVtUiuZUFzVIYXnHq18Mlqy9PEtFb+3MJI8pFV4k2k1nLTWd0/wAsHnla6po0dR5cIvqeO7SeMvBVPE3uNgkkek8dCnkc355CVdM9QlvgpR/Mr2lOte11bWlCrXrvpSowc5/HlSzgI3p0jsWpKeqapU6uFCEFjyzLP/FFzQs61h22VZ0oyVG7t+9nttusP/b9TC6P2a8S1LV3kLuOmXSbVOhVk1KUcLxOUG8b5WGnjHrhdD4R4ZuNIX6ZrF7O+1SdPklUlJyjTj+7Fvd/F9TOZeHLasTM77bKACrwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAx6AAYLiLhHROIczv7RQuX/7VB8lT3fR/CSaOba/2X6tYudTSasdRoLLUMKNVe3R+3yOzD06InybY896Pl+4t61tWdG4pTpVYvDhOLi18y2qJqWGfTOsaFpmt0XT1Kzp1vym14l8H1NXteyzh+jduvWlc14eVKc8RXy6l4u9leXTXtxG3t61zUVK1pVK1SWyjTjzN/I3DRezLiHUUpXNOnYUpedxLxfyrf7HbNO02w0ukqen2dG3jjH6uGH8+pdL13ImzK/MnqsND0jsp0G0cZ6lOvqFRdYyk6dNv+FPL92brY2NpptsrbTraja0V0p0KahH5IrrZEldy81slrdyj4bfAAEMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEggASQAAAAAAAAAAAAAAAAAAAAAAAAAB/9k="
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Flying With Children: The Best Car Seat Travel Bags For ...",
+      "link": "https://www.fatherly.com/gear/best-car-seat-travel-bags/",
+      "displayed_link": "www.fatherly.com › Gear",
+      "date": "Dec 30, 2019",
+      "snippet": "Best Car Seat Travel Bags. J.L. Childress Spinner Wheelie Deluxe Car Seat Travel Bag. J.L. Childress Ultimate Backpack Padded Car Seat Travel Bag. Birdee Car Seat Travel Bag. Reperkid Car Seat Travel Bag. ZOHZO Car Seat Travel Bag. VolkGo Durable Car Seat Travel. KangoKids Car Seat Travel Bag. Caboodle Car Seat Travel ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7mravJoJoN0J:https://www.fatherly.com/gear/best-car-seat-travel-bags/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Best Car Seat Travel Bags in 2020 • Our Globetrotters",
+      "link": "https://www.ourglobetrotters.com/best-car-seat-travel-bags/",
+      "displayed_link": "www.ourglobetrotters.com › best-car-seat-travel-bags",
+      "date": "Mar 19, 2019",
+      "snippet": "How do you keep your car seat safe on a plane if you are not using it on board? Protect your car seat using a travel bag or commonly called a ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:frFoEYflYC0J:https://www.ourglobetrotters.com/best-car-seat-travel-bags/+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Amazon Best Sellers: Best Car Seat Travel Bags & Carts",
+      "link": "https://www.amazon.com/Best-Sellers-Baby-Car-Seat-Travel-Bags-Carts/zgbs/baby-products/8457342011",
+      "displayed_link": "www.amazon.com › zgbs › baby-products",
+      "snippet": "Discover the best Car Seat Travel Bags & Carts in Best Sellers. Find the top 100 most popular items in Amazon Baby Best Sellers.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rV8TclN3QDQJ:https://www.amazon.com/Best-Sellers-Baby-Car-Seat-Travel-Bags-Carts/zgbs/baby-products/8457342011+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "The Best Car Seat Travel Bag & Travel Accessories | Have ...",
+      "link": "https://havebabywilltravel.com/baby-travel-gear/best-car-seat-travel-bag/",
+      "displayed_link": "havebabywilltravel.com › baby-travel-gear › best-car-seat-travel-bag",
+      "snippet": "A look at the best car seat travel bag and travel car seat accessories to keep your car seat and your baby safe on airplanes and during airport transit.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4BGlEi1tXDgJ:https://havebabywilltravel.com/baby-travel-gear/best-car-seat-travel-bag/+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Best Car Seat Travel Bags Reviewed for Quality in 2020 ...",
+      "link": "https://drivrzone.com/best-car-seat-travel-bags-reviewed/",
+      "displayed_link": "drivrzone.com › best-car-seat-travel-bags-reviewed",
+      "snippet": "We reviewed the best car seat travel bags and tested each for quality. Check out our top 10 list for car seat travel bags!",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best Car Seat Travel Bags",
+            "link": "https://drivrzone.com/best-car-seat-travel-bags-reviewed/#10-best-car-seat-travel-bags"
+          },
+          {
+            "title": "J.l. Childress",
+            "link": "https://drivrzone.com/best-car-seat-travel-bags-reviewed/#1-jl-childress"
+          },
+          {
+            "title": "Volkgo",
+            "link": "https://drivrzone.com/best-car-seat-travel-bags-reviewed/#2-volkgo"
+          },
+          {
+            "title": "Flightjoy",
+            "link": "https://drivrzone.com/best-car-seat-travel-bags-reviewed/#3-flightjoy"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5vPHQEE0HJsJ:https://drivrzone.com/best-car-seat-travel-bags-reviewed/+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Top 10 Car Seat Travel Bags of 2019 | Video Review",
+      "link": "https://wiki.ezvid.com/best-car-seat-travel-bags",
+      "displayed_link": "wiki.ezvid.com › Wiki Reviews › Baby",
+      "snippet": "Currently, the best car seat travel bag is the Oowap Gear. Wiki researchers have been writing reviews of the ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "jun": 7
+          },
+          "extensions": [
+            "Jun 7, 2019"
+          ]
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "5 Best Car Seat Travel Bags (2020 Reviews) - Mom Loves Best",
+      "link": "https://momlovesbest.com/car-seat-travel-bag",
+      "displayed_link": "momlovesbest.com › car-seat-travel-bag",
+      "date": "Jun 22, 2019",
+      "snippet": "Heading on a trip and bringing your child's car seat with you? The best car seat travel bag can make it more convenient and comfortable.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What's a Car Seat Travel Bag?",
+            "link": "https://momlovesbest.com/car-seat-travel-bag#q1"
+          },
+          {
+            "title": "Types of Car Seat Travel Bags",
+            "link": "https://momlovesbest.com/car-seat-travel-bag#q2"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:SknIAy8R_KsJ:https://momlovesbest.com/car-seat-travel-bag+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "10 Best Padded Car Seat Travel Bags for Air Travel In 2020",
+      "link": "https://juliepro.com/best-car-seat-travel-bags-reviews/",
+      "displayed_link": "juliepro.com › best-car-seat-travel-bags-reviews",
+      "snippet": "While searching for car seat travel bags, the best features will help you get the required a durable, lightweight and waterproof car seat travel bag.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1uolsblu6CgJ:https://juliepro.com/best-car-seat-travel-bags-reviews/+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "The Best Car Seat Travel Bags for Flying With Children | Car ...",
+      "link": "https://www.carbibles.com/best-car-seat-travel-bag/",
+      "displayed_link": "www.carbibles.com › best-car-seat-travel-bag",
+      "date": "Aug 6, 2019",
+      "snippet": "Check out our guide and take a look at 15 of the best car seat travel bags for flying with children, so you can be sure of a happy family vacation.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FpN19G6jT_YJ:https://www.carbibles.com/best-car-seat-travel-bag/+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Best Car Seat Travel Bag (2020 Reviews) - Smart Parent Advice",
+      "link": "https://smartparentadvice.com/best-car-seat-travel-bag/",
+      "displayed_link": "smartparentadvice.com › best-car-seat-travel-bag",
+      "snippet": "As an Amazon Associate I earn from qualifying purchases. If you're in a hurry and just want to find out what the best car seat travel bag is, I'd recommend the J.S. ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YHdFYnqbmtoJ:https://smartparentadvice.com/best-car-seat-travel-bag/+&cd=21&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "car seat travel bag with wheels",
+      "link": "https://www.google.com/search?q=car+seat+travel+bag+with+wheels&sa=X&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "rogue kidz car seat travel bag",
+      "link": "https://www.google.com/search?q=rogue+kidz+car+seat+travel+bag&sa=X&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "graco car seat travel bag",
+      "link": "https://www.google.com/search?q=graco+car+seat+travel+bag&sa=X&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "car seat bag for flying",
+      "link": "https://www.google.com/search?q=car+seat+bag+for+flying&sa=X&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "zohzo car seat travel bag",
+      "link": "https://www.google.com/search?q=zohzo+car+seat+travel+bag&sa=X&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "best car seat travel bag uk",
+      "link": "https://www.google.com/search?q=best+car+seat+travel+bag+uk&sa=X&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "volkgo car seat bag",
+      "link": "https://www.google.com/search?q=volkgo+car+seat+bag&sa=X&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "car seat travel bag walmart",
+      "link": "https://www.google.com/search?q=car+seat+travel+bag+walmart&sa=X&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+travel+car+seat+bag&ei=FSQnXvfxE7as0PEPnYiQoAc&start=10&sa=N&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ8NMDegQIEBBe",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+travel+car+seat+bag&ei=FSQnXvfxE7as0PEPnYiQoAc&start=10&sa=N&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ8tMDegQIEBBM",
+      "3": "https://www.google.com/search?q=best+travel+car+seat+bag&ei=FSQnXvfxE7as0PEPnYiQoAc&start=20&sa=N&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ8tMDegQIEBBO",
+      "4": "https://www.google.com/search?q=best+travel+car+seat+bag&ei=FSQnXvfxE7as0PEPnYiQoAc&start=30&sa=N&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ8tMDegQIEBBQ",
+      "5": "https://www.google.com/search?q=best+travel+car+seat+bag&ei=FSQnXvfxE7as0PEPnYiQoAc&start=40&sa=N&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ8tMDegQIEBBS",
+      "6": "https://www.google.com/search?q=best+travel+car+seat+bag&ei=FSQnXvfxE7as0PEPnYiQoAc&start=50&sa=N&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ8tMDegQIEBBU",
+      "7": "https://www.google.com/search?q=best+travel+car+seat+bag&ei=FSQnXvfxE7as0PEPnYiQoAc&start=60&sa=N&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ8tMDegQIEBBW",
+      "8": "https://www.google.com/search?q=best+travel+car+seat+bag&ei=FSQnXvfxE7as0PEPnYiQoAc&start=70&sa=N&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ8tMDegQIEBBY",
+      "9": "https://www.google.com/search?q=best+travel+car+seat+bag&ei=FSQnXvfxE7as0PEPnYiQoAc&start=80&sa=N&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ8tMDegQIEBBa",
+      "10": "https://www.google.com/search?q=best+travel+car+seat+bag&ei=FSQnXvfxE7as0PEPnYiQoAc&start=90&sa=N&ved=2ahUKEwi30Nnyi5XnAhU2FjQIHR0EBHQQ8tMDegQIEBBc"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+car+seat+bag&start=10&token=c4582b20cd922341",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+car+seat+bag&start=10&token=c4582b20cd922341",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+car+seat+bag&start=10&token=c4582b20cd922341",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+car+seat+bag&start=20&token=e1fa2baafad6e312",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+car+seat+bag&start=30&token=7afb6c557e616874",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+car+seat+bag&start=40&token=0b44924345fbfa1c",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+car+seat+bag&start=50&token=d93914ae84d854da",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+car+seat+bag&start=60&token=fd094da21e05f033",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+car+seat+bag&start=70&token=9cf799e541809cfb",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+car+seat+bag&start=80&token=cc0ba39b0f41d966",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+car+seat+bag&start=90&token=f4636684a349cc38"
+    }
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 14:56:14 UTC",
+    "processed_at": "2020-01-21 14:56:14 UTC",
+    "google_url": "https://www.google.com/search?q=affiliate+area&oq=affiliate+area&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.53
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "affiliate area",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 651000000,
+    "time_taken_displayed": 0.45,
+    "query_displayed": "affiliate area"
+  },
+  "knowledge_graph": {
+    "see_more_about": [
+      {
+        "title": null
+      },
+      {
+        "title": null
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "link": "/search?q=affiliate+area&tbm=isch&source=iu&ictx=1&fir=zZlzoNfjBb5tZM%253A%252CHMerNPL26zCvNM%252C_&vet=1&usg=AI4_-kQzVXB74tuRZH5lqC7YjJhkqfQclw&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ9QEwD3oECAcQBQ#imgrc=zZlzoNfjBb5tZM:",
+      "thumbnail": "data:image/png;base64,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"
+    },
+    {
+      "link": "/search?q=affiliate+area&tbm=isch&source=iu&ictx=1&fir=G2ESY53dEeiENM%253A%252CsqNJCQKN7SMVBM%252C_&vet=1&usg=AI4_-kTVdCwrOH5z3g_smfvMl3H59MSsgQ&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ9QEwEHoECAcQBw#imgrc=G2ESY53dEeiENM:",
+      "thumbnail": "data:image/png;base64,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"
+    },
+    {
+      "link": "/search?q=affiliate+area&tbm=isch&source=iu&ictx=1&fir=YQf1cDGiAOekMM%253A%252CShRXLNSum41TGM%252C_&vet=1&usg=AI4_-kTBXkIsfcEQl3OXM-e5rFuj1WrXGw&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ9QEwEXoECAcQCQ#imgrc=YQf1cDGiAOekMM:",
+      "thumbnail": "data:image/jpeg;base64,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"
+    },
+    {
+      "link": "/search?q=affiliate+area&tbm=isch&source=iu&ictx=1&fir=FoX6ukvVoKgGQM%253A%252CY8rSShhUVlf-gM%252C_&vet=1&usg=AI4_-kTvAOoj4mFkq6PRDl5hXpEWP3pqhg&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ9QEwEnoECAcQCw#imgrc=FoX6ukvVoKgGQM:",
+      "thumbnail": "data:image/png;base64,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"
+    },
+    {
+      "link": "/search?q=affiliate+area&tbm=isch&source=iu&ictx=1&fir=xUWGFh4EcU0tGM%253A%252Ceh-k79pV5mfjwM%252C_&vet=1&usg=AI4_-kQTTQyaCsF7z2CERZBz6skQLcEgMw&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ9QEwE3oECAcQDQ#imgrc=xUWGFh4EcU0tGM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEThi0U9Pa2Fh-a25V9E2SkzM0l4sfapMtTQ_GLouHQSLF9vZUdxrTs13uj34Y6g&s"
+    },
+    {
+      "link": "/search?q=affiliate+area&tbm=isch&source=iu&ictx=1&fir=t8pqM08NEQ2C-M%253A%252CsqNJCQKN7SMVBM%252C_&vet=1&usg=AI4_-kTUIzX9mtu2gnJKk34PtTOiZgAisw&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ9QEwFHoECAcQDw#imgrc=t8pqM08NEQ2C-M:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFTqMofmILEK4GHMyjQ98sYX4DOWcl8AC1FXKmxpI4WB2T4Mytsuj85Nt-HCyNSg&s"
+    },
+    {
+      "link": "/search?q=affiliate+area&tbm=isch&source=iu&ictx=1&fir=YO3x92lev8lGjM%253A%252CHMerNPL26zCvNM%252C_&vet=1&usg=AI4_-kRCd8nEoXnWv5Ys-u7yxZYhCxQqpQ&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ9QEwFXoECAcQEQ#imgrc=YO3x92lev8lGjM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8W09sZ-GLlV0krhLvYKVj6zlysMjz3vK6C4hWbrTkAeD5k3ZG5p5-QR8tyIfb3A&s"
+    },
+    {
+      "link": "/search?q=affiliate+area&tbm=isch&source=iu&ictx=1&fir=B5GrwWLWE2Lc5M%253A%252CsqNJCQKN7SMVBM%252C_&vet=1&usg=AI4_-kQCBOasbFJKtv6V-ZiblluXzlHMnw&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ9QEwFnoECAcQEw#imgrc=B5GrwWLWE2Lc5M:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSewo-u-VzUFR9BehN5oJb6p61zBj8sCSxxHWff6OM8IoAnOzy_z_ErQSRGe-1CNQ&s"
+    },
+    {
+      "link": "/search?q=affiliate+area&tbm=isch&source=iu&ictx=1&fir=6OCTOFqdA2kjLM%253A%252CyUcrHBO5r8ZfJM%252C_&vet=1&usg=AI4_-kSwSNjV5ocA_JSrZzSMNXqD-IueSg&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ9QEwF3oECAcQFQ#imgrc=6OCTOFqdA2kjLM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS236Oy8aKZ5LmrhfVCiBhBZS36B2BFRUzaay_UOkAG2jW2pC_f_nCCxdoIvXDwhA&s"
+    },
+    {
+      "link": "/search?q=affiliate+area&tbm=isch&source=iu&ictx=1&fir=ni6hqGvl71e6NM%253A%252ClhhFZ_Am1IX23M%252C_&vet=1&usg=AI4_-kRvPOY87KNsQcnVX-RSlMACRtzw8A&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ9QEwGHoECAcQFw#imgrc=ni6hqGvl71e6NM:",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh_yO3-2RQuehdGz55FZMsnC_j4aa12Z6RcuINCBFXARbvKKX7D2S3TEKfcHw72w&s"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How do I find affiliates?",
+      "snippet": "How to Find Affiliates to Sell Your ProductsWork Out a Great Affiliate Program.Where to Look for Affiliates. Join Affiliate Networks and Directories. Connect with Bloggers and Influencers. Use Social Media. Use Your Website and Blog. Use Online Ads. Take Part in Affiliate Events. Turn Customers into Affiliates. Turn Colleagues into Affiliates. ... In Conclusion.",
+      "title": "How to Find Affiliates to Sell Your Products",
+      "link": "https://www.osiaffiliate.com/blog/find-affiliates-sell-products/",
+      "displayed_link": "www.osiaffiliate.com › blog › find-affiliates-sell-products"
+    },
+    {
+      "question": "What qualifies you to be an Amazon affiliate?",
+      "snippet": "Create Amazon Affiliate links.Create a website or blog. To become an Amazon Associate, you must have an active website, blog, app, or YouTube channel. ... Visit the Amazon Associates homepage. Now it's time to create your Amazon Associates account. ... Create Amazon Affiliate links.Mar 8, 2019",
+      "title": "Everything You Need to Know About the Amazon Affiliate Program",
+      "link": "https://blog.hubspot.com/sales/amazon-affiliate",
+      "displayed_link": "blog.hubspot.com › sales › amazon-affiliate"
+    },
+    {
+      "question": "How does an affiliate program work?",
+      "snippet": "Simply put, affiliate programs, also called associate programs, are arrangements in which an online merchant Web site pays affiliate Web sites a commission to send them traffic. These affiliate Web sites post links to the merchant site and are paid according to a particular agreement.",
+      "title": "What Are Affiliate Programs? - How Affiliate Programs Work ...",
+      "link": "https://money.howstuffworks.com/affiliate-program1.htm",
+      "displayed_link": "money.howstuffworks.com › affiliate-program1"
+    },
+    {
+      "question": "What does affiliate link mean?",
+      "snippet": "An affiliate link is a specific URL that contains the affiliate's ID or username. In affiliate programs, advertisers use affiliate links to record the traffic that is sent to the advertiser's website. This action is all part of an affiliate program.",
+      "title": "What is Affiliate Link? - Definition from Techopedia",
+      "link": "https://www.techopedia.com/definition/1397/affiliate-link",
+      "displayed_link": "www.techopedia.com › definition › affiliate-link"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Creating the Affiliate Area - AffiliateWP",
+    "date": "Nov 15, 2019",
+    "link": "https://docs.affiliatewp.com/article/54-creating-the-affiliate-area",
+    "snippet": "The affiliate area is where your affiliates log into their account and view their referral stats, generate affiliate links, and view their earnings.",
+    "thumbnail": "data:image/png;base64,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"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Creating the Affiliate Area - AffiliateWP",
+      "link": "https://docs.affiliatewp.com/article/54-creating-the-affiliate-area",
+      "displayed_link": "docs.affiliatewp.com › General",
+      "date": "Nov 15, 2019",
+      "snippet": "The affiliate area is where your affiliates log into their account and view their referral stats, generate affiliate links, and view their earnings.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HMerNPL26zAJ:https://docs.affiliatewp.com/article/54-creating-the-affiliate-area+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Affiliate Area Tabs - AffiliateWP",
+      "link": "https://affiliatewp.com/add-ons/official-free/affiliate-area-tabs/",
+      "displayed_link": "affiliatewp.com › add-ons › official-free › affiliate-area-tabs",
+      "snippet": "Affiliate Area Tabs allows you to add custom tabs to AffiliateWP's Affiliate Area. Each custom tab is linked to a WordPress page making it exceptionally easy to ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sqNJCQKN7SMJ:https://affiliatewp.com/add-ons/official-free/affiliate-area-tabs/+&cd=5&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://affiliatewp.com/add-ons/official-free/affiliate-area-tabs/+affiliate+area&tbo=1&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQHzAEegQICxAJ"
+    },
+    {
+      "position": 3,
+      "title": "Amazon Affiliate Program - Amazon.com",
+      "link": "https://affiliate-program.amazon.com/",
+      "displayed_link": "affiliate-program.amazon.com",
+      "snippet": "Join the Amazon.com Associates Program and start earning money today. The Amazon Associates Program is one of the largest and most successful online ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QWl122yV-aUJ:https://affiliate-program.amazon.com/+&cd=6&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://affiliate-program.amazon.com/+affiliate+area&tbo=1&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQHzAFegQIChAH"
+    },
+    {
+      "position": 4,
+      "title": "How to Start an Affiliate Program That's Actually Successful",
+      "link": "https://www.crazyegg.com/blog/how-to-start-an-affiliate-program/",
+      "displayed_link": "www.crazyegg.com › Blog › Marketing",
+      "date": "Feb 5, 2018",
+      "snippet": "Learn how to start an affiliate program and earn more money! Before set it up, it's good to analyze what your competitors are doing and stablish ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zT5b4t3CchkJ:https://www.crazyegg.com/blog/how-to-start-an-affiliate-program/+&cd=7&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.crazyegg.com/blog/how-to-start-an-affiliate-program/+affiliate+area&tbo=1&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQHzAGegQIBhAL"
+    },
+    {
+      "position": 5,
+      "title": "How to Access your Affiliate Area - SiteGround",
+      "link": "https://www.siteground.com/tutorials/affiliate/access-affiliate-area/",
+      "displayed_link": "www.siteground.com › tutorials › affiliate › access-affiliate-area",
+      "snippet": "To switch between the two areas just use the Switch To link in the upper right corner of the User Area page. If you have registered initially for a customer account and have become an affiliate after that, every time you log in, you will enter the User Area by default.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jbtp86hzcnEJ:https://www.siteground.com/tutorials/affiliate/access-affiliate-area/+&cd=26&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "AffiliateWP – Affiliate Area Shortcodes – WordPress plugin ...",
+      "link": "https://wordpress.org/plugins/affiliatewp-affiliate-area-shortcodes/",
+      "displayed_link": "wordpress.org › WordPress Plugins",
+      "snippet": "Once activated, this plugin provides a shortcode for each tab of the affiliate area: [affiliate_area_graphs]. [affiliate_area_settings]. [affiliate_area_creatives].",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4,
+            "votes": 5
+          },
+          "extensions": [
+            "Rating: 4",
+            "5 votes",
+            "Free"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BlMSNjWhE78J:https://wordpress.org/plugins/affiliatewp-affiliate-area-shortcodes/+&cd=27&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://wordpress.org/plugins/affiliatewp-affiliate-area-shortcodes/+affiliate+area&tbo=1&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQHzAaegQICRAL"
+    },
+    {
+      "position": 7,
+      "title": "WordPress.com Affiliate Program – Earn rewards promoting ...",
+      "link": "https://refer.wordpress.com/",
+      "displayed_link": "refer.wordpress.com",
+      "snippet": "Share in our success with the WordPress.com Affiliate Program. We give you all the tools you need to promote WordPress.com on your website and earn top ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VOJTGV75RrsJ:https://refer.wordpress.com/+&cd=28&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://refer.wordpress.com/+affiliate+area&tbo=1&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQHzAbegQICBAH"
+    },
+    {
+      "position": 8,
+      "title": "Affiliate Area - WP Invoicing",
+      "link": "https://wpinvoicing.com/your-account/affiliate-area/",
+      "displayed_link": "wpinvoicing.com › your-account › affiliate-area",
+      "snippet": "Affiliate Area. get a 30% commission for each referral that converts into a sale. That's over $30 for each yearly membership sold. Downloads / Licenses ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AIEkiIKcEeQJ:https://wpinvoicing.com/your-account/affiliate-area/+&cd=29&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "TrendyTheme Affiliate Area | Best Affiliate Commision",
+      "link": "https://trendytheme.net/affiliate-area/",
+      "displayed_link": "trendytheme.net › affiliate-area",
+      "snippet": "Earn industry-leading commissions with TrendyTheme Affiliate Program by referring our standard WordPress themes through your website or blog.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wMEPgOPIknAJ:https://trendytheme.net/affiliate-area/+&cd=30&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://trendytheme.net/affiliate-area/+affiliate+area&tbo=1&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQHzAdegQIBRAJ"
+    }
+  ],
+  "related_search_boxes": [
+    {
+      "position": 1,
+      "query": "",
+      "results": []
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "affiliate area shortcodes",
+      "link": "https://www.google.com/search?q=affiliate+area+shortcodes&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ1QIoAHoECAwQAQ"
+    },
+    {
+      "query": "how to create an affiliate program in wordpress",
+      "link": "https://www.google.com/search?q=how+to+create+an+affiliate+program+in+wordpress&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ1QIoAXoECAwQAg"
+    },
+    {
+      "query": "wp affiliate doc",
+      "link": "https://www.google.com/search?q=wp+affiliate+doc&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ1QIoAnoECAwQAw"
+    },
+    {
+      "query": "affiliate wp pricing",
+      "link": "https://www.google.com/search?q=affiliate+wp+pricing&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ1QIoA3oECAwQBA"
+    },
+    {
+      "query": "affiliatewp flag affiliates",
+      "link": "https://www.google.com/search?q=affiliatewp+flag+affiliates&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ1QIoBHoECAwQBQ"
+    },
+    {
+      "query": "affiliate system",
+      "link": "https://www.google.com/search?q=affiliate+system&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ1QIoBXoECAwQBg"
+    },
+    {
+      "query": "affiliates pro",
+      "link": "https://www.google.com/search?q=affiliates+pro&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ1QIoBnoECAwQBw"
+    },
+    {
+      "query": "wp affiliate platform",
+      "link": "https://www.google.com/search?q=wp+affiliate+platform&sa=X&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ1QIoB3oECAwQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=affiliate+area&ei=DxEnXsetMKOmmAXX85mwDA&start=10&sa=N&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ8NMDegQIEBBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=affiliate+area&ei=DxEnXsetMKOmmAXX85mwDA&start=10&sa=N&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ8tMDegQIEBAu",
+      "3": "https://www.google.com/search?q=affiliate+area&ei=DxEnXsetMKOmmAXX85mwDA&start=20&sa=N&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ8tMDegQIEBAw",
+      "4": "https://www.google.com/search?q=affiliate+area&ei=DxEnXsetMKOmmAXX85mwDA&start=30&sa=N&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ8tMDegQIEBAy",
+      "5": "https://www.google.com/search?q=affiliate+area&ei=DxEnXsetMKOmmAXX85mwDA&start=40&sa=N&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ8tMDegQIEBA0",
+      "6": "https://www.google.com/search?q=affiliate+area&ei=DxEnXsetMKOmmAXX85mwDA&start=50&sa=N&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ8tMDegQIEBA2",
+      "7": "https://www.google.com/search?q=affiliate+area&ei=DxEnXsetMKOmmAXX85mwDA&start=60&sa=N&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ8tMDegQIEBA4",
+      "8": "https://www.google.com/search?q=affiliate+area&ei=DxEnXsetMKOmmAXX85mwDA&start=70&sa=N&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ8tMDegQIEBA6",
+      "9": "https://www.google.com/search?q=affiliate+area&ei=DxEnXsetMKOmmAXX85mwDA&start=80&sa=N&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ8tMDegQIEBA8",
+      "10": "https://www.google.com/search?q=affiliate+area&ei=DxEnXsetMKOmmAXX85mwDA&start=90&sa=N&ved=2ahUKEwiH8dzg-ZTnAhUjE6YKHdd5BsYQ8tMDegQIEBA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+area&start=10&token=59f98731e0c0df63",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+area&start=10&token=59f98731e0c0df63",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+area&start=10&token=59f98731e0c0df63",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+area&start=20&token=1f194696784d75df",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+area&start=30&token=b23cd0d0c4780c19",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+area&start=40&token=5dc4adc307258daf",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+area&start=50&token=212bccf4ac7ba49b",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+area&start=60&token=98dbb9b74e3d5f2d",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+area&start=70&token=4b2913231c29727c",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+area&start=80&token=7c328adeae815b94",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+area&start=90&token=bec9649280d82a48"
+    }
+  }
+}

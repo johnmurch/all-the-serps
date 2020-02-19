@@ -1,0 +1,347 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 15:48:18 UTC",
+    "processed_at": "2020-01-21 15:48:18 UTC",
+    "google_url": "https://www.google.com/search?q=best+travel+agency&oq=best+travel+agency&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 12.94
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best travel agency",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 2610000000,
+    "time_taken_displayed": 0.75,
+    "query_displayed": "best travel agency"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Top Rated Travel Agency | Hand Picked Tour Guides‎",
+      "link": "https://www.audleytravel.com/us",
+      "displayed_link": "www.audleytravel.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiG8_e2hZXnAhUMsO0KHb53BtYYABAAGgJkZw&sig=AOD64_213YO_eMdQFbKn3S8OvM3vWhNsuQ&q=&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ0Qx6BAgUEAE&adurl=",
+      "description": "Explore the World. Speak to an Expert in Customized Travel. Request a Quote Today.",
+      "sitelinks": [
+        {
+          "title": "Customer reviews",
+          "link": "https://www.audleytravel.com/us/reviews"
+        },
+        {
+          "title": "Find a destination",
+          "link": "https://www.audleytravel.com/us/destinations"
+        },
+        {
+          "title": "Audley Travel trip finder",
+          "link": "https://www.audleytravel.com/us/inspiration"
+        },
+        {
+          "title": "Travel the Audley way",
+          "link": "https://www.audleytravel.com/us/about-us"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Liberty Travel Vacations | Expert Travel Recommendations‎",
+      "link": "https://www.libertytravel.com/",
+      "displayed_link": "www.libertytravel.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiG8_e2hZXnAhUMsO0KHb53BtYYABAFGgJkZw&sig=AOD64_0DkM2JlKubloDlRdwc_FFMq-bojw&q=&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ0Qx6BAgTEAE&adurl=",
+      "description": "Never Travel Alone Thanks to Our Free 24/7 Support. Call Liberty Travel Today. 65+ Years of Experience. Exclusive Vacation Deals. 100+ Stores Nationwide. Unique Travel Experiences."
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=best+travel+agency&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36569946,-121880119,3748&tbm=lcl&sa=X&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQtgN6BAgLEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 36.569946,
+      "longitude": -121.880119,
+      "altitude": 3748
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=best+travel+agency&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36569946,-121880119,3748&tbm=lcl&sa=X&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQjGp6BAgLEEA",
+    "places": [
+      {
+        "position": 1,
+        "title": "Carmel Monterey Travel",
+        "place_id": "476424387178973849",
+        "lsig": "AB86z5WPbPvU0SJb9GyGpMaKWBM1",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WPbPvU0SJb9GyGpMaKWBM1&ludocid=476424387178973849&q=best+travel+agency&tbm=lcl&token=6542166fc94204d7",
+        "rating": 4.5,
+        "reviews": 2,
+        "type": "Travel agency",
+        "hours": "Closed ⋅ Opens 9AM · (831) 649-4292",
+        "address": "601 Abrego St",
+        "website": "http://www.carmelmontereytravel.com/",
+        "gps_coordinates": {
+          "latitude": 36.5965408,
+          "longitude": -121.8920471
+        }
+      },
+      {
+        "position": 2,
+        "title": "Four Winds Travel",
+        "place_id": "8586182591429559950",
+        "lsig": "AB86z5Upf0z7weYsM1-HJKtwSUhu",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Upf0z7weYsM1-HJKtwSUhu&ludocid=8586182591429559950&q=best+travel+agency&tbm=lcl&token=3b6b0d2c2d947bd6",
+        "rating": 4.5,
+        "reviews": 2,
+        "type": "Travel agency",
+        "address": "26080 Carmel Rancho Blvd # 103",
+        "phone": "In Carmel Rancho Shopping Center",
+        "website": "http://www.fourwindstravel.com/",
+        "gps_coordinates": {
+          "latitude": 36.5433526,
+          "longitude": -121.90594859999999
+        }
+      },
+      {
+        "position": 3,
+        "title": "Del Monte Aviation",
+        "place_id": "5476732794380572105",
+        "lsig": "AB86z5XGPqzVX6EkA5lwnD1I-tB4",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5XGPqzVX6EkA5lwnD1I-tB4&ludocid=5476732794380572105&q=best+travel+agency&tbm=lcl&token=1dfe67c4c60c31eb",
+        "rating": 4.9,
+        "reviews": 33,
+        "type": "Travel agency",
+        "address": "100 Sky Park Dr",
+        "phone": "In Monterey Regional Airport",
+        "website": "http://www.dma-mry.com/",
+        "gps_coordinates": {
+          "latitude": 36.5885781,
+          "longitude": -121.8542902
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "What is the best travel agent?",
+      "snippet": "The top 5 online travel agents for the best holiday dealsLastminute.com. Why we rate it: This all-encompassing online travel agent has been a trusted booking service since 1998, and with over 18,000 reviews its Trustpilot score is excellent. ... Opodo. Why we rate it: Opodo is part of ODIGEO, Europe's largest online travel company. ... eDreams. ... On The Beach. ... Expedia.Sep 21, 2018",
+      "title": "The top 5 online travel agents for the best holiday deals",
+      "link": "https://www.loveexploring.com/news/77330/the-top-5-online-travel-agents-for-the-best-holiday-deals",
+      "displayed_link": "www.loveexploring.com › news › the-top-5-online-travel-agents-for-the..."
+    },
+    {
+      "question": "What is the best travel agency online?",
+      "snippet": "Here are my top five:Google Flights.Kayak. ... Travelzoo. ... Airfarewatchdog. Some travelers are more spontaneous than others. ... Travelocity. Though it is similar in many ways to sites like Priceline and Expedia, I am consistently impressed with Travelocity's travel packages. ... Jun 11, 2017",
+      "title": "5 best sites for finding travel deals | Fox News",
+      "link": "https://www.foxnews.com/tech/5-best-sites-for-finding-travel-deals",
+      "displayed_link": "www.foxnews.com › tech › 5-best-sites-for-finding-travel-deals"
+    },
+    {
+      "question": "What is the best vacation package booking site?",
+      "snippet": "The Best Hotel Booking Sites for Comparing PricesBooking.com.Kayak.Priceline.Hotels.com.HotelsCombined.Expedia (which owns Travelocity and Orbitz)Agoda.TripAdvisor.More items...•Feb 5, 2019",
+      "title": "The 10 Best Hotel Booking Sites (Updated 2019) | SmarterTravel",
+      "link": "https://www.smartertravel.com/the-10-best-hotel-booking-sites/",
+      "displayed_link": "www.smartertravel.com › the-10-best-hotel-booking-sites"
+    },
+    {
+      "question": "How much does a travel agent cost?",
+      "snippet": "Plus, the Tribune reports that “agencies might charge $25 to $30 to book a domestic flight, $50 to $80 to book a vacation to a single destination and about $100 per hour for research and planning advice.” But, you can typically expect a travel agent to cost around the same as if you'd booked it yourself.Jan 8, 2018",
+      "title": "Should You Use a Travel Agent or Book Online? - The Cheat Sheet",
+      "link": "https://www.cheatsheet.com/culture/should-you-use-a-travel-agent-or-book-online.html/",
+      "displayed_link": "www.cheatsheet.com › culture › should-you-use-a-travel-agent-or-book..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Top 50 Best Travel Agencies | ConsumerAffairs",
+      "link": "https://www.consumeraffairs.com/travel/agencies.html",
+      "displayed_link": "www.consumeraffairs.com › travel › agencies",
+      "snippet": "Going on a trip? Find the best travel agencies to make planning simple by using our guide and comparing 30K+ verified customer reviews and ratings.",
+      "rich_snippet": {
+        "bottom": {
+          "questions": [
+            "How much does it cost to hire a travel agent?",
+            "How do I know if a travel agent is legit?",
+            "Does it cost to use a travel agent?",
+            "What are the different types of travel agencies?",
+            "Why use a travel agent instead of booking online?",
+            "Can a travel agent save you money?",
+            "What services do travel agencies provide?",
+            "Are you supposed to tip a travel agent?"
+          ]
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Zicasso: Luxury Travel | Luxury Vacations | Best Travel Agents",
+      "link": "https://www.zicasso.com/",
+      "displayed_link": "www.zicasso.com",
+      "snippet": "Zicasso: Top travel agents compete to customize your trip. Awarded “Best Travel Websites” by TRAVEL+LEISURE. Luxury travel with expert advice & best value.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "All Europe Reviews",
+            "link": "https://www.zicasso.com/travel-reviews/europe/travel-agent-luxury-vacation"
+          },
+          {
+            "title": "Austria",
+            "link": "https://www.zicasso.com/travel-reviews/austria/travel-agent-luxury-vacation"
+          },
+          {
+            "title": "Croatia",
+            "link": "https://www.zicasso.com/travel-reviews/croatia/travel-agent-luxury-vacation"
+          },
+          {
+            "title": "Czech Republic",
+            "link": "https://www.zicasso.com/travel-reviews/czech-republic/travel-agent-luxury-vacation"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TVWzOBtiixYJ:https://www.zicasso.com/+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Best Tour Operators: World's Best 2019 | Travel + Leisure ...",
+      "link": "https://www.travelandleisure.com/worlds-best/tour-operators",
+      "displayed_link": "www.travelandleisure.com › Worlds Best",
+      "date": "Jul 10, 2019",
+      "snippet": "A great tour operator can turn a good vacation into an extraordinary one. Our readers' favorites this year are experts in their fields, whether ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LHKWHxexh1QJ:https://www.travelandleisure.com/worlds-best/tour-operators+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Welcome to Carmel Monterey Travel -- Our combination of ...",
+      "link": "http://www.carmelmontereytravel.com/",
+      "displayed_link": "www.carmelmontereytravel.com",
+      "snippet": "Our combination of experience, efficiency and personalized service result in the best values in travel. Carmel Monterey Travel is a group of experienced, highly ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:ffrUloP9kQ4J:www.carmelmontereytravel.com/+&cd=16&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:www.carmelmontereytravel.com/+best+travel+agency&tbo=1&sa=X&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQHzAPegQIAhAH"
+    },
+    {
+      "position": 5,
+      "title": "7 Top Tier Travel Agents Reveal The Best Value Destinations ...",
+      "link": "https://www.forbes.com/sites/michaelalpiner/2018/02/22/7-top-tier-travel-agents-reveal-the-best-value-destinations-for-2018/",
+      "displayed_link": "www.forbes.com › sites › michaelalpiner › 2018/02/22 › 7-top-tier-tr...",
+      "date": "Feb 22, 2018",
+      "snippet": "Ashley Lancer is a New York City-based Senior Advisor with the Virtuoso Agency, Valerie Wilson Travel. Lancer feels that Canada is the best ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:O08zZJTLuVkJ:https://www.forbes.com/sites/michaelalpiner/2018/02/22/7-top-tier-travel-agents-reveal-the-best-value-destinations-for-2018/+&cd=17&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "How to pick the best travel agencies in San Jose? - San Jose Forum ...",
+      "link": "https://www.tripadvisor.com/ShowTopic-g33020-i417-k8018101-How_to_pick_the_best_travel_agencies_in_San_Jose-San_Jose_California.html",
+      "displayed_link": "www.tripadvisor.com › ... › San Jose › San Jose Travel Forum",
+      "snippet": "Answer 1 of 12: I don't have any experience yet with travel agencies. And I want to know what are some important things I need to consider before getting the ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "answers": 10
+          },
+          "extensions": [
+            "10 answers"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:O5qPHXbauy0J:https://www.tripadvisor.com/ShowTopic-g33020-i417-k8018101-How_to_pick_the_best_travel_agencies_in_San_Jose-San_Jose_California.html+&cd=18&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.tripadvisor.com/ShowTopic-g33020-i417-k8018101-How_to_pick_the_best_travel_agencies_in_San_Jose-San_Jose_California.html+best+travel+agency&tbo=1&sa=X&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQHzARegQIChAL"
+    },
+    {
+      "position": 7,
+      "title": "Best Online Travel Agency 2019 - Hotel, Airfare, Vacation ...",
+      "link": "https://www.toptenreviews.com/best-online-travel-sites",
+      "displayed_link": "www.toptenreviews.com › best-online-travel-sites",
+      "date": "Jan 18, 2019",
+      "snippet": "We researched and compared a dozen online travel agencies to find the best for most people. We focused on travel sites that let you book ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QBhe0tEjNp8J:https://www.toptenreviews.com/best-online-travel-sites+&cd=19&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "10 Best Tour Operators and Travel Agencies in USA ...",
+      "link": "https://www.bookmundi.com/usa/tour-operators",
+      "displayed_link": "www.bookmundi.com › North America Tours › USA Tours",
+      "date": "Results 1 14 of 24",
+      "snippet": "Find the Top 24 USA Tour Operators and Travel Agencies in USA. The best local and global USA travel specialists and tour companies.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:aWy5ou1fgt8J:https://www.bookmundi.com/usa/tour-operators+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Millennials are using travel agencies took book transformative ...",
+      "link": "https://www.vox.com/the-goods/2018/9/21/17879864/travel-agency-millennials-transformative-travel",
+      "displayed_link": "www.vox.com › the-goods › travel-agency-millennials-transformative...",
+      "date": "Sep 21, 2018",
+      "snippet": "How travel agencies avoided extinction and became a luxury service. ... there really is a difference between Googling the best workouts and ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rtZhPWiF1CAJ:https://www.vox.com/the-goods/2018/9/21/17879864/travel-agency-millennials-transformative-travel+&cd=21&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "top travel agencies in the world",
+      "link": "https://www.google.com/search?q=top+travel+agencies+in+the+world&sa=X&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ1QIoAHoECA8QAQ"
+    },
+    {
+      "query": "best travel agency near me",
+      "link": "https://www.google.com/search?q=best+travel+agency+near+me&sa=X&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ1QIoAXoECA8QAg"
+    },
+    {
+      "query": "top 10 travel companies in world",
+      "link": "https://www.google.com/search?q=top+10+travel+companies+in+world&sa=X&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ1QIoAnoECA8QAw"
+    },
+    {
+      "query": "best online travel agencies",
+      "link": "https://www.google.com/search?q=best+online+travel+agencies&sa=X&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ1QIoA3oECA8QBA"
+    },
+    {
+      "query": "travel agency website",
+      "link": "https://www.google.com/search?q=travel+agency+website&sa=X&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ1QIoBHoECA8QBQ"
+    },
+    {
+      "query": "best travel companies",
+      "link": "https://www.google.com/search?q=best+travel+companies&sa=X&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ1QIoBXoECA8QBg"
+    },
+    {
+      "query": "top 10 travel companies in world 2018",
+      "link": "https://www.google.com/search?q=top+10+travel+companies+in+world+2018&sa=X&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ1QIoBnoECA8QBw"
+    },
+    {
+      "query": "list of travel agencies in usa",
+      "link": "https://www.google.com/search?q=list+of+travel+agencies+in+usa&sa=X&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ1QIoB3oECA8QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+travel+agency&ei=TR0nXp_tD--HhbIP-qybiA8&start=10&sa=N&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ8NMDegQIEhBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+travel+agency&ei=TR0nXp_tD--HhbIP-qybiA8&start=10&sa=N&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ8tMDegQIEhAu",
+      "3": "https://www.google.com/search?q=best+travel+agency&ei=TR0nXp_tD--HhbIP-qybiA8&start=20&sa=N&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ8tMDegQIEhAw",
+      "4": "https://www.google.com/search?q=best+travel+agency&ei=TR0nXp_tD--HhbIP-qybiA8&start=30&sa=N&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ8tMDegQIEhAy",
+      "5": "https://www.google.com/search?q=best+travel+agency&ei=TR0nXp_tD--HhbIP-qybiA8&start=40&sa=N&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ8tMDegQIEhA0",
+      "6": "https://www.google.com/search?q=best+travel+agency&ei=TR0nXp_tD--HhbIP-qybiA8&start=50&sa=N&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ8tMDegQIEhA2",
+      "7": "https://www.google.com/search?q=best+travel+agency&ei=TR0nXp_tD--HhbIP-qybiA8&start=60&sa=N&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ8tMDegQIEhA4",
+      "8": "https://www.google.com/search?q=best+travel+agency&ei=TR0nXp_tD--HhbIP-qybiA8&start=70&sa=N&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ8tMDegQIEhA6",
+      "9": "https://www.google.com/search?q=best+travel+agency&ei=TR0nXp_tD--HhbIP-qybiA8&start=80&sa=N&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ8tMDegQIEhA8",
+      "10": "https://www.google.com/search?q=best+travel+agency&ei=TR0nXp_tD--HhbIP-qybiA8&start=90&sa=N&ved=2ahUKEwjfx_C2hZXnAhXvQ0EAHXrWBvEQ8tMDegQIEhA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency&start=10&token=8b58fbd232f6186c",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency&start=10&token=8b58fbd232f6186c",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency&start=10&token=8b58fbd232f6186c",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency&start=20&token=1dc488d9047613ee",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency&start=30&token=ede862e629058337",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency&start=40&token=e6b99ef7c2b9461a",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency&start=50&token=f907a0e60bde8c9d",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency&start=60&token=112fc916bfa8b77c",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency&start=70&token=1a78363eb5da476b",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency&start=80&token=b171df343a1f9452",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+agency&start=90&token=c333d28821148b97"
+    }
+  }
+}

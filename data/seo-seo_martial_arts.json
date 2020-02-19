@@ -1,0 +1,312 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 15:20:57 UTC",
+    "processed_at": "2020-01-20 15:20:57 UTC",
+    "google_url": "https://www.google.com/search?q=seo+martial+arts&oq=seo+martial+arts&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 4.84
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "seo martial arts",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 8110000,
+    "time_taken_displayed": 0.57,
+    "query_displayed": "seo martial arts"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=seo+martial+arts&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=39735425,-105080829,8721&tbm=lcl&sa=X&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQtgN6BAgKEAQ",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 39.735425,
+      "longitude": -105.080829,
+      "altitude": 8721
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "title": "Seo's Martial Arts Academy",
+        "place_id": "4419167526614914600",
+        "lsig": "AB86z5VH6D98WNrbVIgNRL0R_bQo",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5VH6D98WNrbVIgNRL0R_bQo&ludocid=4419167526614914600&q=seo+martial+arts&tbm=lcl&token=ae0e375762895b72",
+        "rating": "A",
+        "links": {
+          "website": "http://www.seosmartialartsacademy.com/",
+          "directions": "https://www.google.com/maps/dir//Seo's+Martial+Arts+Academy,+6490+Wadsworth+Bypass,+Arvada,+CO+80003/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876b8887c89d0f2f:0x3d540973a2d2d628?sa=X"
+        },
+        "phone": "In Fairlanes Shopping Center",
+        "address": ", Arvada, CO",
+        "gps_coordinates": {
+          "latitude": 39.8138985,
+          "longitude": -105.0792242
+        }
+      },
+      {
+        "position": 2,
+        "title": "Seo's Martial Arts",
+        "place_id": "13810005037980500498",
+        "lsig": "AB86z5UZvfRdXd0KIhLWVGagMUv9",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UZvfRdXd0KIhLWVGagMUv9&ludocid=13810005037980500498&q=seo+martial+arts&tbm=lcl&token=53741250e73ab6b3",
+        "rating": "B",
+        "links": {
+          "website": "http://www.seosmartialartsacademy.com/",
+          "directions": "https://www.google.com/maps/dir//Seo's+Martial+Arts,+3255+S+Wadsworth+Blvd,+Lakewood,+CO+80227/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x876b7f6d11b8aeaf:0xbfa6fe69db2ec212?sa=X"
+        },
+        "address": "Lakewood, CO",
+        "gps_coordinates": {
+          "latitude": 39.656951500000005,
+          "longitude": -105.0824339
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "inline_videos": [
+    {
+      "title": "Tour of Seo's Martial Arts",
+      "link": "https://www.youtube.com/watch?v=-lEwHpQIC4k",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "SMAAcademy",
+      "duration": "2:07",
+      "platform": "YouTube",
+      "date": "Feb 13, 2012"
+    },
+    {
+      "title": "Master Seo's Top Martial Arts Open House Festival September ...",
+      "link": "https://www.youtube.com/watch?v=O25O1PaIFDg",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Brandon Brown Productions, LLC",
+      "duration": "0:31",
+      "platform": "YouTube",
+      "date": "Sep 21, 2019"
+    },
+    {
+      "title": "Seo's Martial Arts on Twitter: \"Let's get this Tournament started ...",
+      "link": "https://twitter.com/GrandMasterSeo/status/929451925518602241",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "",
+      "platform": "Twitter",
+      "date": "Nov 11, 2017"
+    },
+    {
+      "title": "Seo's Martial Arts DARE Event",
+      "link": "https://www.youtube.com/watch?v=XCd7H2dKO1c",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpTqOUxGwo0I_ovh-LFoKHed2bkmGvv5qChSelbzU0eeohmFO0048QPacCnSCytg",
+      "channel": "jidawgs32",
+      "duration": "2:20",
+      "platform": "YouTube",
+      "date": "Nov 10, 2008"
+    },
+    {
+      "title": "Seo's Martial Arts on Twitter: \"Easter eggstravganza ...",
+      "link": "https://twitter.com/GrandMasterSeo/status/980127886697955332",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxmIFUlmv_5z1gSRwmCax-nO3WfKnQPa8X3i1CeFSbMgJAc1b67wLe2pKUFeFdn5WYyP_VuY_gL0&s",
+      "channel": "",
+      "platform": "Twitter",
+      "date": "Mar 31, 2018"
+    },
+    {
+      "title": "Seo's Martial Arts on Twitter: \"Thank you for making this another \n#seoawesome event! Be sure to share your pics with us using \n#seoawesomepicnic… \"",
+      "link": "https://twitter.com/GrandMasterSeo/status/892141100915343361",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_bvX2Kg29kuGtHmC-8m6n-8NrfvsLvIFnhPQP_MkejIz_U2mMk8MUrTYHuHdQTDoVSd3Hrs&usqp=CAI&s",
+      "channel": "",
+      "platform": "Twitter",
+      "date": "Jul 31, 2017"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Seo's Martial Arts Academy: Arvada & Lakewood Martial Arts ...",
+      "link": "https://seosmartialartsacademy.com/",
+      "displayed_link": "seosmartialartsacademy.com",
+      "snippet": "We have attended Seo's Martial Arts for almost 8 years. The benefit for my daughters has been priceless. Well worth the commitment. Bart Nicholas reviewed Seo's Martial Arts Academy — Arvada, CO.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Contact",
+            "link": "https://seosmartialartsacademy.com/location/arvada-co/"
+          },
+          {
+            "title": "Lakewood, CO",
+            "link": "https://seosmartialartsacademy.com/location/lakewood-co/"
+          },
+          {
+            "title": "Kid's Martial Arts",
+            "link": "https://seosmartialartsacademy.com/program/kids-martial-arts/"
+          },
+          {
+            "title": "Adult Martial Arts",
+            "link": "https://seosmartialartsacademy.com/program/adult-martial-arts/"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:k2en8ad5OIsJ:https://seosmartialartsacademy.com/+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Arvada, CO | Seo's Martial Arts Academy",
+      "link": "https://seosmartialartsacademy.com/location/arvada-co/",
+      "displayed_link": "seosmartialartsacademy.com › location › arvada-co",
+      "snippet": "6490 Wadsworth Blvd. Arvada, CO 80002. ... We proudly serve the following cities: Arvada, Westminster, Broomfield, Lakewood, and Littleton.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hRHcDP96dVYJ:https://seosmartialartsacademy.com/location/arvada-co/+&cd=2&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Seo's Martial Arts Academy - Home | Facebook",
+      "link": "https://www.facebook.com/seosmartialartsacademy/",
+      "displayed_link": "www.facebook.com › Places › Arvada, Colorado › Specialty School",
+      "snippet": "Seo's Martial Arts Academy - 6520 Wadsworth Byp Unit 295, Arvada, Colorado 80003 - Rated 4.7 based on 24 Reviews \"Trained as a family for almost 10 years.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.7,
+            "votes": 24
+          },
+          "extensions": [
+            "Rating: 4.7",
+            "24 votes"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:atZ19MifqKMJ:https://www.facebook.com/seosmartialartsacademy/+&cd=3&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.facebook.com/seosmartialartsacademy/+seo+martial+arts&tbo=1&sa=X&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQHzACegQICRAL"
+    },
+    {
+      "position": 4,
+      "title": "Seo's Martial Arts - Martial Arts - 6490 Wadsworth Blvd ...",
+      "link": "https://www.yelp.com/biz/seos-martial-arts-arvada",
+      "displayed_link": "www.yelp.com › Active Life › Fitness & Instruction › Martial Arts",
+      "snippet": "9 reviews of Seo's Martial Arts \"Please join me in congratulating Seo's Martial Arts Academy and their team of 59 students and instructors who recently competed ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 2.5,
+            "reviews": 9
+          },
+          "extensions": [
+            "Rating: 2.5",
+            "9 reviews"
+          ]
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Seo's Martial Arts Academy | Better Business Bureau® Profile",
+      "link": "https://www.bbb.org/us/co/arvada/profile/martial-arts/seos-martial-arts-academy-0885-59025529",
+      "displayed_link": "www.bbb.org › profile › seos-martial-arts-academy-0885-59025529",
+      "snippet": "This organization is not BBB accredited. Martial Arts in Arvada, CO. See BBB rating, reviews, complaints, & more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:McCj1_Y1B0MJ:https://www.bbb.org/us/co/arvada/profile/martial-arts/seos-martial-arts-academy-0885-59025529+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Seo's Martial Arts | Calhoun, Rome, Summervile, Albany",
+      "link": "https://www.seosmartialarts.com/",
+      "displayed_link": "www.seosmartialarts.com",
+      "snippet": "We provide martial arts for all ages. Taekwondo, Ju-Jitsu, Hapkido, Weapons, Tumbling, Birthday Parties, Fun Camps, and more!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:r32WK8NylNgJ:https://www.seosmartialarts.com/+&cd=14&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Tax Fraud: Arvada Martial Arts Studio Owner Pleads Guilty ...",
+      "link": "https://patch.com/colorado/arvada/tax-fraud-arvada-martial-arts-studio-owner-pleads-guilty",
+      "displayed_link": "patch.com › colorado › tax-fraud-arvada-martial-arts-studio-owner-pl...",
+      "date": "Oct 29, 2018",
+      "snippet": "Tax Fraud: Arvada Martial Arts Owner Pleads Guilty - Arvada, CO - Marlene Seo under-reported business income to the IRS for National Martial ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HG5k0bt6ktEJ:https://patch.com/colorado/arvada/tax-fraud-arvada-martial-arts-studio-owner-pleads-guilty+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Seo's Martial Arts (@GrandMasterSeo) | Twitter",
+      "link": "https://twitter.com/grandmasterseo?lang=en",
+      "displayed_link": "twitter.com › grandmasterseo",
+      "snippet": "The latest Tweets from Seo's Martial Arts (@GrandMasterSeo). Seo's Martial Arts has been established since 1989. We don't teach just kicking, punching and ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:N9COHoTzmQQJ:https://twitter.com/grandmasterseo%3Flang%3Den+&cd=16&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://twitter.com/grandmasterseo%3Flang%3Den+seo+martial+arts&tbo=1&sa=X&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQHzAPegQIBhAJ"
+    },
+    {
+      "position": 9,
+      "title": "The SEO White Belt List for Martial Arts Schools | SEO Marketing",
+      "link": "https://zerogravitymarketing.com/seo-for-martial-arts-schools/",
+      "displayed_link": "zerogravitymarketing.com › seo-for-martial-arts-schools",
+      "date": "May 6, 2019",
+      "snippet": "Differentiate yourself from the competition and master Zero Gravity Marketings SEO White belt list for Martial Arts Academies. Click for more ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:e9fjGCdmK0YJ:https://zerogravitymarketing.com/seo-for-martial-arts-schools/+&cd=17&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "seo's martial arts tax evasion",
+      "link": "https://www.google.com/search?q=seo%27s+martial+arts+tax+evasion&sa=X&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "martial arts arvada",
+      "link": "https://www.google.com/search?q=martial+arts+arvada&sa=X&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "national martial arts academy arvada",
+      "link": "https://www.google.com/search?q=national+martial+arts+academy+arvada&sa=X&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "martial arts lakewood co",
+      "link": "https://www.google.com/search?q=martial+arts+lakewood+co&sa=X&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "karate near me",
+      "link": "https://www.google.com/search?q=karate+near+me&sa=X&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "taekwondo near me",
+      "link": "https://www.google.com/search?q=taekwondo+near+me&sa=X&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "sao martial arts",
+      "link": "https://www.google.com/search?q=sao+martial+arts&sa=X&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "master seo's martial arts",
+      "link": "https://www.google.com/search?q=master+seo%27s+martial+arts&sa=X&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=seo+martial+arts&ei=WsUlXpf3KdT1-gSB5IfYAw&start=10&sa=N&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ8NMDegQIDhBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=seo+martial+arts&ei=WsUlXpf3KdT1-gSB5IfYAw&start=10&sa=N&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ8tMDegQIDhAv",
+      "3": "https://www.google.com/search?q=seo+martial+arts&ei=WsUlXpf3KdT1-gSB5IfYAw&start=20&sa=N&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ8tMDegQIDhAx",
+      "4": "https://www.google.com/search?q=seo+martial+arts&ei=WsUlXpf3KdT1-gSB5IfYAw&start=30&sa=N&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ8tMDegQIDhAz",
+      "5": "https://www.google.com/search?q=seo+martial+arts&ei=WsUlXpf3KdT1-gSB5IfYAw&start=40&sa=N&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ8tMDegQIDhA1",
+      "6": "https://www.google.com/search?q=seo+martial+arts&ei=WsUlXpf3KdT1-gSB5IfYAw&start=50&sa=N&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ8tMDegQIDhA3",
+      "7": "https://www.google.com/search?q=seo+martial+arts&ei=WsUlXpf3KdT1-gSB5IfYAw&start=60&sa=N&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ8tMDegQIDhA5",
+      "8": "https://www.google.com/search?q=seo+martial+arts&ei=WsUlXpf3KdT1-gSB5IfYAw&start=70&sa=N&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ8tMDegQIDhA7",
+      "9": "https://www.google.com/search?q=seo+martial+arts&ei=WsUlXpf3KdT1-gSB5IfYAw&start=80&sa=N&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ8tMDegQIDhA9",
+      "10": "https://www.google.com/search?q=seo+martial+arts&ei=WsUlXpf3KdT1-gSB5IfYAw&start=90&sa=N&ved=2ahUKEwiXjIy1vZLnAhXUup4KHQHyATsQ8tMDegQIDhA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=seo+martial+arts&start=10&token=3caf790a7c29db58",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=seo+martial+arts&start=10&token=3caf790a7c29db58",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=seo+martial+arts&start=10&token=3caf790a7c29db58",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=seo+martial+arts&start=20&token=fda80fb1481fdf29",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=seo+martial+arts&start=30&token=7431dcae9196ef3d",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=seo+martial+arts&start=40&token=edc7361d3ae26a32",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=seo+martial+arts&start=50&token=a720552c1cd9829f",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=seo+martial+arts&start=60&token=6338562598612f7a",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=seo+martial+arts&start=70&token=f2ca441e7965c1aa",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=seo+martial+arts&start=80&token=2ba63b2296841350",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=seo+martial+arts&start=90&token=e1bbabcf44722fef"
+    }
+  }
+}

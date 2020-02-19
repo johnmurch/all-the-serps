@@ -1,0 +1,347 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 03:30:25 UTC",
+    "processed_at": "2020-01-21 03:30:25 UTC",
+    "google_url": "https://www.google.com/search?q=affiliatewp&oq=affiliatewp&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 1.31
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "affiliatewp",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 189000,
+    "time_taken_displayed": 0.37,
+    "query_displayed": "affiliatewp"
+  },
+  "knowledge_graph": {},
+  "inline_videos": [
+    {
+      "title": "Create an affiliate website with WordPress using AffiliateWP",
+      "link": "https://www.youtube.com/watch?v=SRnJeFCfuTE",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "PluginTut WordPress tutorials",
+      "duration": "14:56",
+      "platform": "YouTube",
+      "date": "Jan 27, 2017"
+    },
+    {
+      "title": "How To Create an Affiliate Program With Wordpress ...",
+      "link": "https://www.youtube.com/watch?v=9AkAlxg3-0I",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Darrel Wilson",
+      "duration": "18:19",
+      "platform": "YouTube",
+      "date": "Aug 17, 2018"
+    },
+    {
+      "title": "AffiliateWP - Affiliate Forms for Ninja Forms Demo",
+      "link": "https://www.youtube.com/watch?v=4Ly8Dovwkf4",
+      "thumbnail": "data:image/jpeg;base64,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",
+      "channel": "Pippin Williamson",
+      "duration": "3:10",
+      "platform": "YouTube",
+      "date": "May 13, 2015"
+    },
+    {
+      "title": "How To Add An Affiliate Program To Your WordPress Website ...",
+      "link": "https://www.youtube.com/watch?v=Fd_3Uiaf0gE",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrgZIGNYJUvomTLvD_4fRqEcPudHvcwMgCV0DtD6GT58FFFgTF4IZlN1VF",
+      "channel": "WPCrafter.com WordPress...",
+      "duration": "41:43",
+      "platform": "YouTube",
+      "date": "Apr 23, 2019"
+    },
+    {
+      "title": "AffiliateWP WordPress Affiliate system plugin",
+      "link": "https://www.youtube.com/watch?v=sv7GmOZvBwA",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbXS3P23wErlIuk33IP7_fp4rdEAPod5GYYfjYgHhPatPzTfYH0T6MeyPHZQ",
+      "channel": "SaaS Master",
+      "duration": "18:03",
+      "platform": "YouTube",
+      "date": "Dec 6, 2019"
+    },
+    {
+      "title": "Using Affiliate WP with One Click Upsells for WooCommerce",
+      "link": "https://www.youtube.com/watch?v=vdkWr4ftZmA",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-bFJJsUnhMl0EFbD0ZAtXoHYJDhZOLLf2zF2NqDXjco0hhtxmPwQ4Yna39A",
+      "channel": "WooCurve",
+      "duration": "1:18",
+      "platform": "YouTube",
+      "date": "Nov 14, 2018"
+    },
+    {
+      "title": "Ultimate Affiliate Pro - MLM Workflow Example",
+      "link": "https://www.youtube.com/watch?v=2cJI0xHFmgw",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1nZMSTwMJSy_YRcDBcpMDEGx6dghC58quddf4BjSc47Eua1YRyA1LvLdY",
+      "channel": "WPIndeed WordPress Development",
+      "duration": "2:54",
+      "platform": "YouTube",
+      "date": "Sep 14, 2017"
+    },
+    {
+      "title": "WP Affiliate Platform Plugin Installation",
+      "link": "https://www.youtube.com/watch?v=vS1dR3lBbPw",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQohIQPiZqopsxYkvRqavNC5Vo68pItgW41dGf0ATxv0D7hmfEzvcY-cS18A",
+      "channel": "Korin Iverson",
+      "duration": "4:11",
+      "platform": "YouTube",
+      "date": "Dec 26, 2016"
+    },
+    {
+      "title": "Affiliate wordpress coupon Plugin: Get Extra income using ...",
+      "link": "https://www.youtube.com/watch?v=uhSTf1_bQ84",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwL08Vca_yQLdkDaLeWgDG_NEHE00wix2LF3kS0wtEiNcAgPQDLzYUxk2l",
+      "channel": "Naya Video Channel",
+      "duration": "8:53",
+      "platform": "YouTube",
+      "date": "Mar 13, 2017"
+    },
+    {
+      "title": "How to Create an Affiliate Program in WordPress",
+      "link": "https://www.youtube.com/watch?v=DERn63AACJM",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6AUure_MjWSo-D1Z_ch7SsLGxw3w2KY8zS1MXMM_GN1XFugiPk6iI9KTFiw",
+      "channel": "LeadDyno",
+      "duration": "17:49",
+      "platform": "YouTube",
+      "date": "Jan 27, 2017"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is AffiliateWP?",
+      "snippet": "AffiliateWP is an easy-to-use, reliable WordPress plugin that gives you the affiliate marketing tools you need to grow your business and make more money.",
+      "title": "AffiliateWP - Affiliate Plugin for WordPress",
+      "link": "https://affiliatewp.com/",
+      "displayed_link": "affiliatewp.com"
+    },
+    {
+      "question": "What is the best affiliate plugin for WordPress?",
+      "snippet": "SEMRush is one of the best SEO tools on the market. ... WPForms is the most beginner-friendly WordPress contact form plugin. ... AdSanity is the best ad management plugin for WordPress. ... Affiliate Royale is a powerful affiliate tracking and management tool for businesses that want to start their own affiliate program.More items...•Feb 8, 2018",
+      "title": "10 Best Affiliate Marketing Tools and Plugins for WordPress",
+      "link": "https://www.wpbeginner.com/showcase/10-best-affiliate-marketing-tools-and-plugins-for-wordpress/",
+      "displayed_link": "www.wpbeginner.com › showcase › 10-best-affiliate-marketing-tools-an..."
+    },
+    {
+      "question": "How do I create an affiliate program in WordPress?",
+      "snippet": "How to Set Up Affiliate or Referral Program on Your WordPress SiteStep 1: Install the Plugin. ... Step 2: Define Your Settings. ... Step 3: Finish Setting Up Your Pages. ... Step 4: Integrate with Your Other Plugins. ... Step 5: Create Your Affiliate Links or Ads. ... Step 6: Acquaint Yourself with the Dashboard and Start Paying.May 4, 2018",
+      "title": "How to Set Up an Affiliate or Referral Program on Your WordPress Site",
+      "link": "https://premium.wpmudev.org/blog/how-to-set-up-an-affiliate-or-referral-program-on-your-wordpress-site/",
+      "displayed_link": "premium.wpmudev.org › blog › how-to-set-up-an-affiliate-or-referral-p..."
+    },
+    {
+      "question": "Does WordPress have an affiliate program?",
+      "snippet": "Barn2 Media affiliate program Their affiliate program pays a generous commission on sales of their range of premium WordPress plugins. Signup is free and takes less than 1 minute, with instant approval. This means you can start earning straight away through your own easy-to-use dashboard.Aug 1, 2019",
+      "title": "30+ Best WordPress Affiliate Programs, and How to Promote Them",
+      "link": "https://www.codeinwp.com/blog/affiliate-programs-for-wordpress/",
+      "displayed_link": "www.codeinwp.com › blog › affiliate-programs-for-wordpress"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "AffiliateWP - Affiliate Plugin for WordPress",
+      "link": "https://affiliatewp.com/",
+      "displayed_link": "affiliatewp.com",
+      "snippet": "AffiliateWP is the easiest and best affiliate management plugin for WordPress.",
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Pricing",
+            "link": "https://affiliatewp.com/pricing/",
+            "snippet": "Choose one of our pricing plans to start building your affiliate ..."
+          },
+          {
+            "title": "Add-ons",
+            "link": "https://affiliatewp.com/add-ons/",
+            "snippet": "Extend AffiliateWP with add-ons like Store Credit, Sign Up Bonus ..."
+          },
+          {
+            "title": "Features",
+            "link": "https://affiliatewp.com/features/",
+            "snippet": "AffiliateWP provides all the features you need to get your ..."
+          },
+          {
+            "title": "Pro add-ons",
+            "link": "https://affiliatewp.com/add-ons/pro/",
+            "snippet": "Affiliate Landing Pages - Direct Link Tracking - Signup Referrals"
+          },
+          {
+            "title": "Support",
+            "link": "https://affiliatewp.com/support/",
+            "snippet": "We're here to help! Get support for AffiliateWP, an affiliate ..."
+          },
+          {
+            "title": "Integrations",
+            "link": "https://affiliatewp.com/integrations/",
+            "snippet": "AffiliateWP integrates beautifully with popular eCommerce ..."
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PSZm2IwoojwJ:https://affiliatewp.com/+&cd=1&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://affiliatewp.com/+affiliatewp&tbo=1&sa=X&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQHzAAegQIBhAI"
+    },
+    {
+      "position": 2,
+      "title": "AffiliateWP – Affiliate Product Rates – WordPress plugin ...",
+      "link": "https://wordpress.org/plugins/affiliatewp-affiliate-product-rates/",
+      "displayed_link": "wordpress.org › WordPress Plugins",
+      "snippet": "At its most basic level AffiliateWP allows you to set a global referral rate which all affiliates share. For integrations that support per-product referral rates, affiliates ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5,
+            "vote": 1
+          },
+          "extensions": [
+            "Rating: 5",
+            "1 vote",
+            "Free"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:tXBuEWKcFDEJ:https://wordpress.org/plugins/affiliatewp-affiliate-product-rates/+&cd=18&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://wordpress.org/plugins/affiliatewp-affiliate-product-rates/+affiliatewp&tbo=1&sa=X&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQHzARegQIARAL"
+    },
+    {
+      "position": 3,
+      "title": "AffiliateWP – Allowed Products – WordPress plugin ...",
+      "link": "https://wordpress.org/plugins/affiliatewp-allowed-products/",
+      "displayed_link": "wordpress.org › WordPress Plugins",
+      "snippet": "This plugin allows you to choose which products on your site should earn commission for your affiliates. Although AffiliateWP allows you to disable commission ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5,
+            "vote": 1
+          },
+          "extensions": [
+            "Rating: 5",
+            "1 vote",
+            "Free"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XNs3JieYiNcJ:https://wordpress.org/plugins/affiliatewp-allowed-products/+&cd=27&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://wordpress.org/plugins/affiliatewp-allowed-products/+affiliatewp&tbo=1&sa=X&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQHzAaegQIAxAL"
+    },
+    {
+      "position": 4,
+      "title": "AffiliateWP - Pippins Plugins",
+      "link": "https://pippinsplugins.com/products/affiliatewp/",
+      "displayed_link": "pippinsplugins.com › products › affiliatewp",
+      "snippet": "AffiliateWP provides a complete affiliate management system for your WordPress website that seamlessly integrates with all major WordPress e-commerce and ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YMS5i_Q6oSAJ:https://pippinsplugins.com/products/affiliatewp/+&cd=28&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://pippinsplugins.com/products/affiliatewp/+affiliatewp&tbo=1&sa=X&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQHzAbegQIBBAJ"
+    },
+    {
+      "position": 5,
+      "title": "AffiliateWP Integration - LifterLMS - Buy Online",
+      "link": "https://lifterlms.com/product/affiliatewp/",
+      "displayed_link": "lifterlms.com › Products",
+      "snippet": "Expand your course and membership sales through affiliate marketing. Record referrals and track affiliate commissions in AffiliateWP via LifterLMS course and ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "": 99
+          },
+          "extensions": [
+            "$99.00",
+            "In stock"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:44CsLQfhmIIJ:https://lifterlms.com/product/affiliatewp/+&cd=29&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://lifterlms.com/product/affiliatewp/+affiliatewp&tbo=1&sa=X&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQHzAcegQIBRAL"
+    },
+    {
+      "position": 6,
+      "title": "How to setup AffiliateWP on your WordPress website -",
+      "link": "https://plugintut.com/setup-affiliatewp-wordpress-website/",
+      "displayed_link": "plugintut.com › Blog",
+      "date": "Jan 28, 2017",
+      "snippet": "Luckily for us, there's AffiliateWP from the makers of Easy Digital Downloads and Restrict Content Pro. If you've been following along with the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HVVoOzFHcysJ:https://plugintut.com/setup-affiliatewp-wordpress-website/+&cd=30&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://plugintut.com/setup-affiliatewp-wordpress-website/+affiliatewp&tbo=1&sa=X&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQHzAdegQIAhAL"
+    }
+  ],
+  "related_search_boxes": [
+    {
+      "position": 1,
+      "query": "Top affiliate marketing platforms",
+      "results": []
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "affiliatewp license",
+      "link": "https://www.google.com/search?q=affiliatewp+license&sa=X&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ1QIoAHoECAoQAQ"
+    },
+    {
+      "query": "affiliatewp addons",
+      "link": "https://www.google.com/search?q=affiliatewp+addons&sa=X&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ1QIoAXoECAoQAg"
+    },
+    {
+      "query": "affiliatewp nulled",
+      "link": "https://www.google.com/search?q=affiliatewp+nulled&sa=X&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ1QIoAnoECAoQAw"
+    },
+    {
+      "query": "affiliatewp screenshots",
+      "link": "https://www.google.com/search?q=affiliatewp+screenshots&sa=X&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ1QIoA3oECAoQBA"
+    },
+    {
+      "query": "affiliatewp tutorials",
+      "link": "https://www.google.com/search?q=affiliatewp+tutorials&sa=X&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ1QIoBHoECAoQBQ"
+    },
+    {
+      "query": "affiliatewp shopify",
+      "link": "https://www.google.com/search?q=affiliatewp+shopify&sa=X&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ1QIoBXoECAoQBg"
+    },
+    {
+      "query": "affiliatewp integrations",
+      "link": "https://www.google.com/search?q=affiliatewp+integrations&sa=X&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ1QIoBnoECAoQBw"
+    },
+    {
+      "query": "affiliatewp woocommerce",
+      "link": "https://www.google.com/search?q=affiliatewp+woocommerce&sa=X&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ1QIoB3oECAoQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=affiliatewp&ei=UnAmXoC5DYG28gK2j5C4BA&start=10&sa=N&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ8NMDegQICxBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=affiliatewp&ei=UnAmXoC5DYG28gK2j5C4BA&start=10&sa=N&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ8tMDegQICxAu",
+      "3": "https://www.google.com/search?q=affiliatewp&ei=UnAmXoC5DYG28gK2j5C4BA&start=20&sa=N&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ8tMDegQICxAw",
+      "4": "https://www.google.com/search?q=affiliatewp&ei=UnAmXoC5DYG28gK2j5C4BA&start=30&sa=N&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ8tMDegQICxAy",
+      "5": "https://www.google.com/search?q=affiliatewp&ei=UnAmXoC5DYG28gK2j5C4BA&start=40&sa=N&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ8tMDegQICxA0",
+      "6": "https://www.google.com/search?q=affiliatewp&ei=UnAmXoC5DYG28gK2j5C4BA&start=50&sa=N&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ8tMDegQICxA2",
+      "7": "https://www.google.com/search?q=affiliatewp&ei=UnAmXoC5DYG28gK2j5C4BA&start=60&sa=N&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ8tMDegQICxA4",
+      "8": "https://www.google.com/search?q=affiliatewp&ei=UnAmXoC5DYG28gK2j5C4BA&start=70&sa=N&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ8tMDegQICxA6",
+      "9": "https://www.google.com/search?q=affiliatewp&ei=UnAmXoC5DYG28gK2j5C4BA&start=80&sa=N&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ8tMDegQICxA8",
+      "10": "https://www.google.com/search?q=affiliatewp&ei=UnAmXoC5DYG28gK2j5C4BA&start=90&sa=N&ved=2ahUKEwiAqoq74JPnAhUBm1wKHbYHBEcQ8tMDegQICxA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliatewp&start=10&token=0808e1c99605c65a",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliatewp&start=10&token=0808e1c99605c65a",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliatewp&start=10&token=0808e1c99605c65a",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliatewp&start=20&token=69ae84feb4593802",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliatewp&start=30&token=23b02d1d2af9f97c",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliatewp&start=40&token=2269540299beb308",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliatewp&start=50&token=c08e8024f101dcf4",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliatewp&start=60&token=8df5089a0f0e9d37",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliatewp&start=70&token=1c93e6589b7b74a5",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliatewp&start=80&token=16ab8f17fdabb66b",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliatewp&start=90&token=b41d4ce218ee2e46"
+    }
+  }
+}

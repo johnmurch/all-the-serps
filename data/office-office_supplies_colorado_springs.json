@@ -1,0 +1,288 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:35:01 UTC",
+    "processed_at": "2020-01-21 22:35:01 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+colorado+springs&oq=office+supplies+colorado+springs&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.92
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies colorado springs",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 93900000,
+    "time_taken_displayed": 0.61,
+    "query_displayed": "office supplies colorado springs"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "bottom",
+      "title": "Office Depot® Official Site | Get Your Business Basics‎",
+      "link": "https://www.officedepot.com/a/browse/office-supplies/N=5+1676/",
+      "displayed_link": "www.officedepot.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwimieKm4JXnAhXAIK0GHVTeCDwYABAAGgJwdg&sig=AOD64_1kF_UTaXr1hkfWLNs_S0if--3T9A&q=&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q0Qx6BAgPEAE&adurl=",
+      "description": "Buy Office Furniture, Supplies, and Accessories at Low Prices. Shop Now! Let's Get Possible Done. Shop Office Depot® Online Today! Check Order Status. Live Chat Available. Store Locator. Download App. Brands: Harland Clarke, LUX, Scholastic, Avery, ComplyRight, 3M.",
+      "sitelinks": [
+        {
+          "title": "Shop Our Deal Center",
+          "link": "https://www.officedepot.com/catalog/search.do?N=5+1676&cbxRefine=549384/"
+        },
+        {
+          "title": "Plan The Best Year Yet",
+          "link": "https://www.officedepot.com/a/browse/calendars-and-planners/N=5+1131206+549384&viewAllSkus=true/"
+        },
+        {
+          "title": "Binders & Accessories",
+          "link": "https://www.officedepot.com/a/browse/binders-and-accessories/N=5+2155/?"
+        }
+      ]
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+colorado+springs&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=38834215,-104765989,6207&tbm=lcl&sa=X&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4QtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 38.834215,
+      "longitude": -104.765989,
+      "altitude": 6207
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+colorado+springs&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=38834215,-104765989,6207&tbm=lcl&sa=X&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4QjGp6BAgLEEY",
+    "places": [
+      {
+        "position": 1,
+        "title": "OfficeMax",
+        "place_id": "18264267421756098443",
+        "lsig": "AB86z5WpSbqlKCb-9yIvQ_fB_ZTZ",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WpSbqlKCb-9yIvQ_fB_ZTZ&ludocid=18264267421756098443&q=office+supplies+colorado+springs&tbm=lcl&token=cdfc9e37b6798847",
+        "rating": 3.7,
+        "reviews": 77,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "Colorado Springs, CO",
+        "phone": "In Cheyenne Mountain Shopping Center",
+        "description": "Mainstay for office supplies & more",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 38.7930354,
+          "longitude": -104.8021446
+        }
+      },
+      {
+        "position": 2,
+        "title": "Staples",
+        "place_id": "3331760453873392130",
+        "lsig": "AB86z5Vo6xNcZb8PLcRdYCo1No3z",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Vo6xNcZb8PLcRdYCo1No3z&ludocid=3331760453873392130&q=office+supplies+colorado+springs&tbm=lcl&token=6e9d7cb0e00f1bd1",
+        "rating": 3.9,
+        "reviews": 95,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "Colorado Springs, CO",
+        "phone": "In First & Main Town Center",
+        "description": "Brand-name electronics & office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 38.874995,
+          "longitude": -104.71752800000002
+        }
+      },
+      {
+        "position": 3,
+        "title": "Sweet Office Supplies",
+        "place_id": "13119291850039259171",
+        "lsig": "AB86z5UaHfOvoV1bf2y7ksT30lDg",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5UaHfOvoV1bf2y7ksT30lDg&ludocid=13119291850039259171&q=office+supplies+colorado+springs&tbm=lcl&token=d0eaa8bd7513aa6b",
+        "rating": 5,
+        "reviews": 2,
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 5PM · (719) 630-7354",
+        "address": "Colorado Springs, CO",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 38.875395,
+          "longitude": -104.81445199999999
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Top 10 Best Office Supply Store in Colorado Springs, CO ...",
+      "link": "https://www.yelp.com/search?find_desc=office+supply+store&find_loc=Colorado+Springs%2C+CO",
+      "displayed_link": "www.yelp.com › search › find_loc=Colorado+Springs,+CO",
+      "snippet": "I would review the Office Depot on 8th Street in Colorado Springs as an outstanding store with great customer service. Zach, the manager, stepped up…” ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:urGyUA1BQ1UJ:https://www.yelp.com/search%3Ffind_desc%3Doffice%2Bsupply%2Bstore%26find_loc%3DColorado%2BSprings%252C%2BCO+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Top 10 Best Office Supplies in Colorado Springs, CO - Last ...",
+      "link": "https://www.yelp.com/search?find_desc=office+supplies&find_loc=Colorado+Springs%2C+CO",
+      "displayed_link": "www.yelp.com › search › find_loc=Colorado+Springs,+CO",
+      "snippet": "Staples. 3.8 mi. 16 reviews. Officemax. 4.1 mi. 10 reviews. Office Depot. 4.1 mi. 6 reviews. Office Depot. 5.0 mi. 13 reviews. Total Office Solutions. 4.0 mi. Office Equipment. FedEx Office Print & Ship Center. 4.1 mi. 9 reviews. Staples. 13.8 mi. 9 reviews. Cartridge World. 5.0 mi. $$ Office Equipment.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:G_J_5yyCeJcJ:https://www.yelp.com/search%3Ffind_desc%3Doffice%2Bsupplies%26find_loc%3DColorado%2BSprings%252C%2BCO+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Office Max in COLORADO SPRINGS,CO - 1640 CHEYENNE ...",
+      "link": "https://www.officedepot.com/storelocator/co/colorado-springs/officemax-6554/",
+      "displayed_link": "www.officedepot.com › storelocator › officemax-6554",
+      "snippet": "OfficeMax colorado springs, CO Store #6554. 1640 CHEYENNE MOUNTAIN BLVD, CHEYENNE MOUNTAIN SHOPPING CENTER. ... From The Store Manager: Julie Nily.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9c4cQdYXLuMJ:https://www.officedepot.com/storelocator/co/colorado-springs/officemax-6554/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Staples® New Center Point, Colorado Springs, 80922 | Store ...",
+      "link": "https://stores.staples.com/co/colorado-springs/2955-new-center-point",
+      "displayed_link": "stores.staples.com › CO › Colorado Springs",
+      "snippet": "Visit this Colorado Springs Staples® for office supplies & furniture, school supplies, printers, ink & toner, copy paper, computers, technology, and more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MutOEttndoYJ:https://stores.staples.com/co/colorado-springs/2955-new-center-point+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Total Office: Office Supplies Products, Colorado Springs ...",
+      "link": "https://total-office.com/",
+      "displayed_link": "total-office.com",
+      "snippet": "Total Office provides all the office supplies products and expertise to keep your office running – so you can successfully run the business. Learn more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PJGxQVnR15QJ:https://total-office.com/+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Sweet Office Supplies | Colorado Springs, Colorado",
+      "link": "http://sweetofficesupplies.com/",
+      "displayed_link": "sweetofficesupplies.com",
+      "snippet": "Sweet Office Supplies is a Colorado Springs company focused on providing excellent customer service and expertise. Make life a \"piece of cake\" today!",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:ydc4SYAvsgcJ:sweetofficesupplies.com/+&cd=9&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:sweetofficesupplies.com/+office+supplies+colorado+springs&tbo=1&sa=X&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4QHzAIegQIBhAH"
+    },
+    {
+      "position": 7,
+      "title": "Colorado Springs Office Supplies, Office Furniture, Break ...",
+      "link": "https://shop.toscs.net/",
+      "displayed_link": "shop.toscs.net",
+      "snippet": "For quality Colorado Springs office supplies and office furniture, trust Total Office Solutions to help keep your business running smoothly!",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Shop Total Office Solutions",
+            "link": "http://shop.toscs.net/P1048/DesktopDefault.aspx?Alias=TotalOfficeSolutions&TabID=42427"
+          },
+          {
+            "title": "Need Help?",
+            "link": "http://shop.toscs.net/P1048/DesktopDefault.aspx?Alias=TotalOfficeSolutions&TabID=54806"
+          },
+          {
+            "title": "Orders",
+            "link": "http://shop.toscs.net/P1048/DesktopDefault.aspx?Alias=TotalOfficeSolutions&TabID=42402"
+          },
+          {
+            "title": "My Lists",
+            "link": "http://shop.toscs.net/P1048/DesktopDefault.aspx?Alias=TotalOfficeSolutions&TabID=42406"
+          }
+        ]
+      }
+    },
+    {
+      "position": 8,
+      "title": "Best 30 Office Supply Store in Colorado Springs, CO with ...",
+      "link": "https://www.yellowpages.com/colorado-springs-co/office-supply-store",
+      "displayed_link": "www.yellowpages.com › Colorado Springs, CO",
+      "date": "63 results",
+      "snippet": "Office Supply Store in Colorado Springs on YP.com. See reviews, photos, directions, phone numbers and more for the best Office Equipment ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lp8XfMqoTKcJ:https://www.yellowpages.com/colorado-springs-co/office-supply-store+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Business and Office Supplies | Pak Mail Colorado Springs South",
+      "link": "https://www.pakmail.com/office-supplies/pak-mail-colorado-springs",
+      "displayed_link": "www.pakmail.com › office-supplies › pak-mail-colorado-springs",
+      "snippet": "Pak Mail Colorado Springs Southis a one-stop-shop for all your business and office supply needs. Do you need just one envelope instead of an entire box?",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:m9iHy1T8QQYJ:https://www.pakmail.com/office-supplies/pak-mail-colorado-springs+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Colorado Springs Office Depot Weekly Ad Office Supplies ...",
+      "link": "https://officedepot.shoplocal.com/officedepotsd/weeklyad/category?storeid=2626272&cattreeid=5210636&fromsitemap=y",
+      "displayed_link": "officedepot.shoplocal.com › officedepotsd › weeklyad › category › st...",
+      "snippet": "Colorado Springs Office Depot Weekly Ad Office Supplies - low prices on Office Supplies!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Y533KUyB6QEJ:https://officedepot.shoplocal.com/officedepotsd/weeklyad/category%3Fstoreid%3D2626272%26cattreeid%3D5210636%26fromsitemap%3Dy+&cd=13&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office depot colorado springs",
+      "link": "https://www.google.com/search?q=office+depot+colorado+springs&sa=X&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "staples colorado springs",
+      "link": "https://www.google.com/search?q=staples+colorado+springs&sa=X&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q1QIoAXoECA0QAg"
+    },
+    {
+      "query": "office max colorado springs",
+      "link": "https://www.google.com/search?q=office+max+colorado+springs&sa=X&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q1QIoAnoECA0QAw"
+    },
+    {
+      "query": "office supply store near me",
+      "link": "https://www.google.com/search?q=office+supply+store+near+me&sa=X&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q1QIoA3oECA0QBA"
+    },
+    {
+      "query": "office max colorado springs locations",
+      "link": "https://www.google.com/search?q=office+max+colorado+springs+locations&sa=X&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q1QIoBXoECA0QBg"
+    },
+    {
+      "query": "office supplies online",
+      "link": "https://www.google.com/search?q=office+supplies+online&sa=X&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q1QIoBnoECA0QBw"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+colorado+springs&ei=lnwnXuCUO86d-gSgspfwCg&start=10&sa=N&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q8NMDegQIDhBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+colorado+springs&ei=lnwnXuCUO86d-gSgspfwCg&start=10&sa=N&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q8tMDegQIDhAu",
+      "3": "https://www.google.com/search?q=office+supplies+colorado+springs&ei=lnwnXuCUO86d-gSgspfwCg&start=20&sa=N&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q8tMDegQIDhAw",
+      "4": "https://www.google.com/search?q=office+supplies+colorado+springs&ei=lnwnXuCUO86d-gSgspfwCg&start=30&sa=N&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q8tMDegQIDhAy",
+      "5": "https://www.google.com/search?q=office+supplies+colorado+springs&ei=lnwnXuCUO86d-gSgspfwCg&start=40&sa=N&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q8tMDegQIDhA0",
+      "6": "https://www.google.com/search?q=office+supplies+colorado+springs&ei=lnwnXuCUO86d-gSgspfwCg&start=50&sa=N&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q8tMDegQIDhA2",
+      "7": "https://www.google.com/search?q=office+supplies+colorado+springs&ei=lnwnXuCUO86d-gSgspfwCg&start=60&sa=N&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q8tMDegQIDhA4",
+      "8": "https://www.google.com/search?q=office+supplies+colorado+springs&ei=lnwnXuCUO86d-gSgspfwCg&start=70&sa=N&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q8tMDegQIDhA6",
+      "9": "https://www.google.com/search?q=office+supplies+colorado+springs&ei=lnwnXuCUO86d-gSgspfwCg&start=80&sa=N&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q8tMDegQIDhA8",
+      "10": "https://www.google.com/search?q=office+supplies+colorado+springs&ei=lnwnXuCUO86d-gSgspfwCg&start=90&sa=N&ved=2ahUKEwjgt9qm4JXnAhXOjp4KHSDZBa4Q8tMDegQIDhA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+colorado+springs&start=10&token=94d39a12efa3d1ff",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+colorado+springs&start=10&token=94d39a12efa3d1ff",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+colorado+springs&start=10&token=94d39a12efa3d1ff",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+colorado+springs&start=20&token=ca45cf0b19f4a6f8",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+colorado+springs&start=30&token=413018ebc977581b",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+colorado+springs&start=40&token=ec838b0fa0615c92",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+colorado+springs&start=50&token=b64572886bda9e1c",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+colorado+springs&start=60&token=996b6534fed470b5",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+colorado+springs&start=70&token=3e5f20fbe967a02a",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+colorado+springs&start=80&token=35ec0ad9bcdf6482",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+colorado+springs&start=90&token=4f3e8af0dccc639b"
+    }
+  }
+}

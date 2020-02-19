@@ -1,0 +1,291 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 15:09:15 UTC",
+    "processed_at": "2020-01-21 15:09:15 UTC",
+    "google_url": "https://www.google.com/search?q=affiliate+url&oq=affiliate+url&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 9.28
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "affiliate url",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 184000000,
+    "time_taken_displayed": 0.4,
+    "query_displayed": "affiliate url"
+  },
+  "knowledge_graph": {},
+  "inline_videos": [
+    {
+      "title": "How To Create & Track Affiliate Link ( URL) Using Google ...",
+      "link": "https://www.youtube.com/watch?v=I-SA9keEg3U",
+      "thumbnail": "data:image/png;base64,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",
+      "channel": "Digital Nest",
+      "duration": "12:19",
+      "platform": "YouTube",
+      "date": "Jan 10, 2017"
+    },
+    {
+      "title": "How To Make Your Affiliate URL Link",
+      "link": "https://www.youtube.com/watch?v=2rZcDZ5pydU",
+      "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAHMAzQMBIgACEQEDEQH/xAAcAAABBAMBAAAAAAAAAAAAAAAAAQIEBQYHCAP/xABEEAABAwICBQgGBwYGAwAAAAABAAIDBBEFIQYSMZLRExQWIkFRUpEVU1VhcZMyM1SBobHwIzRWYnLBByRCguHxJURj/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAiEQEAAgIDAAMAAwEAAAAAAAAAAQIREwMUUSExUgQyQRL/2gAMAwEAAhEDEQA/ANXx6DaUyfV4DXOt4YiU/oDpd/DuI/IK6YlwyGWKKiNZIyeKQTFsJaHHaBkc7e/LYpXJQzm7ais67narWTttftsAexCZhy70B0u/h3EfkFHQHS7+HcR+QV1G6hidGI+UrxY3JFT1ibAbb+73dqR9DE8hxlrsu0VFv7q4TMOXegOl38O4j8grzfoPpTGbPwKuabXsYiuq6WnFK14a+rcH7eVlDvK5VVWYlhkjWBlZZ0RILn5ki/aVYpa31DM3rX7lzR0K0m9iVny0g0L0lOzBKz5a6DqIcMmlL3YpK0u7WPcB+aR8OHOLnelpW53ycbA3utaeTxndx/pz70L0m9iVny0dC9JfYlZ8tdACDDrH/wAxNn23OQT4Y8PjILcVe/q6tndYH3lNPJ4buP1z50L0l9i1ny0dC9JvYlZ8tdDNFAG2GI3GYuWm+f8AwnMNDExjPSAIAsC5puU08ni7uP1zv0L0m9i1m4joXpN7FrNxdE8rQe0I91HK0HtBm6mnk8N3H6526F6TexazcR0L0m9i1m4uieVoPaMe6pdLRMq2B1NUtkvssBn911J471+4WOSs/Uua+hek3sWs3EdC9JvYtZuLpz0JUd7t0cUehKjvduDis4azDmPoXpN7FrNxHQvSb2LWbi6c9CVHe7cHFHoSo73bg4pgzDmPoXpN7FrNxHQvSb2LWbi6c9CVHe7cHFHoSo73bg4pgzDmPoXpN7FrNxHQvSb2LWbi6c9CVHe7cHFHoSo73bg4pgzDmPoXpN7FrNxHQvSb2LWbi6c9CVHe7cHFHoSo73bg4pgzC5NBGak1LWRtqC0MMoaC7V7r921M9Gs5SOTqa8RcY3cm27S7bbLtUy6LqGEF2EQvfruDNbbcMAz79iT0NTXJ1I7ki/UbnbZ2KfdF1cmEH0TDt1WXta+oOCinRqlJcS+TM3yeri6LrVeS1P6zhm3HW39oU/Rmk9ZLvpHaMUjhYvlsf51c3Rdb7HL+mdHH+YU/Rql9ZNvoOjVKQevKP96uLounY5f0aOPxSu0XonEEvly/nSnRmiBB15bjIddXN1SaS12K0bYDhMBmvr8oBE55BAGqOqDtz2+adjl/Upo4vyd0apPWS5fzo6NUbQf2koG09cqsZiekT21jRRvZM2YNp2GndqujMjRrF2y4aSdp/BDK/SJ9PJr4beqczVhDo8o3mR7SXdYNNmAHIi9wL5p2OX9HX4vzCyOjdET9bJl/9FJpcFhppGviJ123sXAEi+3s9yq24pX1EMzK7DKiKQ0rXRtELiGzWeHjXbkBcNsbjI3ulosZqZMRipzIDecxuZyZsGBpsQ++ZuB5rFuW9vi0utP49Ij/AKrGGQiOe37wd0cEcnP9oO6OCfdF1nJgzk5/tB3RwRyc/wBoO6OCfdF0yYM5Of7Qd0cEcnP9oO6OCfdF0yYM5Of7Qd0cEcnP9oO6OCfdF0yYM5Of7Qd0cEcnP9oO6OCfdI57WfTe1t9l0yYJdF0xCin3RdMQgfdF0xCB90XTEIH3RdMQgfdMlaX21ZHtt2NtmhBvYgGxIyKBnIu1iRUS59gI4I5F1/3iU+XBVkNLjjamN82J0r4A+72ClILh3A3y/H4qyqWzPgc2mkbHLlZzm3AzF8vggHQPP/sS7dgt5bEnNhfWbK5p25AcFBpaXGIqxjqjEYZaYZOjFOGuOW2/xsrNt7DWNyBnYWugZyL+2plPlwQIn3vziXbsy4KtdSY24j/ylOxov1W0wOt3Zk5dilYfDXRQ2r6yOok1rlzItQWzytf4d+xBJZC9r9YzyuHhNrfkvW6i1rKmSnLaOZkUpIs97dYAXzyVeKXHw4OOKUr22N282tnbbe/Yfd3e+4XV0XUDDosQiMvpCqhnBADBHFqapzvfv2t8vekxCLEZS04dWRU9tvKRa47ezL3doQWF+5F1UQ02NiWMzYpTvjBBeBTWLs87G+XcrRtx9I3N+5A+68KmEz6tnBurfa0O/NRZocTNa18VbAKbXaTC6LravVv1vudve5Tvigj6p8b948Uane9++eKchA3UHjk3zxRqDxyb7uKchA3UHjk3zxRqDxyb54pyEDdQeOTfdxRqDxyb5TkIG6g8cm+eKNQeOTfPFOQgbqDxyb54oLQB9OTfKchjHSSFjCG2AOYugjxT08z9WOoL3W1rB7r2/RTZKmnjkMck5a69rF7x2X/up5p5fWt3TxSCmltblG2GzI8UERskTqcztlc6OxdrBzjkL3/JeYrKQloFUCX/AEbPdmrDmsnrWn4g8Uc2l9a3yPFBXc9o7fvY+Y5esssULGvklc1pNgS51lM5vL6xvkeKObS+sbf4HigrxW0rrgVN7Ak2c/s+5EdZSSPaxtVd7jYDXdcqw5tL60fcDxRzaX1rfI8UER8kURHKzFt9l3u/XavPnVMbgTuy29Z/Z9ync1ktblG+R4pebS3+sb5HiixhAFXTHbUOzF83PHu7vcUvOaYAf5g2JtfWfa6nc2l9a3yPFHNpPWN8jxRc18QecU9v3jZ3SOy/VkongP0agH4PdwU3m0mV5G+R4pObS+tHkeKHw80IQjIQhCAQhCAQhCAQhCAXpSfXv/oH5lea9KT69/8AQPzKBK/EI6Es5UHVdck9wCjvxumBc2MSPeOxoFvP8FLq21NwaYxZZkSA5n4jZldRmDFQ3rCiLrdzrXvwV+E+Xk7H6X/Q2R3aLAbPNelRjEMEj2uY46o1jYjuvb45jLuzStGKO1w7mjer1dUE3Odjt70rW4pcEtozYfzZnvTMJiXkcciEEsvJu/ZFoIvtv3eSX07Riw/aF5/0huf39y9THiVmHWpT4xquse5EfpLWIkFJY3+jrZZJmDEvI47S26jZXki4aABfzKWfHKaneeVa9rBGJNb3G3Z969WjES86zKYR595PuSMbiQZ1m0hdYC41s/13J8Hya7GaVpLXl4INtg4/D9AprMap5KZ00YcQ1waQbC1/+inluKBrSOaF2qdZpDrX7LHuSgYkYTlR8oSLfSsBx2J8LiTPTlJrBt3kluvk2+SfDi9PNUMgYJOUebAFtuwn8hdI5mJjU1TSE6o17gjO+dvwT3sxEW1ObE2zuCM0zBiU5CiUhrjM/nTIGxW6pjJuTfgpaioCFg501qCco4B7rE/3SdNKo/6IB/tPFdtF3PbVnKFg3TOq8MO6eKOmdV4YN08U0XNtWcoWDdM6rww+R4o6Z1Xhh3TxTRc2VZyhYN00qvDD5HijppVeGHdPFNFzbVnKFg3TOq8MPl/yjpnVeGHdPFNFzbVnK9KT69/9A/MrAumlSeyDyPFekOmdU17nBsF7W+ieKaLm2rOK+mnqSwQVj6cD6Wo0ElQX4Zibr6uOSty9S37ljJ03rB2U+4eKDptWW+hT7v8Aymi5tqzKlpqmOpfLPWOmYQA2LVADTlc/h+KkyskcepMWDZk0FawrP8UZ4JNSGKCW30nAED8160f+JktS4MDImPPY5h/O6aLm2rZLY5A8OdOXAD6OqBdY1jWAYlX0NTT08tNHJISWyGR41uuHZ2GWQIyVX02rT2U+6eKDptWW2U+6eKzb+Ja0xM/4k8lJ+zabQvGY/RwfX03+WP7TVklz/al2XfkQM0lVobjckUOpPhjjE9h1JOU1JQNbN+VyesPJUlZp/iNJIdW0mu4kXeQB8PcrDCtPq2eIuc2K5ANnAm34rem5NqSfhegeNUuO0VdPV0TooJIHv1JJNYBjXBzWjVtYkjt7FsqywDptWeGn3DxR02rPDBuHirbi5LYyu2rP0LAOmtZ3U+4eKZLp1VRRl7mwEDbaMn+6z17m2rYSFr6PTmpkYHtZTlp/kPFeg04q/VU+6eKaLm2rBuaSA9qOaydxW0OjWHeGb5pR0aw7wzfMXbsx45aJav5pJ3FHNZO4raHRrDvDN8xHRvDvDN8xOzHhplq/mkncUc0k7itodG8O7pvmI6NYd4ZvmFOzHhplrOKF7WSNMbXawtd21vwXq8PewB1NGSLAOta1v+vxWx+jWHeGb5hR0aw7wzfMKnYr4umWuJ2maIRmmjbqnquGRHx705/WJJoobnPK62L0aw7wzfMR0aw7wzfMTsV8XTPrXIB1SOaxEa2tsOWQCdFbWeG0cWzbYrYnRrDvDN8xOp9GcNdK4Fs1g0H6z4p2K+GmWu5C2Nhk5tGyzTrE3ItlwWP4hi4qgY2UzI4m5ZXu74rctfobhtXRTU7TPEZGFokD7lpPbY5LDcU/wvqaahvh9eap7GG5exrXuPuysfhl8U7FfDTLXccD53M5vAwEHrWFwRl3rIqGiDGNBoYWuA+l+v1ks+wPQmkjhtI6UjxggXHltP4KFQQQTaRuoHQ/5bnktO1gcQ9oYy4eTftIPZ2juzsc0T/iTxTDHg02zpYnHvN/d70PaXMAFLE22eV1svovhlvozfNKHaL4YGk6suz1pTsV8NUtG43cGINp4mEA9YZn8VKwKmkMWt3tC2DW6OYW8gujkdYdrr/2UzR3R7DpJpYiyUMY0FoD7WzUj+RHi6ZYNzWXuUbEmS0tK6S+qSQ0OPZc7Vt7othngl+YVW4/oRS4hRsiopZIJGzNfrE61wNoz71e1XxnRLV1TQClpjM2Rxkt1Xlxu4/3UFrJpMWqIXOcWljurrZDILcdRoJg76aaOmjfBLIwtErXXLb7bXUiXQ7CC15jgc2VzSA7WzTsx4uhqjDYZJaGJze6yk81l7lsPDdD4KZ0sc7HOjc/XaWyW1b7R7+xWI0WwvtZN84p2o8NEpoQUIXjegIQhAIQhAIQhAIQhAJ9L9e/+gfmUIQS0HYkQigKNzSmZVmqZTwtqHizpQwB5GWRO3sCEJCJPYg7EiEFa6khD7BpA/qPFSaKCOMvcxtjsvcnJCEEtKhCKRCEIE7UqEIj/9k=",
+      "channel": "Serialio, Ltd.",
+      "duration": "2:20",
+      "platform": "YouTube",
+      "date": "Mar 10, 2016"
+    },
+    {
+      "title": "Edit Your Streamlabs Affiliate URL - Custom Affiliate Link ...",
+      "link": "https://www.youtube.com/watch?v=X3zZgxSLbn4",
+      "thumbnail": "data:image/png;base64,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",
+      "channel": "Gauging Gadgets",
+      "duration": "2:14",
+      "platform": "YouTube",
+      "date": "Feb 15, 2019"
+    },
+    {
+      "title": "Create Amazon Short URL with Affiliate Link-amzn.to",
+      "link": "https://www.youtube.com/watch?v=V7gvnL08yi0",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpKbXNp2yvcjEzJfWiAJmThY6ysw1QWcZLrrFD090Gn16c6yKdbbnepP2n",
+      "channel": "ashoutdotcom",
+      "duration": "1:24",
+      "platform": "YouTube",
+      "date": "Jan 17, 2014"
+    },
+    {
+      "title": "Pretty links – WordPress Affiliate URL Shortener Plugin Tutorial",
+      "link": "https://www.youtube.com/watch?v=xyp_N69HWm0",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwcMetiR_i05v4REV9NsG2GfbZXtTPqK2GZNYx9SKI2TnoGrH1IhvS_hSk",
+      "channel": "Imran Emu",
+      "duration": "7:37",
+      "platform": "YouTube",
+      "date": "Nov 25, 2018"
+    },
+    {
+      "title": "How to Create a Custom Post Type for Affiliate Links",
+      "link": "https://www.youtube.com/watch?v=PvqrqGklhbY",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYdMXeqGzL4pH95yYuPjpsiHHF_wVXl0XrXPrd2T1pd1dfY6jZ1gyScdqyIA",
+      "channel": "Tips and Tricks HQ",
+      "duration": "10:38",
+      "platform": "YouTube",
+      "date": "May 28, 2017"
+    },
+    {
+      "title": "How-to Use EZ-Link Affiliate URL Generator for B&H Photo",
+      "link": "https://www.youtube.com/watch?v=RWWmHffSsY0",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3hkZLPC4r8ZbLPHLgXZq0y1N2V9v5J9_masKc4wWV5wYodf-WWQ_oyO6oyQ",
+      "channel": "DIY GEEK",
+      "duration": "1:22",
+      "platform": "YouTube",
+      "date": "Feb 4, 2018"
+    },
+    {
+      "title": "Microsoft Ads: How to Direct Link Affiliate Products Without ...",
+      "link": "https://www.youtube.com/watch?v=Acw_COOLSSU",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_BsB5buRYpNKe5N4h1g5fZdQkbHxHOUAxDD7ikWl2wty0vM6AKyxu0JF7tg",
+      "channel": "Online Marketing...",
+      "duration": "12:26",
+      "platform": "YouTube",
+      "date": "Apr 13, 2018"
+    },
+    {
+      "title": "How To Cloak Affiliate Links - How To Redirect and Hide ...",
+      "link": "https://www.youtube.com/watch?v=B0GHN8zXtVo",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj_-No9hAagptw3AqoUhJpLycNBUWMk5il0UcItbjTcm7t9IwqUQoeXlNJ1w",
+      "channel": "Internet Marketing Insider",
+      "duration": "5:27",
+      "platform": "YouTube",
+      "date": "Oct 10, 2016"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How do I create an affiliate link?",
+      "snippet": "The Free Path: Curate Products from Multiple MerchantsAdd product name.Add product description.Set product image.In the Product Data section, click the drop-down and select External/Affiliate product.Enter the product URL (your affiliate link)Enter the button text you'd like to use (i.e. ... Add the price.More items...•May 10, 2019",
+      "title": "The Beginner's Guide To Creating An Affiliate Ecommerce Store",
+      "link": "https://www.abetterlemonadestand.com/ecommerce-affiliate-store/",
+      "displayed_link": "www.abetterlemonadestand.com › ecommerce-affiliate-store"
+    },
+    {
+      "question": "How does an affiliate link work?",
+      "snippet": "An affiliate link is a way of linking to a product while asking the website to give the blogger a little commission. ... Affiliate links work by placing a cookie on your computer. A cookie is a tiny little file that the website sends to your computer so next time you visit, they will know who you are already.May 22, 2014",
+      "title": "How Do Affiliate Links Work? - Bonjour, Blogger!",
+      "link": "http://www.bonjourblogger.com/resources/affiliate-links-work/",
+      "displayed_link": "www.bonjourblogger.com › resources › affiliate-links-work"
+    },
+    {
+      "question": "How do you reference a link?",
+      "snippet": "To use My Referral Link, you first need to copy the whole link by clicking on the \"Select Link\" button below....Here's how you can use your unique referral link:Copy and send the link in a regular personal email.Include the link in your email signature.Place the link on your website for your site visitors.",
+      "title": "Refer a Friend Program - My Referral Link - Constant Contact",
+      "link": "https://constantcontact.com/refer/getlink.jsp",
+      "displayed_link": "constantcontact.com › refer › getlink"
+    },
+    {
+      "question": "What is Instagram affiliate link?",
+      "snippet": "Every time someone clicks the affiliate link or purchases the product or service through that link, the marketer earns a percentage of the money from the sale. Here's an example of an affiliate link post on Instagram (@mrswhite8907): There are different types of affiliate programs for different companies.Jul 4, 2017",
+      "title": "A Guide to Affiliate Links on Instagram - Gramista",
+      "link": "https://gramista.com/blog/a-guide-to-affiliate-links-on-instagram",
+      "displayed_link": "gramista.com › blog › a-guide-to-affiliate-links-on-instagram"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "How do I generate an affiliate referral link/URL? - AffiliateWP",
+    "date": "Mar 7, 2019",
+    "link": "https://docs.affiliatewp.com/article/1178-how-do-i-generate-an-affiliate-referral-link-url",
+    "snippet": "An affiliate referral link/URL is the URL affiliates use to promote your website or products. It has the affiliate ID or username appended to the URL so a specific affiliate can be tracked when a visitor or customer visits your website. ... See the following doc for more information on affiliate URLs: Affiliate URLs."
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How do I generate an affiliate referral link/URL? - AffiliateWP",
+      "link": "https://docs.affiliatewp.com/article/1178-how-do-i-generate-an-affiliate-referral-link-url",
+      "displayed_link": "docs.affiliatewp.com › General",
+      "date": "Mar 7, 2019",
+      "snippet": "An affiliate referral link/URL is the URL affiliates use to promote your website or products. It has the affiliate ID or username appended to the URL so a specific affiliate can be tracked when a visitor or customer visits your website. ... See the following doc for more information on affiliate URLs: Affiliate URLs.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AnwmMzob9uEJ:https://docs.affiliatewp.com/article/1178-how-do-i-generate-an-affiliate-referral-link-url+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Affiliate URLs - AffiliateWP",
+      "link": "https://docs.affiliatewp.com/article/50-affiliate-urls",
+      "displayed_link": "docs.affiliatewp.com › General",
+      "date": "Mar 7, 2019",
+      "snippet": "Listed below are all the variations of a referral URL that your affiliates can use to promote your products and services. The ref is the referral URL ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kjdutYzENgYJ:https://docs.affiliatewp.com/article/50-affiliate-urls+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "How to create your affiliate links? - PixelEmu",
+      "link": "https://www.pixelemu.com/affiliates/how-to-create-your-affiliate-link",
+      "displayed_link": "www.pixelemu.com › Affiliates",
+      "snippet": "Creating affiliate links is very simple and you may do it in 2 ways: Use Automated Link ... of page of our site. The final example affiliate url would look as follows:",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:p1C2Gk4nb-4J:https://www.pixelemu.com/affiliates/how-to-create-your-affiliate-link+&cd=11&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.pixelemu.com/affiliates/how-to-create-your-affiliate-link+affiliate+url&tbo=1&sa=X&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQHzAKegQIAhAL"
+    },
+    {
+      "position": 4,
+      "title": "What are Affiliate Links and How to Use Them Correctly — Blog",
+      "link": "https://partners.livechatinc.com/blog/how-to-use-affiliate-links/",
+      "displayed_link": "partners.livechatinc.com › blog › how-to-use-affiliate-links",
+      "date": "Jul 11, 2017",
+      "snippet": "Affiliate links look and work almost like any other URL. Plus they serve to pass traffic on to particular affiliate products and drive revenue.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:y5Uc4s-VMUwJ:https://partners.livechatinc.com/blog/how-to-use-affiliate-links/+&cd=21&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "What is Affiliate Link? - Definition from Techopedia",
+      "link": "https://www.techopedia.com/definition/1397/affiliate-link",
+      "displayed_link": "www.techopedia.com › definition › affiliate-link",
+      "snippet": "An affiliate link is a specific URL that contains the affiliate's ID or username. In affiliate programs, advertisers use affiliate links to record the traffic that is sent to ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3jT8Jn1JGzQJ:https://www.techopedia.com/definition/1397/affiliate-link+&cd=22&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.techopedia.com/definition/1397/affiliate-link+affiliate+url&tbo=1&sa=X&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQHzAVegQIBRAJ"
+    },
+    {
+      "position": 6,
+      "title": "What is affiliate link? Webopedia Definition",
+      "link": "https://www.webopedia.com/TERM/A/affiliate_link.html",
+      "displayed_link": "www.webopedia.com › TERM › affiliate_link",
+      "snippet": "A special URL that contains the ID or username of the affiliate. Used by the advertiserto track leads.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dlJxRxIJd3gJ:https://www.webopedia.com/TERM/A/affiliate_link.html+&cd=23&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "How to Create an Affiliate Link - Kinsta",
+      "link": "https://kinsta.com/knowledgebase/affiliate-link/",
+      "displayed_link": "kinsta.com › knowledgebase › affiliate-link",
+      "date": "Aug 8, 2019",
+      "snippet": "Follow these instructions on how to create an affiliate link and start ... Then paste any URL you'd like to link to from the Kinsta website and click ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sXBvWjDnCx4J:https://kinsta.com/knowledgebase/affiliate-link/+&cd=24&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "How to Create Amazon Affiliate Link [Tutorial] - ShoutMeLoud",
+      "link": "https://www.shoutmeloud.com/how-to-create-affiliate-link-for-amazon-product-tutorial.html",
+      "displayed_link": "www.shoutmeloud.com › Affiliate Marketing",
+      "snippet": "A tutorial for newbie Amazon affiliate to learn how to create amazon affiliate link to make money. You can use many ways to hide affiliate links.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NBndNkIuNIIJ:https://www.shoutmeloud.com/how-to-create-affiliate-link-for-amazon-product-tutorial.html+&cd=25&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.shoutmeloud.com/how-to-create-affiliate-link-for-amazon-product-tutorial.html+affiliate+url&tbo=1&sa=X&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQHzAYegQICRAL"
+    },
+    {
+      "position": 9,
+      "title": "How To Create Vanity Affiliate Links in Shopify | Refersion ...",
+      "link": "https://support.refersion.com/en/articles/1232440-how-to-create-vanity-affiliate-links-in-shopify",
+      "displayed_link": "support.refersion.com › articles › 1232440-how-to-create-vanity-affili...",
+      "snippet": "How To Create Vanity Affiliate Links in Shopify. Shorten Refersion Affiliate URLs with Redirects. Nick Veneris avatar. Written by Nick Veneris Updated over a ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:k5lFccghMyIJ:https://support.refersion.com/en/articles/1232440-how-to-create-vanity-affiliate-links-in-shopify+&cd=26&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "affiliate url tracking",
+      "link": "https://www.google.com/search?q=affiliate+url+tracking&sa=X&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ1QIoAHoECAsQAQ"
+    },
+    {
+      "query": "referral url generator",
+      "link": "https://www.google.com/search?q=referral+url+generator&sa=X&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ1QIoAXoECAsQAg"
+    },
+    {
+      "query": "how to create affiliate links",
+      "link": "https://www.google.com/search?q=how+to+create+affiliate+links&sa=X&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ1QIoAnoECAsQAw"
+    },
+    {
+      "query": "affiliate link creator",
+      "link": "https://www.google.com/search?q=affiliate+link+creator&sa=X&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ1QIoA3oECAsQBA"
+    },
+    {
+      "query": "affiliate marketing",
+      "link": "https://www.google.com/search?q=affiliate+marketing&sa=X&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ1QIoBHoECAsQBQ"
+    },
+    {
+      "query": "affiliate link example",
+      "link": "https://www.google.com/search?q=affiliate+link+example&sa=X&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ1QIoBXoECAsQBg"
+    },
+    {
+      "query": "affiliate system",
+      "link": "https://www.google.com/search?q=affiliate+system&sa=X&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ1QIoBnoECAsQBw"
+    },
+    {
+      "query": "online affiliate marketing",
+      "link": "https://www.google.com/search?q=online+affiliate+marketing&sa=X&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ1QIoB3oECAsQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=affiliate+url&ei=IxQnXpjQKYzVmAXLiqeACQ&start=10&sa=N&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ8NMDegQIDhBB",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=affiliate+url&ei=IxQnXpjQKYzVmAXLiqeACQ&start=10&sa=N&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ8tMDegQIDhAv",
+      "3": "https://www.google.com/search?q=affiliate+url&ei=IxQnXpjQKYzVmAXLiqeACQ&start=20&sa=N&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ8tMDegQIDhAx",
+      "4": "https://www.google.com/search?q=affiliate+url&ei=IxQnXpjQKYzVmAXLiqeACQ&start=30&sa=N&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ8tMDegQIDhAz",
+      "5": "https://www.google.com/search?q=affiliate+url&ei=IxQnXpjQKYzVmAXLiqeACQ&start=40&sa=N&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ8tMDegQIDhA1",
+      "6": "https://www.google.com/search?q=affiliate+url&ei=IxQnXpjQKYzVmAXLiqeACQ&start=50&sa=N&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ8tMDegQIDhA3",
+      "7": "https://www.google.com/search?q=affiliate+url&ei=IxQnXpjQKYzVmAXLiqeACQ&start=60&sa=N&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ8tMDegQIDhA5",
+      "8": "https://www.google.com/search?q=affiliate+url&ei=IxQnXpjQKYzVmAXLiqeACQ&start=70&sa=N&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ8tMDegQIDhA7",
+      "9": "https://www.google.com/search?q=affiliate+url&ei=IxQnXpjQKYzVmAXLiqeACQ&start=80&sa=N&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ8tMDegQIDhA9",
+      "10": "https://www.google.com/search?q=affiliate+url&ei=IxQnXpjQKYzVmAXLiqeACQ&start=90&sa=N&ved=2ahUKEwjY7bXY_JTnAhWMKqYKHUvFCZAQ8tMDegQIDhA_"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+url&start=10&token=821e3afa73053452",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+url&start=10&token=821e3afa73053452",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+url&start=10&token=821e3afa73053452",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+url&start=20&token=9b65f6779b096318",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+url&start=30&token=972786f957fc1470",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+url&start=40&token=e14ef9ef1382d339",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+url&start=50&token=9370346f41e38998",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+url&start=60&token=fdc3dec1d9625bac",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+url&start=70&token=685b6b9f0f4da010",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+url&start=80&token=bbdeaee8ff746c7d",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=affiliate+url&start=90&token=b502485fcbf75248"
+    }
+  }
+}

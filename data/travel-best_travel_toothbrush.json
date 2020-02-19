@@ -1,0 +1,670 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 16:10:39 UTC",
+    "processed_at": "2020-01-21 16:10:39 UTC",
+    "google_url": "https://www.google.com/search?q=best+travel+toothbrush&oq=best+travel+toothbrush&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 10.39
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best travel toothbrush",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 61300000,
+    "time_taken_displayed": 0.51,
+    "query_displayed": "best travel toothbrush"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "quip® Electric Toothbrush | Start A Good Habit Today‎",
+      "link": "https://www.getquip.com/",
+      "displayed_link": "www.getquip.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjUsJ61ipXnAhUEt5YKHc97Ar4YABAAGgJ0bA&sig=AOD64_12u5UPLqVN09Dk-P7uck_-0PL94A&q=&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q0Qx6BAgREAE&adurl=",
+      "description": "Getting quip® Is One Thing, Using It is Everything. Shop Our Toothbrushes, Floss & Paste! Oral Care You'll Actually Want to Use. Fresh Supplies Delivered Every 3 Months! Types: Electric Brushes, Metal Brushes, Plastic Brushes, Brush Heads, Metal Refillable Floss."
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Travel | quip Copper Metal Electric Toothbrush",
+      "price": "$40.00",
+      "extracted_price": 40,
+      "link": "https://www.getquip.com/products/copper-metal-electric-toothbrush-set",
+      "source": "quip",
+      "rating": 4.4,
+      "reviews": 9000,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAARVBMVEVHcEzFKgCxJQCCGAArExkuBQDWLwAcEBYGDBThMQAgCws5BwCdHwBICQBbDQBvEgAOCxHQLAG9KASPGwAHCgpyFAJ1FQJX4MprAAAAF3RSTlMATl6GCdFBEBc3N8Vvt6WVJCscfFFUcYsPVeEAAAJwSURBVGiB7ZrBuqMgDIUFIgEUBbT3/R91AvbObGfRniw03fd85/CTAO00fbaI+MPf+L/CzBxUhIkphKJgm7rnUlJiAiv3rAOLMtq26IpsCQWuTOI4hCTFWGURZgm6pDMFLODDssims4C31uC6lPM8FSyXM42wC1iZh+MeNhSwf3zBwyYtvq6W3fmCtxGiJGjhN/PERfKWsKVzosdFOAvxibfca6QdVI4GssglwMOWYmFb5jNeeOozEjwfr+qtROf8x1qWJzHMQQGvPquUwpakWWNHjeuFEl89bCW+WIcv1gz74QuorMaXYv9Sa9mkZLl/NISlSCNsHsIaD0KlCytY7k8ypHDiJDnaj1cKsGUqcokaD0LoYUG/L1HwsOm6r2tYJkXLl7KC5XGjKa0qKFP52S01rLJUMC7nvYKFZSRHe2w5r2DLL8/NW5eXzTcsYGvlatY9Z9ewlpNpLVq3LdkyVnmNbVhe9ojdUrzWvspi+QCH/TL1sryZiuXriHWs8rJXbNjJxmF5ziu4jfyYOlZZwo5Q4XDEOCwvDhz2y8beOJc524jly/lheZk3jw07rd1yD/uIaL6iX902z9l4qDAfEna3PKM7p/A1tpRsZg/my1xbSocvt6nyZcF8uTdf8Ml8V756y17c7fi6U//yv3yBDyMPX8D6y9fy8PX1evO14Pm64/nrtnyp9i//9K8v1/v+eFO+nvn47bozX3r3xxvyNd/m/EXPfMSVXv9a1fhSPN/XyzKcL9ua3bbBFzbsyXM7tn3PcL6m2Jo5rHFovqapxeqNj3Y34D8TiOkYvTQxa9DCIu2ljNH45xnX+vlfH/8AKOAuXx75rj0AAAAASUVORK5CYII=",
+      "extensions": []
+    },
+    {
+      "position": 2,
+      "title": "Travel | quip Silver Metal Electric Toothbrush",
+      "price": "$40.00",
+      "extracted_price": 40,
+      "link": "https://www.getquip.com/products/silver-metal-electric-toothbrush-set",
+      "source": "quip",
+      "rating": 4.4,
+      "reviews": 9000,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAFVBMVEVHcEwAAwoAAwwAAwsAAQUAAgkAAgf4/Ej2AAAAB3RSTlMAER0xb0VY5jwZCgAAAexJREFUaIHtm8GSwzAIQw0q/P8nL9hJet1DK3XGZnav1TxFJoSmY3y2zOzDn/h/YY1067q7QHsiwwG6diPXH4KN3bpA2S1QLmmPKLe5yvMiF3IkzNnKPonT+cxFjIxwNnLlq4ihMbsucrCTvfIFjxff7HK7Yi3JV7udSW8jw0bABPkajvqvaPORR3fr7l/kfHXZdJudr1XVSCRzwehsa5Blwn1zZp+oS3nOQgplJbJo2PbptkB4Em+Wr02RNf1LabbyMCuET/8iVt+lNLOICnmugyQLoR6+FJ0TvRURzLrmmE9ydGT3a+vHf3wcJhnv7V5RCJ6YFzL/SNmz3OUvG1euVZcZ4YO8kplXOTKDf6YmcCbIyJg7dOSLvpKJB5ls9oNMX/nF+sKizCYL9y1qIbPNfpCTni9fyHSzaw7xhcw2O2/kJG85PXwh083u9SYQfOQy+0JO8oCPhVzKIJ+pN7IgXxDmq4TLbKqwzmzcR2qvfHnI8hWxYb5O/2LU6V/EepBfuvmLjLxv/9ru/qjLFzbNF9vshC5fdvoXqYT5+oH+deavb9cP5Es4f5GXQef+SCxZvky/Xz35+n79RL4E/Usyf9VJQqYgXwPld/a2kf6dq18/46Gbfb23UY7z37/3WaAj39IK4ev91U9/6B/uAQ3jth3vuQAAAABJRU5ErkJggg==",
+      "extensions": []
+    },
+    {
+      "position": 3,
+      "title": "Travel | quip Slate Metal Electric Toothbrush",
+      "price": "$40.00",
+      "extracted_price": 40,
+      "link": "https://www.getquip.com/products/slate-metal-electric-toothbrush-set",
+      "source": "quip",
+      "rating": 4.4,
+      "reviews": 9000,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAJ1BMVEVHcEwADRkAESUAAQYACxUABRQACRoADyIAAgkAAw4ACxkADBsADyAKZbBsAAAADXRSTlMAD1/pGZyDbtG2KzpMrnYe3QAAAiZJREFUaIHtmcu2wyAIRSNRicD/f++FaFc7vIP2MDB8QM/adIuPHMd3q5Ty5V/8f3CpacFVMrAjWrzg2TdyqaroaM8tolJrQrIjB7GCDX8hKylY8ElsIibwZPe6CplVPLKYipDCk6PbRmoVK9jyS5TRzb677VorCXxNxf8sRN5saLAnH6o1wa+j+MSsrjbar4iOTCNBI0f5ehKtKUeDGCQZyMd9Hkk5iPkIw+sVFcMz7fyXg3w4cN6RNwc5s9l594sNkbfzK+3+WjObvduSupFz9sc8v2oOci1JR4J5FklALlJvaHiw3x9LUvB8ikIni7OW+7ALDi7rWSaj2fOJAt7siNsM2ZnnHiWi6ODI1j66CDbZS2ic5zAwsl+WqbdxXWhkY1FPvs5BihWsmxoHclNss7XrRIY3u9NE9mYbNLg0s4mMbjaxTeSLDetXo4nsixnbbO1GE7kZ2C9eyBcTNLg0mshnAzebOsXgdOROYL94IQ/CNlvbjRzNJrRfxMsvhga//UJPTu6BfPvFWX6BF3OiX/3lV9/FL8r3C71ZLL/OJL9Ggl810y96/AJVml+p82s1+/Hr55XoF2f79cyv39ee56/lV3v8+nXtPL/22R/lmV+4+pxf2O/M2X497xOIes+vlvW+utH84u3uj9aNX/sjdn6xar+uBL8OFmljeLcbgT8zm0pvnRvar/isbsy+rgZj/fKiKO5w5BXN6IPfrKr+Z3/7R/8APpsZicX63VQAAAAASUVORK5CYII=",
+      "extensions": []
+    },
+    {
+      "position": 4,
+      "title": "Travel | Burst Black Sonic Toothbrush",
+      "price": "$69.99",
+      "extracted_price": 69.99,
+      "link": "https://www.burstoralcare.com/product/toothbrush?color=black",
+      "source": "Burst Oral Care",
+      "rating": 4.8,
+      "reviews": 9000,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 5,
+      "title": "Travel | quip Blue Plastic Electric Toothbrush",
+      "price": "$25.00",
+      "extracted_price": 25,
+      "link": "https://www.getquip.com/products/blue-plastic-electric-toothbrush-set",
+      "source": "quip",
+      "rating": 4.4,
+      "reviews": 9000,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAJ1BMVEVHcEwEGCkAc8IAccMAdM8CCxEAbcIAcsUADBIAaLsAYrMACgwAZrZo4EvUAAAADXRSTlMAD8u/iRqbqjN2O1FXxiiIJQAAAgdJREFUaIHtmkuWwyAMBC3xx7n/eUcSdsbLWWS6F4QDpF6LAoTJcXx2iMiHf/Hv4FI44GLkQojtZOmldzg7ii1GRsc2qBi1lBNN9sSG7fDMckXuZxes4BHZsP1E6+2RHX128JqOYvskc4pdLPHJiGyCUYp9+wU+NeRCn/ANzMjdt2y4X4d0W1ZrMWPBtmvbBBP8inH2OKYYXUn3xIyexHcSTuRFJoCjBaP0f7TI0QxxWl4n8yJT/BJWsYvwii0kv4iRv36hBi/yjn7RDgta5MJqCRaYEHmBCeTosAlgu0vFTQ69mD2rUBo/Wa0uniz3Jwp8sa/rOiEyCRwnVCyomSeYG+g5kioUHCOwqgNLLXPU1oycFDvPueaca4ArFCwBtsgpKdav14MMBR8OzguM9Ws+yFi/Rs7D/HIywa9M8ssiN1tSKUHBD78S3K9B8uu9f23mV9rMr3wtKZJfCe5XI/qVSX7VFVkpfmWaX42xf339wo35G3kfv+p7y/769c9jOnlTv5TiV+P5pQS/GtcvZfmVtvNrRWb41Vh+VZpfjeeXkvxqPL+U5Vdi+kXpvyrVL873CZ5f61sj4f64m1+ZdT7+tgTbnI93ZMr5eEUmvA9dkfF+1SAr/n1oFVu1QcHH/WRhA+vXk4wF+2uvTXPCv28fr9QWGOyXjWUXPvIbTQD7/xjG6+Ol/gGjpBUrwAuohwAAAABJRU5ErkJggg==",
+      "extensions": []
+    },
+    {
+      "position": 6,
+      "title": "Travel | quip Green Plastic Electric Toothbrush",
+      "price": "$25.00",
+      "extracted_price": 25,
+      "link": "https://www.getquip.com/products/green-plastic-electric-toothbrush-set",
+      "source": "quip",
+      "rating": 4.4,
+      "reviews": 9000,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAALVBMVEVHcEwAsYsCHBgAxqYCDA0AupgAt5EAo4EAp4QBDQ4Ann0BDA0AmHcACwsAnXsvzQTHAAAAD3RSTlMAuA9+GJCrmMQnXTs2UniqvUovAAACFUlEQVRoge2ay3bDIAxEbV5GYPz/n1tJfqTLLtKZBVa7zj0DF1kOWZYvVwjf/sQ/cpP+UcBaKQmLLKkLPLdHDtLhaOUqVpebQTZsVzqW7JFF0UNzo8kpaWIZEuBkizw6PLJpPcQXG3uk/SjLGF0XGyqY+eWbTPJLNxkd+e7ZGhnfRkKnHObFjrCq3Qf+MSldl3sMQUfWUrWTtWzGaKCbzIhsW63dkzINJSvKGCZGZoCtiXGGXgNTFtu6J3giuCoFll+JFdkXe8LIJL8Cxy9eZKZf4fULVIF2mGlPqcQiB1pkm/oYfokOuiSwnyg4OYm/QeInv3C9NsMj32D8i0VYrrWGz/cPGb7L5xcUeqZaA5OdLW2rFX+ak2Fr3cDYvcVcVq26Q7ltyzE7uVYoeFFwjJtHPqDgfVPwtdhYv478kLF+BY+8Mfz6REb7FY3sYGz/cr/ifH5FSv+6I+s/FEz2i9i/1in9Wl+//r1m9ovTv06xp/OrUOYvznx/kwvar3z5VV6//rvCr11m+QXvX/mJzPKroP3aaM/H/PqFKm7/uiLT+hfh+ZjPlj2XXyujf03qV5nPrzKhXyvDr8+UTXh/pPmVz1dmtF+R3r8Y30+Qno+fyPj7ocyav24w3q9ryAb7tbtfpeLvH5/Lkgr+fvV8TJ1k8P12K1nB2jfx99vFq1awX1pH9dtteGRHM35L4JXa0b7+W5Ufy7AWXad6ziQAAAAASUVORK5CYII=",
+      "extensions": []
+    },
+    {
+      "position": 7,
+      "title": "Travel | Burst White Sonic Toothbrush",
+      "price": "$69.99",
+      "extracted_price": 69.99,
+      "link": "https://www.burstoralcare.com/product/toothbrush?color=white",
+      "source": "Burst Oral Care",
+      "rating": 4.8,
+      "reviews": 9000,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAclBMVEVjAOKhVgCEQgAiGi+PSgCLRwCIRABHcEyTTQCZUQAeFisWFUwEBA8lFhl9PgBkAOJdCsQGBg8jFBKHRgQIBQ2AQQNwOABeBNlzKpUpEwV+QQpaB817QA6cUwRiMABNJQBgAtxiAN5gAdwJAwJwOAcvBmfUbo+1AAAAJnRSTlO8gqcQl5yhAJKLGQdTJq7Fv0U1gWORuVujlmA2SHDH2Huqmc97ZmX0xGsAAAu/SURBVGiBxZsNm6IqGIYLgUQyN8ncMW207fz/v3jeD0CrOSfqmmuHsXJqttvn/QKBXW1SW7Gp6+Q/Tmir1D+sD3/+/Ml+gJztAfzH/gC5+EBy+ffJtgTyx5/DD5DrP0j++PvkDMl/foJsmfwD1s7KnyJbju2fyOcC83n/jeB0crndfif3hRpWbr+1ar9E/s4C9gq53hY/Qy7q7XcG9mvk7+yoXiN/L/hvkb+w1wPZ9ufG3Tbj3GD327wx0HKTN9hyeFFSQcMnjU0Iwc9id9OOx+P5+sB+IGfq2KyBAA8JFGTBy7ABMjRJDynhVVJDsKQLUBp/4BBIh2e4ALoIeDnm54ecfCSvd816vTZrxBu+BGO6TbmFy5DSIB9PZJ7Hq2A26EULEFcTGRtewO6oXiAbgq8Ny+5tuc0NY4N2fJJeOqBJsGTDA1oJzwZzi7M8P1SDR/JAZIKuvWIi79HFZgEmLlpdycUDhQs9m7zpkKyOCeT1kcjMNt7qNZDJzKibLS3lLDpnh3PECcYqNrm6gu6zfokcnb02eYlkUu+b8Y8QaYiVgR0M7jWLRM3DsTERjZpRfIHWJrLMZ2+zq2NTKmApzEm5aBrW/FB7vyCfF5oNR1qeeTJrxRdJosnQ0dvB0ehr1LuDa9g5QZpTyNHaJuo2NmrmWPfJxZntgwyyC1+YTAcavemRLFLJ5gYNPzbzZBOVx8zCRxCsvNExqznEwNpanHcvWjuG2YBkZ8w9/M7Zeahp7GXWfH2PbNjc3Uxecz31HpehkNERFGsf3ILJQr9NXvdIHkIpXQdurGMEjxZHW2tfTXXj0v18Z21sRO4wsU0sqCZamquKF60WuYU19NqB8kTNn+aGiqwykG88bUJ8+YqGTta+jCoSDVD086vWDhdAhaQo99vYd/lizppNEK7y0GVq7jio33Bk7UTN7sHalsnrWMdjeHO/qfJgbeymubNW3FlfqW4f3yObLkMyBHfEUkEJ1ZsqJxcTFQcp1GvC49qA+PNxl0S+y2djeiZfuZbG4cKyu56TSrJu7aPMseZ3yMAugVzv953vtOdA80WcywhZnFytVSQLBz3GDvycMA570LxeZ1lW1vttCLE8hLYvJWRvlUtDNqfA9h01dFbNFXoN0PwWeQAscA8HLqU557UxIbR9J82atYrjQRqUgLWVSCIXd2TA9HZjMzT3NSQy6M6jp1Gy8kUF1ErpB4LcOife1YzZDGAMsW5ZSfyIOFQRGQaDHNyhn6QxOJDf8TNmM+RzUdc+o+cSxgHms5nIKnQZcUiEbCTfc56SwbEDk9HZzkvl/ioMg4HnA5uT2jtaKD/q1snkm0qC2ZzZLCPy9d7cDFe+e+ayPev2tzxUw9LJc7dRZphVCN4fQgcdoyvWE+9kPyyR83hIv6kZLqBHckEJvTUP/ZUx86AkZ4NzfOnABdnncwLZ3veSRC6YvOwo1zfDocWNnlKhlwyhlkYufv/6fdtOUfP+n9/vNfjK51l1qla/VstWnaLm/T/V6kmr4ks1/1S/VlUK+dfddy01PyV/3VLJX2ku/wr5PzVvf0IzFc+f0Oyzavu3NE9ELriGQRe9Z/K0eCS112I7fi2RQfITzY+XsfjbN/3MmutZc/igncZpHC9T1Vb+jba6nFajv5QTvltRZr/pZ68ZB0Tbm08uY9u2q8vp0gJsXE2XFk4uLbAv0wXOLuOlasfL+5qzoBlE315UC+hpbKvTZaxO7akY8Wjhx46nExytbVs7vUC+81cW/by/JVcnwCK5BfJo29MIBzwhFs9Ol81UoM2TIyygp5nMfo6ap/gyraYJn8D2EzQw8zRVI74LZ2D66fSKte8027l63ln7sVXhWFFwVdOJou89PwcyRdhd7oz35NG/NyJ/ZPyr+XxHhuq5fSD7dApPFb3RVnReXS54xvJf0hwZE2sG8OGW3LaXU4uZBPFEpydIsmqFJxhg8At+2E5vayZyVpLkW3I1QVC3KzjaahyxjiAZfoOTsb0Q99Jeqnfr9qx5JtMLZhRWjwtCAQdvwCmdrEb4cBoh4af2/XwO5P2jn1cxhCo+qFbyAKgKb75SPX99SSb05YGc0t708yVqPqSQq7tz+v0tzdVlaW0i/0+/7GuI/wnsN/vnR/LX9CpyHi/oPT9/Tf5a7N1lVOFCEsl335lCDmJnMy8rOH2aQP5118Yl+ff9p8ntOdmuP/3aBd/ImmFxK7m9xsm/OLk+r2PwtJDG2Qq+ixT+1j3xLnb9KW9uUzsm75nseYaXjuaFQj8B56f/dFgl5MmKNHKx/sxv5mBuNYfZdL9yJPMwJcM3zjQpRBMViuZmxAuai4HJfqovB83FDTmX832z1xuwmuc7FU8wh5XJF6zdmMUsY96FyQokuzCrvZxVj3P5vE6lFhMGXvNnorUbPynAL97PJQ63gRy0xtXQOC0UFqJ5Rl2HtVidTB4C2U8+dXxbBSG2qbd5WI8MKxjK89VyFSFOwQV+qubczzcFPzN6u8322zm8pJ9MD6tUOpDD3MhCdzL5XjNGWLGn0VDjsYaDiy3N62TzjOPsZx/baeTsjvxFPvvpr7hQtVwC1gujR9XJfs4f/JwV9W1WzbGV5zLMKweqn2IO9tYvacY64Xihol9mVUMzjUj3MjXNqd8sO/tVQaEbXAJ2+jU/D9nQb1yfEbnwUwboZ5P1FGSqLmRRyqIDvGE3i2Fz7Wrv5t42pRVZ2dj+NT8PtuvKvLZmLfuYVRBlTW6ZLOtCFTX8lks/n+06V7jaascLJ7W49ruu2/XNLl2zhDI1cByRcNJcbvdFvW1UTKec67UtedVCl1YKeKezAy/0CyFrR/tJ0jUDudv0tJMChAO54KwCc7t8U9Jstio3DYVZ33HV1o2jJRtXNz6whbMdl23xuUvPqt7xHg6nOJ9rJl9l2fGcbtdTAZHOcQfZW99b4JIgFxKhuGonk89yJvebAbKqYDJE2FU5XhQDt/KugmLDM7tdwetycf1C6ybrxI628KSTydoud24oDfrZ37hjbKO1EV1sctVoN8AV0LSyFhhduS/bJLkpBvJyYiUBcoP1QxZW2gx82scbd8wq2Q9sbTfobjPUG6f9WqTuamlr4eZNQ6xXpMY2RlguIUH6HqLHDHLOZ+g0GtU5XrXoauUK43o1d1NC9663zg8KQDNGGO6VStasQLLt5JxVBZK3+3p/aCC2qU5jEoHMMpdh4Zd97HohQj+h6yuDd6l+ViZXjsdZQy89GednDqB5MH7cg4skoFDFqs27dVTRhc5x1/AWtfQIU0Z2m07RquOg2No1JdWhMeVAxtZ1JqGCSAxxIrve1+us84PdHVROAqdnlTa5Kx3Xic3QF4jecz43btNTn6H6gkYApW14xAnyae9Kp3a8MgfErmHNidY2Zw2G7iDKcijFfd5jCSs5nw91l/uBpvQla1ANB5hzZSMbl/V+J5yI5FQ/I1n2toPgKjegvPehTevARal9DkH1pJ5CFNZ3T511ZSa6Jgx1IbbrQBa7JLKA6tXnQw2awbA1BRjn86GJY72u13wXAyd+/KOgexJxnA1GvkZrC5FGxnFGLjWnTyBvD7vDoQm5q3RcZQ6DgXl8jc+75eZLJNu79h9kWmHNac8AkSGrDqTZL7/xoN6f3Y7qF/UL93qC5OPuU2uezwsNfnkk5+dd2G5FG8yYjBNx0Bp908RcNhaNLcybTPE47s5iV8+txFY83sV2x+baXK8fH83Hxwe8sLUhwJB8oLfgeLntl9gSvvKLfb3WZvBjN3TYDRubsupwqP3b/i8fnGd5GEFfHcyaZf77aHdvvIN/vqMY/zmtPqPk9N3jT/dcJ5ExtOsXyU9bGpmzCto37tV/Ti6ZTJIP3/j/E56Sbem7Z9L8jf8X5Ck5i7GN5JuN6/YmtrOHOJ/bW+SiDAMDMvcCa7O5LEEa+UzKQlteyntkQteBjAkLEIh1XDqLbS4TN3lMV/A1+DmZvquMmj8OocFIgYhUkuivsqXgqPm/Mvt5bMeJdRgB1kjIsv/9xtT2LwIO1ClH6HFqAAAAAElFTkSuQmCC",
+      "extensions": []
+    },
+    {
+      "position": 8,
+      "title": "Travel | quip Gold Metal Electric Toothbrush",
+      "price": "$40.00",
+      "extracted_price": 40,
+      "link": "https://www.getquip.com/products/gold-metal-electric-toothbrush-set",
+      "source": "quip",
+      "rating": 4.4,
+      "reviews": 9000,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAMFBMVEVHcEweGBbrhQAaFBDUdgAyFgC8ZwCeVQCPSwApGgs/HQBPJgBkMQDLcQR6PgARDwrbBFySAAAAEHRSTlMADywcOrhMW2o2rJ2LHXpQsZesCgAAAiRJREFUaIHtmsuWwyAMQzEQCA8n//+3g52061m00qJx99WRehGENIQPj8inv/G/uiKJpZzWhyIs0lJrcG23LEsZLe1Rt5TSiQ7cLC9Zs4xVNsttWW5nAwPulpdsW2HDld3xeSa08ArbfmRO2Ok8LWwoYF4iC7BGCPvFF35N3WnDayRY2Mksg8MOxnO6FjNW2GQX0yfeso1XJ7q/bmlzzDgOGdvgFrmHJmzKnPOfH/44loVl2YehnIQVNu35QmiWE9EyiS9a2PKDfDF/ZSLZnCOBsDYL3x4pZxG/oyAIi59FGBdCl2W8st1BMYTtLsie5OB82bn+OmWDhcXvKDin7KtD4MoS3p6xwibtwvD+kvcVqypW+d6izlkCWNk856P3I6Iti8Syzz4q2HKOorkeo8+sWMCq6lKeYxxgvlJWXWGPPopglWu8LPeJ5qu+LO/gsFvW6HyNguYrqi+ptZgjVDiV6Ja3UcFh1xwvyyNjLct+W4Y3ZyuX5W2UiOVrz5flbcYMFU71ttx3cNiLr7yUt21krOU3Xxt6Mb/56pXGFzhsLl9ueRQCX/vVXw9fXx5yf9H4evoLM+z+mg9fiPlRvij9FR6+cPP0F3B+ma+N018Evp7+Ag57f2Ty1efD17dH2Xx1Yn89fH196P3F5Au9P+bFV6XwVVTLnAS+QhTd53EMOF9BVcpe8gHnK0jUnHMsB/jN1JroU+CWb+llm/IHQ42ff/v4BzDIHEcGezseAAAAAElFTkSuQmCC",
+      "extensions": []
+    },
+    {
+      "position": 9,
+      "title": "Travel | Pop Sonic - Go Sonic Toothbrush | Blue Dots",
+      "price": "$17.99",
+      "extracted_price": 17.99,
+      "link": "https://everythingsummercamp.com/products/pop-sonic-go-sonic-toothbrush?variant=31199014453363",
+      "source": "Everything Sum...",
+      "rating": 3.7,
+      "reviews": 375,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 10,
+      "title": "Travel | Burst Rose Gold Sonic Toothbrush",
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "link": "https://www.burstoralcare.com/product/toothbrush?rosegold",
+      "source": "Burst Oral Care",
+      "rating": 4.8,
+      "reviews": 9000,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 11,
+      "title": "Travel | quip All-Black Metal Electric Toothbrush",
+      "price": "$50.00",
+      "extracted_price": 50,
+      "link": "https://www.getquip.com/products/all-black-edition-electric-toothbrush-set-story",
+      "source": "quip",
+      "rating": 4.4,
+      "reviews": null,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMA5MzA2PK0qpqHaiRTEDo/l8chAAAC6ElEQVRogeVbyY7rMAwbLd4SJ/7/v32SnaXHdyioAUZFr0PQpmjK9fz8fLeOXs4v/8n/rKJKNQK4iTIlDaAtQqqJhpYDC3yyENGEblDgw5aaU0pqyODNdspKyb66QYGzsK20bXRSxiLz1FciSiw7ErjL0pfRZug2H0aZHZYGM7Sjj6WvYbw5Q4HF/OvWV8ciZ52wpq8MdbBd1IyEvJvBLbX5JhtrNX1BW+pnnytNrMRYzzZoGoadiMGL7VWGdzMzHNiCQYqh7MatjNbXrM5inwjKWYRZAoB3pwyOBKuaWDE4+s1iW21w8lu1iSNHTBgOjD2YrzonZejBfFXNmUOM8wjTV8uOHGCcS18lALiH6cvWOsqynXKEZVc/pSIs+1A7K9Aj86wyKQdYdlc/mAMse7fUZ2MkXl+nTRaiJHB9bZaxhRN8sDiqzax+KSNgfXkOsXkqDcVa9im1ZU1jjCRYy86lVSEDHoS17J1rK4syWF8t14cyNhI4ZXbKaH11qTVPygls2bnUizJaX1rqaqkBtuz66gsbCQ59FhscCTYpF2W0vjQ/+sJGgs6ur0UZbNlSCl/6ggLvlMvVUuAprnEpt76wlq1G+dIX2LJfyuApjl1fKUhfMltqgKe4yndLJcWmbBKjvBYbbNmm7EV5gC/eVG4XAevrdH0tyoTVV+F8uQhYX8fU1wjQV3spE1Zfb0slbOTsapQvfWEtW2yxL8oKBd7JJuaLMjYS1A99YSPBR0thI8EWpi9+9YW27FdfYZZNaMvOQZb96Att2Rpo2XcKAusr0rJLjGW3WMuOuCX4FZaN1ddnyo6LBGEpOy4SoC07B01xGjXF5dApjqKnuD9i2Z+RADzFSVgk+AWWDX6e8941oi2bn5SNv9iVKMu+TynwxW557hrhlv1er8J/i7tnKfDFbquPcYKff7VWmVJyyuDnOb3VzOz/0oJ+UbnXWvypneJfVG7VsItEPPLrxZFrxOvoo/f+/TPqH5CMJpJWFQkyAAAAAElFTkSuQmCC",
+      "extensions": []
+    },
+    {
+      "position": 12,
+      "title": "Travel | quip Kids Electric Toothbrush Green Rubber-Grip Plastic",
+      "price": "$25.00",
+      "extracted_price": 25,
+      "link": "https://www.getquip.com/products/kids-green-electric-toothbrush-set",
+      "source": "quip",
+      "rating": 4.4,
+      "reviews": null,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAJFBMVEVHcEwA2ooAEAoAzIEAs3AAwHkAKhoBDwgAsnAAtHEAuHQAuXTbeWOiAAAADHRSTlMAmxqmvrINNMc4Zowod3LIAAAByElEQVRoge2ZwY7DIAxEAYMD5P//dwHTluMeujMrOZZ67dOQh4NJCN8tTfrlf/xlpZSuxADrJF8XIXZKhobn1vRGg2Mbdv0I5L3aWPLCGhpN3mrPBYeCR2bdq40mq+q1HcNn1vGg8ZEHepjFWOxRenEiG3qAGa8r29EEcFhgRmR7ZRDA1rh9RX4WG1jUyOrPL86E4dIvZfYvyhy5IvvazA4jP/0LWLT+lVh+mdgE8gbjF9vmZULka4PRkeclAWVLrVsCRmTVF5hExt/IcCPbIag1PHlwWy8Vm3lwg7YeS643FBwWNkYZZOxi91tiNHKGgjVvsOTaoeRe3pHBfomBo+SM9asdkbF+3a/IaL/Cjjw3M9qvSPcL3L8ev4D1H/xy07862y+B+9XYfgm8f6Uj8uPXH9fpF3aaks9ZF+0XuX/NyM78ErxfxywlUDC9f83IFQrm+1Xc+SX+/FqR0YfdT2TKMIX3Sw+/wMMUzS95+wUfpv6BXwUK1qNl+/IrFnd+CdGv7M0vcehXIQxTXL9WZMpl0Irsza/sz68M9+sggz/22mMueL/s0yfDr9ByEesiWL9G3XXmzRV7JNjommvFzlK7Wr/71+36ATnFEig95ldwAAAAAElFTkSuQmCC",
+      "extensions": []
+    },
+    {
+      "position": 13,
+      "title": "Travel | quip Red Metal Electric Toothbrush",
+      "price": "$40.00",
+      "extracted_price": 40,
+      "link": "https://www.getquip.com/products/product-red-electric-toothbrush-set",
+      "source": "quip",
+      "rating": 4.4,
+      "reviews": null,
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAP1BMVEVHcExSAAl6AA9nAAyTABOLABEIBQcGBAacABUSBQiEABIrBQtUAAtKAAllAA4hBgsnBQp0AQ5/ABBLAAl5AA86mSYVAAAAFXRSTlMA6N/oxtUKE7YcwCzN28U9VmWQkKH4bCexAAACPUlEQVRoge2azbabMAyEwdjyH7GBm/d/1o4MPe2yi3S0cHSyzpyZfEiyybJ8tiTGD3/jvwvbSENYcq4G2qLSFRWFrIyoMz69s22rbu05Z7oyslbZXjs5bQW7VkgfnQy4Wo79qPXIXGUFG47rceCnZgrDMviC44qw2crKFxwjbLYwHqlawRdbWQZfHYjRnylI33yx24hI73HwxW6dVSQftdMtQ7pnicdR+coL0s4YGCarARpJNrCMvHUfMbGctdjbiBZWsEzu2E/FaLV5qq6JZTG1TN92tcQsbFu+7MKe0PKEfE3Yv2zmo3JtEna2Cns8yhZhCzYRsVj8BPumWPCF86NegtEtC/ZcPcnRWzZyVl2+ZRl3FCpMP7g+VxT0sHFkvpX5luX+laOYWNbb3fPiK4v0n+YDf1r0a1v3lhJXNZ+XD27bW/EnVfjtfLqVfaAKL5tPQ7m1xOXrdCklCL9aCZWqvD+WwVehCtcNlr0D2Wy+fsIT9l4s+ILlV/Ncvo6HL4TN5is8lnfP5svflhE2mS+EXYJbVzpfqxlfmz1fhctXNuZrWJ6Mr/XLF6Fm5us1DV/W83FOvubpX/Z8adjcC4pJ+SrzzcffYc/G1zzzMf91WP+eH/9z/eGrTcWX+XykCn/5IpY1X6bzcZ+GrzYnX952v+fzNV6JDb46VXlavu5ll8tX86ns2+DrTRVeip7inL6AJPO1vJXsEBybr2XpToVD2QOXL1RyQzmwLS/6dt254IrFn+3qeV0fn46/AN/eJtY4vhFAAAAAAElFTkSuQmCC",
+      "extensions": []
+    },
+    {
+      "position": 14,
+      "title": "Travel | Sample - Travel Toothbrush in Folding Case",
+      "price": "$0.48",
+      "extracted_price": 0.48,
+      "link": "https://www.4allpromos.com/product/travel-toothbrush-folding-case?default-tier=sample&default-qty=1",
+      "source": "4AllPromos.com",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 15,
+      "title": "Travel | Xiaomi Mijia Waterproof Sonic Electric Toothbrush For Adult Ultrasonic Automatic Toothbrush Health Oral Care, USB Rechargeable, White",
+      "price": "$15.79",
+      "extracted_price": 15.79,
+      "link": "https://www.walmart.com/ip/Xiaomi-Mijia-Waterproof-Sonic-Electric-Toothbrush-For-Adult-Ultrasonic-Automatic-Toothbrush-Health-Oral-Care-USB-Rechargeable/377126271?wmlspartner=wlpa&selectedSellerId=4654",
+      "source": "Walmart",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAADFBMVEVHcEwAAAAAAAAAAAALttw0AAAABHRSTlMACh8UaYQ5rwAAASxJREFUaIHt2csOgzAMRFEm/v9/LsQo2UPlW9WTPToa50Ewx/F8SHrx9HNUihj19KmeYzDyuAYgKzNHvZyREVn9Miszj3r5zgzI8yQh5ByULHFyWLb8vzJwH2qc2bJly9+W6y+flgkZeWU0lLmPDFxm2kOUnG0aYEPfMvEFPRtE1Ia+WhblEz3WqKZjycXwXGBM5uz1Ipnvk8SZa+QQlhnqru9qF8PNMwMyk1mrq0/IHTMzK0ybbiYT1Q40M7O2DyyzZcuWLVu2/Osydxviqw00Afd1CIDRahPNXnZXMQ1uutrU2m5WbbHzzFUbnef6Nwa8tsW+Jat/TOLVJn7G7qMEg525SEbW9socfU5PYftZu9yQDHWZuf0MzzN49yz+F8vdelE5oC/39F88+wFPowe31p6icwAAAABJRU5ErkJggg==",
+      "extensions": []
+    },
+    {
+      "position": 16,
+      "title": "Travel | Folding Travel Toothbrush by WithLogos",
+      "price": "$143.50",
+      "extracted_price": 143.5,
+      "link": "https://www.withlogos.com/folding-travel-toothbrush",
+      "source": "WithLogos.com",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 17,
+      "title": "SmileDirectClub Electric Toothbrush",
+      "price": "$25.00",
+      "extracted_price": 25,
+      "link": "https://shop.smiledirectclub.com/products/electric-toothbrush/?",
+      "source": "SmileDirectClub",
+      "rating": 4.1,
+      "reviews": null,
+      "thumbnail": "data:image/webp;base64,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",
+      "extensions": []
+    }
+  ],
+  "knowledge_graph": {
+    "see_more_about": [
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      },
+      {
+        "title": null
+      }
+    ]
+  },
+  "inline_products": [
+    {
+      "position": 1,
+      "title": "Violife Slim Sonic",
+      "link": "https://www.google.com/search?q=violife+slim+sonic&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwqz600SzGNTxJIM7FITDRKSjNKtEhJMU5MnsHEeImFo_nGuY6NLi9TOlgZF7EKlWXm52SmpSoU52TmKhTn52Umf2BlBwB24shwTAAAAA&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4QoYACMAd6BAgMEAU",
+      "rating": 4.4,
+      "reviews": 184,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=violife+slim+sonic&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwqz600SzGNTxJIM7FITDRKSjNKtEhJMU5MnsHEeImFo_nGuY6NLi9TOlgZF7EKlWXm52SmpSoU52TmKhTn52Umf2BlBwB24shwTAAAAA&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4QvIMEMAd6BAgMEAQ",
+      "editorial_reviews": [
+        {
+          "title": "Best Portable Toothbrush in 2019",
+          "link": "https://businesstravel.reviews/best-portable-toothbrush",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC2UlEQVQ4jZWTW2xMWxjHf7t7ujvtzLTMTEvpNA1FVCVIpTFxJJw0ck7i8kAiLg8SUUEiEsEL8eDB7QGJIuLBCcHJORGiTk4ZoVTiVnpJUbdidNrp7p4x3TNm2rVneShViT74kvW0vvXL//vlW0gp+dmxLKH8d2bfjrgZc47UI6VkxIv6un+WnluL/P/M9v2/DBBCsLd6RuP9GmTtAS3Z2xMs/CXA9dq/VgYOIT8GkMlHyMClzUdHAmTwtdJpSwmH3hW3Pb68KNi88+DsChg9CgaAlHF29bOWBr/R252fSMRzGFbK7Us11XrTlcXJ7ru/jRprukonQc448Lig34K0BLsCegR6+tyGHnUbas7kF7ljKh6UVW4/aIvq70tEqG7hzPK0avOC2weaHYQECWgqZGvgKwRfoeGWacP9Jviq9HXM3+BwOD6r56/cCbxOeHvT+s3540aLTFyQpYH1FZCdCaoyGLdHh+QnuPBwxfk11Ue2AihSSgBuXju20d6++dj0GZB2gpSAAnkaKAqYCai9CC/6y1u27b/nz3G4TOC7xAV/bqqJejYcj38CmQBVBdugAgCaWmHO77B8WdGHb48BbMON6sHnU/qKweGG1GeI9YLxDkQWFBRDnhdk342q9ltVdUIta3OOWRAYShCJRPLCL5/OtGtACrIGIGaQETXANx4KvINifR6ROdlzoyq778SGeH9ubAgQCnWOH4hG8zq7oLkR/q4teaur606FrKJgKAxYYMsABdB7SH+0Hd46tXz+7aEREqbhVkwyGhq0lH3W+pNrdu3Zo2U54xFD99w5XdE4cULXWLtrUGgw5kz4F68/DmCzLItkMpnd3No+6elAydtc57z6VZXL/u3qNjxChPNN03QlusP5LY+11IdkWdvsqa9Ki9ymw9A7i7wFvuDwD6QIIVQhxA+73traPG3LktL2QN3VPzo6OnyPHt6r3L1lbn3Tk7t+KSVfAJ453cBBSDmZAAAAAElFTkSuQmCC",
+          "source": "Business Travel"
+        },
+        {
+          "title": "5 Best Electric Toothbrushes For Travel: Slim, Portable Brushing",
+          "link": "https://lifehealthhq.com/best-electric-toothbrushes-for-travel/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAV1BMVEVHcEyKx2Fam0WLx2Jam0WcxmKmxWKHvl1Zm0WnxWGJx2FZm0R8pFeax2VXmUOMymNZmkRNlkVZm0SYx2KixmSnxWFZm0RQlkGtymaxzWdYmkOoxWGIx2EV4PEbAAAAGnRSTlMAwFNqX3GbPHDr87wGF4WK6xjXpinNmp5cU3npysEAAAB+SURBVBiVdY+JCsMwDEOTprmvrt0p+/+/c0lHIR2bwQY9bAkL8adm9wUWnLUFphOIwDrqhFaXAUzAgnkADmtEOfx6KOIdPfjaWnJNCcU1D+1932DmWtz0eBGR7jeBA1chnk3TbqJYbpwF3TYyH1vJStlsLPkjVYfcpjc/334D6VAGgWLuqJMAAAAASUVORK5CYII=",
+          "source": "Life Health HQ"
+        },
+        {
+          "title": "The 3 Best Travel Electric Toothbrushes",
+          "link": "https://www.bustle.com/p/the-3-best-travel-electric-toothbrushes-9163232",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA/UlEQVQ4jZXToU4DQRDG8R8EhSK9pA4FKATVqILuAxAChgcAg0LQnK+A4KtIwwPgMCgSHBJTBY7QoKoRO4Xmclu4Mbu52fnmP5dvlqQ4wzleLY52nPv4nE+UOP6jGPbwhhEKWMk8LNDFKqZ4jI4tDDHBKfrLGYEjXGETl7ip5N9nlxxBDwNcR7de5l1WoC391JPA7uYE6kbYiHMdO0HQaUKwG11LbMX9pQnBEy6i87OEP25CMF5U8B+BUhrjoya3LfmgVmDqd+6D+LaWIfxx7UxgIhlniEPJiVXzVEkG8wItaZH6UXyHe9xmKL5UlqnAQ6CNpO1sHIW0aY2KvwEWVS4VGRxulQAAAABJRU5ErkJggg==",
+          "source": "Bustle"
+        }
+      ],
+      "specifications": {
+        "type": "Electric",
+        "speed": "Sonic"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Philips Sonicare DiamondClean",
+      "link": "https://www.google.com/search?q=philips+sonicare+diamondclean&stick=H4sIAAAAAAAAAOPgUuLRT9c3rEzLNTItT6pIEjA0NjcwSjFPSjFNtTCxNLGYwcR4iYWj-ca5jo0uL1M6WBkXscoWZGTmZBYUKxTn52UmJxalKqRkJubm56Uk56Qm5n1gZQcAfXK_AFYAAAA&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4QoYACMAd6BAgMEBI",
+      "price": 140,
+      "rating": 4.6,
+      "reviews": 7841,
+      "thumbnail": "data:image/webp;base64,UklGRv4EAABXRUJQVlA4IPIEAADQGACdASp7AIQAPj0cjEQiIaGUqkxQIAPEs5nAHwADMfJfTaqAroCxjrfj6jiRmG/ofN7TYfG/PN6Kmj36s1E0n9pfp4NkBNnXIcJ4w5+nsDWlVW5vTOXbXSzqJy8MmhXXkC06B+1r7OsmoJt0N3JkSHhcjgSmM9Y3uQ7VRM86kxVIAOnzE35cFD/BnUDvoGEoL0/na5AE9xnTL3iFLN/FQuh0i6maHh0dIA90ga9HkIcaeVwTo+wpB/wRtRjrxGHQJYQwmMDR7flhcb1axYAA/ugypdV9RTt+vxV1ZuCc+/1ZUJY+P0aBobbpLvpX/f92FVcJMap2C5DwHKWkC8bM8z6cQjKgV3kW/hAFJB39vGoldP7OdCtfr/7/d9olxqxr6a2AVUD4thBF55J1MFl0+Qy6s08PmU9EEjSWUzOxJcDT7OeIHSAeQGuQwk5rU+r6aKcQN60376zmaizhH+DVycTkX9cO/MAgH/y3JyMt5EbN+RZsCvxaFyHwBwt02bipjoRuXedpQfobf/DGqgINvFXMmv1/6xqLqAKKP3JA5CeAWAFSaH0pkdx+fgsaqBtYsXP/G9CanG7IPlY4Ac6fdGUW++RmKidLtmUPrOoYDPlOKfl6oC6ZSaa+Y7qRYj9Vyp0ReDJQ5VqaAvkgT+aM6fQ8sqMISEJgEsLUD/d30RnGqYDnOLQTWVahZ6FlaWQZCbp+eAWdZ5j1zO8HJIsqZ4DCY5OwsBS9LQ3ID+UhyH9V93or0+KkK/9raTtXCxdKWc/Y6aegMPqMvzSf7acvtMJbmgzgs7KvnfgfloyU2DAhwdEClYDDabEF8W9LXRNq68Yri528SLkB2Rmg7DdpBBX1S+NZ8Tr0cD1fgMb8i2oUoJU2cwvYQR7c175Z3u369ikZXTrn9kas8naOiKsZ6Wf8kPcyvG8l8S3VTXk/5MemT+hsDIl5UQPiedDOCiBDmQJyU/RJnHUeWhNpFE2LhiqVM99Zu81C13MU5Hg4IIbNi5j1uBikOatTiSGn0f4sx4fDr9+CIsWb9EK8PiG/gFEbTcuToK6TTZdw+vbYJcHd17qlkNtIiAz1jjB/+RuuybQtjUn2r/2PAx9O/mczaZC5yoeKJBPVApmG2OBWdcbRy9k6IbYY4NqXukpXIIr/80/PI6npwnu6EbsKHt6lWOGMtwKBWJwnGyBwZmOl6/K3Fm4FKHu8IODxczoHBgX9XqeAYh6aqwVAkNMeNtfhy+JOEq0gD5IofDemDXllHm3QC8lWLf8+77opPbNr/yYK9+R+PAv77tX3NL92xZhdJ+/WCulPjYP+2U+lg92iKizIWu/9wCI3qgQfWyHcE1KIOx5NHFbJc1XaHkOqNrbhWuInm1Sp3XTy6CnmeVqA5/Alimk86WoNTJco6DI0kHvUdwLVmW/oJ+Tz8RpuMgLjdp4+toBEDS8q5nFkm6eDATeD6Cl43FnqZtMYpZm75Tkt/H5xYCHM3DyTNqfuspHQtX+OSnWh9R67EF0g1757dh/qNPSqrhfo39RrMmuTJhFe232A8QKaJf/kUD/AiNbh9emt6xqjHxAVlMq+MFxo+HMo8ttJFH7hZE7X+tjyQ9t64nuwuZq3TfmxLC9FxGv2CKARpCuvujgC7hIS6UedxiqYL7Kom1/6EgA+HaquE5AP0AJkC/1pniBOQ679BEIAAAA=",
+      "thumbnail_link": "https://www.google.com/search?q=philips+sonicare+diamondclean&stick=H4sIAAAAAAAAAOPgUuLRT9c3rEzLNTItT6pIEjA0NjcwSjFPSjFNtTCxNLGYwcR4iYWj-ca5jo0uL1M6WBkXscoWZGTmZBYUKxTn52UmJxalKqRkJubm56Uk56Qm5n1gZQcAfXK_AFYAAAA&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4QvIMEMAd6BAgMEBE",
+      "editorial_reviews": [
+        {
+          "title": "Philips Sonicare DiamondClean Tested and Reviewed",
+          "link": "https://moo.review/philips-sonicare-diamondclean-review/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAclBMVEVHcEz//v7///7///3/qyv/qi68dQn85ab/tED/qzf/nwD/////oQD/pQCGh4cEAQCkZADk5eWsr7G5u73WhADfiQAqAACQVADExcXpkAC3bQDQ0dKQk5XylwBDREQgP1RuPAB/dWuypJddZm5tdXyenp/e7sT5AAAACnRSTlMA3JeX3Nj+IaiV602rugAAALJJREFUGJU1j+t2wyAMg92NlGAbTELuSe/b+7/i1DT7jv9wLCyJCPjgmF3wdFAzK2CuP++KtTuDTrk69rF/PJ+POe4azxrHe1nXcs9R2VO45KW3VEqyecmXQK67tdYIaKy99Y44ZvuVJJjNcmTCyVykFUy74Cw51vMGPX4lGDsKkFiTUtqaAYIAW2DXlK6GrLBFMO1/ZJrkNR/hKx3Xt+00anWUG2RnqP/r+u+TyOlrr/8HdLYMBQiQsbYAAAAASUVORK5CYII=",
+          "source": "Moo Review",
+          "description": "The Travel case that comes with the DiamondClean is the best case that has ever been included in the box of an…"
+        },
+        {
+          "title": "7 Best Travel Electric Toothbrushes (Oct. 2019) – Ultimate Guide",
+          "link": "https://wisepick.org/best-travel-electric-toothbrush/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAP1BMVEVHcExvfXDvUiIZk5bxUiDxUSDxUiEak5UWk5YZk5bwUiEZk5UZk5Uak5XwUiEak5XwUiHvUiLxUSDvUiIak5XaJxN2AAAAE3RSTlMAH+IgIYEn9pUTwdCzUQ/lpOd4Fe4U3QAAAGFJREFUGJWNjFkOgDAIRElr7b4o3P+sglutiYnv7zEzAPxE69G9tb5bzt4SPS6VKjGWV0bJIbI5R5TAIAbZswO4KI7z6YET8QkgiTfEth7OL7hfFOLe76grv1mGnCkv/2YDmJoE31y7T2AAAAAASUVORK5CYII=",
+          "source": "Wise Pick"
+        }
+      ],
+      "specifications": {
+        "type": "Electric",
+        "speed": "Sonic",
+        "extensions": [
+          "White, Black, Pink, Rose Gold",
+          "Rechargeable"
+        ]
+      }
+    },
+    {
+      "position": 3,
+      "title": "Oral-B Genius Pro 8000",
+      "link": "https://www.google.com/search?q=oral-b+genius+pro+8000&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwuNjIxNCvJShIwNEtKMzdLMjVIMUg2sUgzn8HEeImFo_nGuY6NLi9TOlgZF7GK5Rcl5ugmKaSn5mWWFisUFOUrWBgYGHxgZQcA9HN06VAAAAA&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4QoYACMAd6BAgMECQ",
+      "price": 130,
+      "rating": 4.7,
+      "reviews": 3374,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=oral-b+genius+pro+8000&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEwuNjIxNCvJShIwNEtKMzdLMjVIMUg2sUgzn8HEeImFo_nGuY6NLi9TOlgZF7GK5Rcl5ugmKaSn5mWWFisUFOUrWBgYGHxgZQcA9HN06VAAAAA&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4QvIMEMAd6BAgMECM",
+      "editorial_reviews": [
+        {
+          "title": "Oral-B Genius Pro 8000 review",
+          "link": "https://www.toptenreviews.com/oral-b-genius-pro-8000-review",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwAZswAZswAZswAZswAZswAZswAZswAZswAZswAZswAZswAZswAZswAZswAZsyrbxsAAAAAD3RSTlMA4NHK7GcMH/Z7t3VKMKUn7bneAAAAY0lEQVQYlYWOQQ7AIAgEQVTUavn/b4tAk/bkHIgZEBbgCCk3QEcRvLYQJUETI9cQWQvhNgAsQelWfURoUGUaSX+7aGvvm/oKYbNFvqIuZjsYIml74rvUznoQT/YLBog4vtGPPNl0By5ruv5hAAAAAElFTkSuQmCC",
+          "source": "Top Ten Reviews",
+          "description": "As well as the regular stand, the Oral-B Genius Pro 8000 ships with a hard travel case, which has room for the…"
+        },
+        {
+          "title": "Top 10 Travel Electric Toothbrush Reviews [Updated October 2019]",
+          "link": "http://www.bestelectrictoothbrushlist.com/blog/best-travel-electric-toothbrush-discover-our-three-top-picks/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAxlBMVEX5////+v/8///3//8AjHwUoqMAoZzu///++fn4+/Xu//r1//zF8O6V0dF6ztB/zM+Zz9HN9/dQpJ0Wj4UfmJURk48hk5EUiYJcqqPU+PfC4e4WhIcQnZkzvrYxuLPJ5vC+9vMTpKkdmaJczc4fjY5DrpsXnpWS0NlRuKXW7/AAn4+52twMpJ0qnKCt2t0JpqOq5ed6zcUdmqjd6OnP390km54ik6N5w7zc/P9Pp67F+e1ltLNqt8YAiXYmho5gvr636O7l//N+OZvGAAAA6ElEQVQYlRXPAUKCMBQA0L/BR0YQIEggK9ykmTDAsCWKpd3/UtW7wQOXeQ/gB49hFAN4zAVCaLxM0lWWPeUFJQQoXZcc+fMLcl5WFMDalCgkbreZFFhvLLBeFUqZ7naplEK9WbC3M2l007aNFtLYE0Sq65A3fd842HWqh1DjIGRyOKgOB9QBvPNRm9FZt3zkfHQCiMxo+GAfP5JBmU/TQ1Eb46gTYyflGFFOAEuN/AyXy+JshmYGoHGCeK2+7OqK2p4ouK7/7dzujbrfeF24fzlGpzn31crP58ll5L9MLG8fhkdvQdgP+QWJzxtULdiwtgAAAABJRU5ErkJggg==",
+          "source": "Oral-B VS Sonicare"
+        }
+      ],
+      "specifications": {
+        "type": "Electric",
+        "speed": "Sonic",
+        "extensions": [
+          "White, Black",
+          "Rechargeable"
+        ]
+      }
+    },
+    {
+      "position": 4,
+      "title": "Philips Sonicare DiamondClean Smart",
+      "link": "https://www.google.com/search?q=philips+sonicare+diamondclean+smart&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEyprEoxL6woTBJINTU3MUhNSU1JSUwzMzIzmMHEeImFo_nGuY6NLi9TOlgZF7EqF2Rk5mQWFCsU5-dlJicWpSqkZCbm5uelJOekJuYpFOcmFpV8YGUHAND52UNdAAAA&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4QoYACMAd6BAgMEDY",
+      "price": 170,
+      "rating": 4.7,
+      "reviews": 2119,
+      "thumbnail": "data:image/webp;base64,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",
+      "thumbnail_link": "https://www.google.com/search?q=philips+sonicare+diamondclean+smart&stick=H4sIAAAAAAAAAOPgUuLVT9c3NEyprEoxL6woTBJINTU3MUhNSU1JSUwzMzIzmMHEeImFo_nGuY6NLi9TOlgZF7EqF2Rk5mQWFCsU5-dlJicWpSqkZCbm5uelJOekJuYpFOcmFpV8YGUHAND52UNdAAAA&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4QvIMEMAd6BAgMEDU",
+      "editorial_reviews": [
+        {
+          "title": "Review: Sonicare DiamondClean Smart uses your iPhone and Bluetooth to perfect the electric toothbrush",
+          "link": "https://appleinsider.com/articles/18/08/19/review-sonicare-diamondclean-smart-uses-your-iphone-and-bluetooth-to-perfect-the-electric-toothbrush",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAASFBMVEX///8tN0GZnKA+Rk////8lLzoaJzP+/v7w8fHW19jo6en39/cAESLNz9BeY2pPVl0LHSu5u77c3d55fYOlp6uBhYpyd3yAhInQw9YxAAAACnRSTlP2////////8P38w7icjQAAAI9JREFUGJVdz9kSwiAMBVCySsNSaKv+/5+aOKO23pcMZ0IC6ZYu8SP/ktHSBVbV6CgEtLeAvVJ0FCHVsYds5XMFZTQ+CHNAwydOkYO71AAcMqqCTFZYOaXsZbMHqC0q6ODl8IUAPkebQwIA7AJ37iAlYKNRV9FZBDrze61l69VajODv0wtPqssJIsYB/99/AfCkBY1fEeuHAAAAAElFTkSuQmCC",
+          "source": "AppleInsider",
+          "description": "DiamondClean does come with a handy travel case, able to fit the toothbrush as well as two brush heads."
+        },
+        {
+          "title": "Best Travel Toothbrush",
+          "link": "https://www.electricteeth.com/best-travel-toothbrush/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHElEQVQ4jZ3Ru0oDURDG8f+cs8lKIlHE26qkSakgKNgKghewMO9i6UP4ICJiE0VJIWqZQiwE7TS4Cl4ICBqze8bGMrt4nHL45jcwI+TUwmG71nPMG+H6qj5z1y9jsobfu6l8O7Z7TvcSpZ6VywS2ms8lpzqrYKzw5A18JjqsMC3wYYVbbyBRnVBlTITYitx7A6lSBSoCD+VAvrwBVWoKOGXxtet2Vo9j6wU4qAEoDCmUTzei9M/AcuOxoKpVAIHUCmdZi4J+zVRxVqQJGimMF420vICLzakU2J07aFcUlkZC4/+F34oMnJ+sR11vYOUoLgiUrOEyb0Mm0Om5QRE6RSM3eUDfGwAEQoiR1mho3/4FDFh5EWG/sTbp8oAfMvlen9eOODAAAAAASUVORK5CYII=",
+          "source": "Electric Teeth"
+        }
+      ],
+      "specifications": {
+        "type": "Electric",
+        "speed": "Sonic",
+        "extensions": [
+          "White, Black, Pink, Blue",
+          "Rechargeable"
+        ]
+      }
+    },
+    {
+      "position": 5,
+      "title": "Philips Sonicare Essence",
+      "link": "https://www.google.com/search?q=philips+sonicare+essence&stick=H4sIAAAAAAAAAOPgUuLRT9c3NCwrMUurTDNMEjBLs0xLTE1KSU5KSTJMTTaawcR4iYWj-ca5jo0uL1M6WBkXsUoUZGTmZBYUKxTn52UmJxalKqQWF6fmJad-YGUHAKNsGShRAAAA&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4QoYACMAd6BAgMEEg",
+      "price": 20,
+      "rating": 4.5,
+      "reviews": 7046,
+      "thumbnail": "data:image/webp;base64,UklGRswCAABXRUJQVlA4IMACAAAQEgCdASqEAIQAPj0ejUSiIaGSaVx4IAPEtLdur71U2yYkCBVdCehxeVkiHFRTMWDrH5nrGX7kYSJQ2DQxNE6oRqCLbgJQw7P0GJFRgsXDzcPi6jEGoH0MCZ2UnxtWtqYP/EM+jlOFzdCiNRr76ArjGHfTia2dXI9HNNAiSGmY9lJdFA5vj9+s9+yCfTXnAuj++da+JV4UYAAA/v4VaaIblM2fHp77HA5Y7MXI7YmgneE04quqkETWLp91jCGrurabukCF/YDl+Sb9mAgcqvyObpGCxdPbkTOSSiYebX3bs+ur+H/1a0DNVT2t2Uj33jnvJ62HRySZ9X2dI40SHQWW73xRD6/TXAJQsyvvaFwvMk3C/L/vFCuIp5DzQSU4pAiW3X57vPUd8c83qBykoNOvLZgdfnW1bZazPsM/dxAWfubSTJgKCr7iQgzO4MGC+7Qh11v4QdVIkyGzKDEh0Jh9B6HpeAP7OLyC2E8zEhN8N9mugjnuhtDTilEBnxwADdQXIcw1AagLyKQvrZit3iNSbnfiZtkCarvk/MT2opcLcBK8kDDc0GmJE3Y9G6Zsqxl1i2uttjG3jdVONPwArXk1/BQMQmVXjtaDg8e//Oc5SnQkMuSebnjDCI3J7LAenU6seaKa1HAb775dLuixU3LhBcsM4Z0SXL3gJDYwIfQD2rgtdOMvyJCA3Lpn88d7DJBYP3gjKF+3x2gqAZPYP0bhPpE3ztflThI1pQwSP2s68ixZjsFn4hN7WAfyR3GcXNZVwxeBVynaQbQkP4ZKC3izXM8kpMy2sDhBvEzdSgm3uCn41CKNhA5JLKfpDnywPTI5Y3DBO2SU4x3wOHAt6bzdsTGCj3VMuQ+Jjiyzz+MfcxuauknJl0pWJiOQ/yCT1PRJWtmCrKeKoS6qvryhrRAhKJB3zp4SEeQ0osHTAAAAAA==",
+      "thumbnail_link": "https://www.google.com/search?q=philips+sonicare+essence&stick=H4sIAAAAAAAAAOPgUuLRT9c3NCwrMUurTDNMEjBLs0xLTE1KSU5KSTJMTTaawcR4iYWj-ca5jo0uL1M6WBkXsUoUZGTmZBYUKxTn52UmJxalKqQWF6fmJad-YGUHAKNsGShRAAAA&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4QvIMEMAd6BAgMEEc",
+      "editorial_reviews": [
+        {
+          "title": "Philips Sonicare Essence Electric Toothbrush Review",
+          "link": "https://moo.review/philips-sonicare-essence-review/",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAclBMVEVHcEz//v7///7///3/qyv/qi68dQn85ab/tED/qzf/nwD/////oQD/pQCGh4cEAQCkZADk5eWsr7G5u73WhADfiQAqAACQVADExcXpkAC3bQDQ0dKQk5XylwBDREQgP1RuPAB/dWuypJddZm5tdXyenp/e7sT5AAAACnRSTlMA3JeX3Nj+IaiV602rugAAALJJREFUGJU1j+t2wyAMg92NlGAbTELuSe/b+7/i1DT7jv9wLCyJCPjgmF3wdFAzK2CuP++KtTuDTrk69rF/PJ+POe4azxrHe1nXcs9R2VO45KW3VEqyecmXQK67tdYIaKy99Y44ZvuVJJjNcmTCyVykFUy74Cw51vMGPX4lGDsKkFiTUtqaAYIAW2DXlK6GrLBFMO1/ZJrkNR/hKx3Xt+00anWUG2RnqP/r+u+TyOlrr/8HdLYMBQiQsbYAAAAASUVORK5CYII=",
+          "source": "Moo Review",
+          "description": "Perfect for use here in America but bad news you wanted to charge your Essence while traveling the world."
+        },
+        {
+          "title": "The 7 Best Electric Toothbrushes for Travelers",
+          "link": "https://www.travelandleisure.com/style/travel-accessories/best-electric-toothbrushes-travel",
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAMFBMVEVHcEwjHyAjICAjHyAjICEjHyAjICAjHyAkICElICEjHyAmJCYkHyAkICAjHyAjICCakEj8AAAAEHRSTlMA/mRQb9NZ70cyyg2wmN6+wtjzpQAAAEpJREFUGJW1jtsNwCAMAx2nSXmUsv+2DSChLoC/TidbMnAiZsXejBboZYiL0ljRB8rqSIKrkXkLBd3c/wJ45iSprkmICvCOHHn+AarOATjAAqBuAAAAAElFTkSuQmCC",
+          "source": "Travel + Leisure"
+        }
+      ],
+      "specifications": {
+        "type": "Electric",
+        "speed": "Sonic",
+        "extensions": [
+          "White, Pink, White / Blue",
+          "Rechargeable"
+        ]
+      }
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the best travel toothbrush?",
+      "snippet": "Best Travel Electric Toothbrush – Discover Our Ten Top PicksViolife Slim Sonic Toothbrush, Zebra.Oral-B Pro 1000 Rechargeable Toothbrush.Fairywill Sonic Battery Operated Toothbrush.Violife Slim Sonic Rose Gold Brush.Philips Sonicare Essence 5600.Enke Nomad Original Travel Sonic Toothbrush.More items...",
+      "title": "Top 10 Travel Electric Toothbrush Reviews [Updated September 2019]",
+      "link": "http://www.bestelectrictoothbrushlist.com/blog/best-travel-electric-toothbrush-discover-our-three-top-picks/",
+      "displayed_link": "www.bestelectrictoothbrushlist.com › blog › best-travel-electric-toothbru..."
+    },
+    {
+      "question": "What is the best manual toothbrush?",
+      "snippet": "Our Top 5 picks for best manual toothbrushCuraprox CS5460 Ultra Soft Toothbrush. Available individually, these super soft bristled Curaprox toothbrushes work out great value when purchased in a pack of 3. ... Oral-B Pro Health All-In-One Toothbrush. ... Boie USA. ... Colgate 360 Soft Toothbrush. ... Dr Collins Perio Toothbrush.Jan 2, 2019",
+      "title": "Best Manual Toothbrush (2019) - Buyer's Guide & Reviews",
+      "link": "https://www.electricteeth.com/best-manual-toothbrush/",
+      "displayed_link": "www.electricteeth.com › best-manual-toothbrush"
+    },
+    {
+      "question": "What is the best electric toothbrush recommended by dentists?",
+      "snippet": "The 5 Best Electric Toothbrushes, According to DentistsForeo ISSA 2 Toothbrush. Foreo.com. ... Philips Sonicare DiamondClean Toothbrush. Amazon.com. ... Rotadent Contour. Amazon.com. ... Oral-B Pro 1000 Power Rechargeable Electric Toothbrush Powered by Braun. Amazon.com. ... Philips Sonicare Flexcare Plus Sonic Electric Rechargeable Toothbrush. Amazon.com.Sep 20, 2019",
+      "title": "The 5 Best Electric Toothbrushes, According to Dentists",
+      "link": "https://www.health.com/oral-health/best-electric-toothbrush",
+      "displayed_link": "www.health.com › oral-health › best-electric-toothbrush"
+    },
+    {
+      "question": "Can I take rechargeable toothbrush on plane?",
+      "snippet": "Are electric toothbrushes allowed on planes? The answer ultimately depends on the airline. ... In case you have to take your electric toothbrush, carry it in your cabin bag only. Otherwise, grab a manual version and leave your main one at home.",
+      "title": "Teethmates | Bring your electric toothbrush on the plane",
+      "link": "https://teethmates.com/are-electric-toothbrushes-allowed-on-planes/",
+      "displayed_link": "teethmates.com › are-electric-toothbrushes-allowed-on-planes"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "10 Best Travel Toothbrushes: Electric & Manual (2020) | Road ...",
+    "link": "https://www.roadaffair.com/best-travel-toothbrushes/",
+    "snippet": "What to Look for in a Good Travel ToothbrushLingito Folding Travel Toothbrush. ... Hello Boo Bamboo Toothbrush Set with Travel Case. ... Oral-B Pro-Health Clinical Battery Toothbrush. ... Philips Sonicare DiamondClean Electric Toothbrush. ... VIOlife Slim Sonic Electric Toothbrush. ... HIEIE Sonic Electric Travel Toothbrush.More items...•Dec 16, 2019",
+    "thumbnail": "data:image/jpeg;base64,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"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "7 Best Travel Toothbrushes: 2019 | The Strategist | New York ...",
+      "link": "http://nymag.com/strategist/article/the-8-best-travel-toothbrushes.html",
+      "displayed_link": "nymag.com › strategist › article › the-8-best-travel-toothbrushes",
+      "date": "Apr 27, 2018",
+      "snippet": "The Radius Tour Travel Toothbrush is the best-designed travel toothbrush on the market, and it has extra-soft bristles."
+    },
+    {
+      "position": 2,
+      "title": "10 Best Travel Toothbrushes: Electric & Manual (2020) | Road ...",
+      "link": "https://www.roadaffair.com/best-travel-toothbrushes/",
+      "displayed_link": "www.roadaffair.com › best-travel-toothbrushes",
+      "date": "Dec 16, 2019",
+      "snippet": "What to Look for in a Good Travel Toothbrush. Lingito Folding Travel Toothbrush. Hello Boo Bamboo Toothbrush Set with Travel Case. Oral-B Pro-Health Clinical Battery Toothbrush. Philips Sonicare DiamondClean Electric Toothbrush. VIOlife Slim Sonic Electric Toothbrush. HIEIE Sonic Electric Travel Toothbrush.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5
+          },
+          "extensions": [
+            "Rating: 5",
+            "Review by Robin Gilmore"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lczwJkYGXUwJ:https://www.roadaffair.com/best-travel-toothbrushes/+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "The 7 Best Electric Toothbrushes for Travelers | Travel + ...",
+      "link": "https://www.travelandleisure.com/style/travel-accessories/best-electric-toothbrushes-travel",
+      "displayed_link": "www.travelandleisure.com › Style › Travel Accessories",
+      "date": "Jan 25, 2019",
+      "snippet": "The best travel electric toothbrushes will either hold a charge for the entirety of your trip or can easily be recharged by swapping out a battery or ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BYreHx_azvAJ:https://www.travelandleisure.com/style/travel-accessories/best-electric-toothbrushes-travel+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "The 7 Best Travel Toothbrushes (2020 Review)",
+      "link": "https://www.developgoodhabits.com/travel-toothbrushes/",
+      "displayed_link": "www.developgoodhabits.com › travel-toothbrushes",
+      "date": "Jan 2, 2020",
+      "snippet": "These are the best travel toothbrushes that will keep your teeth clean and your breath fresh while you're on the go and away from home.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zKZOIzYoQ-0J:https://www.developgoodhabits.com/travel-toothbrushes/+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "7 Best Travel Electric Toothbrushes (Jan. 2020) – Ultimate ...",
+      "link": "https://wisepick.org/best-travel-electric-toothbrush/",
+      "displayed_link": "wisepick.org › best-travel-electric-toothbrush",
+      "date": "Dec 17, 2019",
+      "snippet": "Philips Sonicare FlexCare Platinum – Best Sonic Travel Electric Toothbrush. Sonic technology. Deluxe travel case, hygienic travel cap, and multi-voltage travel charger included. Up to three weeks (or 42 uses) on a single charge. 1 AdaptiveClean brush head included.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best Oscillating Toothbrush ...",
+            "link": "https://wisepick.org/best-travel-electric-toothbrush/#product1"
+          },
+          {
+            "title": "Best Sonic Toothbrush ...",
+            "link": "https://wisepick.org/best-travel-electric-toothbrush/#product2"
+          },
+          {
+            "title": "Best Value for Money ...",
+            "link": "https://wisepick.org/best-travel-electric-toothbrush/#product4"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:81iy832qalkJ:https://wisepick.org/best-travel-electric-toothbrush/+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Best Portable Toothbrush in 2020 | Business Travel Reviews",
+      "link": "https://businesstravel.reviews/best-portable-toothbrush",
+      "displayed_link": "businesstravel.reviews › best-portable-toothbrush",
+      "snippet": "In this article, we have reviewed five of the best portable toothbrushes that the market has to offer, to give you a better perspective on the current options.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.7,
+            "votes": 194
+          },
+          "extensions": [
+            "Rating: 4.7",
+            "194 votes"
+          ]
+        }
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CoVD7Y1bCqQJ:https://businesstravel.reviews/best-portable-toothbrush+&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "8 Best Travel Toothbrush 2020. Less Plaque (And No More ...",
+      "link": "https://itsadrama.com/best-travel-toothbrush/",
+      "displayed_link": "itsadrama.com › best-travel-toothbrush",
+      "date": "Jan 11, 2020",
+      "snippet": "Looking for the best travel toothbrush? Sick of your teeth feeling furry & your breath smelling foul after being on a long flight? 9 awesome ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "45º Angled Travel ...",
+            "link": "https://itsadrama.com/best-travel-toothbrush/#3_45_Angled_Travel_Toothbrush"
+          },
+          {
+            "title": "Best Travel Electric ...",
+            "link": "https://itsadrama.com/best-travel-toothbrush/#Best_Travel_Electric_Toothbrush_2020"
+          },
+          {
+            "title": "Oral B Electric Toothbrush",
+            "link": "https://itsadrama.com/best-travel-toothbrush/#7_Oral_B_Electric_Toothbrush"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nnpmK9qrin4J:https://itsadrama.com/best-travel-toothbrush/+&cd=21&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "What is the Best Electric Toothbrush for Travel?",
+      "link": "https://www.travelfashiongirl.com/best-electric-toothbrush/",
+      "displayed_link": "www.travelfashiongirl.com › BEAUTY",
+      "snippet": "The last thing you want to do is pack a giant toothbrush and charger, so read on for our round up of the best electric toothbrushes!",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QMsyZ_QmB2cJ:https://www.travelfashiongirl.com/best-electric-toothbrush/+&cd=22&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "The 3 Best Travel Toothbrushes - Bustle",
+      "link": "https://www.bustle.com/p/the-3-best-travel-toothbrushes-9404080",
+      "displayed_link": "www.bustle.com › the-3-best-travel-toothbrushes-9404080",
+      "date": "Jun 22, 2018",
+      "snippet": "That's why the best travel toothbrushes are an easy investment you can make now that will make your trip a little more peaceful and relaxing.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BkYzpQs4NGcJ:https://www.bustle.com/p/the-3-best-travel-toothbrushes-9404080+&cd=23&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Best Travel Toothbrush 2020 - Reviews & Buyer's Guide ...",
+      "link": "https://www.electricteeth.com/best-travel-toothbrush/",
+      "displayed_link": "www.electricteeth.com › best-travel-toothbrush",
+      "date": "Jan 14, 2020",
+      "snippet": "See our recommendations for best travel toothbrush 2020 (plus advice on how to use your toothbrush on the road)",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_N4i5tSQ8ZYJ:https://www.electricteeth.com/best-travel-toothbrush/+&cd=24&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "best travel toothbrush case",
+      "link": "https://www.google.com/search?q=best+travel+toothbrush+case&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q1QIoAHoECA8QAQ"
+    },
+    {
+      "query": "best travel electric toothbrush 2019",
+      "link": "https://www.google.com/search?q=best+travel+electric+toothbrush+2019&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q1QIoAXoECA8QAg"
+    },
+    {
+      "query": "best manual travel toothbrush",
+      "link": "https://www.google.com/search?q=best+manual+travel+toothbrush&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q1QIoAnoECA8QAw"
+    },
+    {
+      "query": "best travel toothbrush wirecutter",
+      "link": "https://www.google.com/search?q=best+travel+toothbrush+wirecutter&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q1QIoA3oECA8QBA"
+    },
+    {
+      "query": "best electric toothbrush for backpacking",
+      "link": "https://www.google.com/search?q=best+electric+toothbrush+for+backpacking&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q1QIoBHoECA8QBQ"
+    },
+    {
+      "query": "tour travel toothbrush",
+      "link": "https://www.google.com/search?q=tour+travel+toothbrush&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q1QIoBXoECA8QBg"
+    },
+    {
+      "query": "travel toothbrush kit",
+      "link": "https://www.google.com/search?q=travel+toothbrush+kit&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q1QIoBnoECA8QBw"
+    },
+    {
+      "query": "best folding toothbrush",
+      "link": "https://www.google.com/search?q=best+folding+toothbrush&sa=X&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q1QIoB3oECA8QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+travel+toothbrush&ei=hyInXqKoNozh-AafvLlw&start=10&sa=N&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q8NMDegUIEBDnAQ",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+travel+toothbrush&ei=hyInXqKoNozh-AafvLlw&start=10&sa=N&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q8tMDegUIEBDVAQ",
+      "3": "https://www.google.com/search?q=best+travel+toothbrush&ei=hyInXqKoNozh-AafvLlw&start=20&sa=N&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q8tMDegUIEBDXAQ",
+      "4": "https://www.google.com/search?q=best+travel+toothbrush&ei=hyInXqKoNozh-AafvLlw&start=30&sa=N&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q8tMDegUIEBDZAQ",
+      "5": "https://www.google.com/search?q=best+travel+toothbrush&ei=hyInXqKoNozh-AafvLlw&start=40&sa=N&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q8tMDegUIEBDbAQ",
+      "6": "https://www.google.com/search?q=best+travel+toothbrush&ei=hyInXqKoNozh-AafvLlw&start=50&sa=N&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q8tMDegUIEBDdAQ",
+      "7": "https://www.google.com/search?q=best+travel+toothbrush&ei=hyInXqKoNozh-AafvLlw&start=60&sa=N&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q8tMDegUIEBDfAQ",
+      "8": "https://www.google.com/search?q=best+travel+toothbrush&ei=hyInXqKoNozh-AafvLlw&start=70&sa=N&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q8tMDegUIEBDhAQ",
+      "9": "https://www.google.com/search?q=best+travel+toothbrush&ei=hyInXqKoNozh-AafvLlw&start=80&sa=N&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q8tMDegUIEBDjAQ",
+      "10": "https://www.google.com/search?q=best+travel+toothbrush&ei=hyInXqKoNozh-AafvLlw&start=90&sa=N&ved=2ahUKEwjih5i1ipXnAhWMMN4KHR9eDg4Q8tMDegUIEBDlAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+toothbrush&start=10&token=b234cd0f135bbb95",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+toothbrush&start=10&token=b234cd0f135bbb95",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+toothbrush&start=10&token=b234cd0f135bbb95",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+toothbrush&start=20&token=6720be57caad06b0",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+toothbrush&start=30&token=5bec9c1dd179de09",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+toothbrush&start=40&token=ebf60803d4b25ae8",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+toothbrush&start=50&token=477ddec1e5451608",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+toothbrush&start=60&token=a7206539bf5eec5c",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+toothbrush&start=70&token=040ebe6ecdbabd36",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+toothbrush&start=80&token=9d7739fb642ea37e",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=best+travel+toothbrush&start=90&token=2fb40e972c2c2ec7"
+    }
+  }
+}

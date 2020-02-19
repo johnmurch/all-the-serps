@@ -1,0 +1,381 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:43:30 UTC",
+    "processed_at": "2020-01-21 22:43:30 UTC",
+    "google_url": "https://www.google.com/search?q=office+supplies+boston&oq=office+supplies+boston&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.03
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supplies boston",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 531000000,
+    "time_taken_displayed": 0.57,
+    "query_displayed": "office supplies boston"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "bottom",
+      "title": "Office Supplies | In Stock. Ships Today‎",
+      "link": "https://www.uline.com/Cls_40/Office-Furniture-and-Supplies",
+      "displayed_link": "www.uline.com/Office-Supplies",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiV9POY4pXnAhUPIK0GHe5LCyIYABAAGgJwdg&sig=AOD64_30y__DdHLDTZtR8UkwmwqN_tGHiQ&q=&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ0Qx6BAgPEAE&adurl=",
+      "description": "Huge Catalog! Over 36,000 Products. Same Day Shipping From 11 Locations. Fast Delivery. 11 Locations.",
+      "sitelinks": [
+        {
+          "title": "Office Furniture",
+          "link": "https://www.uline.com/Grp_270/Office-Furniture?pricode=WA3671&Sitelink=office_furniture"
+        },
+        {
+          "title": "File Folders",
+          "link": "https://www.uline.com/Grp_53/File-Folders?pricode=WA3671&Sitelink=file_folders"
+        },
+        {
+          "title": "File Cabinets",
+          "link": "https://www.uline.com/Grp_159/File-Cabinets-and-Mailroom?pricode=WA3671&Sitelink=file_cabinets"
+        },
+        {
+          "title": "Office Envelopes",
+          "link": "https://www.uline.com/Grp_32/Paper-Office-Envelopes?pricode=WA3671&Sitelink=office_envelopes"
+        },
+        {
+          "title": "Pens",
+          "link": "https://www.uline.com/Grp_409/Pens?pricode=WA3671&Sitelink=pens"
+        },
+        {
+          "title": "Breakroom Supplies",
+          "link": "https://www.uline.com/Grp_114/Breakroom-Supplies?pricode=WA3671&Sitelink=breakroom_supplies"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "bottom",
+      "title": "Quill.com Official Site | Order Office Supplies Online‎",
+      "link": "https://www.quill.com/office-supplies/cbu/2.html",
+      "displayed_link": "www.quill.com/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiV9POY4pXnAhUPIK0GHe5LCyIYABAGGgJwdg&sig=AOD64_2cHh3stPDy4bVy3nT_Arjy05O2iw&q=&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ0Qx6BAgQEAE&adurl=",
+      "description": "Find All The Essentials Your Office Needs. Free Gifts & Coupons With Your Order! Friendly Customer Service. Expansive Assortment. Save On Office Supplies Today. Fast, Free Shipping. Always Happy to Help. Easy Reordering. Hot Deals Every Day.",
+      "sitelinks": [
+        {
+          "title": "Pens, Pencils & Markers",
+          "link": "https://www.quill.com/writing-supplies-instruments/cbc/268.html"
+        },
+        {
+          "title": "Hot Deals",
+          "link": "https://www.quill.com/daily-deals/cbx/35.html"
+        },
+        {
+          "title": "25+ Coupons Daily",
+          "link": "https://www.quill.com/coupon-codes/cbx/327.html"
+        },
+        {
+          "title": "Post-it Notes",
+          "link": "https://www.quill.com/search?keywords=post+it+notes"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "HP 63 - Black Ink Cartridges - (1Vv45An) - At Staples",
+      "price": "$18.49",
+      "extracted_price": 18.49,
+      "link": "https://www.staples.com/hp-63-black-economy-ink-cartridge-1vv45an/product_24316179",
+      "source": "Staples",
+      "rating": 4.6,
+      "reviews": 9000,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 2,
+      "title": "White PoppinPod Kolo 1 with Stool",
+      "price": "$7,298.00",
+      "extracted_price": 7298,
+      "link": "https://poppinpod.poppin.com/White-PoppinPod-Kolo-1-with-Stool-107263+%3A+107262.html",
+      "source": "Poppin",
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    },
+    {
+      "position": 3,
+      "title": "HP 61 Economy Black Original Ink Cartridge (B3B07AN)",
+      "price": "$17.84",
+      "extracted_price": 17.84,
+      "link": "https://store.hp.com/us/en/pdp/hp-61-economy-black-original-ink-cartridge",
+      "source": "hp.com",
+      "rating": 4.6,
+      "reviews": 9000,
+      "thumbnail": "data:image/png;base64,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",
+      "extensions": []
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supplies+boston&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=42349916,-71049970,1224&tbm=lcl&sa=X&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQtgN6BAgLEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 42.349916,
+      "longitude": -71.04997,
+      "altitude": 1224
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supplies+boston&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=42349916,-71049970,1224&tbm=lcl&sa=X&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQjGp6BAgLEEI",
+    "places": [
+      {
+        "position": 1,
+        "title": "Peabody Office Furniture",
+        "place_id": "11667790194355543595",
+        "lsig": "AB86z5Xqg5RgDG046EPeUrG562FP",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Xqg5RgDG046EPeUrG562FP&ludocid=11667790194355543595&q=office+supplies+boston&tbm=lcl&token=5e40bc9ad0c7ef45",
+        "rating": 5,
+        "reviews": 1,
+        "type": "Office furniture store",
+        "hours": "Closed ⋅ Opens 8:30AM Wed · (617) 542-1902",
+        "address": "234 Congress St",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 42.3543077,
+          "longitude": -71.054042
+        }
+      },
+      {
+        "position": 2,
+        "title": "Staples",
+        "place_id": "10583578080523318861",
+        "lsig": "AB86z5Wp7hK4gN7L3FbWyi40a8Oy",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Wp7hK4gN7L3FbWyi40a8Oy&ludocid=10583578080523318861&q=office+supplies+boston&tbm=lcl&token=72ff0b3c695ca0a0",
+        "rating": 4.2,
+        "reviews": 109,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "1 Washington Mall",
+        "phone": "Near Old State House",
+        "description": "Brand-name electronics & office supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 42.359258,
+          "longitude": -71.05787099999999
+        }
+      },
+      {
+        "position": 3,
+        "title": "W.B. Mason",
+        "place_id": "4081201651156138029",
+        "lsig": "AB86z5WzhHyuIiz_jkHt4Si-BsPF",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WzhHyuIiz_jkHt4Si-BsPF&ludocid=4081201651156138029&q=office+supplies+boston&tbm=lcl&token=421258cfe28a5152",
+        "rating": 3.2,
+        "reviews": 19,
+        "type": "Office supply store",
+        "hours": "Closed ⋅ Opens 9AM Wed · (888) 926-2766 ext. 1934",
+        "address": "647 Summer St",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 42.3405742,
+          "longitude": -71.0420695
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Top 10 Best Office Supplies in Boston, MA - Last Updated ...",
+      "link": "https://www.yelp.com/search?find_desc=office+supplies&find_loc=Boston%2C+MA",
+      "displayed_link": "www.yelp.com › search › find_loc=Boston,+MA",
+      "snippet": "Staples. 1.0 mi. 18 reviews. Shipping Centers, Printing Services, Mobile Phone Repair. University Stationery. 1.7 mi. 39 reviews. Topdrawer. 0.6 mi. 7 reviews. W.B. Mason. 1.5 mi. 14 reviews. Officemax. 1.5 mi. 28 reviews. Paper Source. 0.3 mi. 68 reviews. NECS. 1.0 mi. 1 review. Bromfield Pen Shop. 0.9 mi. 50 reviews.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mdBVlEadcLAJ:https://www.yelp.com/search%3Ffind_desc%3Doffice%2Bsupplies%26find_loc%3DBoston%252C%2BMA+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Top 10 Best Office Supply Stores in Boston, MA - Last ...",
+      "link": "https://www.yelp.com/search?find_desc=office+supply+stores&find_loc=Boston%2C+MA",
+      "displayed_link": "www.yelp.com › search › find_loc=Boston,+MA",
+      "snippet": "University Stationery. 1.7 mi. 39 reviews. $$ Office Equipment, Cards & Stationery. W.B. Mason. 1.5 mi. 14 reviews. Bob Slate Stationer. 3.1 mi. 48 reviews. Officemax. 1.5 mi. 28 reviews. Topdrawer. 0.6 mi. 7 reviews. Boston General Store. 2.6 mi. 24 reviews. Blick Art Materials. 1.6 mi. 104 reviews. Target. 2.0 mi. 27 ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KFWLclDTVD8J:https://www.yelp.com/search%3Ffind_desc%3Doffice%2Bsupply%2Bstores%26find_loc%3DBoston%252C%2BMA+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "W.B. Mason",
+      "link": "https://www.wbmason.com/",
+      "displayed_link": "www.wbmason.com",
+      "snippet": "Shop W.B. Mason for all your office supply, ink and toner, furniture, technology, break room and janitorial needs. Free same-day, next-day delivery.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Customer Service",
+            "link": "https://www.wbmason.com/customerservice.aspx"
+          },
+          {
+            "title": "Careers",
+            "link": "https://www.wbmason.com/aboutus/careers.html"
+          },
+          {
+            "title": "Before you get started",
+            "link": "https://www.wbmason.com/QuickOrder.aspx"
+          },
+          {
+            "title": "Visit our Brand Stores to see ...",
+            "link": "https://www.wbmason.com/LandingPage.aspx?LandingPageID=WB-Brand-Stores"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NTc1f6O9pSAJ:https://www.wbmason.com/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Office Depot Stores in Boston,MA - Visit Today",
+      "link": "https://www.officedepot.com/storelocator/ma/boston",
+      "displayed_link": "www.officedepot.com › storelocator › boston",
+      "snippet": "Shop at an Office Depot store in Boston,MA. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:C4j3BOWFh9gJ:https://www.officedepot.com/storelocator/ma/boston+&cd=7&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Staples® Official Online Store",
+      "link": "https://www.staples.com/",
+      "displayed_link": "www.staples.com",
+      "snippet": "Shop Staples for business essentials, printers, ink, computers, office furniture, printing services, promotional products and more. Solutions for Worklife.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Supplies",
+            "link": "https://www.staples.com/Office-Supplies/cat_SC1"
+          },
+          {
+            "title": "Small Office & Home Office ...",
+            "link": "https://www.staples.com/Small-Office-Home-Office-Furniture-Collections/cat_CL208484"
+          },
+          {
+            "title": "Printing & Marketing Services",
+            "link": "https://www.staples.com/services/printing/"
+          },
+          {
+            "title": "Pens",
+            "link": "https://www.staples.com/Pens/cat_CL110001"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CNR1OwZWsigJ:https://www.staples.com/+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "1 Washington Mall, Boston, MA - Staples® Office Furniture",
+      "link": "https://stores.staples.com/ma/boston/1-washington-mall/office-furniture",
+      "displayed_link": "stores.staples.com › MA › Boston › 1 Washington Mall",
+      "snippet": "Buy Office Furniture at your Boston Staples® and SAVE on backpacks, binders, calculators, notebooks, paper, writing supplies, scissors and more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uaTOcU9d544J:https://stores.staples.com/ma/boston/1-washington-mall/office-furniture+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Boston Office Supplies | OnTimeSupplies.com",
+      "link": "https://www.ontimesupplies.com/boston-office-supplies.html",
+      "displayed_link": "www.ontimesupplies.com › Local Warehouses",
+      "snippet": "Shop Boston Office Supplies -- get speedy shipping or same-day pick up on more than 40000 discount office supplies at OnTimeSupplies.com your online local ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:t26wpO3tDEIJ:https://www.ontimesupplies.com/boston-office-supplies.html+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Peabody Office",
+      "link": "http://www.peabodyoffice.com/",
+      "displayed_link": "www.peabodyoffice.com",
+      "snippet": "Peabody Office is an open-source corporate furniture dealer. ... owned and operated by the 4th generation Peabody brothers, with offices in Boston, Washington ...",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:qfBQEPhST2MJ:www.peabodyoffice.com/+&cd=11&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:www.peabodyoffice.com/+office+supplies+boston&tbo=1&sa=X&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQHzAKegQICRAH"
+    },
+    {
+      "position": 9,
+      "title": "Official Boston Celtics Home, Office Supplies, Celtics Bed ...",
+      "link": "https://store.nba.com/boston-celtics/home-and-office/t-25929419+d-3449177153+z-99-2641833343",
+      "displayed_link": "store.nba.com › t-25929419+d-3449177153+z-99-2641833343",
+      "snippet": "Boston Celtics home and office gear is at the official online store of the NBA. Browse our selection of Celtics bed and bath supplies, glassware, office supplies, ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:naCg5pJBTxQJ:https://store.nba.com/boston-celtics/home-and-office/t-25929419%2Bd-3449177153%2Bz-99-2641833343+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Boston Bruins Home Decor, Bruins Office Supplies, Home ...",
+      "link": "https://www.fanatics.com/nhl/boston-bruins/home-and-office/o-3584+t-03481674+d-97113332+z-9-2671646036",
+      "displayed_link": "www.fanatics.com › NHL › Boston Bruins",
+      "snippet": "Boston Bruins home decor is stocked at Fanatics. Display your spirit with officially licensed Boston Bruins office supplies, home furnishings, and more from the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IUuXx0OSY8wJ:https://www.fanatics.com/nhl/boston-bruins/home-and-office/o-3584%2Bt-03481674%2Bd-97113332%2Bz-9-2671646036+&cd=13&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office depot",
+      "link": "https://www.google.com/search?q=office+depot&sa=X&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ1QIoAHoECA0QAQ"
+    },
+    {
+      "query": "office supply store near me",
+      "link": "https://www.google.com/search?q=office+supply+store+near+me&sa=X&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ1QIoAXoECA0QAg"
+    },
+    {
+      "query": "staples",
+      "link": "https://www.google.com/search?q=staples&sa=X&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ1QIoAnoECA0QAw"
+    },
+    {
+      "query": "officemax",
+      "link": "https://www.google.com/search?q=officemax&sa=X&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ1QIoA3oECA0QBA"
+    },
+    {
+      "query": "office supplies boston ma",
+      "link": "https://www.google.com/search?q=office+supplies+boston+ma&sa=X&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ1QIoBHoECA0QBQ"
+    },
+    {
+      "query": "wb mason",
+      "link": "https://www.google.com/search?q=wb+mason&sa=X&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ1QIoBXoECA0QBg"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ1QIoBnoECA0QBw"
+    },
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ1QIoB3oECA0QCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supplies+boston&ei=kn4nXrv7LP7C0PEPz7S-yA8&start=10&sa=N&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ8NMDegQIDhBj",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supplies+boston&ei=kn4nXrv7LP7C0PEPz7S-yA8&start=10&sa=N&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ8tMDegQIDhBR",
+      "3": "https://www.google.com/search?q=office+supplies+boston&ei=kn4nXrv7LP7C0PEPz7S-yA8&start=20&sa=N&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ8tMDegQIDhBT",
+      "4": "https://www.google.com/search?q=office+supplies+boston&ei=kn4nXrv7LP7C0PEPz7S-yA8&start=30&sa=N&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ8tMDegQIDhBV",
+      "5": "https://www.google.com/search?q=office+supplies+boston&ei=kn4nXrv7LP7C0PEPz7S-yA8&start=40&sa=N&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ8tMDegQIDhBX",
+      "6": "https://www.google.com/search?q=office+supplies+boston&ei=kn4nXrv7LP7C0PEPz7S-yA8&start=50&sa=N&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ8tMDegQIDhBZ",
+      "7": "https://www.google.com/search?q=office+supplies+boston&ei=kn4nXrv7LP7C0PEPz7S-yA8&start=60&sa=N&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ8tMDegQIDhBb",
+      "8": "https://www.google.com/search?q=office+supplies+boston&ei=kn4nXrv7LP7C0PEPz7S-yA8&start=70&sa=N&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ8tMDegQIDhBd",
+      "9": "https://www.google.com/search?q=office+supplies+boston&ei=kn4nXrv7LP7C0PEPz7S-yA8&start=80&sa=N&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ8tMDegQIDhBf",
+      "10": "https://www.google.com/search?q=office+supplies+boston&ei=kn4nXrv7LP7C0PEPz7S-yA8&start=90&sa=N&ved=2ahUKEwi7jOqY4pXnAhV-ITQIHU-aD_kQ8tMDegQIDhBh"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+boston&start=10&token=3e355c61e659e188",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+boston&start=10&token=3e355c61e659e188",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+boston&start=10&token=3e355c61e659e188",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+boston&start=20&token=122f5202beed4724",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+boston&start=30&token=d616f733d889abcf",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+boston&start=40&token=ca18e5fd2d7eaab5",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+boston&start=50&token=554853653ba71885",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+boston&start=60&token=7652abc3f1292d2b",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+boston&start=70&token=6f34b800c34192d6",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+boston&start=80&token=3b8707bd6739c496",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supplies+boston&start=90&token=5765cf7d99227cf5"
+    }
+  }
+}

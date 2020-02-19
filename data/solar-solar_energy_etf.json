@@ -1,0 +1,256 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-20 21:25:56 UTC",
+    "processed_at": "2020-01-20 21:25:56 UTC",
+    "google_url": "https://www.google.com/search?q=solar+energy+etf&oq=solar+energy+etf&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 2.34
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "solar energy etf",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "solar energy etf"
+  },
+  "knowledge_graph": {
+    "etf": [
+      {
+        "name": "First Solar",
+        "link": "https://www.google.com/search?q=First+Solar&stick=H4sIAAAAAAAAAONgVeLSz9U3MCosqcjIM5LJySwuUchPUyjOz0ksUkjNSy1Kr1RILUkD4VOMSEqhnCqL8sqUylOMPPrp-oaFZhnxRkaVWVA5C4P0CoMiKMckvcggyQTKSc9NKjKuOMXIC9JlmBafUlRVUmwB46fEl5uZGZkmw021jDfMybKESWcYG1WmVVakPGKcwcQt8PLHPWGpPqZJa05eY2xn4hLwyc8vTs2pDErNSSxJTQnJF1LhYnPNK8ksqRSS4uKR4gBZb1aRlKLBIMXFBecJnWHk4g5OLQnJ981PyUyrFNrDKLSTEYtpanDTZLh4pTjB4ZFbkVUANI6bC8EVqkU1Lk8oh4vTNzU3KbWo2D9NyI6Lyzk_Jyc1uSQzP0_IgEtcSlg_GS6gn1lcXApUCDRTlAubhJK8keylZ7c3sopzMQPjRYuNg1WAUYLRlIGhwd4KJMKziJXbLbMIGJXBoHgEAEAGT_nlAQAA&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q-BYwE3oECA4QKA",
+        "image": "data:image/png;base64,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"
+      },
+      {
+        "name": "Enphase Energy",
+        "link": "https://www.google.com/search?q=Enphase+Energy&stick=H4sIAAAAAAAAAONgVeLSz9U3qLIor0ypNJLJySwuUchPUyjOz0ksUkjNSy1Kr1RILUkD4VOMYKVGhSUVGXlQDkTfKUYe_XR9w0KzjHgjo8osqJyFQXqFQRGUY5JeZJBkAuWk5yYVGVecYuQF6TJMi08pqioptoDxU-LLzcyMTJPhplrGG-ZkWcKkM4yNKtMqK1IeMc5g4hZ4-eOesFQf06Q1J68xtjNxCfjk5xen5lQGpeYklqSmhOQLqXCxueaVZJZUCklx8UhxgKw3q0hK0WCQ4uKC84TOMHJxB6eWhOT75qdkplUK7WEU2smIxTQ1uGkyXLxSnODwyK3IKgAax82F4ArVohqXJ5TDxembmpuUWlTsnyZkx8XlnJ-Tk5pckpmfJ2TAJS4lrJ8MF9DPLC4uBSoEminKhU1CSd5I9tKz2xtZxbmYgfGixcbBKsAowWjKwNBgbwUS4VnEyueaV5CRWJyq4AqOQwAiGnrJ6AEAAA&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q-BYwFHoECA4QKw",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAXCAMAAAAGEyDiAAAAkFBMVEX///89PT05OTlDQ0PzbQu9vb1JSUn3pn/Ly8v7+/v0fjfw8PAzMzOenp5TU1Pq6urExMRcXFzj4+PyaADS0tIkJCT1k2DzcRrd3d0tLS2lpaX+9vKzs7OGhob0gT99fX2Ojo7yXwBwcHD72cv2nHD70b7zdin5w6v4tJX4uZ73rIj85dr1ilFnZ2f97+j6yrVbsi6FAAAC50lEQVRIidWWaXeqMBCGkwxEKJQtUIS6ULXu2P//7+5MFkRtT7/09p77fvCEMM6TWZzI2D/V++bJU9uX3evvUrfK01Jq/4vYiapVvdkfjgtcLH4t5I2q6w+zPJ1VvQ3di9S3op1s6naz67ss1VvT0r4rnRHLosF/2ba+eQqdQzI7KO88oNhReS9uDdwonjMWNLF13lcETuyrJW01leFHTWM9tc3SOolygXai07ux9dgw9qrqp3H0E0+tHVfmRgGen0swh865T1yZ4AvJYYVhxKIwqRDChimlW+XA+6XkvMf1MyTGIZ7i9PZ2ukl7XS+GeIe0EVfmYy7X4fs8Lj7h0imf9aqItZNZkxCXz6+c9Zrd6OCpi+OWw27GE4BuzA30foJPj9xcJlLqVcmFSXd4z73Xq1Ifn8Wb+1z4D1zJM+La+lruVPCCc91/oZD94GXMPWyfbrWoPfsjBqmVhyZetgSKy3H9MIrSDuIIudLJcOdY9Q567SSIQfSZ5RqPQGn0HqWOjqs7WjcrcbGZZDj0FQgUxC31lTHkYLiRwAIVQpg4i5UAnpSWq7uZSr+ePMqODoBZGQTBlDluKjCQMTeWtA5j8AOSD5rbQsJC1oNLatHh+QKd5xU5DL4usq3vTV/Rp+Bt7/IcpakdB3f1xWyKWFx/Smixkvyuvuw4uaVdXt6/5OI3MfnjvrLccT/7XJdAALQUrDERdLQx9/Tm2tcKR+XAHfez5rJefsvNoUuLokixmoiqltSWM6BJdhPvtvbGV8FOuXamfIFWf+WGAzf7gluKIetoM8N2Xs1zzjum+8o4BAxojVfBZfDxgU9uLe005RV6q8y0YtO4oUjz6loDnM+mklEThziaVnZ7WeEJM+1F6L3rfJ4xuhhqb2csL3g3qWFsRoEVRVO6Jik0MBphWerqUZClP7ST2Q7a59YaOIemRgd9/x52+zNd/7fT+q/qtFBuZGzC781/UOsJ/r+qz/vL96b/t/4AGwgw6/7fu40AAAAASUVORK5CYII="
+      },
+      {
+        "name": "iShares Global Clean Energy ETF",
+        "link": "https://www.google.com/search?q=iShares+Global+Clean+Energy+ETF&stick=H4sIAAAAAAAAAONgVeLRT9c3LDTLiDcyqswyksnJLC5RyE9TKM7PSSxSSM1LLUqvVEgtSQPhU4xc-rn6BkaFJRUZeVBOlUV5ZUrlKUYUY6ByFgbpFQZFUI5JepFBkgmUk56bVGRccYqRF6TLMC0-paiqpNgCxk-JLzczMzJNhptqGW-Yk2UJk84wNqpMq6xIecQ4g4lb4OWPe8JSfUyT1py8xtjOxCXgk59fnJpTGZSak1iSmhKSL6TCxeaaV5JZUikkxcUjxQGy3qwiKUWDQYqLC84TOsPIxR2cWhKS75ufkplWKbSHUWgnIxbT1OCmyXDxSnGCwyO3IqsAaBw3F4IrVItqXJ5QDhenb2puUmpRsX-akB0Xl3N-Tk5qcklmfp6QAZe4lLB-MlxAP7O4uBSoEGimKBc2CSV5I9lLz25vZBXnYgbGixYbB6sAowSjKQNDg70VSIRnEat8ZnBGYlFqsYJ7Tn5SYo6Cc05qYp6CKyRCXUPcADwtGKb7AQAA&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q-BYwFXoECA4QLg",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAAAXNSR0IArs4c6QAAA6xJREFUeAHtm1tL5EAQRnvXO+iL4JNP/v/f5YOKIiredZYayDJbtjO7LjOTOp6GMFMdSPr7Tqo6CZ0fJycnk2bDOvATq0xhUwcEDL8QBCxguANweWawgOEOwOWZwQKGOwCXZwYLGO4AXJ4ZLGC4A3B5ZrCA4Q7A5ZnBAoY7AJdnBgsY7gBcnhksYLgDcHlmsIDhDsDlmcEChjsAl2cGCxjuAFyeGSxguANweWawgOEOwOWZwQKGOwCXZwYLGO4AXJ4ZLGC4A3B5ZrCA4Q7A5ZnBAoY7AJdnBsMBb1bSt7Gx0Q4PD9vu7m7b3Fzt0F9fX9vj42O7urpqb29vZWxbrUv/YUvAPT4+bvG7jhYX1P7+ftvb22unp6dlIJcp0ZG564I7e0ENVWS2b8z/ywCOsjyWNqaxLPKkDOBVz7nzjBvTWOaNM/aVAbxIiPv7Dgi47wumV8AYlH0hAu77gukVMAZlX4iA+75gegWMQdkXIuC+L5heAWNQ9oUIuO8LplfAGJR9IQLu+4LpFTAGZV/Itwd8e3vbYqO2Mis6lgHg6empXV5eTg+9s7PTtre3l3GatR7z22ZwrKs6Pz9vk8lkusX/9/f3tcJYxslxgKPc3tzczPUqoF5cXLRYSDe0l5eX39k89BF+USV6KLkBcGtra7pArgfp+vq6PTw8fNh1d3c3XbF5cHDwYV/VDkwGz5bcgBElN7Iyt/v7+xaAP2sxJz8/P3+2u1w/AnCv5MZ8enZ29sfy1gAepXlei2OR5mME4M9KbgD9yo0UaT4uPwcvKrnxNcLwKPQvpZcyH5cG/DclN8rxV19kxIVR/fm4bImOOXbZcyVhPi4LeFV3u9Xn47Il+ujoqMVmm+9A2QyeL8u9gwNlAM++VhwGv67fMY1lkQdlAMfjzljamMayyJMygMfyZX28Eo2xVGllAIex8WV9vIBYR4mMc8a5K33dHxdhqbvogLzoXXKVzFrVOMtk8KoMoZ1HwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtPAXPC0crYIvShYAAAAASUVORK5CYII="
+      },
+      {
+        "name": "SolarEdge",
+        "link": "https://www.google.com/search?q=SolarEdge&stick=H4sIAAAAAAAAAONgVeLSz9U3sDBIrzAoMpLJySwuUchPUyjOz0ksUkjNSy1Kr1RILUkD4VOMYKVGhSUVGXlQTpVFeWVK5SlGHv10fcNCs4x4I6PKLKgcxEwoxyS9yCDJBMpJz00qMq44xcgL0mWYFp9SVFVSbAHjp8SXm5kZmSbDTbWMN8zJsoRJZxgbVaZVVqQ8YpzBxC3w8sc9Yak-pklrTl5jbGfiEvDJzy9OzakMSs1JLElNCckXUuFic80rySypFJLi4pHiAFlvVpGUosEgxcUF5wmdYeTiDk4tCcn3zU_JTKsU2sMotJMRi2lqcNNkuHilOMHhkVuRVQA0jpsLwRWqRTUuTyiHi9M3NTcptajYP03IjovLOT8nJzW5JDM_T8iAS1xKWD8ZLqCfWVxcClQINFOUC5uEkryR7KVntzeyinMxA-NFi42DVYBRgtGUgaHB3gokwrOIlTMYFIOuKempALO1zrrjAQAA&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q-BYwFnoECA4QMQ",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAoCAMAAADzP5WaAAAAn1BMVEX////aISkAAADXAADzycrYAAQWEBK5ubl7eXrxwMHa2tohHR799vbbKzLZEBsbFhj5+fnx8fHYAAzaGyRXVVbo6Ojjc3bYABL0zs/dTFEOBQj55eXExMT33d5ycXHlf4Lnh4qIhofokJLcQEXspaeVlJT77u+joqLiaWzOzc3qnqA8Ojrvt7jfVVpraWozMDFGRESurq7bNDrgYGMrJyi+HmtSAAADp0lEQVRYhe2W23aqMBCGQyLZxVBOEZAIIh7QqrXV7fs/254JoHgqq2t5tZf/hc2EMB+ZmUxKyEsvvfTSUxWmab9zkd27UkZIeT13Ia/L5R9Kx11rspiZF2I5IdbV3M2CLi5/61rz6RiXcibADYzHcqZP4JY3hE4uGz2BO49/y5Wz89ue1871yWhxvatiaMwZc5yYBVJ7ZAGOa24MT8xABozBQxmz2HEYg6TE8+rN/s7lSnF3p0vXLzZobQq/xV184ZwY44o+5eNwoNRXqvFD/LWtGTpcQSWTUZRrrjkv4bHFMpsk0jlsS1yYTc0mzCHlLgVxTkO0lLZcRf0Td0BFvaKPXHcApuvi8rPAd1QPLeSyrDIy+LDEOYfWYkk1WFL3O/R9f0xpQUihxHGfpnshVNFwQ+rS1PfDHedj5Ao1SNOBS/d6q+soysF3zzRhH6NcG+B9Bb/bKFrb+E0M5oZ5FE0hO4c6zAVXSx3uogBHG0CglcLXNNyPzfeuioz40lzu4aPqtTVk0TGBH0uwDpjEEXLBew8T/Km5EPEA1uFsXlbchWrXrCswvpBm2NV1PcMcr+KsPwzDQ0jEULCrd4ilzaC64jVyIdhTPNkxPEoMOG96HaR+eKpZwam7GeyKD7CUoF7NoCdufwwJVW+hnqu5jWwt3CrkbcTqtmBhZCfIZbC9ZNZe2GhHtRTHhDVcr8XtY0WBNuIO96TD5wUXyiq/4N4qTPfL5eLbFeL+ft+UOwh1Xd3hTox3lPEuf95vKfU6uTplLQyrHgC7CQmv8xu28gul+1HPXXK9LTqXUjpJkhjo/Jzf3nV+A1gn32dWwy0oXejBF3Lv1fNDbg92tsV6hnolsxh/oGoxxLqeh/CI/SVVPRMjruq50Z6KTT8Mw73C8wHnVyzTdAnnd9FwC4wz6CbOOeZtm0cTCKqteeU0mp7Pr5XnGqTP72gKp7nVbD1edSjKKRxIXyloVdC0FNf9SrXr6uhqLm+4BjtFjaxj+bcezrFfBQ/6VausxgJJYqcD7C82AOHfC92f3SMeUujgFLuyOLpg8GPNHTIjmGR4NOxsAheB8zkEI1tFdrmNof1DRdlb3Cr00FnVn8s7/F8rgrpxWCV9+UsThxLmAgPvIVBccfE+Qq26vXbr5uZtX7JJOdqa9SV/kM2NP+z22qkf/6fAy902YIdwSZWnD3SegNVhfix9y5YjzP68+UBz8gzu+keunDW92GLNVPSjv2fJvvr70kv/q/4BtiZNQKawU5kAAAAASUVORK5CYII="
+      },
+      {
+        "name": "Sunrun",
+        "link": "https://www.google.com/search?q=Sunrun&stick=H4sIAAAAAAAAAONgVeLSz9U3MEkvMkgyMZLJySwuUchPUyjOz0ksUkjNSy1Kr1RILUkD4VOMYKVGhSUVGXlQTpVFeWVK5SlGHv10fcNCs4x4I6PKLKichUF6hUERlAOxAMpJz00qMq44xcgL0mWYFp9SVFVSbAHjp8SXm5kZmSbDTbWMN8zJsoRJZxgbVaZVVqQ8YpzBxC3w8sc9Yak-pklrTl5jbGfiEvDJzy9OzakMSs1JLElNCckXUuFic80rySypFJLi4pHiAFlvVpGUosEgxcUF5wmdYeTiDk4tCcn3zU_JTKsU2sMotJMRi2lqcNNkuHilOMHhkVuRVQA0jpsLwRWqRTUuTyiHi9M3NTcptajYP03IjovLOT8nJzW5JDM_T8iAS1xKWD8ZLqCfWVxcClQINFOUC5uEkryR7KVntzeyinMxA-NFi42DVYBRgtGUgaHB3gokwrOIlS24NK-oNA8AiVW4WeABAAA&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q-BYwF3oECA4QNA",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAAAXNSR0IArs4c6QAAA6xJREFUeAHtm1tL5EAQRnvXO+iL4JNP/v/f5YOKIiredZYayDJbtjO7LjOTOp6GMFMdSPr7Tqo6CZ0fJycnk2bDOvATq0xhUwcEDL8QBCxguANweWawgOEOwOWZwQKGOwCXZwYLGO4AXJ4ZLGC4A3B5ZrCA4Q7A5ZnBAoY7AJdnBgsY7gBcnhksYLgDcHlmsIDhDsDlmcEChjsAl2cGCxjuAFyeGSxguANweWawgOEOwOWZwQKGOwCXZwYLGO4AXJ4ZLGC4A3B5ZrCA4Q7A5ZnBAoY7AJdnBsMBb1bSt7Gx0Q4PD9vu7m7b3Fzt0F9fX9vj42O7urpqb29vZWxbrUv/YUvAPT4+bvG7jhYX1P7+ftvb22unp6dlIJcp0ZG564I7e0ENVWS2b8z/ywCOsjyWNqaxLPKkDOBVz7nzjBvTWOaNM/aVAbxIiPv7Dgi47wumV8AYlH0hAu77gukVMAZlX4iA+75gegWMQdkXIuC+L5heAWNQ9oUIuO8LplfAGJR9IQLu+4LpFTAGZV/Itwd8e3vbYqO2Mis6lgHg6empXV5eTg+9s7PTtre3l3GatR7z22ZwrKs6Pz9vk8lkusX/9/f3tcJYxslxgKPc3tzczPUqoF5cXLRYSDe0l5eX39k89BF+USV6KLkBcGtra7pArgfp+vq6PTw8fNh1d3c3XbF5cHDwYV/VDkwGz5bcgBElN7Iyt/v7+xaAP2sxJz8/P3+2u1w/AnCv5MZ8enZ29sfy1gAepXlei2OR5mME4M9KbgD9yo0UaT4uPwcvKrnxNcLwKPQvpZcyH5cG/DclN8rxV19kxIVR/fm4bImOOXbZcyVhPi4LeFV3u9Xn47Il+ujoqMVmm+9A2QyeL8u9gwNlAM++VhwGv67fMY1lkQdlAMfjzljamMayyJMygMfyZX28Eo2xVGllAIex8WV9vIBYR4mMc8a5K33dHxdhqbvogLzoXXKVzFrVOMtk8KoMoZ1HwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtPAXPC0crYIvShYAAAAASUVORK5CYII="
+      },
+      {
+        "name": "Canadian Solar",
+        "link": "https://www.google.com/search?q=Canadian+Solar&stick=H4sIAAAAAAAAAONgVeLSz9U3SM9NKjKuMJLJySwuUchPUyjOz0ksUkjNSy1Kr1RILUkD4VOMYKVGhSUVGXlQTpVFeWVK5SlGHv10fcNCs4x4I6PKLKichUF6hUERlGOSXmSQZALlQGw7xcgL0mWYFp9SVFVSbAHjp8SXm5kZmSbDTbWMN8zJsoRJZxgbVaZVVqQ8YpzBxC3w8sc9Yak-pklrTl5jbGfiEvDJzy9OzakMSs1JLElNCckXUuFic80rySypFJLi4pHiAFlvVpGUosEgxcUF5wmdYeTiDk4tCcn3zU_JTKsU2sMotJMRi2lqcNNkuHilOMHhkVuRVQA0jpsLwRWqRTUuTyiHi9M3NTcptajYP03IjovLOT8nJzW5JDM_T8iAS1xKWD8ZLqCfWVxcClQINFOUC5uEkryR7KVntzeyinMxA-NFi42DVYBRgtGUgaHB3gokwrOIlc85MS8xJTMxTyEYFJUA2-CMxOgBAAA&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q-BYwGHoECA4QNw",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAA8CAMAAACac46aAAAAt1BMVEX///+1AAC7Jh/jXxS4AADvzs26HBPKbmzZnJv2uADy2trXkY7XkZD89/fFS0f79PTGVlTz4OC8IxriVwDqx8b47e3CQj/iTgC4EgPAODL15ublurnfqKfXi4q+MSvbmZfvqo7RfXvJXlvKaGXmZyD1vKfnbi/rjGL1yrr+/fX65Nv+9+T4vxr408T857L1sgD4xUD73ZT5zVr60nH77MXxspr74J7pf1DunX7tlW/989j88OjncjpLG0fwAAAEZElEQVRYhe2YW1fbOBCAJVm+xMH3S2TLjhu70BZKabvsAoX//7t2ZuTESQ7sYc+p05fMS8aSmU9zkywYO8tZ/kuC6M9wo4+XfwZ8lX2aHvLTcT+vrGyr67WYnfdlq3zIrNW1UTvuxHNzb75uybfgsUlypITjzg3+dvd91AIAmyTXUjjt3OAfd4ufo/piWVaAii+F8k4AXvxl1F2ScwA3c4PvAbz4QeptZmV/o6K5kHpuMPsJ5Lt/UHsG8AMqjRLSnh3MvoPLi2+oPVjWFf52APbnB3/5iuR7hkleUahbxatgNt7n60Myw0427dSLbjYsY4+rp+dRvQHu3Q108oN5TmbEYlyz1YcxoL8A/GtW2p5cZpYFOTXo+8WCds5Ed11jz5dflOcVbFRWNp7B97hx6lJypZRM3VmDfbnKCH11i0/gcC9TIUSapsLhs27V0WNG6NUjPZZKCEeWfV9xlcpwTjJ7fiL0Csu7Ba40MU46IeetbMauP0HA8RiOHCH4dDLUM3MR/bDKnuhEkrOfSEdy+/KCB0NanpiLaDwYnIv5QUuQrvMaFG3S6akTHMFsifvEKNKkVkt5ik/pCmp4J1TMxUk8ZrVSziQcm9blmxOAWdG6kwxYVoV3Co/P8pvk/x7kv+l9r0zF5r13+xxuhbZ884YWdH3cHh1UUf96w4ecCy5F8T4wnrsNf+syXKQc5fCbs+OvfuwPMo5Y9O6mVHjg52+tMsS9pZGHtrxXwYl06Jfm8nbYUHPaObO1uRv4net6JhE+bNMIjmiKJgIajnxN0SwUHVjj2axbr5jAO9vwap4HMDrdLxOK04ArVyVotHCBYyIidyCIawD79IW1m2h5DBpGoh69IMFBrrfgmnPJeQ+Pcj1wMODyvUtPU7AixIFYlU0jOLqB3m1wdRtZNq10CLxEF2xkQjovVOrpkBZTqTIfS3jgve4Ubq7GY7Qdo23hlLqzWa+O8qXxtViBJ/Yu7wWSqpTGdmCUAHEX+BcRfRYkFZQpFXFC3uVY/1OOyXYqaGmD3APnbr9pCZzCZMSxa5JN73pyyQKJltjkMU40ksAYtHJtbA8Q0gusfIpkLHc5HkbbaUUvtnuhvuBOuZZyCy4QnHNZVlIhmPxXW7DNOU4cg9GMgoFWRsZkYMBkm8sJrPnuA6bgQ4BLPQBX2OA+eeweeFyKGkvmFTA440HzUm1vuPG4kDvbIzhSZmmwddlUg/oQTLgCwMz8J0tuwVT9wRHYH51pIFLYLQEGCMH+ZHsEw/A6L/ISIIXE7VAchrpyalbHSIphInB3oS7ThNX9YY5zHkIVRyUOrGUT1SHyjMdxwOz1XqgxGihlgN8UzpqvcVWh3II1lxVP0THIdgiXh3LsY5oQqC0JXEELF1DUYZ9SN/iSO5zKk3K8MbZz7OOplmPXfJo3g6vrDpLT4HPQaZodmsLDDsn7cFMMYLTo8nEiQC3vsDEa2og8uD+WxlgyqIrGdOiPthO07Z36GnCWs5xlJvkXY79QCpRuocAAAAAASUVORK5CYII="
+      },
+      {
+        "name": "Xinyi Solar Hldgs",
+        "link": "https://www.google.com/search?q=Xinyi+Solar+Hldgs&stick=H4sIAAAAAAAAAONgVeLVT9c3NEyLTymqKim2MJLJySwuUchPUyjOz0ksUkjNSy1Kr1RILUkD4VOMXPq5-gZGhSUVGXlQTpVFeWVK5SlGHpA5hWYZ8UZGlVlQOQuD9AqDIijHJL3IIMkEyknPTSoyrjjFiGo7jJ8SX25mZmSaDDfVMt4wJ8sSJp1hbFSZVlmR8ohxBhO3wMsf94Sl-pgmrTl5jbGdiUvAJz-_ODWnMig1J7EkNSUkX0iFi801rySzpFJIiotHigNkvVlFUooGgxQXF5wndIaRizs4tSQk3zc_JTOtUmgPo9BORiymqcFNk-HileIEh0duRVYB0DhuLgRXqBbVuDyhHC5O39TcpNSiYv80ITsuLuf8nJzU5JLM_DwhAy5xKWH9ZLiAfmZxcSlQIdBMUS5sEkryRrKXnt3eyCrOxQyMFy02DlYBRglGUwaGBnsrkAjPIlbBiMy8ykyFYHA8euSkpBcDADspdhzuAQAA&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q-BYwGXoECA4QOg",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAAAXNSR0IArs4c6QAAA6xJREFUeAHtm1tL5EAQRnvXO+iL4JNP/v/f5YOKIiredZYayDJbtjO7LjOTOp6GMFMdSPr7Tqo6CZ0fJycnk2bDOvATq0xhUwcEDL8QBCxguANweWawgOEOwOWZwQKGOwCXZwYLGO4AXJ4ZLGC4A3B5ZrCA4Q7A5ZnBAoY7AJdnBgsY7gBcnhksYLgDcHlmsIDhDsDlmcEChjsAl2cGCxjuAFyeGSxguANweWawgOEOwOWZwQKGOwCXZwYLGO4AXJ4ZLGC4A3B5ZrCA4Q7A5ZnBAoY7AJdnBsMBb1bSt7Gx0Q4PD9vu7m7b3Fzt0F9fX9vj42O7urpqb29vZWxbrUv/YUvAPT4+bvG7jhYX1P7+ftvb22unp6dlIJcp0ZG564I7e0ENVWS2b8z/ywCOsjyWNqaxLPKkDOBVz7nzjBvTWOaNM/aVAbxIiPv7Dgi47wumV8AYlH0hAu77gukVMAZlX4iA+75gegWMQdkXIuC+L5heAWNQ9oUIuO8LplfAGJR9IQLu+4LpFTAGZV/Itwd8e3vbYqO2Mis6lgHg6empXV5eTg+9s7PTtre3l3GatR7z22ZwrKs6Pz9vk8lkusX/9/f3tcJYxslxgKPc3tzczPUqoF5cXLRYSDe0l5eX39k89BF+USV6KLkBcGtra7pArgfp+vq6PTw8fNh1d3c3XbF5cHDwYV/VDkwGz5bcgBElN7Iyt/v7+xaAP2sxJz8/P3+2u1w/AnCv5MZ8enZ29sfy1gAepXlei2OR5mME4M9KbgD9yo0UaT4uPwcvKrnxNcLwKPQvpZcyH5cG/DclN8rxV19kxIVR/fm4bImOOXbZcyVhPi4LeFV3u9Xn47Il+ujoqMVmm+9A2QyeL8u9gwNlAM++VhwGv67fMY1lkQdlAMfjzljamMayyJMygMfyZX28Eo2xVGllAIex8WV9vIBYR4mMc8a5K33dHxdhqbvogLzoXXKVzFrVOMtk8KoMoZ1HwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtPAXPC0crYIvShYAAAAASUVORK5CYII="
+      },
+      {
+        "name": "Invesco Solar ETF",
+        "link": "https://www.google.com/search?q=Invesco+Solar+ETF&stick=H4sIAAAAAAAAAONgVeLVT9c3NEyJLzczMzJNNpLJySwuUchPUyjOz0ksUkjNSy1Kr1RILUkD4VOMXPq5-gZGhSUVGXlQTpVFeWVK5SlGHpA5hWYZ8UZGlVlQOQuD9AqDIijHJL3IIMkEyknPTSoyrjjFCLE9LT6lqKqk2ALGh7kGbqplvGFOliVMOsPYqDKtsiLlEeMMJm6Blz_uCUv1MU1ac_IaYzsTl4BPfn5xak5lUGpOYklqSki-kAoXm2teSWZJpZAUF48UB8h6s4qkFA0GKS4uOE_oDCMXd3BqSUi-b35KZlql0B5GoZ2MWExTg5smw8UrxQkOj9yKrAKgcdxcCK5QLapxeUI5XJy-qblJqUXF_mlCdlxczvk5OanJJZn5eUIGXOJSwvrJcAH9zOLiUqBCoJmiXNgklOSNZC89u72RVZyLGRgvWmwcrAKMEoymDAwN9lYgEZ5FrIKeeWWpxcn5CsHgmHQNcQMAxfmYWu4BAAA&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q-BYwGnoECA4QPQ",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAAAXNSR0IArs4c6QAAA6xJREFUeAHtm1tL5EAQRnvXO+iL4JNP/v/f5YOKIiredZYayDJbtjO7LjOTOp6GMFMdSPr7Tqo6CZ0fJycnk2bDOvATq0xhUwcEDL8QBCxguANweWawgOEOwOWZwQKGOwCXZwYLGO4AXJ4ZLGC4A3B5ZrCA4Q7A5ZnBAoY7AJdnBgsY7gBcnhksYLgDcHlmsIDhDsDlmcEChjsAl2cGCxjuAFyeGSxguANweWawgOEOwOWZwQKGOwCXZwYLGO4AXJ4ZLGC4A3B5ZrCA4Q7A5ZnBAoY7AJdnBsMBb1bSt7Gx0Q4PD9vu7m7b3Fzt0F9fX9vj42O7urpqb29vZWxbrUv/YUvAPT4+bvG7jhYX1P7+ftvb22unp6dlIJcp0ZG564I7e0ENVWS2b8z/ywCOsjyWNqaxLPKkDOBVz7nzjBvTWOaNM/aVAbxIiPv7Dgi47wumV8AYlH0hAu77gukVMAZlX4iA+75gegWMQdkXIuC+L5heAWNQ9oUIuO8LplfAGJR9IQLu+4LpFTAGZV/Itwd8e3vbYqO2Mis6lgHg6empXV5eTg+9s7PTtre3l3GatR7z22ZwrKs6Pz9vk8lkusX/9/f3tcJYxslxgKPc3tzczPUqoF5cXLRYSDe0l5eX39k89BF+USV6KLkBcGtra7pArgfp+vq6PTw8fNh1d3c3XbF5cHDwYV/VDkwGz5bcgBElN7Iyt/v7+xaAP2sxJz8/P3+2u1w/AnCv5MZ8enZ29sfy1gAepXlei2OR5mME4M9KbgD9yo0UaT4uPwcvKrnxNcLwKPQvpZcyH5cG/DclN8rxV19kxIVR/fm4bImOOXbZcyVhPi4LeFV3u9Xn47Il+ujoqMVmm+9A2QyeL8u9gwNlAM++VhwGv67fMY1lkQdlAMfjzljamMayyJMygMfyZX28Eo2xVGllAIex8WV9vIBYR4mMc8a5K33dHxdhqbvogLzoXXKVzFrVOMtk8KoMoZ1HwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtFDANKJJj4CTIbRQwDSiSY+AkyG0UMA0okmPgJMhtPAXPC0crYIvShYAAAAASUVORK5CYII="
+      },
+      {
+        "name": "TerraForm Power",
+        "link": "https://www.google.com/search?q=TerraForm+Power&stick=H4sIAAAAAAAAAONgVeLRT9c3LDSzjDfMybI0ksnJLC5RyE9TKM7PSSxSSM1LLUqvVEgtSQPhU4xc-rn6BkaFJRUZeVBOlUV5ZUrlKUaoMRnxRkaVWVA5C4P0CoMiKMckvcggyQTKSc9NKjKuOMXIC9JlmBafUlRVUmwB46fEl5uZGZkmw02FOA4mnWFsVJlWWZHyiHEGE7fAyx_3hKX6mCatOXmNsZ2JS8AnP784NacyKDUnsSQ1JSRfSIWLzTWvJLOkUkiKi0eKA2S9WUVSigaDFBcXnCd0hpGLOzi1JCTfNz8lM61SaA-j0E5GLKapwU2T4eKV4gSHR25FVgHQOG4uBFeoFtW4PKEcLk7f1Nyk1KJi_zQhOy4u5_ycnNTkksz8PCEDLnEpYf1kuIB-ZnFxKVAh0ExRLmwSSvJGspee3d7IKs7FDIwXLTYOVgFGCUZTBoYGeyuQCM8iVv6Q1KKiRLf8olyFgPzy1CIAnbOU0OsBAAA&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q-BYwG3oECA4QQA",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAMAAAAOusbgAAABhlBMVEX///8AWrLX5/LR4vAAa7gAaLff7PXm8vi1z+OzzePE2Ok9ZqH5/P0ngcFgmcpCdbIAcLoAXrPx+PupxuEcd7yMtdg2WI4zUYcuRHeezeQAiMsAislbqtUAZbbd7cb5/PXQ5rC42Ytxo89+rNRCfr0iOm+Dvt5nud3F4fHj79PB1aXD1bXu9Ovu9Nvy8ZjX5GvN4HHV5qTY486EqnKtxaj08XXg4gDQ3AC61Bahyxeaxiysy3tynHf6+bv//9vp8MLU44ByoytZj2AAU7Ckzmaw1Xtyze9PwNxqzuGw4uyDtjnA3Zg7tOEAtNAAq8Afvsam3d1XkRkAWgDD1sqdzFgzvuVJxMMEtKqKtUhglDiQsZcndj3W8O56zL+UtIguls/dh4fMXV356+rJSUfWORrcWz7gdVfljHFVjD7mTRzpXzbqdU/6qoD5x67uimdeklTycjDyhEjygy3yp176yJt+kbHzkir1pSz5xINVYob4vkf/68j0zC1ehbhpep4FJ2OWorcAFVuw8/l2AAAEhUlEQVRoge2WjVfTVhTAb9M2SdP3HslLQmtLmjQBtZrMDZxuzqkoIFMQcc6PgaBubsM5nbLq0BXYf777khbcMYfhOY6zc/Z+pydN30d+9973Xk4BJBKJRCKRSCQSiUQikUgkEolEIvkvohw+chS//M6x4/FBakeah5KPTpz4+JPEH584eWDeQ43m0U9PnTp9+rPPz3zhw8TZQQfRBHzv2fsZkwsZQe+X57DO5y+geXIczl4kWZd9yfKsS+Ge04ueVSgUKG9NTSeAl7YPbT+Zgk4AU+0A4pvYnM9Is3EYtJmZy7Nf8eTCmSuTx+FiP2dVtz1XL+4tNl3D0A1oBUHgT/v4Da1W0O5cTWA6iSFuB0H+RKxzgyzPzc3Nz19buA7BmcnFOL7xdb9XLeh7alFcyka0pgI/aQPEV8Fvt+M23k5dbUE8dTN/tyqNZnOEzMx8I7y3bt/iyZ3Ju/G3S36/ex/iSiYWibWDjqgsCtsdgOlWBzOOp3PnHWk2G64yO4PeZUL49XvLyZ3FlfEbJ99XnIil9FuByC/2xQdjaeEBhU5eynxViJcvX56/dgvEliLjcYIpL519X/F7chQr3ViFWazzwu3r6CXgw7HFlYl+rVMxMaKoglHZrmaHeqgYoQtgRCwqFl0+EGtuGFbwVNkRt5keiW4FG1mYvzfdRpNSRyezCwv3NCD3Hzy4/xBg4u7EUrwjVnplSktUAeZQz3Gt1bIZAStR5pSoqfbFFcektCwGmbTkuKZpUsd0qWi088QRTanA8rJiwHffP/rhx0cPIV786dmu2KEYtEopD03P4MVyKdRIZGEJeOQ5KDbSglMVK+M4GJGpc6PkaKDRUkkBzvDyLqEjvKPmKOuVydO1x49/fvLLU85X7j7bKbVdpozSVeq5kUiuaDFstrI0GGaMSUWAYaUL7tmhhYEYZbE1imVcElBNN6/UQisYGur5j9fWfn2OYqJ3FidgIA4dlhK6oYNPLxbQXrG0bHoqZi542cMJC5kJQpyVQYSnOXli2xnte1H8/MWLF8/Xf3vid+PJlR0xY9mtoYc0FRt/F4sXCO9XgGCAzr7EykA7VK3C+suXL1+t/77ON9QryUBsuGYq4U4U7YhVLxOtDjaXmUXHHSzLvsSEZd5qtTpcefMKef36jVFXp3ffXJoXoo+EJWU3YxKaOm4uu+z0xW66qOBayj4zBntoNNUiG/zcH8gbXqvFwaAiuKK2RV2XFVxgO2Lg1OoxWhDHqSzEhFqurjMrhGyNvVScniQ1R8w1Te31epl3uDasQ+ITo7a16Q9GqKP4hCLufYZHyhWpK6PZG6ES4gvEYJrKjGy5Hc+jmLYril4Uw0FJuzT27kEmilHUqz3MeFhQq290uxtj9S3jrSFZhOlhIWS3JbsRLYPfPPs78Pag/nVnxluPNXS9W+0Jb01QHxur17e6eWvyoeGGvl3bTL31lLGtzYPwpurtNN2+d6ybU5l/CaJu17fGBFt/bhj/PP6DYmx3Nze72+oBa1Pydp9EIpFIJBKJRCKRSCQSiUQikUj+B/wF7yKcU6vbaXkAAAAASUVORK5CYII="
+      },
+      {
+        "name": "Pattern Energy",
+        "link": "https://www.google.com/search?q=Pattern+Energy&stick=H4sIAAAAAAAAAONgVeLVT9c3NMwwNqpMq6xIMZLJySwuUchPUyjOz0ksUkjNSy1Kr1RILUkD4VOMXPq5-gZGhSUVGXlQTpVFeWVK5SlGHpA5hWYZ8UZGlVlQOQuD9AqDIijHJL3IIMkEyknPTSoyrjjFCLE9LT6lqKqk2ALGT4kvNzMzMk2Gm2oZb5iTZQmThjn2EeMMJm6Blz_uCUv1MU1ac_IaYzsTl4BPfn5xak5lUGpOYklqSki-kAoXm2teSWZJpZAUF48UB8h6s4qkFA0GKS4uOE_oDCMXd3BqSUi-b35KZlql0B5GoZ2MWExTg5smw8UrxQkOj9yKrAKgcdxcCK5QLapxeUI5XJy-qblJqUXF_mlCdlxczvk5OanJJZn5eUIGXOJSwvrJcAH9zOLiUqBCoJmiXNgklOSNZC89u72RVZyLGRgvWmwcrAKMEoymDAwN9lYgEZ5FrHwBiSUlqUV5Cq7gOAQAqPm-eOsBAAA&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q-BYwHHoECA4QQw",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAAkCAMAAAB19g5sAAAAhFBMVEX///8AAAD///35+fkArfampqbt7e1fX18ArPPZ2dkAtfd3d3c1NTUArPcWtvTBwcH2/fxdxfab2fZ7zfPz8/OI0vYaGho3vPJFRUVkZGTs+fnm5ubHx8cpKSmbm5uv4Pe64/ZWVlbO6/cTExOHh4exsbFMTEyTk5Nty/Xf8vlvb2+i3fQwKzQlAAACw0lEQVRYhe2Xa3eiMBCGkxAjpBJA0MjFchEr6P//fzuTgNXatfZ0y4c9ztEJmSBPMnkztIQ87WmTWK+0UlEz9LJY6RObBNzwqOs0P1mudOG6mwbsw2pZxzPsdDIj7MSbr370z8Ak4xV45q7Qy3gKcG+QI3iJITUJmCkdEhbyioEBmLGJwKRxZRRFUkdXvqvsaFDP0driF8h9rLWWGk0q9Aq8GrQ9o4O9XP3m5e0Ifr/ZiB/CMdVXe8yWfjWA52k6B3Jwef+GbuzgT8G34mIqGsAJNAmlKTbFPsihFQAWIjlQ6mGXeDZMRC7g2snzhBR77zFw+QFM9Ag2i6rpAhJskg4zsMlPTWOmAVY7hBzp9ggz3dJ0AZH5A+DQ/7jihi8vVkwWkFt45vYIkPYaDNmg2x18x5kli0EX7X0oK1erWEYrMOuVXq06V7MBXHie11L6KqzCWromCaQ6SUyqBQEBgOb3cAeCtxAB8KuTbzEb97KsuBxMmY+9jO2r4qzqnekm3n6Nz3t7FxfM5+AI4aSwGQDOh/SYqdzbZqZlw1g2FhD0AGXjG2oEp5Dwoh46V+CCng3AO7svuL3BfXDvo6z+WjJnmM3c6MvDddeHgwW/fQ5ePwxuuH1J3Kj6DB6PamsfNENwjVLCZOaorRkOCyG+BWZux0wBeQRcECcwqYZltx7moC5QXIGJvHwLTJZ+VJYnNy7B3A69gkAV3oC995SaI7TAjMPhcYbo2vkemJ2Uz7l0Oee+8SBy3/fdyoy+XlTFYIcn1ka8DYIdLBckwYpK5wkWEHOC1kYBX4EBHYaZW4ZgoOowRFWHfeT2ZtBxLu70Cu8cGRpTXkRRJDbmXDX3uWif1Opp/g7JbkrmUKt/25hEbTf2VRgpNhmYnPy4KaWtz42vm6aZCEyWIGed2etKorgnAoOQ+/O/EKyHJffTgJ/2P9kfSigybKzOCtIAAAAASUVORK5CYII="
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "What is expense ratio in mutual fund?",
+      "snippet": "An expense ratio is the amount companies charge investors to manage a mutual fund or exchange-traded fund (ETF). ... The expense ratio is calculated by dividing a mutual fund's operating expenses by the average total dollar value for all the assets within the fund.Sep 9, 2019",
+      "title": "What Is Considered a Good Expense Ratio? - Investopedia",
+      "link": "https://www.investopedia.com/ask/answers/032715/when-expense-ratio-considered-high-and-when-it-considered-low.asp",
+      "displayed_link": "www.investopedia.com › ask › answers › when-expense-ratio-considere..."
+    },
+    {
+      "question": "What does ETF stand for?",
+      "snippet": "exchange-traded fund",
+      "title": "Exchange-traded fund - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "displayed_link": "en.wikipedia.org › wiki › Exchange-traded_fund"
+    },
+    {
+      "question": "Do ETFs pay dividends?",
+      "snippet": "Exchange-traded funds (ETFs) pay out the full dividend that comes with the stocks held within the funds. To do this, most ETFs pay out dividends quarterly by holding all of the dividends paid by underlying stocks during the quarter and pays them to shareholders on a pro-rata basis.Jun 22, 2019",
+      "title": "Does an ETF Pay Out the Full Amount of Its Dividends? - Investopedia",
+      "link": "https://www.investopedia.com/ask/answers/052815/does-etf-pay-out-full-dividend-comes-stocks-held-etf.asp",
+      "displayed_link": "www.investopedia.com › ask › answers › does-etf-pay-out-full-dividend..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Top 5 Alternative Energy ETFs for 2020 - Investopedia",
+      "link": "https://www.investopedia.com/etfs/top-alternative-energy-etfs/",
+      "displayed_link": "www.investopedia.com › Investing › ETFs › ETF Essentials",
+      "snippet": "Five ETFs of interest are Invesco Solar, Invesco WilderHill Clean Energy, First Trust Nasdaq Clean Edge Green Energy, VanEck Vectors Low Carbon Energy, ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BiUq0QlPw9AJ:https://www.investopedia.com/etfs/top-alternative-energy-etfs/+&cd=1&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Best Clean Energy ETFs 2020 - The Balance",
+      "link": "https://www.thebalance.com/best-clean-energy-etfs-2019-4589934",
+      "displayed_link": "www.thebalance.com › Investing › ETFs",
+      "snippet": "Clean energy ETFs are exchange-traded funds that invest primarily in alternative energy sources, such as solar, wind, water, geothermal and nuclear.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9TfIRKMv5X4J:https://www.thebalance.com/best-clean-energy-etfs-2019-4589934+&cd=2&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Top Solar Energy ETFs - ETF Database",
+      "link": "https://etfdb.com/etfs/industry/solar-energy/",
+      "displayed_link": "etfdb.com › etfs › industry › solar-energy",
+      "snippet": "Industry power rankings are rankings between Solar Energy and all other industry U.S.-listed ETFs on certain investment-related metrics, including 3-month fund ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:879kiMGI7bQJ:https://etfdb.com/etfs/industry/solar-energy/+&cd=3&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Top 12 Alternative Energy Equities ETFs - ETF Database",
+      "link": "https://etfdb.com/etfdb-category/alternative-energy-equities/",
+      "displayed_link": "etfdb.com › etfdb-category › alternative-energy-equities",
+      "snippet": "Definition: Alternative energy ETFs are funds that invest in alternative energy companies. The most popular and most common industry in this category is solar ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0zrfO07sz3UJ:https://etfdb.com/etfdb-category/alternative-energy-equities/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "5 Clean Energy ETFs to Buy for 2019 - Yahoo Finance",
+      "link": "https://finance.yahoo.com/news/5-clean-energy-etfs-buy-160237306.html",
+      "displayed_link": "finance.yahoo.com › news › 5-clean-energy-etfs-buy-160237306",
+      "date": "Aug 13, 2019",
+      "snippet": "While many clean energy ETFs focus on a specific part of the alternative energy universe, such as electric vehicles, solar or wind, ACES offers ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LApIqwkTZRAJ:https://finance.yahoo.com/news/5-clean-energy-etfs-buy-160237306.html+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "11 Renewable Energy ETF Reports: Ratings, Holdings ...",
+      "link": "https://www.etf.com/channels/renewable-energy-etfs",
+      "displayed_link": "www.etf.com › channels › renewable-energy-etfs",
+      "snippet": "With 11 ETFs traded in the U.S. markets, Renewable Energy ETFs gather total assets ... The largest Renewable Energy ETF is the Invesco Solar ETF TAN with ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XyhQvveWiWcJ:https://www.etf.com/channels/renewable-energy-etfs+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "iShares Global Clean Energy ETF | ICLN",
+      "link": "https://www.ishares.com/us/products/239738/ishares-global-clean-energy-etf",
+      "displayed_link": "www.ishares.com › products › ishares-global-clean-energy-etf",
+      "snippet": "The iShares Global Clean Energy ETF (ICLN) seeks to track the investment results of ... Exposure to companies that produce energy from solar, wind, and other ...",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.ishares.com/us/products/239738/ishares-global-clean-energy-etf+solar+energy+etf&tbo=1&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4QHzANegQIAhAI"
+    },
+    {
+      "position": 8,
+      "title": "7 Great ETFs to Invest in Climate Change | Funds | US News",
+      "link": "https://money.usnews.com/investing/funds/slideshows/great-etfs-to-invest-in-climate-change",
+      "displayed_link": "money.usnews.com › Money › Investing › Funds",
+      "date": "Oct 16, 2019",
+      "snippet": "7 Great ETFs to Invest in Climate Change ... Solar panels fields on the green hills in Italy ... Next:Invesco WilderHill Clean Energy ETF (ticker:.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:b3qeMYv6htIJ:https://money.usnews.com/investing/funds/slideshows/great-etfs-to-invest-in-climate-change+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Solar is back with an Invesco Solar ETF up more than 50 ...",
+      "link": "https://www.cnbc.com/2019/10/03/solar-is-back-with-an-invesco-solar-etf-up-more-than-50percent-this-year.html",
+      "displayed_link": "www.cnbc.com › 2019/10/03 › solar-is-back-with-an-invesco-solar-et...",
+      "date": "Oct 3, 2019",
+      "snippet": "The energy sector is struggling to stay positive for the year, but solar stocks are a bright spot as demand for renewable energy increases.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:eb6cECx7PBcJ:https://www.cnbc.com/2019/10/03/solar-is-back-with-an-invesco-solar-etf-up-more-than-50percent-this-year.html+&cd=16&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "Product Detail | Invesco Solar ETF - Invesco",
+      "link": "https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-TAN",
+      "displayed_link": "www.invesco.com › financial-products › etfs › product-detail › produ...",
+      "snippet": "The Invesco Solar ETF (the \"Fund\") is based on the MAC Global Solar Energy Index (the \"Index\"). The Fund will invest at least 90% of its total assets in the ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:iPG5y95vc-4J:https://www.invesco.com/us/financial-products/etfs/product-detail%3FproductId%3DETF-TAN+&cd=17&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_search_boxes": [
+    {
+      "position": 1,
+      "query": "Water ETFView 3+ moreView 3+",
+      "results": []
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "best renewable energy etf 2019",
+      "link": "https://www.google.com/search?q=best+renewable+energy+etf+2019&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q1QIoAHoECAsQAQ"
+    },
+    {
+      "query": "invesco solar etf",
+      "link": "https://www.google.com/search?q=invesco+solar+etf&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q1QIoAXoECAsQAg"
+    },
+    {
+      "query": "ishares global clean energy etf",
+      "link": "https://www.google.com/search?q=ishares+global+clean+energy+etf&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q1QIoAnoECAsQAw"
+    },
+    {
+      "query": "wind energy etf",
+      "link": "https://www.google.com/search?q=wind+energy+etf&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q1QIoA3oECAsQBA"
+    },
+    {
+      "query": "fidelity solar etf",
+      "link": "https://www.google.com/search?q=fidelity+solar+etf&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q1QIoBHoECAsQBQ"
+    },
+    {
+      "query": "tan etf",
+      "link": "https://www.google.com/search?q=tan+etf&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q1QIoBXoECAsQBg"
+    },
+    {
+      "query": "solar etf 2019",
+      "link": "https://www.google.com/search?q=solar+etf+2019&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q1QIoBnoECAsQBw"
+    },
+    {
+      "query": "alps clean energy etf",
+      "link": "https://www.google.com/search?q=alps+clean+energy+etf&sa=X&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q1QIoB3oECAsQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=solar+energy+etf&ei=5homXuGfBLG9hwPfr7Rw&start=10&sa=N&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q8NMDegQIDhBk",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=solar+energy+etf&ei=5homXuGfBLG9hwPfr7Rw&start=10&sa=N&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q8tMDegQIDhBS",
+      "3": "https://www.google.com/search?q=solar+energy+etf&ei=5homXuGfBLG9hwPfr7Rw&start=20&sa=N&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q8tMDegQIDhBU",
+      "4": "https://www.google.com/search?q=solar+energy+etf&ei=5homXuGfBLG9hwPfr7Rw&start=30&sa=N&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q8tMDegQIDhBW",
+      "5": "https://www.google.com/search?q=solar+energy+etf&ei=5homXuGfBLG9hwPfr7Rw&start=40&sa=N&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q8tMDegQIDhBY",
+      "6": "https://www.google.com/search?q=solar+energy+etf&ei=5homXuGfBLG9hwPfr7Rw&start=50&sa=N&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q8tMDegQIDhBa",
+      "7": "https://www.google.com/search?q=solar+energy+etf&ei=5homXuGfBLG9hwPfr7Rw&start=60&sa=N&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q8tMDegQIDhBc",
+      "8": "https://www.google.com/search?q=solar+energy+etf&ei=5homXuGfBLG9hwPfr7Rw&start=70&sa=N&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q8tMDegQIDhBe",
+      "9": "https://www.google.com/search?q=solar+energy+etf&ei=5homXuGfBLG9hwPfr7Rw&start=80&sa=N&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q8tMDegQIDhBg",
+      "10": "https://www.google.com/search?q=solar+energy+etf&ei=5homXuGfBLG9hwPfr7Rw&start=90&sa=N&ved=2ahUKEwjhqsT_jpPnAhWx3mEKHd8XDQ4Q8tMDegQIDhBi"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+etf&start=10&token=3d3681a385b7f8b6",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+etf&start=10&token=3d3681a385b7f8b6",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+etf&start=10&token=3d3681a385b7f8b6",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+etf&start=20&token=2394314fd38f5fa9",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+etf&start=30&token=98f5e6ddf26c7ba3",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+etf&start=40&token=90d1783c42eec91d",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+etf&start=50&token=cbfa77de49f63a92",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+etf&start=60&token=95f236d4dbd5192a",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+etf&start=70&token=afcedaf334303b4c",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+etf&start=80&token=cd3f1e8a9568686a",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=solar+energy+etf&start=90&token=24be7ce32a890c7d"
+    }
+  }
+}

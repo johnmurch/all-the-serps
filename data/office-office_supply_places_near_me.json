@@ -1,0 +1,323 @@
+{
+  "search_metadata": {
+    "id": "",
+    "status": "Success",
+    "json_endpoint": "",
+    "created_at": "2020-01-21 22:56:26 UTC",
+    "processed_at": "2020-01-21 22:56:26 UTC",
+    "google_url": "https://www.google.com/search?q=office+supply+places+near+me&oq=office+supply+places+near+me&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "",
+    "total_time_taken": 6.86
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "office supply places near me",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 2310000000,
+    "time_taken_displayed": 0.62,
+    "query_displayed": "office supply places near me"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "bottom",
+      "title": "W.B. Mason® | Wholesale Office Products‎",
+      "link": "https://m.marketing.email-wbmason.com/webApp/WB_YT",
+      "displayed_link": "marketing.email-wbmason.com/office/supplier",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjo34qN5ZXnAhXMCisKHbt8BRoYABAAGgJzZg&sig=AOD64_1JKOyZBgLN4K8vCi_FsIfFAahbqw&q=&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ0Qx6BAgREAE&adurl=",
+      "description": "Free shipping, no minimum order – your one source business supplier. Speak with us today! Talk to us today to create a free business account. Custom pricing. Free & fast shipping. Trusted Since 1898. Dedicated Service Team. Office, Janitorial. Fastest, Free Shipping."
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?q=office+supply+places+near+me&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36906125,-76324215,16876&tbm=lcl&sa=X&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQtgN6BAgMEAU",
+    "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "gps_coordinates": {
+      "latitude": 36.906125,
+      "longitude": -76.324215,
+      "altitude": 16876
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.com/search?q=office+supply+places+near+me&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=36906125,-76324215,16876&tbm=lcl&sa=X&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQjGp6BAgMEEo",
+    "places": [
+      {
+        "position": 1,
+        "title": "OfficeMax",
+        "place_id": "14015370084036491151",
+        "lsig": "AB86z5V5Mc8Q_3Kzu_QtG-PIsLfs",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5V5Mc8Q_3Kzu_QtG-PIsLfs&ludocid=14015370084036491151&q=office+supply+places+near+me&tbm=lcl&token=368164e31a43f8a6",
+        "rating": 4,
+        "reviews": 195,
+        "price": "$$",
+        "type": "Office supply store",
+        "hours": "Open ⋅ Closes 9PM · (757) 465-9097",
+        "address": "Chesapeake, VA",
+        "description": "Mainstay for office supplies & more",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.8235238,
+          "longitude": -76.41639239999999
+        }
+      },
+      {
+        "position": 2,
+        "title": "Office Depot",
+        "place_id": "18302627187828554482",
+        "lsig": "AB86z5WhYGisvsxDs6c_e_ZJlGpg",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5WhYGisvsxDs6c_e_ZJlGpg&ludocid=18302627187828554482&q=office+supply+places+near+me&tbm=lcl&token=275b6fb904db3a50",
+        "rating": 4.1,
+        "reviews": 165,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "Hampton, VA",
+        "phone": "In Todd Center",
+        "description": "Standby for office & school supplies",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 37.038906,
+          "longitude": -76.4079714
+        }
+      },
+      {
+        "position": 3,
+        "title": "OfficeMax",
+        "place_id": "9070253374096137214",
+        "lsig": "AB86z5Wqgzc7BR4QYBt64EtDjlrk",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&lsig=AB86z5Wqgzc7BR4QYBt64EtDjlrk&ludocid=9070253374096137214&q=office+supply+places+near+me&tbm=lcl&token=053aa6f34cb4a796",
+        "rating": 4,
+        "reviews": 132,
+        "price": "$$",
+        "type": "Office supply store",
+        "address": "Chesapeake, VA",
+        "phone": "In Greenbrier Marketcenter",
+        "description": "Mainstay for office supplies & more",
+        "thumbnail": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "gps_coordinates": {
+          "latitude": 36.7733448,
+          "longitude": -76.23203869999999
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {},
+  "related_questions": [
+    {
+      "question": "Do staples still have stores?",
+      "snippet": "The US owner of Staples has sold the UK arm, which employs 1,100 people across 106 stores, to Hilco for a \"nominal\" sum. Hilco said it was planning to phase out Staples-branded shops over the coming months. Staples also has online and business-to-business operations.Nov 17, 2016",
+      "title": "Staples brand to disappear from UK High Streets - BBC News",
+      "link": "https://www.bbc.co.uk/news/business-38013806",
+      "displayed_link": "www.bbc.co.uk › news › business-38013806"
+    },
+    {
+      "question": "Can you print at Office Max?",
+      "snippet": "You can save time and money by using Office Depot's printing services and get a high-quality job. Whether you need a few copies or to print a large presentation, we can handle the project, often printing documents the same day. ... You can order printing online or visit a store. It's convenient commercial printing.",
+      "title": "Print on Demand at Office Depot OfficeMax",
+      "link": "https://www.officedepot.com/a/copy-and-print/print-on-demand/solutions.officedepot.com",
+      "displayed_link": "www.officedepot.com › print-on-demand › solutions.officedepot.com"
+    },
+    {
+      "question": "How many Office Depot stores are there?",
+      "snippet": "1,378December 2017",
+      "link": "/search?q=How+many+Office+Depot+stores+are+there%3F&sa=X&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQzmd6BAgPECE"
+    },
+    {
+      "question": "Is Office Depot the same as OfficeMax?",
+      "snippet": "OfficeMax. OfficeMax is an American office supplies retailer founded in 1988. It is now a subsidiary of Office Depot, Inc., which is headquartered in Boca Raton, Florida. ... On February 20, 2013, an all-stock merger between Office Depot and OfficeMax was announced.",
+      "title": "OfficeMax - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/OfficeMax",
+      "displayed_link": "en.wikipedia.org › wiki › OfficeMax"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Office Max in CHESAPEAKE,VA - 4210 PORTSMOUTH BLVD.",
+      "link": "https://www.officedepot.com/storelocator/va/chesapeake/officemax-6207/",
+      "displayed_link": "www.officedepot.com › storelocator › chesapeake › officemax-6207",
+      "snippet": "Enjoy low prices on products ranging from paper and electronics to furniture and much ... Just ask for me, Carla James, or a member of my management team.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:tZSaY-8lcfsJ:https://www.officedepot.com/storelocator/va/chesapeake/officemax-6207/+&cd=4&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Office Max in CHESAPEAKE,VA - 1332 GREENBRIER ...",
+      "link": "https://www.officedepot.com/storelocator/va/chesapeake/officemax-6347/",
+      "displayed_link": "www.officedepot.com › storelocator › chesapeake › officemax-6347",
+      "snippet": "Enjoy low prices on products ranging from paper and electronics to furniture and ... Join us for a FREE breakfast, chat with other local teachers, and stock up for ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qjNQ3-3tqHwJ:https://www.officedepot.com/storelocator/va/chesapeake/officemax-6347/+&cd=5&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Chesapeake, Virginia Store Locations - Office Depot",
+      "link": "https://www.officedepot.com/storelocator/va/chesapeake/",
+      "displayed_link": "www.officedepot.com › storelocator › chesapeake",
+      "snippet": "Shop at an Office Depot store in Chesapeake,VA. Enjoy low prices on products ranging from paper and electronics to furniture and much more.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vFpdOvmfVIwJ:https://www.officedepot.com/storelocator/va/chesapeake/+&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Staples Office Supply Locations & Hours Near Chesapeake ...",
+      "link": "https://www.yellowpages.com/chesapeake-va/staples-office-supply",
+      "displayed_link": "www.yellowpages.com › Chesapeake, VA",
+      "date": "115 results",
+      "snippet": "Find 115 listings related to Staples Office Supply in Chesapeake on YP.com. See reviews, photos, directions, phone numbers and more for Staples ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:U16R8amRJbAJ:https://www.yellowpages.com/chesapeake-va/staples-office-supply+&cd=7&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.yellowpages.com/chesapeake-va/staples-office-supply+office+supply+places+near+me&tbo=1&sa=X&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQHzAGegQIAxAL"
+    },
+    {
+      "position": 5,
+      "title": "OfficeMax 1332 Greenbrier Pkwy Chesapeake, VA Office ...",
+      "link": "https://www.mapquest.com/us/virginia/officemax-2884955",
+      "displayed_link": "www.mapquest.com › virginia › officemax-2884955",
+      "snippet": "Find Related Places ... Office Supplies Wholesale ... view other nearby hotels ... The guy working at the printing center- nametag is Scott had me fill a form that ...",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LwZB-N84HGIJ:https://www.mapquest.com/us/virginia/officemax-2884955+&cd=8&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Chesapeake Office Supply 1429 Crossways Blvd ... - MapQuest",
+      "link": "https://www.mapquest.com/us/virginia/chesapeake-office-supply-275272888",
+      "displayed_link": "www.mapquest.com › virginia › chesapeake-office-supply-275272888",
+      "snippet": "Opening Hours. Mon: 8:30am-5pm; Tue: 8:30am-5pm; Wed: 8:30am-5pm; Thu: 8:30am-5pm; Fri: 8:30am-5pm. Find Related Places. Business Services NEC.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uNzWwKg4lN0J:https://www.mapquest.com/us/virginia/chesapeake-office-supply-275272888+&cd=9&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Office Supplies | Chesapeake, VA | Mail Werx",
+      "link": "https://www.mailwerx.net/Home-Business/Office-Supplies",
+      "displayed_link": "www.mailwerx.net › Home-Business › Office-Supplies",
+      "snippet": "Mail Werx offers a variety of essential office & business supplies in Chesapeake, VA, 1245 Cedar Rd,",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PDkHCBxnkqIJ:https://www.mailwerx.net/Home-Business/Office-Supplies+&cd=10&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "Staples® Official Online Store",
+      "link": "https://www.staples.com/",
+      "displayed_link": "www.staples.com",
+      "snippet": "Shop Staples for business essentials, printers, ink, computers, office furniture, printing services, promotional products and more. Solutions for Worklife.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Office Supplies",
+            "link": "https://www.staples.com/Office-Supplies/cat_SC1"
+          },
+          {
+            "title": "Printing & Marketing Services",
+            "link": "https://www.staples.com/services/printing/"
+          },
+          {
+            "title": "Small Office & Home Office ...",
+            "link": "https://www.staples.com/Small-Office-Home-Office-Furniture-Collections/cat_CL208484"
+          },
+          {
+            "title": "Pens",
+            "link": "https://www.staples.com/Pens/cat_CL110001"
+          }
+        ]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CNR1OwZWsigJ:https://www.staples.com/+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Top 10 Best Office Supplies in Chesapeake, VA - Last ...",
+      "link": "https://www.yelp.com/search?find_desc=Office+Supplies&find_loc=Chesapeake%2C+VA",
+      "displayed_link": "www.yelp.com › search › find_desc=Office+Supplies",
+      "snippet": "Reviews on Office Supplies in Chesapeake, VA - search by hours, location, and ... Etsy Shop owners need supplies too, and it's hard to step away from your…"
+    },
+    {
+      "position": 10,
+      "title": "Office Supplies - Walmart.com",
+      "link": "https://www.walmart.com/cp/office-supplies/1229749",
+      "displayed_link": "www.walmart.com › office-supplies",
+      "snippet": "Shop for Office supplies and products at Walmart.com. Shop for paper, ink, toner, printers, pens, staplers, and more. Save money. Live better.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Calendars and Planners",
+            "link": "https://www.walmart.com/browse/office-supplies/calendars-and-planners/1229749_8412191"
+          },
+          {
+            "title": "Paper",
+            "link": "https://www.walmart.com/browse/paper/1229749_6562796"
+          },
+          {
+            "title": "Whiteboards",
+            "link": "https://www.walmart.com/browse/office-supplies/whiteboards/1229749_1565348_4161504"
+          },
+          {
+            "title": "Paper Shredders",
+            "link": "https://www.walmart.com/browse/paper-shredders/1229749_2155104"
+          }
+        ]
+      }
+    }
+  ],
+  "related_search_boxes": [],
+  "related_searches": [
+    {
+      "query": "office depot near me",
+      "link": "https://www.google.com/search?q=office+depot+near+me&sa=X&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ1QIoAHoECBAQAQ"
+    },
+    {
+      "query": "staples near me",
+      "link": "https://www.google.com/search?q=staples+near+me&sa=X&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ1QIoAXoECBAQAg"
+    },
+    {
+      "query": "officemax near me",
+      "link": "https://www.google.com/search?q=officemax+near+me&sa=X&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ1QIoAnoECBAQAw"
+    },
+    {
+      "query": "office supplies near me",
+      "link": "https://www.google.com/search?q=office+supplies+near+me&sa=X&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ1QIoA3oECBAQBA"
+    },
+    {
+      "query": "office supply store near me",
+      "link": "https://www.google.com/search?q=office+supply+store+near+me&sa=X&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ1QIoBHoECBAQBQ"
+    },
+    {
+      "query": "office depot chesapeake",
+      "link": "https://www.google.com/search?q=office+depot+chesapeake&sa=X&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ1QIoBXoECBAQBg"
+    },
+    {
+      "query": "office depot furniture",
+      "link": "https://www.google.com/search?q=office+depot+furniture&sa=X&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ1QIoBnoECBAQBw"
+    },
+    {
+      "query": "officemax chesapeake square",
+      "link": "https://www.google.com/search?q=officemax+chesapeake+square&sa=X&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ1QIoB3oECBAQCA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=office+supply+places+near+me&ei=n4EnXu2NEKzEz7sP6rePiAU&start=10&sa=N&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ8NMDegQIEhBA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=office+supply+places+near+me&ei=n4EnXu2NEKzEz7sP6rePiAU&start=10&sa=N&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ8tMDegQIEhAu",
+      "3": "https://www.google.com/search?q=office+supply+places+near+me&ei=n4EnXu2NEKzEz7sP6rePiAU&start=20&sa=N&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ8tMDegQIEhAw",
+      "4": "https://www.google.com/search?q=office+supply+places+near+me&ei=n4EnXu2NEKzEz7sP6rePiAU&start=30&sa=N&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ8tMDegQIEhAy",
+      "5": "https://www.google.com/search?q=office+supply+places+near+me&ei=n4EnXu2NEKzEz7sP6rePiAU&start=40&sa=N&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ8tMDegQIEhA0",
+      "6": "https://www.google.com/search?q=office+supply+places+near+me&ei=n4EnXu2NEKzEz7sP6rePiAU&start=50&sa=N&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ8tMDegQIEhA2",
+      "7": "https://www.google.com/search?q=office+supply+places+near+me&ei=n4EnXu2NEKzEz7sP6rePiAU&start=60&sa=N&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ8tMDegQIEhA4",
+      "8": "https://www.google.com/search?q=office+supply+places+near+me&ei=n4EnXu2NEKzEz7sP6rePiAU&start=70&sa=N&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ8tMDegQIEhA6",
+      "9": "https://www.google.com/search?q=office+supply+places+near+me&ei=n4EnXu2NEKzEz7sP6rePiAU&start=80&sa=N&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ8tMDegQIEhA8",
+      "10": "https://www.google.com/search?q=office+supply+places+near+me&ei=n4EnXu2NEKzEz7sP6rePiAU&start=90&sa=N&ved=2ahUKEwit2YGN5ZXnAhUs4nMBHerbA1EQ8tMDegQIEhA-"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+places+near+me&start=10&token=1880da9541200b8a",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+places+near+me&start=10&token=1880da9541200b8a",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+places+near+me&start=10&token=1880da9541200b8a",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+places+near+me&start=20&token=0f7ee2055a5abf23",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+places+near+me&start=30&token=d47e8ea1929c7c8b",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+places+near+me&start=40&token=f399fa6be4d8c784",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+places+near+me&start=50&token=b4f4fb3fd3cd1303",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+places+near+me&start=60&token=5b9eb1172bfb558f",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+places+near+me&start=70&token=ec0e5a2b55638522",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+places+near+me&start=80&token=64de78e002c2146a",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=office+supply+places+near+me&start=90&token=57071d079df03fc5"
+    }
+  }
+}
